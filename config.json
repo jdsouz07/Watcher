@@ -1874,13 +1874,6 @@
       "lane": "startup"
     },
     {
-      "name": "Startup: Plaid",
-      "ats": "lever",
-      "token": "plaid",
-      "verified": true,
-      "lane": "startup"
-    },
-    {
       "name": "Quant/Tech: Cohere",
       "ats": "ashby",
       "token": "cohere",
@@ -2061,12 +2054,6 @@
       "name": "Quant: tastytrade (IG US)",
       "ats": "greenhouse",
       "token": "tastytrade",
-      "verified": true
-    },
-    {
-      "name": "Quant: TransFICC",
-      "ats": "greenhouse",
-      "token": "transficc",
       "verified": true
     },
     {
@@ -2277,12 +2264,6 @@
       "name": "Quant: Amperon",
       "ats": "greenhouse",
       "token": "amperon",
-      "verified": true
-    },
-    {
-      "name": "Quant: Ascend Analytics",
-      "ats": "greenhouse",
-      "token": "ascendanalytics",
       "verified": true
     },
     {
@@ -5057,132 +5038,74 @@
       ]
     },
     {
-      "name": "Cyber: CrowdStrike",
-      "ats": "greenhouse",
-      "token": "crowdstrike",
-      "lane": "cyber",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
-    },
-    {
       "name": "Cyber: Cloudflare",
       "ats": "greenhouse",
       "token": "cloudflare",
       "lane": "cyber",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Cyber: Datadog",
       "ats": "greenhouse",
       "token": "datadog",
       "lane": "cyber",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
-    },
-    {
-      "name": "Cyber: Snyk",
-      "ats": "greenhouse",
-      "token": "snyk",
-      "lane": "cyber",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
-    },
-    {
-      "name": "Cyber: Wiz",
-      "ats": "greenhouse",
-      "token": "wiz",
-      "lane": "cyber",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
-    },
-    {
-      "name": "Cyber: HackerOne",
-      "ats": "greenhouse",
-      "token": "hackerone",
-      "lane": "cyber",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
-    },
-    {
-      "name": "Cyber: Trail of Bits",
-      "ats": "lever",
-      "token": "trailofbits",
-      "lane": "cyber",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
-    },
-    {
-      "name": "Cyber: Chainguard",
-      "ats": "ashby",
-      "token": "chainguard",
-      "lane": "cyber",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Figma",
       "ats": "greenhouse",
       "token": "figma",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Discord",
       "ats": "greenhouse",
       "token": "discord",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Stripe",
       "ats": "greenhouse",
       "token": "stripe",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Mercury",
       "ats": "ashby",
       "token": "mercury",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Linear",
       "ats": "ashby",
       "token": "linear",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Vanta",
       "ats": "ashby",
       "token": "vanta",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Replit",
       "ats": "ashby",
       "token": "replit",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Perplexity",
       "ats": "ashby",
       "token": "perplexity",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-07, never confirmed against the live board -- run verify_sources.py and delete if it 404s"
+      "verified": true
     }
   ]
 }
