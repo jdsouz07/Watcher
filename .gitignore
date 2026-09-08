@@ -1,0 +1,11 @@
+.DS_Store
+__pycache__/
+# private career files -- never publish (public repo)
+applications.md
+career-history.md
+writing-style.md
+voice-samples.md
+resumes/
+TOMORROW.md
+WITHDRAWALS.md
+WATCHLIST.md

@@ -1,0 +1,87 @@
+name: Watcher (hourly role sweep + Wed/Sun opportunities digest)
+
+on:
+  schedule:
+    # Wednesday + Sunday 14:00 UTC (~10am ET): opportunities digest --
+    # competitions, travel-paid events, hackathons, fellowships. Twice a week
+    # because some of these have rolling acceptances you have to pounce on.
+    - cron: "0 14 * * 0,3"
+    # Hourly role sweep. Full Summer-2027 cycle across all five lanes
+    # (AI/ML, cyber, quant, startups, general SWE). The `top_firms_only` /
+    # `fall_2027_only` narrowing in config.json -> filters is OFF.
+    - cron: "0 * * * *"
+  workflow_dispatch:      # "Run workflow" button
+    inputs:
+      mode:
+        description: "What to run"
+        required: false
+        default: internships
+        type: choice
+        options:
+          - internships   # full role sweep
+          - digest        # competitions/programs digest
+          - verify        # probe every ATS token, change nothing
+
+permissions:
+  contents: write          # allows committing the updated seen_jobs.json
+
+concurrency:
+  group: watcher
+  cancel-in-progress: false
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Verify sources
+        if: github.event.inputs.mode == 'verify'
+        run: python verify_sources.py || true
+
+      - name: Run watcher
+        if: github.event.inputs.mode != 'verify'
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          EMAIL_TO: ${{ secrets.EMAIL_TO }}
+          USAJOBS_API_KEY: ${{ secrets.USAJOBS_API_KEY }}
+          USAJOBS_EMAIL: ${{ secrets.USAJOBS_EMAIL }}
+          # Digest on the Wed/Sun cron, or when "digest" is chosen manually.
+          DIGEST_MODE: ${{ (github.event.schedule == '0 14 * * 0,3' || github.event.inputs.mode == 'digest') && '1' || '0' }}
+        run: python watcher.py
+
+      - name: Save state
+        if: github.event.inputs.mode != 'verify'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add seen_jobs.json
+          [ -f OPEN_ROLES.md ] && git add OPEN_ROLES.md || true
+          [ -f TOP_PICKS.md ] && git add TOP_PICKS.md || true
+          if git diff --quiet --cached; then
+            echo "No state changes to push."
+            exit 0
+          fi
+          git commit -m "Update seen jobs [skip ci]"
+          for i in 1 2 3; do
+            if git pull --rebase --autostash origin main && git push; then
+              echo "State pushed."
+              exit 0
+            fi
+            echo "Push attempt $i failed (remote moved); retrying..."
+            sleep 5
+          done
+          echo "Could not push state this run; it will retry next run."
