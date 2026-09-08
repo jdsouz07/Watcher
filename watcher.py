@@ -726,9 +726,17 @@ def is_relevant(job, filters):
     #         cycle, drop -- if it names nothing, keep.
     years = [str(y) for y in filters.get("years", [])]
     title_years = set(re.findall(r"\b(20\d{2})\b", title))
+    # Many boards (Amazon especially) put the cycle in the URL slug but not the
+    # title: ".../robotics-sde-intern-co-op-2026" with title "Robotics - SDE
+    # Intern/Co-op". Treat a year in the slug like a year in the title. Word
+    # boundaries keep 7-8 digit posting IDs from matching.
+    url_years = set(re.findall(r"\b(20\d{2})\b", (job.get("url") or "").lower()))
     if years and title_years:
         if not (title_years & set(years)):
             return _drop("wrong-year-in-title", title)
+    elif years and url_years:
+        if not (url_years & set(years)):
+            return _drop("wrong-year-in-url", title)
     elif years:
         hay = " ".join([
             (job.get("year_text") or ""),
