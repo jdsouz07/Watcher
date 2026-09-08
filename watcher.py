@@ -717,6 +717,19 @@ def is_relevant(job, filters):
         if bad.lower() in title:
             return _drop(f"excluded:{bad}", title)
 
+    # 3b) GRAD-ONLY CHECK (2026-09-08). Titles rarely say "PhD" -- the body
+    #     does ("currently enrolled in a PhD program"). If the description names
+    #     a graduate-only requirement and never mentions undergrads/bachelor's,
+    #     drop it. Postings that list "Bachelor's, Master's or PhD" survive
+    #     because the undergrad phrase rescues them. Sources with no description
+    #     (Workday, trackers) are untouched -- never drop on missing data.
+    content = (job.get("content") or "").lower()
+    grad = [g.lower() for g in filters.get("grad_only_phrases", [])]
+    ug = [u.lower() for u in filters.get("undergrad_ok_phrases", [])]
+    if content and grad and any(g in content for g in grad) \
+            and not any(u in content for u in ug):
+        return _drop("grad-only", title)
+
     # 4) CYCLE CHECK.
     #    Recruiting runs ~a year ahead, so a LIVE intern posting that states no year
     #    is almost always the current (2027) cycle -- most companies never put the
