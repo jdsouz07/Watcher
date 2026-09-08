@@ -1,13 +1,12 @@
 # Top picks (auto-generated)
 
-_1218 role(s) worth a look, out of 1975 tracked items. Rebuilt every sweep: 2026-09-08 19:10 UTC._
+_1209 role(s) worth a look, out of 1956 tracked items. Rebuilt every sweep: 2026-09-08 21:51 UTC._
 
 Grouped by lane in the order set by `filters.lane_order` in config.json: ai → cyber → quant → startup → swe → other. Within a lane, preferred locations first, then sweet-spot firms before elite ones.
 
 
 ## 🧠 AI / ML
 
-- [Amazon — Robotics - Software Development Engineer Intern/Co-op](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026?no_int_redir=1) — Sunnyvale, CA, North Reading, MA, Westboro, MA, Nashville, TN, Austin, TX, Arlington, VA, Bellevue, WA, Seattle, WA
 - [American Express — AI Engineer Intern, Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000) — Atlanta, GA
 - [American Express — AI Engineer Intern, Enterprise Technology Services](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991) — New York, NY
 - [ancestry — Applied AI Science Co-op - Embedding models and Personalization](https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Remote/Applied-AI-Science-Co-op---Embedding-models-and-Personalization_R003442) — Remote
@@ -43,7 +42,7 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Microsoft — Software Engineer Intern, AI/ML & LLM](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929) — Redmond, WA
 - [Microsoft — Software Engineer: AI/ML & LLM Intern Opportunities for University Students - Redmond](https://apply.careers.microsoft.com/careers/job/1970393556922929) — Washington, DC
 - [Millennium — Applied AI Engineer Intern](https://career.mlp.com/careers/job/755957778848) — Miami, FL
-- [modal — ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) — New York
+- [Modal — ML Research Intern](https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a) — New York, NY, San Francisco, CA
 - [monolithicpower — AI Developer Intern](https://monolithicpower.wd12.myworkdayjobs.com/en-US/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756) — San Jose - California
 - [morsecorpcoop — Data Scientist Co-op ](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967776003) 🇺🇸 — Cambridge, MA, Arlington, VA, Seattle, WA
 - [morsecorpcoop — Data Scientist Graduate Co-op ](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967886003) 🇺🇸 — Cambridge, MA, Arlington, VA
@@ -56,10 +55,9 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [perplexity — Internship - Search Machine Learning Engineer](https://jobs.ashbyhq.com/perplexity/71168628-1998-47d3-87a9-be7bc56a430d) — London
 - [Quant: Quantbot Technologies — Machine Learning Research Engineer Internship - 2027 (New York) ](https://www.quantbot.com/careers/4340833009?gh_jid=4340833009) — New York
 - [rivianvw.tech — Data Engineering Intern - AI & Analytics (January - August 2027)](https://jobs.ashbyhq.com/rivianvw.tech/32f6b882-414f-4bac-959c-83691d120322) 🇺🇸 — Palo Alto, California
-- [sevenresearch — Deep Learning Researcher - Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895007008) — New York
 - [sonyglobal — Research Intern on Generative and Protective AI for Content Creation](https://sonyglobal.wd1.myworkdayjobs.com/en-US/sonyglobalcareers/job/Remote---New-York/Research-Intern-on-Generative-and-Protective-AI-for-Content-Creation_JR-119335) — Remote - New York
 - [Terranox AI — Summer Intern - AI/ML Engineering](https://www.workatastartup.com/jobs/94631) 🇺🇸 — San Francisco, CA
-- [thenuclearcompany — Summer 2027 AI Applied Research Internship](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) — Washington, DC
+- [The Nuclear Company — AI Applied Research Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) — Washington, DC
 - [thenuclearcompany — Summer 2027 AI/ML Engineering Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008) — Washington, DC
 - [thenuclearcompany — Summer 2027 Data Science Intern](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) — Washington, DC
 - [TikTok — LLM Post-training Engineer Intern, Research & Product](https://lifeattiktok.com/search/7631599293708126517) — San Jose, CA
@@ -67,9 +65,7 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [TikTok — Software Engineer Intern - TikTok AI Search & Visual Search Infra Team - 2027 Summer](https://lifeattiktok.com/search/7676276048527214901) — San Jose, CA
 - [Trata — Research Scientist Intern ⏳](https://www.workatastartup.com/jobs/94620) — San Francisco, CA / New York, NY
 - [workiva — Summer 2027 Intern - Machine Learning Engineering](https://workiva.wd503.myworkdayjobs.com/en-US/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1) — USA - Remote
-- [botauto — Intern, Deep Learning Engineer](https://job-boards.greenhouse.io/botauto/jobs/5289440008) — Houston, TX
-- [persona.ai — Autonomy Software Engineering Internship, World Modeling](https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08) — Houston, TX
-- [persona.ai — Machine Learning Internship, Manipulation](https://jobs.ashbyhq.com/persona.ai/ed9a7425-9798-471e-b46a-fefd59570630) — Houston, TX
+- [Persona AI — Autonomy Software Engineering Internship - World Modeling](https://jobs.ashbyhq.com/persona.ai/fd514a3f-4138-48d5-9862-05ff74a4ca08) — Houston, TX
 - [acds — AI Operations Intern-Caddell Reynolds](https://jobs.lever.co/acds/01fdf41b-a835-4e00-8d01-0275677a8f08) — Fort Smith, AR
 - [acds — Align AI Software Development Intern](https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787) — Bentonville, AR
 - [adobe — 2027 Intern - Machine Learning Engineer](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-Intern---Machine-Learning-Engineer_R171519) — 6 Locations
@@ -97,6 +93,7 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [bah — University, 2027 Summer Games Data Scientist Intern - Colorado Springs, CO](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Data-Scientist-Intern_R0248132) — Colorado Springs, CO
 - [bah — University, 2027 Summer Games Data Scientist Intern - Rome, NY](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143) — Rome, NY
 - [bmo — AI/Platform Analyst, 8 months (Co-op/Internship) - 8 months](https://bmo.wd3.myworkdayjobs.com/en-US/Privileged/job/Toronto-ON-CAN/AI-Platform-Analyst--8-months--Co-op-Internship----8-months_R260026129-1) — Toronto, ON, CAN
+- [boeing — Boeing Engineering & Technology Innovation Graduate Researcher Program, Software Engineering Artificial Intelligence Intern](https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687) — USA - Tukwila, WA
 - [bree — Machine Learning Engineering, Intern](https://jobs.ashbyhq.com/bree/5e79b2fd-164c-4e72-91ef-1b8fd1c5518a) — Toronto
 - [cgg — AI/ML Ops and Software Engineering Intern](https://cgg.wd103.myworkdayjobs.com/en-US/viridiencareers/job/Singapore-Singapore/Software-Engineering-Intern-1_JR101323-2) — Singapore, Singapore
 - [cnoinc — Artificial Intelligence (AI) IT Intern 2027 - REMOTE](https://cnoinc.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389) — Carmel, IN
@@ -111,7 +108,6 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [gilead — Intern - Development - CDS AI Research Center](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Development---CDS-AI-Research-Center_R0054721) — United States - California - Foster City
 - [gilead — Intern - Research - Data Sciences](https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Data-Sciences_R0054572) — United States - California - Foster City
 - [globalhr — Artificial Intelligence / Machine Learning Methods Intern (Summer 2027) (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Artificial-Intelligence---Machine-Learning-Methods-Intern--Summer-2027---Onsite-_01869917) — US-CT-EAST HARTFORD-ETC ~ 400 Main St ~ BLDG ETC
-- [harman — Intern, AI Research](https://harman.wd3.myworkdayjobs.com/en-US/harman/job/Suzhou---Jiangsu-China/Intern--AI-Research_R-55212-2026) — Suzhou - Jiangsu, China
 - [Hiebing — AI Agent Developer Intern](http://hiebing.applytojob.com/apply/GYiQqWe8cL/AI-Agent-Developer-Intern) — Madison, WI
 - [hitachi — AI-Driven Full Stack Intern](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Ho-Chi-Minh-City-Ho-Chi-Minh-Vietnam/AI-Driven-Full-Stack-Intern_R0142916) — Ho Chi Minh City, Ho Chi Minh, Vietnam
 - [hitachi — UXUI / AI Transformation Intern](https://hitachi.wd1.myworkdayjobs.com/en-US/hitachi/job/Singapore-Central-Singapore-Singapore/UXUI---AI-Transformation-Intern_R1010137-1) — Singapore, Central Singapore, Singapore
@@ -147,9 +143,7 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [philips — AI Imaging Data Scientist Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Shanghai/AI-Data-Scientist-Intern_589226) — Shanghai
 - [philips — Intern - AI Agent Development](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Beijing/intern_581864) — Beijing
 - [philips — Product Innovation & AI-Powered Video Creation Internship – Philips Avent Experience Innovation](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Product-Innovation---AI-Powered-Video-Creation-Internship---Philips-Avent-Experience-Innovation_586187) — Eindhoven
-- [pony-dot-ai — Research Intern - Deep Learning](https://apply.workable.com/j/4C1F53EF5D) — Fremont, California, United States
 - [premierinc — Data Science Intern](https://premierinc.wd1.myworkdayjobs.com/en-US/external_professional/job/Charlotte-NC/Data-Science-Intern_R0008481) — Charlotte, NC
-- [Quant: Vatic Labs — AI Research Internship (UAE)](https://job-boards.greenhouse.io/vaticlabs/jobs/7268318) — Abu Dhabi
 - [razer — AI Data Engineer Intern](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/AI-Data-Engineer-Intern_JR2026007475-1) — Singapore
 - [razer — Applied AI Intern](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Applied-AI-Intern_JR2026007785) — Singapore
 - [razer — Applied AI Intern (Voice)](https://razer.wd3.myworkdayjobs.com/en-US/careers/job/Singapore/Applied-AI-Intern--Voice-_JR2026007784) — Singapore
@@ -164,6 +158,7 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [reonic — Operations Management Intern – Germany (AI x Greentech) (m/f/d)](https://jobs.ashbyhq.com/reonic/78785d1c-b5ad-4b92-a129-a63ff883101c) — Berlin
 - [reonic — Software Engineering Intern (AI x Greentech) (m/f/d)](https://jobs.ashbyhq.com/reonic/dd26ab09-62de-4d27-9e11-64eccb2e33df) — Berlin
 - [reonic — Venture Development Intern - New Products (AI x Greentech) (m/f/d) ](https://jobs.ashbyhq.com/reonic/5b1d3176-9919-4e48-9712-d0a6cb642cc6) — Berlin
+- [sezzle — AI Engineering Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7906563003) — Peru
 - [shyftlabs — AI Engineer Intern](https://jobs.lever.co/shyftlabs/4f389ea7-9b98-4ed0-99c2-b25ea8cc2dcd) — Toronto, Ontario
 - [SimIS — Aerospace/Aviation Artificial Intelligence Developer - Intern](http://simisinc.applytojob.com/apply/U1yOSyvkvH/AerospaceAviation-Artificial-Intelligence-Developer-Intern) — Suffolk, VA
 - [skydio — Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) — San Mateo, California, United States
@@ -179,13 +174,15 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [towerresearchcapital — Intern - AI/ML](https://www.tower-research.com/open-positions/?gh_jid=8143756) — gurgaon
 - [trendmicro — Applied AI Engineer Internship](https://trendmicro.wd3.myworkdayjobs.com/en-US/external/job/Cork/Applied-AI-Engineer-Internship_R0010091) — Cork
 - [Western & Southern Financial Group — Artificial Intelligence Developer Intern - Full Year 2027](https://careers-westernsouthern.icims.com/jobs/25211/artificial-intelligence-developer-intern-%28full-year-2027%29/job) — Cincinnati, OH
-- [yotta — Research Engineer Intern - AI Systems](https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3) — United States
 - [RSS: Google News – datathon — AI Datathon Aims to Aid in Browntail Moth Invasion - Colby News](https://news.google.com/rss/articles/CBMihwFBVV95cUxPbno2dFRHS0ZxMGNQLWRLOGY5QUJpbXBYcTVzcmN2bUVkTWxxSTlkNTdHdFFkSHhPOWF4cHpCVXRweXhKR25yUmVtdm9lWjhvVU4yenFYRzFrQmFLUG0xT3NibEdzVnpfbHNHenJ0cTVhYk1IZ3pCVEdqQm83VmFaVnZvOW9XNG8?oc=5)
 - [RSS: Google News – datathon — ASPIRE, Abu Dhabi Youth Council roll out inaugural AI Datathon STEM Competition - وكالة وام](https://news.google.com/rss/articles/CBMikAFBVV95cUxNQVNkT2VOWXJXLTVlMHpEd0o0TWNOd3RTdWFvUHo1Ri1IRWYwdUY1MVpBQzBKTmZTWV9NWlBzcXJoaW5FY2VmcFphVWszaXdYWmN4R2dIMndndmd3NU5STzc5c2FNZy1VWU9vTW9YMlRfTVdnSVVnc0JNdm9sbjZlYnhIaWh0WEtQWUxJZnJIVHE?oc=5)
+- [RSS: Google News – datathon — Citadel Datathon providing mainline into hottest new data science talent - ibtimes.co.uk](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdlVUNndabmpreU9CWmJWdWtQZDNyMTZlRXNVa2lHRWg1TEc3eEtiVFQwSHJ0U08ydnlHUnQyVjlxQllsRW1IQzREWXFlT1luQkREeDlzaG0yMzQzci1Ib3lMZG41SzFacFBTNElhV3lGMmJxd25FZG1uVmVOODdWc09ZWW1BN1V2c0VRT250MTNWS1ZTcVNCcno1eEdqcjJHSS1iUGZLaUE5dw?oc=5)
 - [RSS: Google News – datathon — Data & AI Literacy Datathon - Friedrich-Schiller-Universität Jena](https://news.google.com/rss/articles/CBMia0FVX3lxTE5LbUx2cDExX2hiVEo0N05SdnV0OTQ5a2dKODNLWUtBMjZiRXhyZW9oWDdOYnhERWZDMHlQTlF6TzZZVnBwdi1DTldQczdlUm1HcTQ3bGVmazVOVnZwWEp5bk40dUdXUUhZX1JB?oc=5)
 - [RSS: Google News – datathon — DigiFAB and FoNS Data Science Datathon Competition: winners announced! - Imperial College London](https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFQxWGlIVUxnQlE1MGtVaVFlSnlOaXdEVHZELVhVWUxXSkt1WTFPdXdOaHNMUl9EdV9Hbm5INnlJM2tFX3lYS1diRW0zSmFOYlRFOXdhcFpPNVYyMlVDZUFqdkt5aTV1TTdWTEVNNTlQaWhXSWV5NXBnOWQ4cktUWS1vOVB6SVo5ZTBod1JlMA?oc=5)
+- [RSS: Google News – datathon — Harvard team wins Boston Regional Datathon - Harvard School of Engineering and Applied Sciences](https://news.google.com/rss/articles/CBMifEFVX3lxTE5MNUNqVU9qaFJxa3ROZ3RtWjlCM0JCWW9sLVN0aHpMNXh1aTZtRHFKckh1RF91b1dpckdwMzVOcXJaaEx5TjMtUHRSQW5FRHpGblVtWGpJYVBGMHhXQ2ZOelFHR21QaEJiOTg3cmZsdkE2LW01S3VXQjlkanc?oc=5)
+- [RSS: Google News – datathon — Harvard team wins Boston Regional Datathon for second straight year - Harvard School of Engineering and Applied Sciences](https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXJpYW1aQW1yYUlMTDUzQjJXTVZKY3VuUzN5Z0U1a0Z4ZXNuRDYwbkdkVVk5cjJETm1PWm5taXp2c1cxd3JfTkE3LUdIV05IZmFDTlRtZ045Qkt0aE0tcGFKT1ZjXzRyZ0dxSnhXS1lyRnN2YndDZXFtMElIVlVMa1Flc2ptRWo0dWZzc2YtTWx2eEJTd09oYg?oc=5)
 - [RSS: Google News – datathon — UTSA School of Data Science hosts second annual Rowdy Datathon - UT San Antonio Today](https://news.google.com/rss/articles/CBMimAFBVV95cUxQVkNLSHFWNGtpQmlWcEdtTzNEc0VnU3ByN1o5NXdWYXc2cTNHRXpwekZvdEswQzhxa1lEcURVb2FEbHBUM2FmaHlwdjVFOTh0VW12TUloNTRWa1plaUx1akJDUkkzUzZSVk0yUy05S1U5Z3M1V3E0ZVVPcFFwZjllOTRQVDUxNUVqbXlFRXVWYXBvUU1ibjZlNQ?oc=5)
-- [RSS: Google News – hackathon travel — Registration For The 2024 AFROTECH™ AI Hackathon Is Now Open - afrotech.com](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aXzc2U3ZoRXdvTTQ5U1FtNUYyQ3hPdjAxSW1fRGhFakw0Wk4zOEVPOU9fOUlOZlM1NmlXWEE4Q1lNTm9sWWNyZ2ZpTzR5dmlQQ3l1Sw?oc=5)
+- [RSS: Google News – hackathon travel — Registration For The 2024 AFROTECH™ AI Hackathon Is Now Open - AfroTech](https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aXzc2U3ZoRXdvTTQ5U1FtNUYyQ3hPdjAxSW1fRGhFakw0Wk4zOEVPOU9fOUlOZlM1NmlXWEE4Q1lNTm9sWWNyZ2ZpTzR5dmlQQ3l1Sw?oc=5)
 
 ## 🔒 Cybersecurity
 
@@ -207,6 +204,8 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [ntrs — Technology Intern – Information Security](https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Technology-Intern---Information-Security_R160869-1) — Chicago, IL
 - [Palantir — Information Security Engineer, Internship](https://jobs.lever.co/palantir/ef725594-42dd-4f0d-ba8e-df8179dbc6cb) — New York, NY
 - [Quant: Qube RT — 2027 Internship - Security Engineering](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002) — London, Paris
+- [sezzle — Security Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7694916003) — Colombia, Remote
+- [tencent — Cyber Security Intern](https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/United-Kingdom-London/Cyber-Security-Intern_R108064) — United Kingdom-London
 - [TikTok — Backend Software Engineer Intern - TikTok-Privacy and Security - 2027 Summer](https://lifeattiktok.com/search/7667935739300317493) — San Jose, CA
 - [TikTok — General Hire Software Engineer Intern - Trust and Safety-Engineering - 2027 Summer](https://lifeattiktok.com/search/7662700594251958581) — San Jose, CA
 - [TikTok — General Hire Software Engineer Intern - Trust and Safety-Engineering - 2027 Summer](https://lifeattiktok.com/search/7662684280234232117) — Seattle, WA
@@ -214,6 +213,7 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [copart — Vulnerability Management Engineering Intern ](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Vulnerability-Management-Engineering-Intern-_JR109639) — Dallas, TX - Headquarters
 - [abb — Internship - OT Cybersecurity](https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/Genova-Genova-Italy/Internship---Cybersecurity-for-OT-Systems_JR00042894) — Genova, Genova, Italy
 - [American Express — Cybersecurity Intern](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462) — Phoenix, AZ
+- [aoins — IT Security Engineer Internship - Summer 2027](https://aoins.wd5.myworkdayjobs.com/en-US/autoowners/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477) — Lansing, MI
 - [bah — University - 2027 Summer Games Cyber Security Intern - Annapolis Junction, MD](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Cyber-Security-Intern---Annapolis-Junction--MD_R0248414) — Annapolis Junction, MD
 - [bah — University - 2027 Summer Games Cyber Security Intern - Charleston, SC](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136) — Charleston, SC
 - [bah — University - 2027 Summer Games Cyber Security Intern - Ft. Walton Beach, FL](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Cyber-Security-Intern---Ft-Walton-Beach--FL_R0248416) — Fort Walton Beach, FL
@@ -228,8 +228,8 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [cloudsek — Security Consultant Intern](https://job-boards.greenhouse.io/cloudsek/jobs/6115382004) — Bengaluru, Karnataka, India
 - [conagrabrands — Cybersecurity Internship - Summer 2027](https://conagrabrands.wd1.myworkdayjobs.com/en-US/careers_us/job/Omaha-Nebraska/Cybersecurity-Internship---Summer-2027_Req-039965) — Omaha, Nebraska
 - [Cyber: Datadog — Applied Science Intern](https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440) — Paris, France
-- [Cyber: Datadog — Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) — Madrid, Spain
 - [Cyber: Datadog — Software Engineering Intern](https://careers.datadoghq.com/detail/8114186/?gh_jid=8114186) — Paris, France
+- [Cyber: Datadog — Software Engineering Intern](https://careers.datadoghq.com/detail/8114161/?gh_jid=8114161) — Madrid, Spain
 - [dickssportinggoods — Cybersecurity - Summer 2027 Corporate Internship](https://dickssportinggoods.wd1.myworkdayjobs.com/en-US/dsg/job/Customer-Support-Center/Cybersecurity---Summer-2027-Corporate-Internship_202608793-1) — Customer Support Center
 - [fticonsulting — 2027 Intern, Forensic & Litigation Consulting, Cyber](https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareers/job/Paris-France/XMLNAME-2027-Intern--Forensic---Litigation-Consulting--Cyber_JR260757) — Paris, France
 - [gevernova — Working Student / Internship (f/m/d) – OT Cybersecurity & Vulnerability Management](https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Berlin/Working-Student---Internship--f-m-d----OT-Cybersecurity---Vulnerability-Management_R5052047-1) — Berlin
@@ -250,6 +250,9 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [philips — AI & Cyber Threat Intelligence Intern](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Best/AI---Cyber-Threat-Intelligence-Intern_587111) — Best
 - [Quant: Qube RT — 2027 - Internship, Security Engineer ](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) — Hong Kong
 - [rockwellautomation — Intern, Cyber Professional Services (LCS)](https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2) — Mayfield Heights, Ohio, United States
+- [rsm — Cyber Compliance Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Des-Moines/Cyber-Compliance-Intern---Summer-2027_JR117293) — 2 Locations
+- [rsm — Cyber Testing Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Des-Moines/Cyber-Testing-Intern---Summer-2027_JR117183) — Des Moines
+- [sezzle — Security Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906517003) — Peru
 - [snc — Systems Security Engineering Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Hagerstown-MD/Systems-Security-Engineering-Intern--Summer-2027-_R0030783) — Hagerstown, MD
 - [snowflake — Software Engineer Intern - Warsaw Security ](https://jobs.ashbyhq.com/snowflake/fc1923c1-b151-4458-a792-40d58331a5be) — PL-Warsaw-Lixa C
 - [super.com — Software Engineering Intern - Security](https://jobs.ashbyhq.com/super.com/533f2314-39b0-48c6-a6c2-226242a7d608) — Canada
@@ -276,9 +279,9 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Akuna Capital — Software Engineer Intern, C# .NET Desktop](https://akunacapital.com/careers/job/8018886/?gh_jid=8018886) — Chicago, IL
 - [Akuna Capital — Software Engineer Intern, C++](https://akunacapital.com/careers/job/8018847/?gh_jid=8018847) 🇺🇸 — Chicago, IL
 - [Akuna Capital — Software Engineer Intern, Full Stack Web](https://akunacapital.com/careers/job/8018893/?gh_jid=8018893) 🇺🇸 — Chicago, IL
-- [Aquatic Capital — Quantitative Researcher, Intern (Summer 2027) ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago; London
+- [Aquatic Capital — Quantitative Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago, IL
 - [Aquatic Capital — Software Engineer Intern](https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002) — Chicago, IL
-- [Aquatic Capital — Software Engineer, Intern (Summer 2027) ](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) — Chicago
+- [Aquatic Capital — Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) — Chicago, IL
 - [Arrowstreet Capital — Quantitative Developer Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) — Boston, MA
 - [Arrowstreet Capital — Quantitative Developer Intern, Summer 2027](https://arrowstreetcapital.wd5.myworkdayjobs.com/en-US/Campus_Careers/job/Boston/Quantitative-Developer-Intern--Summer-2027_R1506) — Boston
 - [Arrowstreet Capital — Quantitative Researcher Intern](https://arrowstreetcapital.wd5.myworkdayjobs.com/Campus_Careers/job/Boston/Quantitative-Researcher-Intern--Summer-2027_R1505) — Boston, MA
@@ -303,8 +306,8 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [virtu — 2027 Internship - Quantitative Researcher (Undergrad)](https://job-boards.greenhouse.io/virtu/jobs/8142539002) — New York
 - [virtu — 2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/8624408002) — Austin, TX; Chicago; New York
 - [virtu — 2027 Internship - Quantitative Trading ](https://job-boards.greenhouse.io/virtu/jobs/8547254002) — Dublin, Ireland
-- [virtu — 2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) — Dublin, Ireland
 - [virtu — 2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8624410002) — Austin, TX; New York
+- [virtu — 2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) — Dublin, Ireland
 - [Walleye (Quantic) — Quantic – Quantitative Developer Intern (Summer 2027)](https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4679168006) — Boston, MA
 - [anthelioncap — Quant Developer / Quant Research Intern - 2026/2027](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) — New York City
 - [Blackedge Capital — Quantitative Developer Intern](https://job-boards.greenhouse.io/blackedgecapital/jobs/4703821005) — Chicago
@@ -334,7 +337,6 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Quant: Maven Securities — Trader Summer Internship Chicago 2027](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/8051937) — Chicago
 - [Quant: Quantbot Technologies — Data Trading Analyst Summer Internship - 2027 (London)](https://www.quantbot.com/careers/4299858009?gh_jid=4299858009) — London
 - [Quant: Quantbot Technologies — Data Trading Analyst Summer Internship - 2027 (New York)](https://www.quantbot.com/careers/4299767009?gh_jid=4299767009) — New York
-- [Quant: Quantbot Technologies — Quantitative Researcher Internship - 2027 (London)](https://www.quantbot.com/careers/4299863009?gh_jid=4299863009) — London
 - [Quant: Quantbot Technologies — Quantitative Researcher Internship - 2027 (New York)](https://www.quantbot.com/careers/4299496009?gh_jid=4299496009) — New York
 - [Quant: Qube RT — 2027 - Internship, Quantitative Research](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002) — Aarhus, Budapest, Dubai, Geneva, London, Paris, Zurich
 - [Quant: Qube RT — 2027 - Internship, Software Engineering and Quantitative Development](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8773084002) — London, Paris, Wrocław, Zurich
@@ -361,10 +363,10 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [DRW — Quantitative Trading Analyst Intern](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090) ⚡elite — Chicago, IL
 - [DRW — Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328) ⚡elite — Chicago, IL
 - [drweng — Platform Engineer Intern](https://job-boards.greenhouse.io/drweng/jobs/7997729) ⚡elite — Chicago
-- [drweng — Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) ⚡elite — Chicago, New York City
 - [drweng — Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7957756) ⚡elite — London
-- [drweng — Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) ⚡elite — Chicago, Illinois
+- [drweng — Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) ⚡elite — Chicago, New York City
 - [drweng — Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243) ⚡elite — London
+- [drweng — Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) ⚡elite — Chicago, Illinois
 - [drweng — Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) ⚡elite — Chicago
 - [drweng — Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) ⚡elite — London
 - [drweng — Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364) ⚡elite — Amsterdam
@@ -374,8 +376,8 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Hudson River Trading — Software Engineering Internship (C++ or Python) – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8052083) ⚡elite — Austin, TX, United States; Chicago, Illinois, United States; London, United Kingdom; New York, NY, United States; Singapore
 - [IMC — Quantitative Research Intern](https://www.imc.com/us/careers/jobs/4907399101) ⚡elite — Chicago, IL
 - [IMC — Software Engineer Intern](https://www.imc.com/us/careers/jobs/4823924101) ⚡elite — Chicago, IL
+- [IMC Trading — Machine Learning Research Intern (Summer 2027)](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) ⚡elite — Chicago, IL
 - [IMC Trading — Machine Learning Research Intern - Summer 2027 - Amsterdam](https://job-boards.eu.greenhouse.io/imc/jobs/4912874101) ⚡elite — Amsterdam, Netherlands
-- [IMC Trading — Machine Learning Research Intern - Summer 2027 - Chicago](https://job-boards.eu.greenhouse.io/imc/jobs/4907430101) ⚡elite — Chicago, United States
 - [IMC Trading — Quantitative Research Intern (BS/MS) - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4907399101) ⚡elite — Chicago, United States
 - [IMC Trading — Quantitative Trader Intern](https://job-boards.eu.greenhouse.io/imc/jobs/4936262101) ⚡elite — Amsterdam, Netherlands
 - [IMC Trading — Quantitative Trader Intern - Summer 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4823923101) ⚡elite — Chicago, United States
@@ -413,22 +415,18 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [pimco — 2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst (MFE), London](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804) ⚡elite — London, GBR
 - [pimco — 2027 Summer Intern - Technology Analyst, Software Engineering](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) ⚡elite — Austin, TX USA
 - [pimco — 2027 Summer Intern - Technology Analyst, Software Engineering, EMEA](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering--EMEA_R106800) ⚡elite — London, GBR
-- [point72 — Machine Learning Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7302611002?gh_jid=7302611002) ⚡elite — New York
 - [point72 — Quantitative Developer Intern](https://boards.greenhouse.io/point72/jobs/8721562002?gh_jid=8721562002) ⚡elite — New York
 - [Point72 — Quantitative Developer Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-developer-internship&jobCode=CSS-0012293) ⚡elite — New York, NY
-- [point72 — Quantitative Research Intern](https://boards.greenhouse.io/point72/jobs/7297667002?gh_jid=7297667002) ⚡elite — New York, Seattle
 - [point72 — Quantitative Research Intern (NLP)](https://boards.greenhouse.io/point72/jobs/8018862002?gh_jid=8018862002) ⚡elite — New York
 - [Point72 — Quantitative Research Intern (Summer 2027)](https://job-boards.greenhouse.io/point72/jobs/7297642002) ⚡elite — New York, NY
 - [point72 — Quantitative Researcher - Intern](https://boards.greenhouse.io/point72/jobs/7297657002?gh_jid=7297657002) ⚡elite — London, Paris, Hong Kong, Tokyo
-- [point72 — Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7586061002?gh_jid=7586061002) ⚡elite — New York
 - [Point72 — Quantitative Researcher Intern](https://careers.point72.com/CSJobDetail?jobName=summer-2027-quantitative-researcher-internship&jobCode=CSS-0012295) ⚡elite — New York, NY
 - [point72 — Quantitative Software Developer Intern](https://boards.greenhouse.io/point72/jobs/7297666002?gh_jid=7297666002) ⚡elite — New York, London, or Paris
-- [point72 — Summer 2027 Quantitative Research Internship](https://boards.greenhouse.io/point72/jobs/7297642002?gh_jid=7297642002) ⚡elite — New York
 - [Quant: Jump Trading — Campus AI Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052281) ⚡elite — Chicago; New York
 - [Quant: Jump Trading — Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) ⚡elite — Chicago; New York
 - [Quant: Jump Trading — Campus AI Research Engineer – Research Automation (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052351) ⚡elite — Chicago; New York
-- [Quant: Jump Trading — Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975008) ⚡elite — London
 - [Quant: Jump Trading — Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) ⚡elite — Chicago
+- [Quant: Jump Trading — Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975008) ⚡elite — London
 - [Quant: Jump Trading — Campus ML Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7977145) ⚡elite — London
 - [Quant: Jump Trading — Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8010307) ⚡elite — London; Amsterdam
 - [Quant: Jump Trading — Campus Quantitative Researcher (M1/M2 Intern)](https://www.jumptrading.com/hr/job?gh_jid=8059384) ⚡elite — London; Paris
@@ -437,7 +435,6 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Quant: Jump Trading — Campus Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975026) ⚡elite — London
 - [Quant: Jump Trading — Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8000323) ⚡elite — London; Amsterdam
 - [Quant: Jump Trading — Campus UI Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7974943) ⚡elite — London
-- [Quant: XTX Markets — AI Research Internship - XTY Labs](https://job-boards.greenhouse.io/xtxmarketstechnologies/jobs/6274458003) ⚡elite — New York
 - [radixuniversity — Quantitative Technologist (C++ Intern) ](https://job-boards.greenhouse.io/radixuniversity/jobs/8500265002) ⚡elite — Chicago
 - [Susquehanna — Quantitative Strategy Developer Intern (Summer 2027, June start)](https://careers.sig.com/jobs/10838) ⚡elite — Bala Cynwyd, PA
 - [Susquehanna — Trading System Engineering Intern](https://careers.sig.com/jobs/10837?lang=en-us&mode=apply&iis=LinkedIn&jr_id=69f3d11158b23a2329da8088) ⚡elite — Bala Cynwyd, PA
@@ -451,14 +448,10 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [scm — Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895) — Radnor, PA
 - [Citadel — Software Engineer - Intern - US](https://www.citadel.com/careers/details/software-engineer-intern-us/) ⚡elite — Houston, TX +2
 - [Flow Traders — Trading Intern ](https://job-boards.greenhouse.io/flowtraders/jobs/8102618) — Hong Kong
-- [Quant: WorldQuant — Data Science Intern](https://job-boards.greenhouse.io/worldquant/jobs/4069460006) 🇺🇸 — Beijing OR Shanghai
 - [Quant: WorldQuant — Quant Developer Intern ](https://job-boards.greenhouse.io/worldquant/jobs/4572988006) — Singapore
 - [Quant: WorldQuant — Quantitative Research Intern](https://job-boards.greenhouse.io/worldquant/jobs/4084570006) 🇺🇸 — Beijing OR Shanghai
-- [Quant: WorldQuant — Quantitative Research Intern (LLMs & AI Agents)](https://job-boards.greenhouse.io/worldquant/jobs/4434997006) 🇺🇸 — Hanoi or Ho Chi Minh City
-- [Quant: WorldQuant — Quantitative Research Internship 2027](https://job-boards.greenhouse.io/worldquant/jobs/4393652006) 🇺🇸 — Paris
 - [Quant: WorldQuant — Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4655484006) 🇺🇸 — Budapest
 - [Quant: WorldQuant — Software Engineer Intern](https://job-boards.greenhouse.io/worldquant/jobs/4652485006) 🇺🇸 — Hanoi
-- [schonfeld — Quantitative Research / Developer - Intern](https://job-boards.greenhouse.io/schonfeld/jobs/7185553) — Hong Kong, Hong Kong
 - [virtu — 2027 Internship - Quantitative Strategist ](https://job-boards.greenhouse.io/virtu/jobs/7617953002) — Singapore
 - [virtu — 2027 Internship - Quantitative Trading](https://job-boards.greenhouse.io/virtu/jobs/5208637002) — Singapore
 - [virtu — 2027 Internship – Software Engineer ](https://job-boards.greenhouse.io/virtu/jobs/5513756002) — Singapore
@@ -479,14 +472,12 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [towerresearchcapital — Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493) — Paris
 - [DRW — AI/ML Research Intern](https://www.drw.com/work-at-drw/listings/aiml-research-intern-3466679) ⚡elite — Montréal
 - [DRW — Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3466687) ⚡elite — Montréal
-- [drweng — AI/ML Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7991171) ⚡elite — Montreal
 - [drweng — Quantitative Developer Intern (Python)](https://job-boards.greenhouse.io/drweng/jobs/7981754) ⚡elite — Singapore
 - [drweng — Quantitative Research Intern ](https://job-boards.greenhouse.io/drweng/jobs/8014915) ⚡elite — Singapore
 - [drweng — Quantitative Trading Analyst Intern ](https://job-boards.greenhouse.io/drweng/jobs/8014919) ⚡elite — Singapore
 - [drweng — Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7991196) ⚡elite — Montreal
 - [drweng — Software Developer Intern (C++)](https://job-boards.greenhouse.io/drweng/jobs/8014910) ⚡elite — Singapore
 - [drweng — Software Engineer Intern (Data Engineering)](https://job-boards.greenhouse.io/drweng/jobs/8127242) ⚡elite — Singapore
-- [IMC Trading — Machine Learning Research Intern - Summer 2027 - Sydney](https://job-boards.eu.greenhouse.io/imc/jobs/4956547101) ⚡elite — Sydney,  Australia
 - [IMC Trading — Quantitative Research Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941208101) ⚡elite — Hong Kong, Hong Kong
 - [IMC Trading — Quantitative Trader Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941205101) ⚡elite — Hong Kong, Hong Kong
 - [IMC Trading — Software Engineer Intern 2027](https://job-boards.eu.greenhouse.io/imc/jobs/4941206101) ⚡elite — Hong Kong, Hong Kong
@@ -497,17 +488,15 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Optiver (US) — Quantitative Trading Internship (Summer 2027 - Shanghai)](https://www.optiver.com/join-us/jobs/8623923002/?gh_jid=8623923002) ⚡elite — Shanghai, China
 - [Optiver (US) — Quantitative Trading Internship (Taiwan) - 2027](https://www.optiver.com/join-us/jobs/8011956002/?gh_jid=8011956002) ⚡elite — Taipei, Taiwan
 - [pimco — 2027 Summer Intern – Trading Analyst, US](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Trading-Analyst--US_R106763) ⚡elite — Newport Beach, CA USA
-- [point72 — Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297611002?gh_jid=7297611002) ⚡elite — Hong Kong
-- [point72 — Cubist Quantitative Researcher Intern](https://boards.greenhouse.io/point72/jobs/7297598002?gh_jid=7297598002) ⚡elite — Singapore
 - [Quant: Jump Trading — Campus AI/ML Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027938) ⚡elite — Hong Kong; Shanghai; Singapore
 - [Quant: Jump Trading — Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027946) ⚡elite — Singapore
 - [Quant: Jump Trading — Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027860) ⚡elite — Shanghai
 - [Quant: Jump Trading — Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027923) ⚡elite — Shanghai
 - [Quant: Jump Trading — Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027955) ⚡elite — Singapore
-- [Quant: Jump Trading — Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027900) ⚡elite — Hong Kong; Shanghai
 - [Quant: Jump Trading — Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027939) ⚡elite — Singapore
-- [Quant: Jump Trading — Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027922) ⚡elite — Hong Kong; Shanghai
+- [Quant: Jump Trading — Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027900) ⚡elite — Hong Kong; Shanghai
 - [Quant: Jump Trading — Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027941) ⚡elite — Singapore
+- [Quant: Jump Trading — Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027922) ⚡elite — Hong Kong; Shanghai
 - [Quant: Jump Trading — Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027952) ⚡elite — Singapore
 - [RSS: Google News – quant competition — 2018 Best & Brightest: Chris Johnson, North Carolina (Kenan-Flagler) - Poets&Quants for Undergrads](https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmJ6ZXBzcUZBVm5zaG9NMG04NHNWTWhHUERBRHo2ZWluYVVfRjJwX2x0WFpFd2F3am5JcHp5YVVzSkZYRjhNOURDcEhSeWJQaEtzRzhKdTB2VUhKdkRlWnA1WEthSlZTV2tCb1UtWkhqYjJDbE9Ea3FQTk9WZGoxOW1xSUZFSWh0R3VvM3Z2X1VWeGMzc1RxS1hoZTJQcThueFFzd2t2UUpmWjhrWVhTTm5R?oc=5)
 - [RSS: Google News – quant competition — 2019 Best & Brightest: Tanisha Gupta, Elon University (Love) - Poets&Quants for Undergrads](https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTM5R3k3SGloSWhaeWtNdnpoNExuaWpVS21TVFpoZ0NHTkd2bk9JeVA1ZXFQOUh4cTNjUU01ZjlSSzdtUmg0c1M2MnZOS2JsTFVuTjVSSmExQ0J2N2c4a3B0WlhSLVdjV1RkN0ZPSjdoV0lLR3o5NktHQ0dyRzJ1eXBvNlVldlJBUnJFZVBhRk9wMV9tQ0FaWThLZWw0WWlwWFdOQ3djMA?oc=5)
@@ -516,13 +505,12 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [RSS: Google News – quant competition — Desautels BCom team places 1st in Quant at 2014 Rotman International Trading Competition - McGill University](https://news.google.com/rss/articles/CBMizAFBVV95cUxQQmEySFFYdUtPMGppeWxUQll4aGNNZEZndWNLd0NMTlRGeFRyOGpOb01td01qSVNUUVhvN0ZWRS1OOUp0U1ZLWEpxUi1DN3NsTndVaU1SMzI0VHF0R25VanlpcjNkZWtXUm5JWlZCTFJsc0U3V2JTc1laSm9TOUplM01tOFhELWJCd185Tlp5SjN5dHBtR2FISjNNbElDSUlSSHBWMU9nWXgzMDdjVklndllTS0M1ajFUSE82OTBWZWg0TGRyeUNSUWMwR0M?oc=5)
 - [RSS: Google News – quant competition — Entrepreneurship Ranking: Best Undergraduate and MBA Programs - Poets&Quants for Undergrads](https://news.google.com/rss/articles/CBMirwFBVV95cUxNNExhZlR2REJEUUI2UHp3UlYyVjl5enJhalV4djgxVHpKWnNRNVRFTlB3ZmpjSnJfM3JsczNBT3NBM0Y4TFNBR3hfbTBXdnZIelNfcXdqZnlkeW1KU2N1Q1ZHNXZQUTVRZjE1RWNJRVdJLVdTZmQxb21CY0Vmdko5RkNVZnVkU05RR1ZPeUNUUUlrMmdHU1NTT2E3RTVBUnhXTjV4SHF5Y05fRTZ6OFU0?oc=5)
 - [RSS: Google News – quant competition — How to get a hedge fund quant researcher job: 11 routes in - eFinancialCareers](https://news.google.com/rss/articles/CBMijwFBVV95cUxOTFJIdW1QdkhiWmpCdGtBOUU2MlREVmFmZWZ4WU1oRjFRZXFXREtZeHhmN3ZoVUFQQTdDVGNLcXBHQXUtdmcyLWZacWxOMjZVemJHX1U3Q1hUWUcwUFZ6ZldfMDFzOEhyNnd6NHZRTW9sYWZ1Sng5VmxzdTRTYndCYWFsWG9MWkxZYWFOYkFBTQ?oc=5)
-- [RSS: Google News – quant competition — Quantathon Competitors Harness Math Passion - Carnegie Mellon University](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9BR1Z0dTRyWGdqdTlmYnc3aVg4MVgxOWFDWkhtX0tfbGZ6czRvdmp2dkwxdjVCXy1YVWtReDc5cXlIUlY1dnJINmFPenJENFlJTHpyNnVuS1BtMmpCUy1Rcm5DbVBFOWs?oc=5)
 - [RSS: Google News – student fellowship — The fabulous five: Open Quantum Initiative undergraduate fellows conduct research at Argonne - anl.gov](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDJGRlhSdWstQmZVbUs5QS1JVEtuSmNfMUo4V0dZTkZtOHJoSHJSOEgxTmZwZ2UtckVLamxmeGl2dXRQMFZYRk1LT2Y2OENYMlFQbzM4cWNEWmZId2RmcFB1U0U1dXF2WThERk1nakp3ajcyUTFkRDhYZ01pNUg3Z0U1N3JlTE1sYzJDU0JwZ2ZBYTdCTWJlcWNBZmRuMFVFT2RQSnlqMWk0NHN6RHprSmF0VktRV3pmM3k4?oc=5)
 - [RSS: Google News – trading competition (students) — AVA Securities Concludes Varsity Students Trading Competition - THISDAYLIVE](https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVp0TFRxMXFqc0pvZGlnS0dUbjdJbVBnTjE2TVVLWC1WamtaeGJEd09BcHIyM1I2RDd1cjdvSV9kcVRrZl91RVVZNEVVNkJVZUxvM1dXOV9tOGRhN2l2TkN2ZXFrS3FRXzY3NF94MzZlbmNxM1FlVHhKeHlVdEFqcGFTXzVXcHNJRElGRGhreW84VFJuLUh3d1ZRb3pwbnl1WFc4?oc=5)
-- [RSS: Google News – trading competition (students) — AVA Securities concludes trading competition for varsity students - Punch Newspapers](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZlc0T3ZCd0dWQ0lyN01pMjNJM3RDLUF5S0FwU1BUQmpUaFVCeXR1RGxJT3JSVnJ3Ykd0YzlfQ2Ytbi1RY0ZTdERFdk5QN3k1MEVpdHpsUzZNQWRsQUs3d0hKTWV4bnVYemdHRXdSUVMxWEg4Uzh5SEhYQ0VFdDc4M2pqeEk1SDI4MjJwektHQQ?oc=5)
+- [RSS: Google News – trading competition (students) — AVA Securities concludes trading competition for varsity students - punchng.com](https://news.google.com/rss/articles/CBMijwFBVV95cUxQZlc0T3ZCd0dWQ0lyN01pMjNJM3RDLUF5S0FwU1BUQmpUaFVCeXR1RGxJT3JSVnJ3Ykd0YzlfQ2Ytbi1RY0ZTdERFdk5QN3k1MEVpdHpsUzZNQWRsQUs3d0hKTWV4bnVYemdHRXdSUVMxWEg4Uzh5SEhYQ0VFdDc4M2pqeEk1SDI4MjJwektHQQ?oc=5)
 - [RSS: Google News – trading competition (students) — Alexander Bowers ’24 Wins 13th Annual Babson Trading Competition - Babson College](https://news.google.com/rss/articles/CBMid0FVX3lxTE0xMjdmbzZ1Z0hCYUVxOE5XclNlNFBxNDhxXzdGLUtzaHJvRDkzU3h5VzhYTjJiek9mcUJtazhCbkp6My1JUHFoU3BWcWVSOEdSYlF6T0tMRFdfX2lyeVl3NXR0QU55UzZtVnBVN2prQXZmcVZQYXZJ?oc=5)
 - [RSS: Google News – trading competition (students) — Ateneo team declared champion at MART x CFAP Cup: Inter-Collegiate Bonds Trading Competition - Ateneo de Manila University](https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnRjVzVjZmpSZGNDUS1zWlc1bXpaVk5rWEhMNGJhNHJNSktQcWVfTXhMSDhob1ZXX0ZoZ3ctb0ZjbFJCX1otUzhrZjFrVnlSNzM1Y0NieFRWU1B6QVROc2xOb1JITVpHU0piZE1MM0g5YWRfeHZyeFpDVXNWa28tV19tRE1LcGg0WWlYODBjSmFYRm01d29OMlNjZHR3SkJiZEdZc1BFdjA4eE1VZ0tWX2lIbWQ?oc=5)
-- [RSS: Google News – trading competition (students) — Babcock wins varsities’ securities trading competition - The Nation Newspaper](https://news.google.com/rss/articles/CBMijAFBVV95cUxON2hneEp6QmFXaXJIOTlwUmRHcFV2TWhBbFdlTmI1Q1pXcWRRTTJzWHNKZTMwelhJMWRVXzhOSnFHVFJIV3lXWlpWcThWdUZ3aVpBX3FqblBMelM4YUczYkFLNlVtdS1JR19hb1U5YnZKTEF2OGlQWU94QVVQanhMVzU0Ql84WmRiWHBaLdIBkgFBVV95cUxPWkgzcmZsbldFT1k2R3NIREx2TklhVlRtRVlLQWlhc1NOZGRUa3RFd3hqRkxmdjFJUWVYTWtCZjRIRmY2RHBUcFktVnJqM0liVlZCdEotbTFhdU53UTNwMTZ5Yk5tdEwwSjRtWDJuSDd2ZDNpLWY3R2JFbE1pRG44ZHNtQUVjUHAyUzA4YXJTZkRzZw?oc=5)
+- [RSS: Google News – trading competition (students) — Babcock wins varsities’ securities trading competition - thenationonlineng.net](https://news.google.com/rss/articles/CBMijAFBVV95cUxON2hneEp6QmFXaXJIOTlwUmRHcFV2TWhBbFdlTmI1Q1pXcWRRTTJzWHNKZTMwelhJMWRVXzhOSnFHVFJIV3lXWlpWcThWdUZ3aVpBX3FqblBMelM4YUczYkFLNlVtdS1JR19hb1U5YnZKTEF2OGlQWU94QVVQanhMVzU0Ql84WmRiWHBaLdIBkgFBVV95cUxPWkgzcmZsbldFT1k2R3NIREx2TklhVlRtRVlLQWlhc1NOZGRUa3RFd3hqRkxmdjFJUWVYTWtCZjRIRmY2RHBUcFktVnJqM0liVlZCdEotbTFhdU53UTNwMTZ5Yk5tdEwwSjRtWDJuSDd2ZDNpLWY3R2JFbE1pRG44ZHNtQUVjUHAyUzA4YXJTZkRzZw?oc=5)
 - [RSS: Google News – trading competition (students) — Babson Team Places 13th at Rotman International Trading Competition - Babson College](https://news.google.com/rss/articles/CBMid0FVX3lxTFAweXVYQlZaSS03ZXVUWk5yWVZPU1ZteVN5VFlkSE5XNG4yb1NDVzVNTUhjd1A1SGYtWFhVaVhzWWZINGpiS0hnZF9lQzdMWGkyRVBlZi1QU0s2ZVl6OGRaaGM0RHVaVXhxbzZRcnVNOVRpSHpndEFV?oc=5)
 - [RSS: Google News – trading competition (students) — Babson Team Places 6th at Rotman International Trading Competition - Babson College](https://news.google.com/rss/articles/CBMid0FVX3lxTFBRVHBqUWo1Q29ackF5eWhvV0d0YWJFU3R5eE9KdFZOQnJkUGhSd0VLZjNHRi12NWJvcTRmRjRNLVNjQk5lNDA5eHRYR2lJUkY4bEc5emUxUk9ERElRUjZ3NEZmSjZGNFRWR3ZPZ0NnXzBiM1MtdGR3?oc=5)
 - [RSS: Google News – trading competition (students) — Babson Team Places 7th at Rotman International Trading Competition - Babson College](https://news.google.com/rss/articles/CBMid0FVX3lxTE40bjRXeTl2UHNiT3BWRTFYNFZCX0hrcWN3SGdZMWtWQzdYeWdOdzN5RmN5aEh6Z2I0eEsxUDVQbk01WmE1RXNyWWFnVFB4TmRhVjE4QW5RalVuNGM2UGdWc2FrdmtaRmdrNi1WNVhuTGh1di1SUHVv?oc=5)
@@ -540,37 +528,37 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [RSS: Google News – trading competition (students) — Baruch's Unprecedented 2016 Rotman International Trading Competition Win - Baruch News Center.](https://news.google.com/rss/articles/CBMitwFBVV95cUxNblNZeU9rUEdzVy0zajhBU2ZxQWQyaFBjWW5oczBYTzdpUXRiNEpIZ3lXSFdPMHpoRUp5NDh5S1F5M0I3WmFiUUZfZVdONlpfdGQ0VE9Mby15ODcxUEhnQlJmR1d5UHp0cGJDV1FaREpSdWVHczN6YWRkYjJWRS1uRkdoa3RCMXpoR0dMb1c5TTBxS0RidWRwOWZQd2E0RTZ1Qm5yY05CUU9tb05MT0ZPRGxHWUZYNlk?oc=5)
 - [RSS: Google News – trading competition (students) — CME Trading Challenge - University of South Alabama](https://news.google.com/rss/articles/CBMie0FVX3lxTE5IQ2FtTFU2TzdHeU9kNGhHSVJJdGxPb3dEMkJQZjNaWTlQS1pRZmJlTlROMUtFOE9fZE1PdHpvU01fRG51dmllZm45SHlRX2h2ODYweVlISWV1WXpQeEdKYnJGUXI0U2ppNTNpOHdJUUs1WG14MmxSQnlQQQ?oc=5)
 - [RSS: Google News – trading competition (students) — Carlos Roberto Dias Neto MSF’25 Wins 14th Annual Babson Trading Competition · Babson Thought & Action - Babson College](https://news.google.com/rss/articles/CBMid0FVX3lxTE5FR3VjRUV4Y2EyeEFfMTB3Z1cxclgwTmtjaDJONnd2RXZUajYxNVNac01lLW13VThRZ0NuaFAzZHJ5ZE96MXVuVlVYcmRFSEJDWExESFVwTUlIYWQ4TU93ZFJUYW1QRFdTM2hVSVRjTnBwVzlfWFJJ?oc=5)
-- [RSS: Google News – trading competition (students) — Congratulations to the University of Waterloo team for their efforts in the 2023 Rotman International Trading Competition! - University of Waterloo](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3hPNTdHSHdVaXh6cFFHRU1peFMtY2Q2bjRqRVZUeWVNekJjOXM4c2dxRFJBRWwwSWVpMk5GTnBvdjh4QW9ZdUxEcm5YajZCeVFhbXJ0aHp0WkMybml2LTR1ZE05OWp1dktNVXl1dHBuVlowbnRpZjV5UHdkajQtYkhLeEdqOGpSOWpXS1NsZmMyTGhMLUs0SENEWXgzdHhzcUFIUkVrV2xKX3UtUm5MVkQzYmZBSUQteVlR?oc=5)
+- [RSS: Google News – trading competition (students) — Congratulations to the University of Waterloo team for their efforts in the 2023 Rotman International Trading Competition! - uwaterloo.ca](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3hPNTdHSHdVaXh6cFFHRU1peFMtY2Q2bjRqRVZUeWVNekJjOXM4c2dxRFJBRWwwSWVpMk5GTnBvdjh4QW9ZdUxEcm5YajZCeVFhbXJ0aHp0WkMybml2LTR1ZE05OWp1dktNVXl1dHBuVlowbnRpZjV5UHdkajQtYkhLeEdqOGpSOWpXS1NsZmMyTGhMLUs0SENEWXgzdHhzcUFIUkVrV2xKX3UtUm5MVkQzYmZBSUQteVlR?oc=5)
 - [RSS: Google News – trading competition (students) — Desautels wins big at trading competition - McGill University](https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTVteGF3NWZvMU1MUDI1b1FKWWNLcGJDSFJoTGtfWmRvM2x0OXV1Z28tazY4WW44bEJKYUdfT0R0UVNad0czZ2p4dlc5NU4tN0E1Yk1yOGlxVU0wMDF4VjRpejlsRHp4WVlJSzl0eG5UT0Mta25hbTZ4VnhoajhpV3dTQnhqcWpwV3piY3hmcy1FeVBFRXc?oc=5)
 - [RSS: Google News – trading competition (students) — Five questions with the Rotman Trading competition team - Brock University](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xM0ctOHRZWTFJb2JvaXFuV0xHNEVoUUxfcVBDdGl4VjZRZXJjZ2tLdGRGV0l1ZnlVdUlXaldLWDFuN3UtV0ZlRVIyd18tWTFOU29ZQkx0TzhtSFJiWmkwNmR6YjY?oc=5)
 - [RSS: Google News – trading competition (students) — Foresters compete in Midwest Trading Competition - Lake Forest College](https://news.google.com/rss/articles/CBMihwFBVV95cUxQaEdFTkFWRmxVR1djSjR6S2pGVERVSVlBcm1ScUEwR0Y4Z1hyVklJU3k2VkpyWjNzOEx1R2cyeUdvY3F2TFFRLUdCeTUza2d0eE9YY1AxZWxtdEd0SWs4QTZkX3Ric19nMnh0dFRKQXoyZlFEdU13Y2xnc2huWU41cWx1cEowcjA?oc=5)
 - [RSS: Google News – trading competition (students) — Gabriel Papa ’23 Wins 12th Annual Babson Trading Competition - Babson College](https://news.google.com/rss/articles/CBMid0FVX3lxTE0tR3RNYkpGcHllbGtqT1pMUHIwdHE5VHRvdFdRS01EZU1vWG1nWFNOY2Z3ektyRkV5MEluMzQ2ZmxydVQ1QnQ2cFp3VEw3elE3ZGgwdG1RTWlqX1EzOXBoUDRONS1PcXJ0dlgwYm5qZVZRVzFHWEpV?oc=5)
 - [RSS: Google News – trading competition (students) — Gatton Students Excel in Stock Trading Competition - UKNow](https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkFUQ21NXzRVa2pWczM2V2YwSnpJZDRIcm9UeW8tSmZCcFFtOFpfNXdfVnN3Wk5ZYWZBSEFRTFkyVEQ3OTNVNDJRbnpOd29WV25fZ0UtZjlaVUtCVThlN08zUmhvSndBclpDQ1ZNMUpsU095N0ppS0NfRXJRS0RYRFhRdDV0TXlXLWc?oc=5)
-- [RSS: Google News – trading competition (students) — Georgia Southern economics students top performers in national trading competition - georgiasouthern.edu](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcThaRDd1LXRpTDNFY1BoaXZ4eDhxS1VhWjVMbjZfRjRXYTNzSlFKbkxlTDR5MWJOY2pPYktPdlJWVGhua2R1b3Z0MkUtYTA2eDZBMGtSbHFNRVZEMkFmQkZOclhvbEUxV05mXzQ1VElRNDBvNEN1YU9wZ0dfV1VsZGxQMVRoRklqVGlyWHBxVW5TMGtHVXl5UXpuUUdmR0tVTFBhZ2NJSTNwWFFoRmZTeTBJMWIxTF9lRVNtck5LNXdULXpiTm9r?oc=5)
-- [RSS: Google News – trading competition (students) — Haskayne students stand out in national options trading competition - ucalgary.ca](https://news.google.com/rss/articles/CBMikwFBVV95cUxNeHVpLXBlSkdRRlpkd0JkQzFnM2JMMWd5NkoybEVwaTJkYy1MWUQxQWZCaHNQWjBBSGRtZEVrTjNjNmExMkFSUE1VUFQ0U2RvMjVZdFhwNHpVYTM3TlZhOEo2UDA2UG1LN2RRMENmd3ZoOEdORkNLLXE3Vzc4aHpBdDJBOXMwU2djYU1xaERjaDQtR0E?oc=5)
+- [RSS: Google News – trading competition (students) — Georgia Southern economics students top performers in national trading competition - Georgia Southern University](https://news.google.com/rss/articles/CBMixwFBVV95cUxPcThaRDd1LXRpTDNFY1BoaXZ4eDhxS1VhWjVMbjZfRjRXYTNzSlFKbkxlTDR5MWJOY2pPYktPdlJWVGhua2R1b3Z0MkUtYTA2eDZBMGtSbHFNRVZEMkFmQkZOclhvbEUxV05mXzQ1VElRNDBvNEN1YU9wZ0dfV1VsZGxQMVRoRklqVGlyWHBxVW5TMGtHVXl5UXpuUUdmR0tVTFBhZ2NJSTNwWFFoRmZTeTBJMWIxTF9lRVNtck5LNXdULXpiTm9r?oc=5)
+- [RSS: Google News – trading competition (students) — Haskayne students stand out in national options trading competition - University of Calgary](https://news.google.com/rss/articles/CBMikwFBVV95cUxNeHVpLXBlSkdRRlpkd0JkQzFnM2JMMWd5NkoybEVwaTJkYy1MWUQxQWZCaHNQWjBBSGRtZEVrTjNjNmExMkFSUE1VUFQ0U2RvMjVZdFhwNHpVYTM3TlZhOEo2UDA2UG1LN2RRMENmd3ZoOEdORkNLLXE3Vzc4aHpBdDJBOXMwU2djYU1xaERjaDQtR0E?oc=5)
 - [RSS: Google News – trading competition (students) — IMC Announces Team of Australian Students as Winner of 'Prosperity' Global Trading Competition - PR Newswire Canada](https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNUxvMHZsbldQWG9leGQxTWpRWFVLVVFJX3hMNUc5aGF3X0hUVHBEMXFncDF2NXUtWU5XLW5fdDB6c3h5MkxTNTlrQmtHbUo3X0FRVERGU1VyY0t6Nl9FOFBCeHdRZ1NjbmlaWjNSTUpQNmZXaWp4VFgxRFJZcnFxdnpPeDFORVVLX1NFTUpBX1FXOWtvRTlJTldIY050cXF3MTZhVHNlc2o0SE9hSWlINWs3Wk94M2tWMHp3SUJSR2hUdGZ0djk5bjY2UjRPZTNBT3p2Wk1VUS0tZlpEbXc?oc=5)
 - [RSS: Google News – trading competition (students) — IMC Launches Trading Competition for Students - Traders Magazine](https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0JtWHFiczk1UWxrbTJpb29PajY2SjFTeUpnY1JlZUtXaldncXRIT09weUpDcWFXNjNLemFYa3hhdm1uRHJQbjFsX3V3M0hHWlZjVWR4V3dYQ1Z6UmpIUXE4YWhXcm9YMHhSc3U0YV9qdE9VbDNGNGhPQ21fYk9pM05Vb3ZHSktuLWRXeGNaMzVEa2FuRnJoUzB6bmpVdDRyWlE?oc=5)
 - [RSS: Google News – trading competition (students) — Muma Trading Challenge lets students experience highs and lows of market - University of South Florida](https://news.google.com/rss/articles/CBMihgFBVV95cUxQaEJKdHNqd0p3VW5meU9wOTJBNkU4bGVLTU14RjJhTHZGNzFoaFR1MWpCM0VrdnZSX3VFM3FiVDVyY3hmUUFXSi1wTGkxbHBpMmpUNnpXLUtNNnpQOUt4c2RIY1ZQMF9ZX2k4Y210Umg3bG9DaEJxNWtTbG5ZVEhTdDV6MzBzdw?oc=5)
-- [RSS: Google News – trading competition (students) — Nevada Student Investment Organization places 28th out of 42 teams at the Rotman International Trading Competition - University of Nevada, Reno](https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFpLQmFQS3FfRHhRNnFndGdqT0ZFRDJuWHp5MlVyaTlzaFdRUWRLMENxdFdwT0JGcGt0N3BaVHUtQUxBRGR0M0pYcDV6Um5yLWtvQjh0X2d2MVo0MTlsYUF2eUg4X3pia3d4Ukh4Zm1MSmRRYVlhSUxsak84ZUN6V1ZaSTMyVDdsQ3NHdzYyaEk5VmllYURqLW1YS280U1pfN2NlYkdmWml4VHhTLTlpTUxVaEc5MF94cVR4MkdWTWZOSnpPeXhBeG5oN0Q?oc=5)
+- [RSS: Google News – trading competition (students) — Nevada Student Investment Organization places 28th out of 42 teams at the Rotman International Trading Competition - unr.edu](https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFpLQmFQS3FfRHhRNnFndGdqT0ZFRDJuWHp5MlVyaTlzaFdRUWRLMENxdFdwT0JGcGt0N3BaVHUtQUxBRGR0M0pYcDV6Um5yLWtvQjh0X2d2MVo0MTlsYUF2eUg4X3pia3d4Ukh4Zm1MSmRRYVlhSUxsak84ZUN6V1ZaSTMyVDdsQ3NHdzYyaEk5VmllYURqLW1YS280U1pfN2NlYkdmWml4VHhTLTlpTUxVaEc5MF94cVR4MkdWTWZOSnpPeXhBeG5oN0Q?oc=5)
 - [RSS: Google News – trading competition (students) — Priyansh Bothra '25 Wins 15th Annual Babson Trading Competition · Babson Thought & Action - Babson College](https://news.google.com/rss/articles/CBMid0FVX3lxTE9QMHZBdFpYdjVQRS1NcDVEMzgyUnRTRmx5bmxobHhPS2Y4RHRVcUZsb29NUFVkRE1ZdDZRbWVCbjF3YTdWU2JTaUdxVFJSNUFmZVJNNDd3UTRwMFlLWC1pUHgtOEl6NlZZMmdfUFhBdE5yMC1UenNv?oc=5)
 - [RSS: Google News – trading competition (students) — Queens College Students Win $30K In Simulated Trading Competition - qgazette.com](https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVYxMUxIQjhvZUd1ZmQ0WVB3MGNpS1B3OGszWTRFc3pydWNva1J0VmdWSEpqdGdKY3o0M0xJazVjNFEtRVRSNDZKNVF2Y0QyVmpDWExXeU5aN1RCUUU1Mk4tcU9FRE1LOExuX2NKcmozUThkc2xzZEtwdEJkb1pUVHdsOFkyV2lORDM4N1k3YS1XTVlsTkVoalFzWFJtaTQw?oc=5)
 - [RSS: Google News – trading competition (students) — RIT students win international Bloomberg trading competition - Rochester Institute of Technology](https://news.google.com/rss/articles/CBMilgFBVV95cUxOdXZlZ2FjQUVLNGhwWHdOakJHRjN6SVo5bEl6MlZDQy1yTF83eEhDamMyN3FEbnFMZGNrQ21IeTU1VlIzeEpmekIyTE5ZSFBRVndCcXc4dGpMWG5MeHRkMlc1MDFDdEF0LTVCN0l3TDBjdWNTYmh6dzZBeDV2QTFSV092dDloNVc1STNDWFZad2d3TWN6Unc?oc=5)
 - [RSS: Google News – trading competition (students) — SLU BSBA Financial Management Students Make It to the MART X CFAP Cup: Inter-Collegiate Bonds Trading Competition Finals - slu.edu.ph](https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSk1VT2M2NnpPeWs3Qm51R1FUU0FlVWJiX0YxTDhsUnY2VUlsM09PS0VZNWJYNXoydk1rY2xfcEZGZ01fYVNMUHlLRU5GSjdfWjZ1TkhQcG4tQk1oMXNNdWlYNkxYRWd0a2JkeThWUmVMN0h2c2NCTTYyYktQakJGMUx1ODBMVzJ5dDAybmRINzRQZUpTWlRvTTBDdmoyZm9DQUFNM2dpSEI5c1pyRUx4eDBBMFhGUnhfNTg5Y0pVMWpkTm80bGYxZnlaVXBBWGY0akh0cHE1T3h2Z2tNcUtFQ2RueXgxX1hiQ3c?oc=5)
-- [RSS: Google News – trading competition (students) — Saluki student traders among top five in international financial trading competition - news.siu.edu](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3pYdTZDQXFiMkdfcnFxcVJrR3BYNkhEb3VtWkFvekhPYUVQOVJ1ZlN3YXI3VGJKNmp4UHJrYnFOcldwcGZmNkZTeVplVFNBYmd0eVk3X2FSZndVRllWWmZfaUhKYXltZjZucFNDWm10clV1M3FlNEJmYTUwQW0zcXJrNXZqS2dxVXZGeUxoSjhZTldyQjJ2elg0M1Vvd2dmTk1RSnBwM05peGFtTXNURUZ3TTBfUmdLaUNKaUxUUXIxZw?oc=5)
+- [RSS: Google News – trading competition (students) — Saluki student traders among top five in international financial trading competition - SIU News](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3pYdTZDQXFiMkdfcnFxcVJrR3BYNkhEb3VtWkFvekhPYUVQOVJ1ZlN3YXI3VGJKNmp4UHJrYnFOcldwcGZmNkZTeVplVFNBYmd0eVk3X2FSZndVRllWWmZfaUhKYXltZjZucFNDWm10clV1M3FlNEJmYTUwQW0zcXJrNXZqS2dxVXZGeUxoSjhZTldyQjJ2elg0M1Vvd2dmTk1RSnBwM05peGFtTXNURUZ3TTBfUmdLaUNKaUxUUXIxZw?oc=5)
 - [RSS: Google News – trading competition (students) — Six Italian students win the Rotman International Trading Competition - panorama.it](https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFgzZTRoUFVlbENPcWVKa2xVTTJDVDNpamc4dm5sZzFFdHBlb1dNbzVOd1MwbjctZnVlWS0tNWdhNURmTFJDdl9GQXR3ZHVsQ1Z5aFRmNnJPMjY5QThBT05COUFVQkd0cWc0R0hBTGdwMlhVTGh0TjkwUzI3YmxrR3ZrYVVxMzJ0eWFfQTBkeHJ5MmxycEZGVVdjS3pPY0VmaWZvUnBn?oc=5)
 - [RSS: Google News – trading competition (students) — Sorry, Harvard and Yale, the Trading Whiz Kids Are at Baruch College - WSJ](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2llVmp5TkVsY3RrdllNeWxkQ2VtSGI4ODREYjV2NXdvVHJLOG9BRHpsQnFHV2I3RWpZcDlXbWZnRDZONnEtN1A5anpQcjdrd3hVX25iWEx0VkVVRGFSZ2ctMTN4ZE1ZTnpJLWdCTWI5SEo3NFBsOGlQejNvZHJmV181aEw0U0VFZWJfcklQeldCZmdIdFZTczM5SUpXMnpmNlp6RnVYdjVoUQ?oc=5)
-- [RSS: Google News – trading competition (students) — Students Compete In Online Macro Trading Competition And Win An Internship At Fortress - forbes.com](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2RENFdRaWg0Y1hMcWxGSTZDY2k0RVB6My1XWWF1WElsTHpHYzdHV2FBeVFxaWpSNUswQmRYak5IY2RHdmpGUElCQ3lBU0J1cnpneVk5ZGNZOVNBZWtqREFkTERhUTFGcFFJVEw2VXJ4di1XRGNnVEkza0VrREd3RnJ6NVRVQ2VyLW9EUXNIcGtTWGxKblA1V2hmd3VUZUpMZnRIZldyWUE1Wk9FZVhiNVRLSjZuaVdSR1RuWWFnRGVSN0hMb192VE5ZQUdmSnpUcGFJb3RtNDRscDk5djZuVg?oc=5)
-- [RSS: Google News – trading competition (students) — Students gain real-world insight in first Capital Power Energy Trading Competition - ucalgary.ca](https://news.google.com/rss/articles/CBMifEFVX3lxTFA5NHItRXViUWpTVEhoc1FrM3c1QVNBMWNMbnRVMUk2YmpBVkhMb21oUXJVRE96WC1JSUQtY1dJMUtwcmo0SklGQlNqMkJqZnoxZnZUM3h0MzBBcnhUMzhOem8yd2RfS2tvS3A4QWhLMXplZnY0QV92VTFuc0k?oc=5)
-- [RSS: Google News – trading competition (students) — TRSM Students Win Trading Case at World’s Largest Simulated Market Challenge - Toronto Metropolitan University](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNmhwLWdqcXRVSnFucG5EeHJtcExDUkRjUGJnV3BtdlJYal9veWdZdXVGb24zdmZmODBsa2tXcHZEZmlQWHNHVHhDUVJIR3FqemU4UDhCZjdlUXFhSVltcm9sZGxQQ3AxT2lQaXVfR3VEbkN0Z0FTRUVHNmktaDVkZXZfcW9wOEp0LUhBYW1QS0pfR2ZiallXMURQVE9IdG1PVHZTeE5NSC1Kcmk2czBwTUVhNXFqbjNYZVBkTTNXeHVjNzUyQVFvNk5rSTU5aGV1ZzB3?oc=5)
+- [RSS: Google News – trading competition (students) — Students Compete In Online Macro Trading Competition And Win An Internship At Fortress - Forbes](https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2RENFdRaWg0Y1hMcWxGSTZDY2k0RVB6My1XWWF1WElsTHpHYzdHV2FBeVFxaWpSNUswQmRYak5IY2RHdmpGUElCQ3lBU0J1cnpneVk5ZGNZOVNBZWtqREFkTERhUTFGcFFJVEw2VXJ4di1XRGNnVEkza0VrREd3RnJ6NVRVQ2VyLW9EUXNIcGtTWGxKblA1V2hmd3VUZUpMZnRIZldyWUE1Wk9FZVhiNVRLSjZuaVdSR1RuWWFnRGVSN0hMb192VE5ZQUdmSnpUcGFJb3RtNDRscDk5djZuVg?oc=5)
+- [RSS: Google News – trading competition (students) — Students gain real-world insight in first Capital Power Energy Trading Competition - University of Calgary](https://news.google.com/rss/articles/CBMifEFVX3lxTFA5NHItRXViUWpTVEhoc1FrM3c1QVNBMWNMbnRVMUk2YmpBVkhMb21oUXJVRE96WC1JSUQtY1dJMUtwcmo0SklGQlNqMkJqZnoxZnZUM3h0MzBBcnhUMzhOem8yd2RfS2tvS3A4QWhLMXplZnY0QV92VTFuc0k?oc=5)
+- [RSS: Google News – trading competition (students) — TRSM Students Win Trading Case at World’s Largest Simulated Market Challenge - Toronto Metropolitan University (TMU)](https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNmhwLWdqcXRVSnFucG5EeHJtcExDUkRjUGJnV3BtdlJYal9veWdZdXVGb24zdmZmODBsa2tXcHZEZmlQWHNHVHhDUVJIR3FqemU4UDhCZjdlUXFhSVltcm9sZGxQQ3AxT2lQaXVfR3VEbkN0Z0FTRUVHNmktaDVkZXZfcW9wOEp0LUhBYW1QS0pfR2ZiallXMURQVE9IdG1PVHZTeE5NSC1Kcmk2czBwTUVhNXFqbjNYZVBkTTNXeHVjNzUyQVFvNk5rSTU5aGV1ZzB3?oc=5)
 - [RSS: Google News – trading competition (students) — Taking Trading Strategies to Toronto · Babson Thought & Action - Babson College](https://news.google.com/rss/articles/CBMidEFVX3lxTE5aRXY3X2o0ZGJhdTZiZ3BxS3hfdy14dlRtcjJzT3Z1TXM1M043U1dMVEo1Mk16YXJJODZtNm5McFlGUjFJRVJ3eUotOXFoMGtwY1pxajRiTUtXTDcxWV9nRmVXWUpLVGxZbGRyaXJMbGVralNE?oc=5)
 - [RSS: Google News – trading competition (students) — ThirdVictoryforMFEStudentsinRotmanInternationalTradingCompetition - Baruch News Center.](https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUHlkalk1emY4QjlSTDRrYzQ5b2NlRkRQZHZiZVlJMmw1Y29hYXZBUEhLVlAtZUJTN0ZZSTFCbjhSanVsa1lpQUFIR2ptbFNwaVlnMUxtVUJZWU5QSmhXLXBlYUNRNGgtRVFTekRGRkgtei0tR3ZBOVBIYWJGNTdqWVgzWlhON3lJMVh4aDJ4d1hjdkZNV1N6RVRIV3RSNU44aWVMWW5YYjRzZGdvMzBLMkhjWUVHOVJ4WWNfakVmMUVfbVdXaDFVd0Z4NXpPZXl4VGc?oc=5)
-- [RSS: Google News – trading competition (students) — Top prize at BP Trading Competition earns Haskayne students cash and bragging rights - ucalgary.ca](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGk2Q1BiWlZjMTlGLTltSzRwZFRFX0RtWUlhcXhrMTRnUXpTbGN0ZUVldHVsV1hXdG4zajhfQnBsNjVwd2R5QmFTbGlKUEpxTnBnN3FYVHluaXoxdTlPMHd0bU1oZ01rZFhxRzJPTHJlWkRJemJ0T1h4QUtnUHg2RU1zY3JNMDZyUXIyYjBoMlZtNGtrYjhSeDF3Qkc2eG9XdVhTODB6el9pQQ?oc=5)
-- [RSS: Google News – trading competition (students) — UCalgary students compete in 14th annual bp Canada Trading Competition - ucalgary.ca](https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUJEUXFScFBHUVFKRzRLRXYyZGpxRzFWam94Y0VQZjFla1VqZmVSQkp2Z0trOEFOZ0s2bklDd2JLdTI4UEVZNnV3aEREVXRzdG9zeFZPbGt2S0drUmF3cU1VeUtlaDQwWDJCbS1RSmdtVDh6ZHZSRzRFemVOMVJMWkFJejZ0amRsdDVUSXdBWWdab2g3Z3k0?oc=5)
-- [RSS: Google News – trading competition (students) — UCalgary trading team wins gold at prestigious international competition - ucalgary.ca](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmhQZEFhZ2FHeEZJQW9JTEZGeC1ZR0JwMmttc2M1SmdRVVBtYzZuaUZOWmRnbUxDWnliSzVDc3B1UXJ2MHJMUkw4c0M4T256VlRKdUM1SlBFenJsV1ZsZWlFbXdFU19Qc0xNWWVoOV94eXllTlVtOUJvS092dmtzRmE3S3V1d2w5YmJ0eXprOTE3UDVZNUlmMmRR?oc=5)
+- [RSS: Google News – trading competition (students) — Top prize at BP Trading Competition earns Haskayne students cash and bragging rights - University of Calgary](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGk2Q1BiWlZjMTlGLTltSzRwZFRFX0RtWUlhcXhrMTRnUXpTbGN0ZUVldHVsV1hXdG4zajhfQnBsNjVwd2R5QmFTbGlKUEpxTnBnN3FYVHluaXoxdTlPMHd0bU1oZ01rZFhxRzJPTHJlWkRJemJ0T1h4QUtnUHg2RU1zY3JNMDZyUXIyYjBoMlZtNGtrYjhSeDF3Qkc2eG9XdVhTODB6el9pQQ?oc=5)
+- [RSS: Google News – trading competition (students) — UCalgary students compete in 14th annual bp Canada Trading Competition - University of Calgary](https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUJEUXFScFBHUVFKRzRLRXYyZGpxRzFWam94Y0VQZjFla1VqZmVSQkp2Z0trOEFOZ0s2bklDd2JLdTI4UEVZNnV3aEREVXRzdG9zeFZPbGt2S0drUmF3cU1VeUtlaDQwWDJCbS1RSmdtVDh6ZHZSRzRFemVOMVJMWkFJejZ0amRsdDVUSXdBWWdab2g3Z3k0?oc=5)
+- [RSS: Google News – trading competition (students) — UCalgary trading team wins gold at prestigious international competition - University of Calgary](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmhQZEFhZ2FHeEZJQW9JTEZGeC1ZR0JwMmttc2M1SmdRVVBtYzZuaUZOWmRnbUxDWnliSzVDc3B1UXJ2MHJMUkw4c0M4T256VlRKdUM1SlBFenJsV1ZsZWlFbXdFU19Qc0xNWWVoOV94eXllTlVtOUJvS092dmtzRmE3S3V1d2w5YmJ0eXprOTE3UDVZNUlmMmRR?oc=5)
 - [RSS: Google News – trading competition (students) — UT computer science students wins Midwest Trading Competition - The Daily Texan](https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnBRLVNVZUFHc0FKd3d4NDY5b3YtVU9RUUdxVDNFMWg0N0MtUWRUSUE3VHIwVHpOYU10WnFpN0dNblozQjlkZGxaVTk0dnQzRmFmMjdXbXd2d1FmZkRHUl9PaHd1TW5udjQ1NG5OSW9fQ0FrXzdiZG03X0tNWUZNTTlPaHlHaW9JaksxU1J5enJSMEd6TlprLWhlTnhVcHZf?oc=5)
-- [RSS: Google News – trading competition (students) — University Students Compete for Top Prize in Global Trading Competition – Ledger Independent - Ledger Independent – Maysville Online](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGFQUVB0UjMzUmpEdmo3VFZuLU9vYmFzOVF3REhHdkxKaF9xYnNmRTBLSXZLZDVfQTNqd3NzZVZxS1lOZHY0bFRrZlJSWFR2ampXdlBBZ0ZBVVl0THhRZ3BSVlB0LU10OVJBODkxV2xPWkRhQm5GSWRyLVRoc2g5VFZES0wtUjFDa2dBVGZsaU9fS1RmcHNUVFJILW53TWM1UGFlclgtekZuWk9aLWo2dmZfcTNEQ3Y1TWRB?oc=5)
+- [RSS: Google News – trading competition (students) — University Students Compete for Top Prize in Global Trading Competition – Ledger Independent - maysville-online.com](https://news.google.com/rss/articles/CBMiuwFBVV95cUxORGFQUVB0UjMzUmpEdmo3VFZuLU9vYmFzOVF3REhHdkxKaF9xYnNmRTBLSXZLZDVfQTNqd3NzZVZxS1lOZHY0bFRrZlJSWFR2ampXdlBBZ0ZBVVl0THhRZ3BSVlB0LU10OVJBODkxV2xPWkRhQm5GSWRyLVRoc2g5VFZES0wtUjFDa2dBVGZsaU9fS1RmcHNUVFJILW53TWM1UGFlclgtekZuWk9aLWo2dmZfcTNEQ3Y1TWRB?oc=5)
 - [RSS: Google News – trading competition (students) — Virginia Tech students take second place in commodity trading competition - Virginia Tech News](https://news.google.com/rss/articles/CBMickFVX3lxTE5ZLVlsUFMtVkhpR2hWVlIwMmFNSmJZVHRKRmpqYk9nS1RBWUQ1NllKUnExUzllMlBaTmpaTXB3X3VvZUtVT1EtVkVrZVJpNmJDUGpUUHdleER6VlZvem10Qk9zbFBnQkpNVkxBR0NtRThwZw?oc=5)
-- [RSS: Google News – trading competition (students) — Waterloo Undergrad won fifth overall at Rotman International Trading Competition (RITC) 2012 - University of Waterloo](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMktad0xBaUtodmo2bTlzS29PTjdEOUlkbGlGT2gwT3lqMEVJek9XNWhVYVBqdlhEZVh0Y0pIYjVSVEJJS0FINE9DejVBcXNIUDhPV0N1SEVxcUoyMUpiMjB1TkJfdnpEUjJSSTh1LTBWVmNHTUZzUUVzdFNFTVFIRXNoTGxEakJUWHJyRWFkQjY3Um1lNUsyNUhkWWFZUDVQNzNLM20wQWpmdXJkNkJSU3VqMjE3WnBL?oc=5)
+- [RSS: Google News – trading competition (students) — Waterloo Undergrad won fifth overall at Rotman International Trading Competition (RITC) 2012 - uwaterloo.ca](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMktad0xBaUtodmo2bTlzS29PTjdEOUlkbGlGT2gwT3lqMEVJek9XNWhVYVBqdlhEZVh0Y0pIYjVSVEJJS0FINE9DejVBcXNIUDhPV0N1SEVxcUoyMUpiMjB1TkJfdnpEUjJSSTh1LTBWVmNHTUZzUUVzdFNFTVFIRXNoTGxEakJUWHJyRWFkQjY3Um1lNUsyNUhkWWFZUDVQNzNLM20wQWpmdXJkNkJSU3VqMjE3WnBL?oc=5)
 - [RSS: Reddit r/quant — Bad Quant Job Mobility](https://www.reddit.com/r/quant/comments/1w9yijw/bad_quant_job_mobility/)
 - [RSS: Reddit r/quant — How Quant Funds Use AI Safely](https://www.reddit.com/r/quant/comments/1w7o3j2/how_quant_funds_use_ai_safely/)
 - [RSS: Reddit r/quant — How do you negotiate your bonus in quant finance?](https://www.reddit.com/r/quant/comments/1w98ryn/how_do_you_negotiate_your_bonus_in_quant_finance/)
@@ -587,8 +575,8 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Startup: Stripe — Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) — Dublin
 - [Startup: Vercel — Software Engineering Intern - Summer '27](https://job-boards.greenhouse.io/vercel/jobs/6181759004) — Hybrid - San Francisco
 - [Startup: Vercel — Software Engineering Intern - Winter '27](https://job-boards.greenhouse.io/vercel/jobs/6181755004) — Hybrid - San Francisco
-- [Startup: Stripe — Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) — Bengaluru
 - [Startup: Stripe — Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883) — Singapore
+- [Startup: Stripe — Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) — Bengaluru
 - [Startup: Stripe — Software Engineer, Intern ](https://stripe.com/jobs/search?gh_jid=8130807) — Bucharest
 - [Startup: Stripe — Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8130805) — Toronto
 
@@ -695,7 +683,7 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [hermeus — Software Engineering Intern (HIL) - Spring/Summer 2027](https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b) — Atlanta, GA
 - [hermeus — Software Engineering Intern (Modeling & Simulation) - Spring/Summer 2027](https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936) — Los Angeles, CA
 - [homedepot — 2027 Summer Internship - Software Engineering](https://homedepot.wd5.myworkdayjobs.com/en-US/careerdepot/job/STORE-SUPPORT-CENTER-ATLANTA---9090/XMLNAME-2027-Summer-Internship---Software-Engineering_Req191937) — STORE SUPPORT CENTER, ATLANTA - 9090
-- [hpiq — Software Engineer Intern, Cloud Services (Summer 2027)](https://job-boards.greenhouse.io/hpiq/jobs/6111955004) — San Francisco, CA
+- [HP IQ — Software Engineer Intern - Cloud Services - Summer 2027](https://job-boards.greenhouse.io/hpiq/jobs/6111955004) — San Francisco, CA
 - [hpiq — Software Engineering Intern, AML Platform (Summer 2027)](https://job-boards.greenhouse.io/hpiq/jobs/6114781004) — San Francisco, CA
 - [hpiq — Software Engineering Intern, Connectivity (Summer 2027)](https://job-boards.greenhouse.io/hpiq/jobs/6176783004) — San Francisco, CA
 - [hpiq — Software Engineering Intern, Device Experiences (Summer 2027)](https://job-boards.greenhouse.io/hpiq/jobs/6114912004) — San Francisco, CA
@@ -708,7 +696,6 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [juicebox — Software Engineer Intern](https://jobs.ashbyhq.com/juicebox/1af7ec98-9c2e-4101-868e-58e6f35cd23a) — San Francisco
 - [k2spacecorporation — Software Engineering Intern – Summer 2027](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) — Los Angeles
 - [kastle — Software Engineer - Intern](https://jobs.ashbyhq.com/kastle/6f32db51-de45-472f-a9c8-d9419d3634ee) — San Francisco
-- [kognitos — Forward Deployed Engineer Intern (Mountain View)](https://jobs.ashbyhq.com/kognitos/a4bc3ebf-b619-4c1b-9c9e-784d16c8b148) — Mountain View
 - [LiveRamp — Software Engineer Intern, Pixel Serving](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201) — New York, NY
 - [manulife — Summer Intern 2027 - Data Engineering](https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Boston-Massachusetts/Summer-Intern-2027---Data-Engineering_JR26081679) — Boston, Massachusetts
 - [manulife — Summer Intern 2027 - Software Engineering](https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680) — Boston, Massachusetts
@@ -722,7 +709,6 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Microsoft — Software Engineer: Intern Opportunities for University Students - CoreAI - Boston - Massachusetts](https://apply.careers.microsoft.com/careers/job/1970393556972698) — Boston, MA
 - [Microsoft — Software Engineer: Intern Opportunities for University Students - CoreAI - Redmond - WA](https://apply.careers.microsoft.com/careers/job/1970393556951950) — Washington, DC
 - [morsecorpcoop — Aerospace Algorithms Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968520003) 🇺🇸 — Cambridge, MA, Arlington, VA, Seattle, WA
-- [morsecorpcoop — Aerospace Algorithms Engineer Graduate Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968522003) 🇺🇸 — Cambridge, MA, Arlington, VA, Seattle, WA
 - [morsecorpcoop — Cloud Software Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003) 🇺🇸 — Cambridge, MA
 - [morsecorpcoop — Embedded Software Engineer Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003) 🇺🇸 — Cambridge, MA
 - [morsecorpcoop — Embedded Software Engineer Graduate Co-op](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968523003) 🇺🇸 — Cambridge, MA
@@ -790,7 +776,7 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Philips — Co-op - Software Engineering - APM - Cambridge - MA - Jan - Aug 2027](https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097) — Cambridge, MA
 - [phoebe-work — Software Engineering Intern](https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca) — New York City
 - [phonely — Software Engineer Intern](https://jobs.ashbyhq.com/phonely/c83696cb-ca3a-4a9d-9e87-bfcf4f79fef5) — San Francisco, California
-- [prophet-security — Software Engineer, Backend Intern](https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612) — Palo Alto (Hybrid)
+- [prophet-security — Software Engineer, Backend Intern](https://jobs.ashbyhq.com/prophet-security/6319cd03-3d5f-47b9-815b-0f8b0d184612) — Palo Alto (In office)
 - [Prospect Equities — Backend / Frontend Developer Intern](http://prospectequities.applytojob.com/apply/XTbzSAcNtg/Backend-Frontend-Developer-Intern) — Chicago, IL
 - [pylon-labs — Software Engineer, Intern](https://jobs.ashbyhq.com/pylon-labs/fcea8b52-81f1-4b0c-b575-d7b180faec4d) — San Francisco
 - [quadrillion-labs — Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05) — New York City
@@ -812,9 +798,11 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [scaleai — Software Engineering Intern (Summer 2027) ](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) — San Francisco, CA
 - [serval — Software Engineer Intern](https://jobs.ashbyhq.com/serval/d7fb089c-db8a-4877-a5f3-73a09e67f54b) — San Francisco
 - [sevenresearch — Algorithmic Developer - Intern](https://job-boards.greenhouse.io/sevenresearch/jobs/4895082008) — New York
+- [sezzle — Data Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7694238003) — Colombia, Remote
+- [sezzle — SRE / Platform Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7693478003) — Colombia, Remote
+- [sezzle — Software Engineer Intern ](https://job-boards.greenhouse.io/sezzle/jobs/6233081003) — Colombia, Remote
 - [skhynixmemorysolutionsamericainc — Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4264591009) — San Jose
 - [skhynixmemorysolutionsamericainc — Test Automation Software Engineer Intern](https://job-boards.greenhouse.io/skhynixmemorysolutionsamericainc/jobs/4342038009) — San Jose
-- [skillzinc — Co-op, Platform Communications ](https://job-boards.greenhouse.io/skillzinc/jobs/8177630) — Las Vegas, Nevada, United States; New York, New York, United States
 - [Solar Turbines (Caterpillar) — Solutions Platforms Engineered Intern (2027)](https://cat.wd5.myworkdayjobs.com/SolarTurbines/job/San-Diego-California/XMLNAME-2027-Internship----Solutions-Platforms-Engineered_R0000381657) — San Diego, CA
 - [sonyglobal — Software Engineer Intern](https://sonyglobal.wd1.myworkdayjobs.com/en-US/sonyglobalcareers/job/San-Diego/Software-Engineer-Intern_JR-119282) — San Diego
 - [Stripe — Software Engineer - Intern - Summer or Winter](https://stripe.com/jobs/search?gh_jid=8128745) — San Francisco, CA
@@ -965,7 +953,6 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [cloudsek — DevOps Intern](https://job-boards.greenhouse.io/cloudsek/jobs/6149788004) — Bengaluru, Karnataka, India
 - [conagrabrands — IT Infrastructure Internship - Summer 2027](https://conagrabrands.wd1.myworkdayjobs.com/en-US/careers_us/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788) — Omaha, Nebraska
 - [conagrabrands — Software Development Internship - Summer 2027](https://conagrabrands.wd1.myworkdayjobs.com/en-US/careers_us/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787) — Omaha, Nebraska
-- [covestro — Full-Stack Software Development Intern](https://covestro.wd3.myworkdayjobs.com/en-US/cov_external/job/Pudong-Shanghai-China/Full-Stack-Software-Development-Intern_JR-2026-01407) — Pudong, Shanghai, China
 - [cox — Software Engineering Intern - Summer 2027 (Burlington, VT)](https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1) — Burlington VT
 - [cox — Software Engineering Intern - Summer 2027 (Draper UT)](https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169) — Draper UT
 - [cox — Software Engineering Intern - Summer 2027 (North Hills, NY)](https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1) — Long Island NY
@@ -1134,6 +1121,7 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [RTX (Raytheon) — Platform System Engineering Co-op (2027) - Onsite](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Platform-System-Engineering-Co-op--2027----Onsite_01871078) — US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130
 - [RTX (Raytheon) — Software Engineer Intern ( Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613) — US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130
 - [RTX (Raytheon) — Software Engineering Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01872100) — US-TX-RICHARDSON-C17 ~ 1717 Cityline Dr ~ CITYLINE C17
+- [RTX (Raytheon) — Software Platform Intern (Summer 2027)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C27--1727-Cityline-Dr--CITYLINE-C27/Software-Platform-Intern--Summer-2027-_01870211) — US-TX-RICHARDSON-C27 ~ 1727 Cityline Dr ~ CITYLINE C27
 - [RTX (Raytheon) — Systems Engineering Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Systems-Engineering-Intern--Onsite-_01871921) — US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401
 - [RTX (Raytheon) — Systems Engineering Intern (Summer 2027) - Onsite](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--Summer-2027----Onsite_01869961) — US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137
 - [RTX (Raytheon) — Systems Engineering – Intern (Onsite)](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AL-HUNTSVILLE-401--401-Jan-Davis-Dr-NW--JAN-DAVIS-401/Systems-Engineering---Intern--Onsite-_01870675) — US-AL-HUNTSVILLE-401 ~ 401 Jan Davis Dr NW ~ JAN DAVIS 401
@@ -1143,6 +1131,9 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [saabusa — Systems Engineering Co-Op (Summer 2027)](https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Collamer/Systems-Engineering-Co-Op--Summer-2027-_R-03231-1) — East Syracuse, NY (Collamer)
 - [Salesforce — Summer 2027 Intern - Software Engineer](https://salesforce.wd12.myworkdayjobs.com/en-US/external_career_site/job/California---San-Francisco/Summer-2027-Intern---Software-Engineer_JR340771-1) — California, USA +9
 - [selinc — Software Engineering Intern - Power Systems](https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Idaho---Boise/Software-Engineering-Intern---Power-Systems_2026-22933) — Idaho - Boise
+- [sezzle — Data Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906562003) — Peru
+- [sezzle — SRE / Platform Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7906453003) — Peru
+- [sezzle — Software Engineer Intern ](https://job-boards.greenhouse.io/sezzle/jobs/7906408003) — Peru
 - [shopback-2 — Site Reliability Engineer Intern](https://jobs.lever.co/shopback-2/df5ed7cf-eb1f-4f17-ad11-35ad6011412c) — Singapore, Singapore
 - [shopback-2 — Software Engineer Intern - Backend (H1 2027)](https://jobs.lever.co/shopback-2/1804a30e-2d2e-4631-9e85-614c91806ddf) — Singapore, Singapore
 - [shopback-2 — Software Engineer Intern - QA](https://jobs.lever.co/shopback-2/345e1f49-ca8c-432f-b402-a91452f78116) — Taipei, Taiwan
@@ -1150,6 +1141,7 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Shure — Application Software Development Intern](https://careersus-shure.icims.com/jobs/5020/application-software-development-intern/job) — Niles, IL
 - [Shure — Software Engineering Intern](https://careersus-shure.icims.com/jobs/4996/software-engineering-intern/job) — Niles, IL
 - [simon — Intern - Data Engineering (Data Analytics, Information Sciences, Computer Science Majors)](https://simon.wd1.myworkdayjobs.com/en-US/simon/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976) — Indianapolis, IN
+- [skillzinc — Co-op, Platform Communications ](https://job-boards.greenhouse.io/skillzinc/jobs/8177630) — Las Vegas, Nevada, United States
 - [skillzinc — Co-op, Software Engineer](https://job-boards.greenhouse.io/skillzinc/jobs/8168006) — Las Vegas, Nevada, United States
 - [snc — Software Engineering Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1) — Folsom, CA
 - [snc — Software Engineering Intern (Summer 2027)](https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759) — Southern Pines, NC
@@ -1236,7 +1228,6 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 
 ## Other matched roles
 
-- [harman — Intern, Android Application Develop](https://harman.wd3.myworkdayjobs.com/en-US/harman/job/CN_Shanghai_12F--15F-No-9233-Humin-Road/Intern--Android-Application-Develop_R-54648-2026) — 2 Locations
 - [Shure — Mobile Applications - Android Intern](https://careersus-shure.icims.com/jobs/5006/mobile-applications-%28android%29-intern/job) — Niles, IL
 - [Shure — Mobile Applications - iOS Intern](https://careersus-shure.icims.com/jobs/5007/mobile-applications-%28ios%29-intern/job) — Niles, IL
-- [RSS: Google News – hackathon travel — ISRO Launches Bharatiya Antariksh Hackathon 2026 for Space Innovation - News Mobile](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVpoYlVKSndqd3Z4MjJvT3RIeXIxT3pjb0lGbmVrWVVJcUlTbDJMZU9TTGVfanI5SjkxLXQ3TTR5Mkd5VmJRMXhWaE9OYjZ0S0tPdGdpUndYRFZrWkFLenBkNFloaGQxcDcyVUJxT3NoaUVNRzBRZk84MWRRMzRSZmJCSlptdnI1OUJrRUdjTVdYMDJsQkFkVkl5SFVKWlBhTnpKYzNmTHJ6bkk1MkE?oc=5)
+- [RSS: Google News – hackathon travel — ISRO Launches Bharatiya Antariksh Hackathon 2026 for Space Innovation - newsmobile.in](https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVpoYlVKSndqd3Z4MjJvT3RIeXIxT3pjb0lGbmVrWVVJcUlTbDJMZU9TTGVfanI5SjkxLXQ3TTR5Mkd5VmJRMXhWaE9OYjZ0S0tPdGdpUndYRFZrWkFLenBkNFloaGQxcDcyVUJxT3NoaUVNRzBRZk84MWRRMzRSZmJCSlptdnI1OUJrRUdjTVdYMDJsQkFkVkl5SFVKWlBhTnpKYzNmTHJ6bkk1MkE?oc=5)
