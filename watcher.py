@@ -730,6 +730,18 @@ def is_relevant(job, filters):
             and not any(u in content for u in ug):
         return _drop("grad-only", title)
 
+    # 3c) WRONG-MAJOR CHECK (2026-09-09). Titles like "Software Engineering
+    #     Intern" sometimes sit on a JD that wants Mechanical/Aero/Civil majors.
+    #     If the body names a non-CS engineering major and never names CS /
+    #     software / computer engineering / a math-ish major, drop it. A JD
+    #     listing "CS, EE, or ME" survives because CS rescues it. No body,
+    #     no drop.
+    wrong = [m.lower() for m in filters.get("wrong_major_phrases", [])]
+    csok = [m.lower() for m in filters.get("cs_major_phrases", [])]
+    if content and wrong and any(m in content for m in wrong) \
+            and not any(m in content for m in csok):
+        return _drop("wrong-major", title)
+
     # 4) CYCLE CHECK.
     #    Recruiting runs ~a year ahead, so a LIVE intern posting that states no year
     #    is almost always the current (2027) cycle -- most companies never put the
