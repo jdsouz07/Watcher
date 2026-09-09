@@ -1727,9 +1727,13 @@ def main():
     for firm in config.get("firms", []):
         if not firm.get("enabled", True):
             continue
-        # In narrowed mode the competition/program sources are Sunday's job --
-        # polling them hourly would spam the role email with page-change pings.
-        if (top_only or fall_only) and _is_digest_source(firm):
+        # Digest sources (Competition:/Scholarship:/RSS:/Abroad:/...) belong to
+        # the Wed+Sun digest ONLY. Polling them here did two bad things: RSS
+        # discovery items (Reddit posts, news) leaked into the role email as if
+        # they were jobs, and marking them "seen" here meant the digest never
+        # saw them as new. This used to be gated on narrowed mode; it is now
+        # unconditional (2026-09-09).
+        if _is_digest_source(firm):
             continue
         if time.time() - started > run_budget:
             print("  ! run budget hit -- skipping remaining sources this run")
