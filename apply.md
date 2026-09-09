@@ -1,64 +1,68 @@
 ---
-description: Tailor a resume for a job posting URL, compile the PDF, and log it to applications.md
+description: Tailor John's resume for a job posting, produce the PDF, and log it to applications.md
 ---
 
-The user gives a job-posting URL (or pasted JD text) as: $ARGUMENTS
+# /apply — how it works for John (chat version, .docx base)
 
-Run this pipeline:
+John runs this in a Claude chat, not a terminal. He pastes a posting URL (or the
+JD text) and, the first time in a session, attaches his base resume `.docx`.
+Claude does the rest and sends back a tailored `.docx` + PDF.
 
-1. **Fetch the JD.** WebFetch the URL (fall back to `curl -sL` if blocked).
-   Extract: company, exact role title, location, cycle/season, required
-   qualifications, preferred qualifications, any short-answer/essay questions.
-   **Confirm the cycle is Summer 2027** before going further — if the posting is
-   another cycle, say so and stop rather than tailoring for the wrong one.
+**Inputs Claude needs in the session:**
+- The job posting URL or pasted JD text
+- The base resume `.docx` (attach it, or Claude reads it from the "Future"
+  project if John has uploaded it there)
+- `career-history.md` and `applications.md` — both private; John keeps them in
+  the watcher folder (gitignored) or the Future project. If absent, Claude
+  proceeds from the resume alone and says so.
 
-2. **Load context.** Read `applications.md` (any integrity notes at the top are
-   binding) and skim the relevant parts of `career-history.md`.
-   **NEVER fabricate metrics, titles, dates or claims.** If a preferred
-   qualification is almost-true, tell John the small concrete task that would
-   make it true instead of writing it as though it already is.
+## Pipeline
 
-   Style rules: keep bullets to exactly one or exactly two rendered lines,
-   plain human voice, no filler. If `writing-style.md` exists in the repo, its
-   rules override these — read it first.
+1. **Fetch the JD.** WebFetch the URL (fall back to the pasted text). Extract:
+   company, exact title, location, cycle, required qualifications, preferred
+   qualifications, any short-answer questions, and eligibility lines
+   (citizenship, sponsorship, clearance, major, class year).
+   **Stop if it's not Summer 2027** and say so.
 
-3. **Pick the base resume** from `resumes/` by lane: `swe`, `ai-ml`, `cyber`,
-   `quant`, `startup`. Ask John only if genuinely ambiguous. For a
-   high-priority role, confirm the local `.tex` is current — his editor copy may
-   be ahead of the repo.
+2. **Load context.** Read `applications.md` (skip if already applied there)
+   and `career-history.md` for the long-form facts and numbers.
+   **Never fabricate** a metric, title, date, tool, or claim. If a preferred
+   qualification is almost true, say what small task would make it true.
 
-4. **Tailor with minimal targeted edits** — reorder, bold, and swap bullets
-   rather than rewriting. Cover every preferred qualification that is truthfully
-   claimable and **bold** those phrases. His strongest reusable material:
-   RISEE Finance (nonprofit iOS financial-management app, Swift/SwiftUI, in
-   beta, co-founder), Volee (iOS tennis matchmaking app, co-founder), Python GUI
-   automation tooling built solo for engineering teams at John Deere and still
-   in use, plus GreyHat / CP@GT / DIB Cyber Compliance VIP for the security and
-   algorithms lanes. Pick the two or three that match the JD; don't cram in all
-   of them.
+3. **Pick the lane** from the JD — `swe`, `ai-ml`, `cyber`, `quant`,
+   `startup` — and use it to decide what moves up. There is one base resume;
+   lane changes ordering and emphasis, not content.
 
-   Save as `resumes/out/Dsouza_John_<Company>_<Role>.tex` — never overwrite the
-   base version.
+4. **Tailor with minimal edits** to the `.docx` (use the docx skill):
+   - Reorder sections/entries so the lane-relevant ones come first.
+   - Swap in bullets from `career-history.md` that hit the JD's preferred
+     qualifications; swap out the weakest bullets to keep one page.
+   - Mirror the JD's own terms where they are truthfully applicable
+     (e.g. "NIST 800-171", "incident response", "Core ML").
+   - Keep John's style: every bullet 1–2 lines, plain voice, real numbers.
+   - Do not touch the header, education block, or dates.
+   Save as `Dsouza_John_<Company>_<Role>.docx`; export PDF; verify ONE page.
 
-5. **Compile:** `tectonic <file>.tex` in `resumes/out/`. Fix LaTeX errors
-   (common: a bare `&` must be `\&`). Verify it stays ONE page (`pdfinfo`, or a
-   page count via python). Open the PDF for review.
+5. **Coverage table.** Each JD requirement / preferred qualification → where
+   the resume now addresses it, or "gap (honest)" / "gap (30-min task fixes)".
 
-6. **Report a coverage table:** each JD requirement / preferred qualification →
-   where the resume now addresses it, or "gap (honest)" / "gap (30-min task
-   would fix it)".
+6. **Draft short-answer questions** in John's voice, as drafts for his edit.
+   Never submit anything.
 
-7. **Draft any short-answer/essay questions** in John's voice. Show them as
-   drafts for his edit — never auto-submit prose.
+7. **Eligibility check.** Restate every eligibility line from the JD
+   (citizenship, sponsorship, clearance, major, class year, location) and let
+   John confirm. Do not assume his status.
 
-8. **Check eligibility explicitly.** Many defense, national-lab and federal
-   postings in this watcher require US citizenship, and some require an active
-   clearance. Flag the requirement and let John confirm — do not assume a
-   citizenship or clearance status on his behalf.
+8. **Log it** in `applications.md` with status `prepared`, the filename, the
+   date, and any deadline. When John says "applied", flip to `applied`.
 
-9. **Log it:** add or update the entry in `applications.md` with status
-   `prepared`, the resume filename, the date, and any deadline found in the JD.
-   When John later says "sent" / "applied", flip the status to `applied`.
+9. **Hand off.** Send the `.docx` and PDF. John edits the `.docx` directly
+   for wording changes and re-attaches, or tells Claude the change.
 
-10. **Hand off:** tell John the PDF path. If he wants wording changes he edits
-    the `.tex` directly and says "recompile", or tells you the change.
+## Base resume facts (from the Sept 2026 general version)
+GT CS, AI + Cybersecurity threads, Leadership Studies minor, May 2029, GPA 3.65.
+Experience: Volee (co-founder, Jan 2026–), Biofilter intern (Budapest, summer
+2026), Walmart. Projects: John Deere Python GUI tools, RISEE Finance,
+Congressional Bill Outcome Predictor. Leadership: Study Abroad Peer Advisor,
+DIB Cyber Compliance VIP, AI Safety Initiative Fellowship, CP@GT, GreyHat.
+Details and extra bullets live in `career-history.md`.
