@@ -6024,7 +6024,7 @@
     "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002"
   },
   "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002": {
-    "title": "2027 - Internship, Quantitative Research",
+    "title": "2027 - Internship, Quantitative Research and Trading",
     "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002"
   },
   "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002": {
@@ -8066,5 +8066,45 @@
   "https://jobs.smartrecruiters.com/grab/744000148399141": {
     "title": "Intern, Software Engineer Mobile",
     "url": "https://jobs.smartrecruiters.com/Grab/744000148399141"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000148452349": {
+    "title": "Internship AI Engineering Intern - Manufacturing & Logistics",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000148452349"
+  },
+  "https://moog.wd5.myworkdayjobs.com/en-us/moog_external_career_site/job/mineral-wells-tx/intern--hardware-design-engineering_r-26-19887": {
+    "title": "Intern, Hardware Design Engineering",
+    "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Mineral-Wells-TX/Intern--Hardware-Design-Engineering_R-26-19887"
+  },
+  "https://moog.wd5.myworkdayjobs.com/en-us/moog_external_career_site/job/mineral-wells-tx/intern--software-engineering_r-26-19888-1": {
+    "title": "Intern, Software Engineering",
+    "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1"
+  },
+  "https://ffive.wd5.myworkdayjobs.com/en-us/f5jobs/job/tel-aviv/software-development-intern---waf---waap_rp1038705": {
+    "title": "Software Development Intern - WAF & WAAP",
+    "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Tel-Aviv/Software-Development-Intern---WAF---WAAP_RP1038705"
+  },
+  "https://gevernova.wd5.myworkdayjobs.com/en-us/only_confidential_executive_recruiting/job/remote/grid-automation---software-intern_r5052362": {
+    "title": "Grid Automation & Software Intern",
+    "url": "https://gevernova.wd5.myworkdayjobs.com/en-US/only_confidential_executive_recruiting/job/Remote/Grid-Automation---Software-Intern_R5052362"
+  },
+  "https://trendmicro.wd3.myworkdayjobs.com/en-us/external/job/manila/cybersecurity-intern_r0005760": {
+    "title": "Cybersecurity Intern",
+    "url": "https://trendmicro.wd3.myworkdayjobs.com/en-US/external/job/Manila/Cybersecurity-Intern_R0005760"
+  },
+  "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002": {
+    "title": "2027 - Internship, Data Engineering",
+    "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8623972002"
+  },
+  "pw::https://www.swissquant.com/careers/::#e3b0c44298fc1c14": {
+    "title": "Page changed - check Quant SPA: swissQuant Group (may mean applications opened)",
+    "url": "https://www.swissquant.com/careers/"
+  },
+  "pw::https://www.qube-rt.com/careers::#e3b0c44298fc1c14": {
+    "title": "Page changed - check Quant SPA: Qube Research & Technologies (may mean applications opened)",
+    "url": "https://www.qube-rt.com/careers"
+  },
+  "pw::https://tsimagine.com/careers/::#e3b0c44298fc1c14": {
+    "title": "Page changed - check Quant SPA: TS Imagine (may mean applications opened)",
+    "url": "https://tsimagine.com/careers/"
   }
 }
