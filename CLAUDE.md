@@ -226,11 +226,13 @@ run. Read the Actions log to see which sources actually resolved.
 
 ## Pending / next upgrades
 
-- **`SimplifyJobs/Summer2027-Internships` does not exist yet.** The moment it
-  launches, add it as a `github_json` source — ~17k listings, by far the single
-  biggest coverage upgrade available. Same for `cvrve` / `Ouckah` /
-  `speedyapply` if they ship JSON feeds. (Probe:
-  `https://raw.githubusercontent.com/<owner>/<repo>/dev/.github/scripts/listings.json`)
+- **SimplifyJobs/Summer2027-Internships — ADDED 2026-09-09** as a `github_json`
+  source and as the first `autodiscover` seed. ~1,400 active Summer-2027
+  listings across ~350 companies, updated daily; by far the biggest source.
+  `skip_categories` drops Hardware/Product; `lane_by_category` maps
+  Quant→quant and AI/ML/Data→ai. The older `vanshb03` tracker had 0 active
+  2027 entries that day and is kept only in case it revives. Any source can set
+  `silent_baseline: true` to be recorded without a catch-up email on first poll.
 - **Verify the 16 unverified sources** added 2026-09-07 (gotcha #12).
 - **USAJOBS is configured but inert** until `USAJOBS_API_KEY` / `USAJOBS_EMAIL`
   secrets are set. Free key: <https://developer.usajobs.gov/apirequest/>

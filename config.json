@@ -882,6 +882,7 @@
       "name": "AUTO-DISCOVER (all boards found in trackers)",
       "ats": "autodiscover",
       "sources": [
+        "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
         "https://raw.githubusercontent.com/vanshb03/Summer2027-Internships/dev/.github/scripts/listings.json",
         "https://raw.githubusercontent.com/sndsh404/summer-2027-internships/main/README.md",
         "https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/README.md",
@@ -986,7 +987,27 @@
       "seasons": [
         "Summer"
       ],
-      "verified": true
+      "verified": true,
+      "note": "As of 2026-09-09 this repo had 0 active Summer-2027 listings; SimplifyJobs is the live one. Left enabled in case it revives."
+    },
+    {
+      "name": "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)",
+      "ats": "github_json",
+      "url": "https://raw.githubusercontent.com/SimplifyJobs/Summer2027-Internships/dev/.github/scripts/listings.json",
+      "cycle_year": "2027",
+      "seasons": [
+        "Summer"
+      ],
+      "skip_categories": [
+        "Hardware",
+        "Product"
+      ],
+      "lane_by_category": {
+        "Quant": "quant",
+        "AI/ML/Data": "ai"
+      },
+      "verified": true,
+      "note": "Added 2026-09-09: ~1,400 active Summer-2027 listings across ~350 companies, updated daily. Biggest single source in the config."
     },
     {
       "name": "Tracker: NUFT Quant (auto-discovers open boards)",

@@ -153,13 +153,23 @@ def fetch_github_json(firm):
     url = firm["url"]
     cycle_year = str(firm.get("cycle_year", ""))
     seasons = [s.lower() for s in firm.get("seasons", [])]
+    # Simplify-format repos tag each listing with a category. Optional config:
+    #   skip_categories: ["Hardware", "Product"]  -- dropped before filtering
+    #   lane_by_category: {"Quant": "quant", "AI/ML/Data": "ai"}  -- lane hint
+    skip_cats = {c.lower() for c in firm.get("skip_categories", [])}
+    lane_by_cat = {k.lower(): v for k, v in (firm.get("lane_by_category") or {}).items()}
     r = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
     r.raise_for_status()
     out = []
+    n_cat = 0
     for j in r.json():
         if not isinstance(j, dict):
             continue
         if j.get("active") is False or j.get("is_visible") is False:
+            continue
+        cat = (j.get("category") or "").strip().lower()
+        if cat and cat in skip_cats:
+            n_cat += 1
             continue
         title = (j.get("title") or "").strip()
         company = (j.get("company_name") or j.get("company") or "").strip()
@@ -181,7 +191,10 @@ def fetch_github_json(firm):
             "content": "",
             "sponsorship": (j.get("sponsorship") or ""),
             "year_text": f"{title} {season_text} {cycle_year}",
+            **({"lane": lane_by_cat[cat]} if cat in lane_by_cat else {}),
         })
+    if n_cat:
+        print(f"    ({firm.get('name')}: {n_cat} listing(s) skipped by category)")
     return out
 
 
@@ -1729,6 +1742,7 @@ def main():
     current = {}        # key -> job (everything relevant right now)
     grouped_new = {}    # firm -> [jobs] (relevant AND not seen before)
     sigs_this_run = set()  # company|title|location, for cross-source dedup
+    baselined_sources = set()  # sources silently baselined this run
 
     # Hard ceiling on the whole sweep. If we blow through it, stop polling and
     # send what we have -- an email with most of the roles beats no email.
@@ -1761,6 +1775,15 @@ def main():
         except Exception as e:  # noqa: BLE001 -- skip any firm that errors, never crash
             print(f"  x {name} skipped: {e}")
             continue
+
+        # `silent_baseline: true` on a source: the FIRST time it is polled, its
+        # roles are recorded as seen without being emailed (they still land in
+        # OPEN_ROLES/TOP_PICKS). For adding a huge tracker without a 1,000-role
+        # catch-up email. Later runs email its new roles normally.
+        silent = bool(firm.get("silent_baseline")) and f"srcbaseline::{name}" not in seen
+        if silent:
+            print(f"    ({name}: first poll -- baselining silently)")
+            baselined_sources.add(name)
 
         # A source can declare which lane its roles belong to (that is how the
         # startup tier is expressed -- see `lane` in config.json).
@@ -1820,7 +1843,7 @@ def main():
                 continue
             sigs_this_run.add(sig)
             current[gkey] = {"src": name, "job": j}
-            if gkey not in seen:
+            if gkey not in seen and not silent:
                 grouped_new.setdefault(name, []).append(j)
         time.sleep(0.3)  # be polite between firms
 
@@ -1828,6 +1851,8 @@ def main():
     new_seen = dict(seen)
     for gkey, rec in current.items():
         new_seen[gkey] = {"title": rec["job"]["title"], "url": rec["job"].get("url", "")}
+    for name in baselined_sources:
+        new_seen[f"srcbaseline::{name}"] = {"title": "silent baseline marker", "url": ""}
 
     if first_run:
         grouped = {}
