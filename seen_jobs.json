@@ -8170,5 +8170,909 @@
   "pw::https://auroraer.com/careers/::#5fecf29568bc90fe": {
     "title": "Page changed - check Quant SPA: Aurora Energy Research (may mean applications opened)",
     "url": "https://auroraer.com/careers/"
+  },
+  "pw::https://undergradresearch.gatech.edu/pura-salary::#6f59071483659e0e": {
+    "title": "Page changed - check GT: PURA salary award (may mean applications opened)",
+    "url": "https://undergradresearch.gatech.edu/pura-salary"
+  },
+  "pw::https://undergradresearch.gatech.edu/::#6f59071483659e0e": {
+    "title": "Page changed - check GT: undergraduate research opportunities (may mean applications opened)",
+    "url": "https://undergradresearch.gatech.edu/"
+  },
+  "pw::https://atcoder.jp/contests/::#fdbcbec2d72907bb": {
+    "title": "Page changed - check Competition: AtCoder (may mean applications opened)",
+    "url": "https://atcoder.jp/contests/"
+  },
+  "rssfeed::https://news.google.com/rss/search?q=%22trading+competition%22+(undergraduate+or+students)&hl=en-us&gl=us&ceid=us:en": {
+    "title": "RSS: Google News – trading competition (students)",
+    "url": "https://news.google.com/rss/search?q=%22trading+competition%22+(undergraduate+OR+students)&hl=en-US&gl=US&ceid=US:en"
+  },
+  "rss::6da3e24cf8d3d7b5": {
+    "title": "Baruch College Wins First Place at 2026 Rotman International Trading Competition - Baruch News Center.",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbG05UkEzT1pvNjRzbjdaTVdCNGZSZ0Y1Vk80VWJEOVBIajlHTVc3RFptRWpMVC01SElvU3liNGdxWkl6YVhBelJnRFJmeXRSQ19GaGRXRWdFNzNaWGZrdGRxM09XS19tekMwRTZITkhWdnNMdGQtc2UySDNnNlNSa1J3bEE3MkJGYlBvM3o3dXF3LVNKU1I4c3FSMTQ4aFk4Q0xzQ3FPdEpYRWNwcE9KVU1jd2tHNy1waDNtUHhn?oc=5"
+  },
+  "rss::2999c12da4240640": {
+    "title": "Babson Team Places 13th at Rotman International Trading Competition - Babson College",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFAweXVYQlZaSS03ZXVUWk5yWVZPU1ZteVN5VFlkSE5XNG4yb1NDVzVNTUhjd1A1SGYtWFhVaVhzWWZINGpiS0hnZF9lQzdMWGkyRVBlZi1QU0s2ZVl6OGRaaGM0RHVaVXhxbzZRcnVNOVRpSHpndEFV?oc=5"
+  },
+  "rss::3716b404a1f4e8f3": {
+    "title": "Students gain real-world insight in first Capital Power Energy Trading Competition - University of Calgary",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFA5NHItRXViUWpTVEhoc1FrM3c1QVNBMWNMbnRVMUk2YmpBVkhMb21oUXJVRE96WC1JSUQtY1dJMUtwcmo0SklGQlNqMkJqZnoxZnZUM3h0MzBBcnhUMzhOem8yd2RfS2tvS3A4QWhLMXplZnY0QV92VTFuc0k?oc=5"
+  },
+  "rss::cafe05bf7fc881b1": {
+    "title": "Priyansh Bothra '25 Wins 15th Annual Babson Trading Competition · Babson Thought & Action - Babson College",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9QMHZBdFpYdjVQRS1NcDVEMzgyUnRTRmx5bmxobHhPS2Y4RHRVcUZsb29NUFVkRE1ZdDZRbWVCbjF3YTdWU2JTaUdxVFJSNUFmZVJNNDd3UTRwMFlLWC1pUHgtOEl6NlZZMmdfUFhBdE5yMC1UenNv?oc=5"
+  },
+  "rss::50429ba2cbee7baa": {
+    "title": "Virginia Tech students take second place in commodity trading competition - Virginia Tech News",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5ZLVlsUFMtVkhpR2hWVlIwMmFNSmJZVHRKRmpqYk9nS1RBWUQ1NllKUnExUzllMlBaTmpaTXB3X3VvZUtVT1EtVkVrZVJpNmJDUGpUUHdleER6VlZvem10Qk9zbFBnQkpNVkxBR0NtRThwZw?oc=5"
+  },
+  "rss::bc53d644000acce8": {
+    "title": "RIT students win international Bloomberg trading competition - rit.edu",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdXZlZ2FjQUVLNGhwWHdOakJHRjN6SVo5bEl6MlZDQy1yTF83eEhDamMyN3FEbnFMZGNrQ21IeTU1VlIzeEpmekIyTE5ZSFBRVndCcXc4dGpMWG5MeHRkMlc1MDFDdEF0LTVCN0l3TDBjdWNTYmh6dzZBeDV2QTFSV092dDloNVc1STNDWFZad2d3TWN6Unc?oc=5"
+  },
+  "rss::26640207355c5b21": {
+    "title": "Saluki student traders among top five in international financial trading competition - SIU News",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOM3pYdTZDQXFiMkdfcnFxcVJrR3BYNkhEb3VtWkFvekhPYUVQOVJ1ZlN3YXI3VGJKNmp4UHJrYnFOcldwcGZmNkZTeVplVFNBYmd0eVk3X2FSZndVRllWWmZfaUhKYXltZjZucFNDWm10clV1M3FlNEJmYTUwQW0zcXJrNXZqS2dxVXZGeUxoSjhZTldyQjJ2elg0M1Vvd2dmTk1RSnBwM05peGFtTXNURUZ3TTBfUmdLaUNKaUxUUXIxZw?oc=5"
+  },
+  "rss::a2308fa6a331a320": {
+    "title": "Muma Trading Challenge lets students experience highs and lows of market - usf.edu",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaEJKdHNqd0p3VW5meU9wOTJBNkU4bGVLTU14RjJhTHZGNzFoaFR1MWpCM0VrdnZSX3VFM3FiVDVyY3hmUUFXSi1wTGkxbHBpMmpUNnpXLUtNNnpQOUt4c2RIY1ZQMF9ZX2k4Y210Umg3bG9DaEJxNWtTbG5ZVEhTdDV6MzBzdw?oc=5"
+  },
+  "rss::9fba29ba2fc33f30": {
+    "title": "Student Trading Club competition winner receives $500 award - The Pennsylvania State University",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZFZUWi0wSGxZTWZnQW5ISEwxT3dtczZ0Z0Zrc2VLWE5GNHBsZEhqa0YwR0ozMkQ5c3lsWmVpZWhiX0FjWnpJZlVlM3k2QjlwT1FGNFNIMnJHZzdKR2dFbkp0d3FENUJzSkhOM0ptdEhvMEViSl9ybW9HNl9hOTNMb2F1M1ZxbjVmX183V091S0xWQXZDS2Q1bUF5bE42MzF4?oc=5"
+  },
+  "rss::2f84f1ed4a403a42": {
+    "title": "UCalgary students compete in 14th annual bp Canada Trading Competition - University of Calgary",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNeUJEUXFScFBHUVFKRzRLRXYyZGpxRzFWam94Y0VQZjFla1VqZmVSQkp2Z0trOEFOZ0s2bklDd2JLdTI4UEVZNnV3aEREVXRzdG9zeFZPbGt2S0drUmF3cU1VeUtlaDQwWDJCbS1RSmdtVDh6ZHZSRzRFemVOMVJMWkFJejZ0amRsdDVUSXdBWWdab2g3Z3k0?oc=5"
+  },
+  "rss::1ec0f6e7ea166b72": {
+    "title": "Baruch College Clinches Second Place at Global Trading Competition - Baruch News Center.",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWGhOcjVIRDFLanJPSzdvdHpNY1g3UFY1TkVUZEZ0V3pXa09wNjNvbFRQcUxJdDk2eGxEUzBpRkNIMnpXMHZpa0ZxSk9VSW1sSE9QVTA3SXJVMjZhM2wyV0s5SkNsVnJsVHd1X0pYVkd3R3A1dHQtWHFOUzNGOS1CaHdsMVNQa3pmV29feThFYXZJT0w1MlpfTUd5bDJBekdtdHdQSEZxcHROSk0?oc=5"
+  },
+  "rss::9df7c401042ee383": {
+    "title": "Alexander Bowers ’24 Wins 13th Annual Babson Trading Competition - Babson College",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0xMjdmbzZ1Z0hCYUVxOE5XclNlNFBxNDhxXzdGLUtzaHJvRDkzU3h5VzhYTjJiek9mcUJtazhCbkp6My1JUHFoU3BWcWVSOEdSYlF6T0tMRFdfX2lyeVl3NXR0QU55UzZtVnBVN2prQXZmcVZQYXZJ?oc=5"
+  },
+  "rss::314eba4d6e8f06bf": {
+    "title": "Baruch College Wins First, Second and Fourth Place at Top International Trading Competition - Baruch News Center.",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTW5mQ0FLY3B3T2p3UVltSjBfSkhpY0pvcTUwc0l6MVBVWVhGaE43REUzWHBUV01zNmpjclhqSlFiN0dZMS1kVVZXS2lIbFp4ZWRiSTU1NHJOOGFJeHJEOVlOenRjdlo1M1hyRDVPMWptNTE2UFhUWENLTGpHZFZzSTlvUmRNTGtwYktMTjlka21TSjI4ZzBpRWQwWE5VTlpuZ1M2SVNzWkJQYkN5XzFxRkJzNkN2aXNSdmNabE5Xdw?oc=5"
+  },
+  "rss::a8838bd816412106": {
+    "title": "Babson Team Places 6th at Rotman International Trading Competition - Babson College",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBRVHBqUWo1Q29ackF5eWhvV0d0YWJFU3R5eE9KdFZOQnJkUGhSd0VLZjNHRi12NWJvcTRmRjRNLVNjQk5lNDA5eHRYR2lJUkY4bEc5emUxUk9ERElRUjZ3NEZmSjZGNFRWR3ZPZ0NnXzBiM1MtdGR3?oc=5"
+  },
+  "rss::d80e9a1411ac132a": {
+    "title": "Baruch College Again Dominates the Rotman International Trading Competition - Baruch News Center.",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTFdqeVl1V2lpRmRjTTczbGJxYi1uSVhoRW9tMEJUdU1SSFJRUFlzaE9SRlV6Z2hMOTUyc1VEblNaSVd3N01zT3cxeWZqTEJkeDF2ekVWYkR3dWdUZTZkQUtmbUM4MzN1ZklzNktkdHZiZnowZC1kOUVEUFdKeDJtLVQyWThrVHBjb3ZtUG40NHNmeWRnRk51WEJnNzFadGpwOF81Sk5CUVhnZXRaMTgyRGJsUDBrZw?oc=5"
+  },
+  "rss::3b232f2fc1b07aef": {
+    "title": "Carlos Roberto Dias Neto MSF’25 Wins 14th Annual Babson Trading Competition · Babson Thought & Action - Babson College",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5FR3VjRUV4Y2EyeEFfMTB3Z1cxclgwTmtjaDJONnd2RXZUajYxNVNac01lLW13VThRZ0NuaFAzZHJ5ZE96MXVuVlVYcmRFSEJDWExESFVwTUlIYWQ4TU93ZFJUYW1QRFdTM2hVSVRjTnBwVzlfWFJJ?oc=5"
+  },
+  "rss::f5e4bad97f2582ba": {
+    "title": "Baruch College Victorious Again at the 2021 Rotman International Trading Competition - Baruch News Center.",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQSUc4UXNORllpYU5lTm04LUlRaWE2azBacU1DZDFJSWNRWHZ3YWxySlA0RFhxbXd4QmpwVHJSNlFZek9YUDUtNWJJTnQtanRqMk9LQnpENjFFOWUyRTZFaWRuUndzRmhVQzByVi1CSjdBT2tmdjBkUkY0WFVoMFBVZVJyank0djJMNXloNmhBNjh3TUM0WG5YV3RRZ1pTXzB3YzhmSFRndXJWdV9wYTNaSGV0c3pEMHBKSE5BZjctcDUxQkk?oc=5"
+  },
+  "rss::8cb7e3162f1beb68": {
+    "title": "Gabriel Papa ’23 Wins 12th Annual Babson Trading Competition - Babson College",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE0tR3RNYkpGcHllbGtqT1pMUHIwdHE5VHRvdFdRS01EZU1vWG1nWFNOY2Z3ektyRkV5MEluMzQ2ZmxydVQ1QnQ2cFp3VEw3elE3ZGgwdG1RTWlqX1EzOXBoUDRONS1PcXJ0dlgwYm5qZVZRVzFHWEpV?oc=5"
+  },
+  "rss::f9a9496c97b7fd0f": {
+    "title": "Baruch College Takes Top Honors in 2020 Rotman International Trading Competition - Baruch News Center.",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPelZOWWQwSWRaWnFhM3drSnVjN0Z6c0JqS2VJNnFXcm1jbi0zYkotcDY4bFFKNXpxbFZuZWZDaTVRS3ZkMUh6aG9NVzgzYjMxUWVmZ0MzMXpZSTBVYkF6NDJzWkV1eW5jQllWZVdGaVZNRFktTGVXRXpGa3E3cXRNS293MkRlUXZTUjdyWm1JcnBFTUtIaXpQUFp0Tk5UV3VPTm44MTdiLTlfa2hmdS13dS1MRUpKMGtRVTVlV2N3?oc=5"
+  },
+  "rss::0ebfe532ee76430c": {
+    "title": "Babson Team Places 7th at Rotman International Trading Competition - Babson College",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE40bjRXeTl2UHNiT3BWRTFYNFZCX0hrcWN3SGdZMWtWQzdYeWdOdzN5RmN5aEh6Z2I0eEsxUDVQbk01WmE1RXNyWWFnVFB4TmRhVjE4QW5RalVuNGM2UGdWc2FrdmtaRmdrNi1WNVhuTGh1di1SUHVv?oc=5"
+  },
+  "rss::8fa68e646b8fe785": {
+    "title": "Georgia Southern economics students top performers in national trading competition - Georgia Southern University",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPcThaRDd1LXRpTDNFY1BoaXZ4eDhxS1VhWjVMbjZfRjRXYTNzSlFKbkxlTDR5MWJOY2pPYktPdlJWVGhua2R1b3Z0MkUtYTA2eDZBMGtSbHFNRVZEMkFmQkZOclhvbEUxV05mXzQ1VElRNDBvNEN1YU9wZ0dfV1VsZGxQMVRoRklqVGlyWHBxVW5TMGtHVXl5UXpuUUdmR0tVTFBhZ2NJSTNwWFFoRmZTeTBJMWIxTF9lRVNtck5LNXdULXpiTm9r?oc=5"
+  },
+  "rss::7067061a6bab9cf9": {
+    "title": "Baruch graduate students win Rotman International Trading Competition again - theticker.org",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQd0NlbU9aSWk1dlptdVF1UVc4ZUx2QVktM3pVSHdKUjBtNEF0T1RTLWp4RDNRaTFzNGdWbFk1UGNST1ZvYTVCaXIwazUzUk8tLVFwTjFaR1dwSWx4M0tOQ0pjT2JCM25pZXM3VlFMVWctV1RTYy1oMmlUM2FhVzNjaTVnandqaldndXA4UEg4c1QyUDVFY3lXZ0N0SnpxbndWeDlCbHZsUkhxVVFyZk40czVFVQ?oc=5"
+  },
+  "rss::ef21c15ca5c237f7": {
+    "title": "IMC Launches Trading Competition for Students - Traders Magazine",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOc0JtWHFiczk1UWxrbTJpb29PajY2SjFTeUpnY1JlZUtXaldncXRIT09weUpDcWFXNjNLemFYa3hhdm1uRHJQbjFsX3V3M0hHWlZjVWR4V3dYQ1Z6UmpIUXE4YWhXcm9YMHhSc3U0YV9qdE9VbDNGNGhPQ21fYk9pM05Vb3ZHSktuLWRXeGNaMzVEa2FuRnJoUzB6bmpVdDRyWlE?oc=5"
+  },
+  "rss::c64fe0bdc38abfd3": {
+    "title": "Nevada Student Investment Organization places 28th out of 42 teams at the Rotman International Trading Competition - University of Nevada, Reno",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZFpLQmFQS3FfRHhRNnFndGdqT0ZFRDJuWHp5MlVyaTlzaFdRUWRLMENxdFdwT0JGcGt0N3BaVHUtQUxBRGR0M0pYcDV6Um5yLWtvQjh0X2d2MVo0MTlsYUF2eUg4X3pia3d4Ukh4Zm1MSmRRYVlhSUxsak84ZUN6V1ZaSTMyVDdsQ3NHdzYyaEk5VmllYURqLW1YS280U1pfN2NlYkdmWml4VHhTLTlpTUxVaEc5MF94cVR4MkdWTWZOSnpPeXhBeG5oN0Q?oc=5"
+  },
+  "rss::c5106e020f975168": {
+    "title": "Queens College Students Win $30K In Simulated Trading Competition - qgazette.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNaVYxMUxIQjhvZUd1ZmQ0WVB3MGNpS1B3OGszWTRFc3pydWNva1J0VmdWSEpqdGdKY3o0M0xJazVjNFEtRVRSNDZKNVF2Y0QyVmpDWExXeU5aN1RCUUU1Mk4tcU9FRE1LOExuX2NKcmozUThkc2xzZEtwdEJkb1pUVHdsOFkyV2lORDM4N1k3YS1XTVlsTkVoalFzWFJtaTQw?oc=5"
+  },
+  "rss::7c93c2cbaa92ce25": {
+    "title": "Baruch College Students Win First Place in Prestigious 2016 Rotman International Trading Competition - Baruch News Center.",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTDEzcUI2Y1lYRmp1UW5GSDhpclVmWEc4MDRvUDBTU29ZZjJoejhhY1R0VlFZSy1ZZnFjVWpmX0FTUWk4MXltZEdQX1RTSS1YYl9RcXNzWGVTTUhBOWVKSmZzNG8yZklFZHlBN1RQTEhHWldOOENUQlUxZTlLMk51bk9jZms2b0pqWVdGWmYxeHNFb3pxcUZLZng0RmxzWHZiX0p5WW0tcHVQRDFXZlE?oc=5"
+  },
+  "rss::af5cdd2216cbaddc": {
+    "title": "Koppelman School of Business Shines at 2020 CME University Trading Challenge - brooklyn.edu",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUWxxOVl5WWpmVVZOVW9nUkJaa1c4dzZBNE54OUJiN2tETEx6U3dWSlBncWZSdXlCSFMxSDZRVU1HWVoxbENKRVZEanRXRzJlSFVlNGlEc2Z6dk05aVdpdnlNbUVvYV9jWm1waEFMencxSVJpa01ocy1fWVI4d3pYRXlfaW53VVNLc05Jajh3OTlZbHdkakYyYWktQm5EOHBac2ZMa2lxLUIxM0pDVFFZ?oc=5"
+  },
+  "rss::6389660f4a2c6d54": {
+    "title": "Spears School students earn top-20 finish in prestigious Rotman Trading Competition - news.okstate.edu",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcDZJLUNoSGE0M0VqMk5ZNFM5TkdLYktLSndQcXpCRFU4SkVOQ1ViVlJKOGJOTHBhQmdRRndPbVFRM0hiMHR6cGV3RlAwZ3Q4NlBHZU5vOVdKY0pjcVBFbU5SZGxCZ3NiQmxVQTA0ZFdKbkFfS29ZdFk0OEM1UnZyejZxSmtKU0E5VzU3aTc0NWVWQkg3ZFZJN3VaUVJGbVRfb3RrcDZxZTN2WTgwRWJoNVlQOVl2VE5pd1Q5b01wVUtmeFlJSlJMT1RtQQ?oc=5"
+  },
+  "rss::e2a2402df96659c1": {
+    "title": "Baruch College Hosts First-Ever Alumni-Student Trading Competition - Baruch News Center.",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOVzh1VE1CWHFaeFlyR1p2a1k4ckV4RkZEeHlhdzVLZmZxTWlFb0h2ZVk4YmpVcmQxVXc2aXpKcV9pUHdjRXFMbUdfSVFiSXFmUlNkMmN3Z3BqdUs4YmFVV3ktUGpWMC1MS1F5TlpLcmlvOGI5VHkxNk5Gb0haYkhpRnBHSFhINzllT0pzZU5ZVmhXb3pXMllXQU14U2pwMmRvZ2xfUXVGNERYQUk?oc=5"
+  },
+  "rss::acc06c5b15a1f853": {
+    "title": "Gatton Students Excel in Stock Trading Competition - UKNow",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSkFUQ21NXzRVa2pWczM2V2YwSnpJZDRIcm9UeW8tSmZCcFFtOFpfNXdfVnN3Wk5ZYWZBSEFRTFkyVEQ3OTNVNDJRbnpOd29WV25fZ0UtZjlaVUtCVThlN08zUmhvSndBclpDQ1ZNMUpsU095N0ppS0NfRXJRS0RYRFhRdDV0TXlXLWc?oc=5"
+  },
+  "rss::93e0bd8f0dc85d7c": {
+    "title": "Baruch College Dominates Traders@MIT Fall Intercollegiate Trading Competition - Baruch News Center.",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPU1JmU0V1ZUVpYjh5Y3IzV29rZ1FpTjNRZzdRUVZUbk1XYmN5ZU1FSnA1YkpBSTBSS2g5UnRNVHpYbExnWVFJdlZZOGkzRnhfbGlSZXpabUwwN29vRUdVaE1DWlN5NWlRWkVUb2p3Q01KNTBZclI4bkdlM0ZwQmFRMjM4N0JKSlhLWjRTSDZtWklPNkU3ZU0wRU9uM0hvMVFONTBPOUJ4Nzg2cGUzZnBtYi1MUERfbGNWdkQ5Q3JoMENFYkpPZDBRaXRWdDdtNzlFbzJCb2RoOA?oc=5"
+  },
+  "rss::836907c8e657001a": {
+    "title": "Baruch's Unprecedented 2016 Rotman International Trading Competition Win - Baruch News Center.",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNblNZeU9rUEdzVy0zajhBU2ZxQWQyaFBjWW5oczBYTzdpUXRiNEpIZ3lXSFdPMHpoRUp5NDh5S1F5M0I3WmFiUUZfZVdONlpfdGQ0VE9Mby15ODcxUEhnQlJmR1d5UHp0cGJDV1FaREpSdWVHczN6YWRkYjJWRS1uRkdoa3RCMXpoR0dMb1c5TTBxS0RidWRwOWZQd2E0RTZ1Qm5yY05CUU9tb05MT0ZPRGxHWUZYNlk?oc=5"
+  },
+  "rss::9d8dbb3a8d7fea28": {
+    "title": "Taking Trading Strategies to Toronto · Babson Thought & Action - Babson College",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5aRXY3X2o0ZGJhdTZiZ3BxS3hfdy14dlRtcjJzT3Z1TXM1M043U1dMVEo1Mk16YXJJODZtNm5McFlGUjFJRVJ3eUotOXFoMGtwY1pxajRiTUtXTDcxWV9nRmVXWUpLVGxZbGRyaXJMbGVralNE?oc=5"
+  },
+  "rss::8bd9698446cf4c43": {
+    "title": "Foresters compete in Midwest Trading Competition - Lake Forest College",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQaEdFTkFWRmxVR1djSjR6S2pGVERVSVlBcm1ScUEwR0Y4Z1hyVklJU3k2VkpyWjNzOEx1R2cyeUdvY3F2TFFRLUdCeTUza2d0eE9YY1AxZWxtdEd0SWs4QTZkX3Ric19nMnh0dFRKQXoyZlFEdU13Y2xnc2huWU41cWx1cEowcjA?oc=5"
+  },
+  "rss::a002a0cf2c1e3020": {
+    "title": "Students Compete In Online Macro Trading Competition And Win An Internship At Fortress - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQb2RENFdRaWg0Y1hMcWxGSTZDY2k0RVB6My1XWWF1WElsTHpHYzdHV2FBeVFxaWpSNUswQmRYak5IY2RHdmpGUElCQ3lBU0J1cnpneVk5ZGNZOVNBZWtqREFkTERhUTFGcFFJVEw2VXJ4di1XRGNnVEkza0VrREd3RnJ6NVRVQ2VyLW9EUXNIcGtTWGxKblA1V2hmd3VUZUpMZnRIZldyWUE1Wk9FZVhiNVRLSjZuaVdSR1RuWWFnRGVSN0hMb192VE5ZQUdmSnpUcGFJb3RtNDRscDk5djZuVg?oc=5"
+  },
+  "rss::ef1d9ff65e0c89e9": {
+    "title": "Sorry, Harvard and Yale, the Trading Whiz Kids Are at Baruch College - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY2llVmp5TkVsY3RrdllNeWxkQ2VtSGI4ODREYjV2NXdvVHJLOG9BRHpsQnFHV2I3RWpZcDlXbWZnRDZONnEtN1A5anpQcjdrd3hVX25iWEx0VkVVRGFSZ2ctMTN4ZE1ZTnpJLWdCTWI5SEo3NFBsOGlQejNvZHJmV181aEw0U0VFZWJfcklQeldCZmdIdFZTczM5SUpXMnpmNlp6RnVYdjVoUQ?oc=5"
+  },
+  "rss::0ef13d867533b850": {
+    "title": "Students learn about the real life of a commodities futures trader in international competition - Texas Border Business",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNndTRjk3VjVVaTBmdF9sZXVpUldwRkZqWm81eFJlSllJdkg0MmEyUmpoTHlFWXlKR2VFR0EwNktTWnZ1ZTI5SWJ3elJwNmdzMjVWMEdrOWFSRWlIUjNFa1p2cHVlb1dBMTVzOGdBSWpMekJzaHR3ZG1CSUFlaU1zSVhZbGVscEY1cnBONjVDMXFTaDVpaGtFY3k4X1cxY1E1dUFfazAzR0VjV1lfZUFj?oc=5"
+  },
+  "rss::ad706f0c51532423": {
+    "title": "UT computer science students wins Midwest Trading Competition - The Daily Texan",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWnBRLVNVZUFHc0FKd3d4NDY5b3YtVU9RUUdxVDNFMWg0N0MtUWRUSUE3VHIwVHpOYU10WnFpN0dNblozQjlkZGxaVTk0dnQzRmFmMjdXbXd2d1FmZkRHUl9PaHd1TW5udjQ1NG5OSW9fQ0FrXzdiZG03X0tNWUZNTTlPaHlHaW9JaksxU1J5enJSMEd6TlprLWhlTnhVcHZf?oc=5"
+  },
+  "rss::2981ca135949ed58": {
+    "title": "Baruch College Captures First Place in 5th Annual UChicago Midwest Trading Competition - Baruch News Center.",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNXRZRkhDUjZsZk1DcThPeWZ6NHhabVhiNmxydno1U2ZJNE1KUWw1WG1KM1hoemNQc3pHbEstX1pidmhPUTZCSHVqZmZ1WTdOV3NwdVRmWEItTFFaMmZNUTVWZER2My16SnhGaVVnMUx5QmRQb3E2ZHBYMHFrbWhMZjBPNjFKUEoxU3czU2JtRWhJaThCdXRTRjRvY2hEbWtKNElnd2F4YllnOWZ0?oc=5"
+  },
+  "rss::d3630b4c52d95a41": {
+    "title": "ThirdVictoryforMFEStudentsinRotmanInternationalTradingCompetition - Baruch News Center.",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQUHlkalk1emY4QjlSTDRrYzQ5b2NlRkRQZHZiZVlJMmw1Y29hYXZBUEhLVlAtZUJTN0ZZSTFCbjhSanVsa1lpQUFIR2ptbFNwaVlnMUxtVUJZWU5QSmhXLXBlYUNRNGgtRVFTekRGRkgtei0tR3ZBOVBIYWJGNTdqWVgzWlhON3lJMVh4aDJ4d1hjdkZNV1N6RVRIV3RSNU44aWVMWW5YYjRzZGdvMzBLMkhjWUVHOVJ4WWNfakVmMUVfbVdXaDFVd0Z4NXpPZXl4VGc?oc=5"
+  },
+  "rss::1442f81ad00a7276": {
+    "title": "Desautels wins big at trading competition - mcgill.ca",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZTVteGF3NWZvMU1MUDI1b1FKWWNLcGJDSFJoTGtfWmRvM2x0OXV1Z28tazY4WW44bEJKYUdfT0R0UVNad0czZ2p4dlc5NU4tN0E1Yk1yOGlxVU0wMDF4VjRpejlsRHp4WVlJSzl0eG5UT0Mta25hbTZ4VnhoajhpV3dTQnhqcWpwV3piY3hmcy1FeVBFRXc?oc=5"
+  },
+  "rss::c696b49c1a827483": {
+    "title": "IMC Announces Team of Australian Students as Winner of 'Prosperity' Global Trading Competition - PR Newswire Canada",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNNUxvMHZsbldQWG9leGQxTWpRWFVLVVFJX3hMNUc5aGF3X0hUVHBEMXFncDF2NXUtWU5XLW5fdDB6c3h5MkxTNTlrQmtHbUo3X0FRVERGU1VyY0t6Nl9FOFBCeHdRZ1NjbmlaWjNSTUpQNmZXaWp4VFgxRFJZcnFxdnpPeDFORVVLX1NFTUpBX1FXOWtvRTlJTldIY050cXF3MTZhVHNlc2o0SE9hSWlINWs3Wk94M2tWMHp3SUJSR2hUdGZ0djk5bjY2UjRPZTNBT3p2Wk1VUS0tZlpEbXc?oc=5"
+  },
+  "rss::02dfb7b057543df9": {
+    "title": "UCalgary trading team wins gold at prestigious international competition - University of Calgary",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUmhQZEFhZ2FHeEZJQW9JTEZGeC1ZR0JwMmttc2M1SmdRVVBtYzZuaUZOWmRnbUxDWnliSzVDc3B1UXJ2MHJMUkw4c0M4T256VlRKdUM1SlBFenJsV1ZsZWlFbXdFU19Qc0xNWWVoOV94eXllTlVtOUJvS092dmtzRmE3S3V1d2w5YmJ0eXprOTE3UDVZNUlmMmRR?oc=5"
+  },
+  "rss::26a70af3c41c3693": {
+    "title": "Top prize at BP Trading Competition earns Haskayne students cash and bragging rights - University of Calgary",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMGk2Q1BiWlZjMTlGLTltSzRwZFRFX0RtWUlhcXhrMTRnUXpTbGN0ZUVldHVsV1hXdG4zajhfQnBsNjVwd2R5QmFTbGlKUEpxTnBnN3FYVHluaXoxdTlPMHd0bU1oZ01rZFhxRzJPTHJlWkRJemJ0T1h4QUtnUHg2RU1zY3JNMDZyUXIyYjBoMlZtNGtrYjhSeDF3Qkc2eG9XdVhTODB6el9pQQ?oc=5"
+  },
+  "rss::9f02f707c44cd4d5": {
+    "title": "Haskayne students stand out in national options trading competition - University of Calgary",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeHVpLXBlSkdRRlpkd0JkQzFnM2JMMWd5NkoybEVwaTJkYy1MWUQxQWZCaHNQWjBBSGRtZEVrTjNjNmExMkFSUE1VUFQ0U2RvMjVZdFhwNHpVYTM3TlZhOEo2UDA2UG1LN2RRMENmd3ZoOEdORkNLLXE3Vzc4aHpBdDJBOXMwU2djYU1xaERjaDQtR0E?oc=5"
+  },
+  "rss::5164cc40070ca584": {
+    "title": "News | Irish University Secures Historic Top 10 Finish at Rotman International Trading Competition | UCD Quinn School - University College Dublin",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZU02czY3ZUJqeW4yOS04dHA1UnNMU0p1UDRic0V3NFp4WHgxWndyY0hPZFVQcEJOdlBLdTMydi1JWmpBODRPZ1E0THM3ajJibzJSOV9GTE9jQi1OVGJaeUcyaHdqbmx3ZlBaTVVoWmo3LXRCYUJuT29seXZhV1gxclV2alFUNlExUV9fMkp3WGFpb09WUzlQX3BOeGhYT3JpdV9hZ204WmdrQ29sWlcyNmJra2dGeGdaQ1N0WVJqNkY?oc=5"
+  },
+  "rss::f819f12b80bba1aa": {
+    "title": "UQ Business School students compete in international trading competition - UQ News",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOM0FNbDAwVFJaQ1ZyUlRKOEFMS3lPbi1NZGh6bnRQREFUaldnT19rYVVGZFZMX2M0RWpfRUFIV3FNcGZ4QzZDRDNCUTM2cy1pWVRNUVR2d1dOVURLTXNhZ0ZoX1J2R19zQWlqdHR3a0p3aDVyRXY5T19mZEk1bWxCUC1CU3FCTlN6Z0NFRzFzRjFKU2ViWmpvSS1EdXptVjV0dHNFN3ZB?oc=5"
+  },
+  "rss::fce87085d55df29f": {
+    "title": "Congratulations to the University of Waterloo team for their efforts in the 2023 Rotman International Trading Competition! - University of Waterloo",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQa3hPNTdHSHdVaXh6cFFHRU1peFMtY2Q2bjRqRVZUeWVNekJjOXM4c2dxRFJBRWwwSWVpMk5GTnBvdjh4QW9ZdUxEcm5YajZCeVFhbXJ0aHp0WkMybml2LTR1ZE05OWp1dktNVXl1dHBuVlowbnRpZjV5UHdkajQtYkhLeEdqOGpSOWpXS1NsZmMyTGhMLUs0SENEWXgzdHhzcUFIUkVrV2xKX3UtUm5MVkQzYmZBSUQteVlR?oc=5"
+  },
+  "rss::5276c2716449ff83": {
+    "title": "UQ students trade their way to third place in international finance competition - UQ News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEpIcUZISno4Y2ZaNXlHX0loeVE0NHdMZUdYVkE2dDh6TjlnNWNrNlFITTlFYWowdDF5akNRNk15SDY0VnFWZnlzcmp5RzV3eGhDSldaaTJRV0xMci1GdS1ORTJHSVZ3dkFKdlpxQXN0d3dIWHE1Zk82UUN2THJqbUs1Ym92cjl5dnhHa1FCNG5NbkVCVy1qZlZyMEg0cTY4NGtQVng0clZuS1E?oc=5"
+  },
+  "rss::65eb751156c43361": {
+    "title": "TRSM Students Win Trading Case at World’s Largest Simulated Market Challenge - Toronto Metropolitan University",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPNmhwLWdqcXRVSnFucG5EeHJtcExDUkRjUGJnV3BtdlJYal9veWdZdXVGb24zdmZmODBsa2tXcHZEZmlQWHNHVHhDUVJIR3FqemU4UDhCZjdlUXFhSVltcm9sZGxQQ3AxT2lQaXVfR3VEbkN0Z0FTRUVHNmktaDVkZXZfcW9wOEp0LUhBYW1QS0pfR2ZiallXMURQVE9IdG1PVHZTeE5NSC1Kcmk2czBwTUVhNXFqbjNYZVBkTTNXeHVjNzUyQVFvNk5rSTU5aGV1ZzB3?oc=5"
+  },
+  "rss::167a7de3d850f7be": {
+    "title": "Five questions with the Rotman Trading competition team - brocku.ca",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9xM0ctOHRZWTFJb2JvaXFuV0xHNEVoUUxfcVBDdGl4VjZRZXJjZ2tLdGRGV0l1ZnlVdUlXaldLWDFuN3UtV0ZlRVIyd18tWTFOU29ZQkx0TzhtSFJiWmkwNmR6YjY?oc=5"
+  },
+  "rss::d59154ef6da31144": {
+    "title": "DCU wins overall prize at All Ireland Student Trader Challenge - DCU Business School",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPeUFMdlVSS3Y3RUx2eHdnckFLUXp6RGlZNUFZbzN5UkVtaEE3bElHZ0NucndCWjBZbUFHZUJRd0doN0ZFUURxblNBV0pQWTEwOHAyRVVCODY0cC1CSFZHbzBNYS15YjA2a21laHZjUkVoRFFBZHRrbUZMSEMtWXY0eUcwWk9aTEk?oc=5"
+  },
+  "rss::a4744a163ce0dd80": {
+    "title": "Waterloo Undergrad won fifth overall at Rotman International Trading Competition (RITC) 2012 - University of Waterloo",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMktad0xBaUtodmo2bTlzS29PTjdEOUlkbGlGT2gwT3lqMEVJek9XNWhVYVBqdlhEZVh0Y0pIYjVSVEJJS0FINE9DejVBcXNIUDhPV0N1SEVxcUoyMUpiMjB1TkJfdnpEUjJSSTh1LTBWVmNHTUZzUUVzdFNFTVFIRXNoTGxEakJUWHJyRWFkQjY3Um1lNUsyNUhkWWFZUDVQNzNLM20wQWpmdXJkNkJSU3VqMjE3WnBL?oc=5"
+  },
+  "rss::f69aaec869feb2bf": {
+    "title": "AVA Securities concludes trading competition for varsity students - Punch Newspapers",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZlc0T3ZCd0dWQ0lyN01pMjNJM3RDLUF5S0FwU1BUQmpUaFVCeXR1RGxJT3JSVnJ3Ykd0YzlfQ2Ytbi1RY0ZTdERFdk5QN3k1MEVpdHpsUzZNQWRsQUs3d0hKTWV4bnVYemdHRXdSUVMxWEg4Uzh5SEhYQ0VFdDc4M2pqeEk1SDI4MjJwektHQQ?oc=5"
+  },
+  "rss::fe10007a757cb657": {
+    "title": "University of Waterloo Team B places 13th overall and second in Quant in the 2014 Rotman International Trading Competition! | Mathematics Business and Accounting Programs - University of Waterloo",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPc281dzUtSVpvM3JhejMxSURKTkhuRjRSOG1lSExHVnI1SzBxel8wUzhoWUFaUWJsejNwSVN2VUdIOUNPcFVJWnMxWjEzQ0NFUE1HM1ZVUDJwUU9wS3lOcjR0X0tmcUtkOVUtRGdYZmk2WVZkRld2RU5DSHo2VDlYS2xibEJuaEozcnhTQ1FKQ09TQkt1SFZGNnQ3YlBPVWZRcVo2RmF4VERqbFdvUW9KZGZ3Mmp3b1hn?oc=5"
+  },
+  "rss::6d8d2ed1fede1b44": {
+    "title": "AVA Securities Concludes Varsity Students Trading Competition - THISDAYLIVE",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbVp0TFRxMXFqc0pvZGlnS0dUbjdJbVBnTjE2TVVLWC1WamtaeGJEd09BcHIyM1I2RDd1cjdvSV9kcVRrZl91RVVZNEVVNkJVZUxvM1dXOV9tOGRhN2l2TkN2ZXFrS3FRXzY3NF94MzZlbmNxM1FlVHhKeHlVdEFqcGFTXzVXcHNJRElGRGhreW84VFJuLUh3d1ZRb3pwbnl1WFc4?oc=5"
+  },
+  "rss::0cf2c77ca09a4024": {
+    "title": "Six Italian students win the Rotman International Trading Competition - panorama.it",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFgzZTRoUFVlbENPcWVKa2xVTTJDVDNpamc4dm5sZzFFdHBlb1dNbzVOd1MwbjctZnVlWS0tNWdhNURmTFJDdl9GQXR3ZHVsQ1Z5aFRmNnJPMjY5QThBT05COUFVQkd0cWc0R0hBTGdwMlhVTGh0TjkwUzI3YmxrR3ZrYVVxMzJ0eWFfQTBkeHJ5MmxycEZGVVdjS3pPY0VmaWZvUnBn?oc=5"
+  },
+  "rss::a75f91167c991850": {
+    "title": "SLU BSBA Financial Management Students Make It to the MART X CFAP Cup: Inter-Collegiate Bonds Trading Competition Finals - slu.edu.ph",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOSk1VT2M2NnpPeWs3Qm51R1FUU0FlVWJiX0YxTDhsUnY2VUlsM09PS0VZNWJYNXoydk1rY2xfcEZGZ01fYVNMUHlLRU5GSjdfWjZ1TkhQcG4tQk1oMXNNdWlYNkxYRWd0a2JkeThWUmVMN0h2c2NCTTYyYktQakJGMUx1ODBMVzJ5dDAybmRINzRQZUpTWlRvTTBDdmoyZm9DQUFNM2dpSEI5c1pyRUx4eDBBMFhGUnhfNTg5Y0pVMWpkTm80bGYxZnlaVXBBWGY0akh0cHE1T3h2Z2tNcUtFQ2RueXgxX1hiQ3c?oc=5"
+  },
+  "rss::f631e233196364a4": {
+    "title": "Ateneo team declared champion at MART x CFAP Cup: Inter-Collegiate Bonds Trading Competition - Ateneo de Manila University",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOcnRjVzVjZmpSZGNDUS1zWlc1bXpaVk5rWEhMNGJhNHJNSktQcWVfTXhMSDhob1ZXX0ZoZ3ctb0ZjbFJCX1otUzhrZjFrVnlSNzM1Y0NieFRWU1B6QVROc2xOb1JITVpHU0piZE1MM0g5YWRfeHZyeFpDVXNWa28tV19tRE1LcGg0WWlYODBjSmFYRm01d29OMlNjZHR3SkJiZEdZc1BFdjA4eE1VZ0tWX2lIbWQ?oc=5"
+  },
+  "rss::975e207eab707029": {
+    "title": "Babcock wins varsities’ securities trading competition - The Nation Newspaper",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxON2hneEp6QmFXaXJIOTlwUmRHcFV2TWhBbFdlTmI1Q1pXcWRRTTJzWHNKZTMwelhJMWRVXzhOSnFHVFJIV3lXWlpWcThWdUZ3aVpBX3FqblBMelM4YUczYkFLNlVtdS1JR19hb1U5YnZKTEF2OGlQWU94QVVQanhMVzU0Ql84WmRiWHBaLdIBkgFBVV95cUxPWkgzcmZsbldFT1k2R3NIREx2TklhVlRtRVlLQWlhc1NOZGRUa3RFd3hqRkxmdjFJUWVYTWtCZjRIRmY2RHBUcFktVnJqM0liVlZCdEotbTFhdU53UTNwMTZ5Yk5tdEwwSjRtWDJuSDd2ZDNpLWY3R2JFbE1pRG44ZHNtQUVjUHAyUzA4YXJTZkRzZw?oc=5"
+  },
+  "rssfeed::https://news.google.com/rss/search?q=datathon+students&hl=en-us&gl=us&ceid=us:en": {
+    "title": "RSS: Google News – datathon",
+    "url": "https://news.google.com/rss/search?q=datathon+students&hl=en-US&gl=US&ceid=US:en"
+  },
+  "rss::a1a34aa8d1d710fb": {
+    "title": "SPS students finish at top of datathon, innovation challenge - Clark University",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbE5VM285dDNqeVlWeGh2TzlkcFl2dF92TEFwMzU4RGlvZkxtQWYwVUpmU0xjX3NOVWhfRkZmZFdtVnF3Rl9uS2tmNDZUd3FzUlFiclNBeXNfbDlkNkJ0NU1keEt3STQ5S1d2azlCYWcxNnJKUmZlUlZsUkVVUU1GejhIaEx3dDBBN2J6VXRBcHcwQQ?oc=5"
+  },
+  "rss::004f90b53d9a2be0": {
+    "title": "Learn By Doing: Students Demonstrate Talent and Real-World Impact During Datathon - McDonough School of Business | Georgetown University",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPYkdhSHFpWmFLcGJqMV9WOUF1azdaN3JkTkJBSW9ERmlSTHlnd0hyMy1NcVRBY2tnYWNKS2M4cFRCdWdpbXJlYXdiZXJvdklPbEc3OElHN25EdS1HRkNDamlTRndMWjQzck5LWXlHSEs0d1R4UmItZldldi1waVB6S0JPYmhLMGJCOXZrbE9KQ0gyVFQwSl9Fc3NkWTdmUUtwdDBXaHJYeWF5dlRKUVYtRDNHWGdBcFVoUVRyVkx1Q3NvODJn?oc=5"
+  },
+  "rss::bfa369b652f89207": {
+    "title": "Registration Open: 2026 SPE Africa Geothermal Datathon - JPT Homepage",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOYmtYTE9abERzOE9uX3RpNDZTMEdGSk0tOUlBWDRBM0FGbUZYUktfM0QxbTZkR01EUDJGZ3RkUVdVY1pZRjZNX1J5Qm12U3dLZnpVVXVkQktZcDdya2xOQzA1bkxlbGpZNzIzcS02c29idEdmQVU3MFYxT2t6eUlEdFg0MA?oc=5"
+  },
+  "rss::6085d585816fa7e1": {
+    "title": "University Of Maryland And American University Student Teams Deliver Transportation Innovation Recommendations At Datathon - Pulse 2.0",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdlVMa0c1cHpjSzZGRmZKWnY2VmVDSkFBX1BOcXVpUUd0RlV1OGtaVDN2aDZOaFpxSkZVSmdrQ0VKWkZfd1FiLWRtb3lUNkRzNkxMdXRJd2JkRk5SWnZCczZWcER2RWE4ZWpEcDlJelJodEVsUEFqcm4xRU1wOUw5dlA0bVVxT3FwdEt0YU02aWJPQmdubW1WZGx1VTdUZWgzUzJSNWtmMFhZRTlzdm5JelpXT1F2Z0w5WVUyV0VEQ2ZrakhzMVJTQ0Z5SlU2OFJQZU15emdSbVB3d9IB3wFBVV95cUxOUGNTZlZYODdPUV9EQVE2U2dEY2pMcm5sYjFQY0NkaUg3VEJMcmVNT1ZTbTZaSmtabkR4NkdFU25KRmdCZXZBaHR0Q0F3SHlIaHgtR2MtQTBub0dkaldaY2p4SDRpc2tRUFo1U0stT1NPaWxIZDdlcC1SZGx0Uk52YkZkV2ZnejBScVY0bDR5S1FQeHFEM1N3OG0zOEVvaUE3enJCdS1pNDBYeGQzZTdkTU9WXy1nbkZzcmI4THdvWTVOaklpMlprUF9ZN01kYzA3c1N4RGpJU0V3SEJfdll3?oc=5"
+  },
+  "rss::a10137d69da5c8e5": {
+    "title": "MSIS Students Win First Place at 2026 LMU Datathon - California State University, Long Beach",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUjZHSGhxTUpxTGhaWWdqOXBRYjFGenM2Nld0UkZjUy11cWxTUlY0QUMxVU1TSUtQaWROa1ZlSjZKOXg1NVB5SWg1OXFaLWl4Ujd4WU5Ga2RaMlZldVdhdTQyZldfTnNEaEQtX1JXamZta2ZvMWxfd05QTHE5ZGtBbGFsUV9iWnp1S0NUR3JZT3BlRTdTMmtHekVRT1dMdGpIQnVaSEt1SXh3N3ZnTkxxTXRmUHl5Y21tSHBCVA?oc=5"
+  },
+  "rss::70af14608cbbbf4f": {
+    "title": "UEF Information Technology Faculty students brilliantly win Runner-up prize at DATATHON 2026 - UEF",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbHB5NlJPb2hJcGF3NHM4UXNTYzE0LWwwdXVOcEFsbC1wa2FRRW9VamxyN2NfeV9fOEJQR1ItWkR5SXR6QURXZnkzMEVNdzRkdDhpSFVMY2pXQTU0eVppZ29ZVlpnakhzLUVYaWZjWjZvTlVxOXVWZFdORzlHYV9vX2pOOFZtSFdBY1NFYzBvOHpNS3dWTkx6dURtWG92MDVhN1pNUmJiNEd3azJIaDdGNGg5c29QeTlubWdTSHZqVExELW52YXBaVXhiakg1cFlTck5J?oc=5"
+  },
+  "rss::459a39eb2f65e930": {
+    "title": "Data & AI Literacy Datathon - Friedrich-Schiller-Universität Jena",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5LbUx2cDExX2hiVEo0N05SdnV0OTQ5a2dKODNLWUtBMjZiRXhyZW9oWDdOYnhERWZDMHlQTlF6TzZZVnBwdi1DTldQczdlUm1HcTQ3bGVmazVOVnZwWEp5bk40dUdXUUhZX1JB?oc=5"
+  },
+  "rss::8416288f489a6481": {
+    "title": "ETAMU Students Turn Data into Real-World Solutions at Alteryx Datathon - Texas A&M University-Commerce",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNZk1Bb0NlaTMxcEUxVXIzMlI1ejRCSllSQlR4bmJhSWVDaFgzODlJdlNaVVFxd3NpMVR5cUNiR1JpS1VnYWVaenRyRWhfX080RURLTHpjZmhsRGRoYUVobDYwcnUtWE1na0ZINFJ6QmFVRHZXWjRaTlQ3bW43eExFSW5wLTgtVFNQSXF0RlVCa2pkdTdwRl9kRkNkVW02YW8?oc=5"
+  },
+  "rss::32fef2c359efeb47": {
+    "title": "Ross Business+Tech Hosts Annual Datathon - The Michigan Daily",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVDdhdDM1Z0hkd2pSbEFBT2JhNnVQb2tHeXlxMlo5TmRPVUViNWkzVnNjT2hEdHIzeGphNllCZ29qVU1fcllsNVlLaGRpNTdFSmdEcXZuTGYwV0JnV3lyY1dNSXRXQkRtMzJuWDNqc0JGNjYza2ROcTJ1YWFWYWdDODItZkVfS2VXMzVBbC03aHg?oc=5"
+  },
+  "rss::671ea464759fe65b": {
+    "title": "‘Datathon’ convenes high schoolers, scientists, clinicians to solve health care challenges - Brown University",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1aNkxsZW4wbFlZQnVTOXRhR01lSmx5dW5vWEVDd1pnMEIxLVd1eEtONHpFbUNnYnh6T1hZVk5hcVNLU0V3ekNQazd5Y05rWFF6SU1yR2tiTUdEQQ?oc=5"
+  },
+  "rss::5fd32a7762be3d94": {
+    "title": "ODU Computer Science Students Win First Place at the 2025 Hampton Roads Datathon - Old Dominion University",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQVEtsa0I3cDJha2VDX2hTQzdyMnRMMHlJWldfTEZqV3pvTHhWOE95ZWNKTzhpRkVPTENxUGVrWVcxalZtdTVEeW9UQTZVYnlUV1daUzRmZDFEQTQtSmxzSXRVRExCNXRKa3U3cWdXc3hhUVlyS2pTM3BUaWVSLThNSTJaeHlvaXZfdm9rTUx3RlgyNzVMZnRON0k4WTNsbFFncXdOUHRHYVFMLXNqUWlhaFBUT2tXc00?oc=5"
+  },
+  "rss::820bdc45faa9b4c5": {
+    "title": "Four reasons college students should be participating in datathons. - DataDrivenInvestor",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQb25SajJfZFctaHpoRHhyRnF6VzRRa0Qzbk51RFo3MFpnci1vTTN6dWNOOXhvVEpWV3hiaWpVVjB6cE1CWkJsekNsSmp1NVNEc0tQV3d5V3liaEswSmRSNnpEYVJYZ2RmSEt5QmxLRzhhdGFYLWI2NnB1YVl3OVRWMmVwYVYzMWNreVY4T2tyZjF3SlpOXzA5RUtaR0hibWxjZjlRdzZsOWhvaHI2OXJGbjJVV19tRV9i?oc=5"
+  },
+  "rss::f25646ed21b1a550": {
+    "title": "Graduate Center Ph.D. Students Win Big at Datathon - CUNY Graduate Center",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9ER3M1UEJ3QWs3Q2NQc09vaTYtdTU0MFhzT3VjNm5wbnAwV0wtWmRON0VBV1ZXRWljSkQ3Q1NMdS1TREFFN0FFWU96WEM2eHRvMnJ1RUxRNUJkOTJJQXhqSTBvN0VxNVV2ckxPZlhTcjZ5REN0YklSZGdZZ04xY0E?oc=5"
+  },
+  "rss::5fa3849e5fa9d5c9": {
+    "title": "Business Students Practice Data-Driven Problem-Solving at First Datathon - CSUF News",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPb0x1bGNmaUp6ZnRCcVdoNWNzcEFVUUFudkg3MWZHRERwcDlrdHduTXJnQ1VReU15bGRZS2JwSEVScFgzUkZxaHFGUXpFU1ZmM3FVZUpZdmJ2X0tWUFYyMFdVemNuaDhaVGdjTXg3NVpJZnFpbVlaeTVZU09ndklhdU5VTkdub1BqRTlXRFFpY3NKa2VOV0F2TEt4V281OWE1dzQtbERHR1dxZTlUQmRZ?oc=5"
+  },
+  "rss::d3ada047a2b6df48": {
+    "title": "LMU Datathon Welcomes SoCal Schools, Elevates Student Data Talent - Loyola Marymount University",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQS3BsUE9oS3lNYnA5YThJLUJZLVZjNkhPQ2lpOE0xTWpVeFVwNWdCR001RW9MQjF1TTBkanhGR3l4Rzhmdlg5RVFBT0Y1YjIwbFJDanRhRTFNbUFjd3VvVkMwd2pxWWczSWJQa2I3cGF1N0tQY0o0dVo4V3NHb3R4WTc0ZDIxMzl3bTBDSFQwMjYyc3pxOGRSbVBLQVQwOEo0alRj?oc=5"
+  },
+  "rss::8c5f504eced39b5b": {
+    "title": "2024 Datathon Competition - Master of Science in Computational Finance - Carnegie Mellon University",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sRnhEbnFfbjFKTzRjNzR3SVlHZktfdUM1X1VyUU80UFRiVU5NbHdLNHJrZ2tYWkcxX3ZQcGhNakt6RG5aZGFMdUR3Qm1aTzRaQVRwOXRSSU5EaWpPWnNlM09IOUYxZlFRRzNGSlZId3o0c3M?oc=5"
+  },
+  "rss::7671b59cb7e7b75a": {
+    "title": "Inaugural Datathon Empowers Students to Solve Real-World Challenges Through Data Analysis - McDonough School of Business | Georgetown University",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNbGhCempJMHAxLUhQQUZsSUlzS0xnWVdabkxULUE2Z253TG9rS3pKWnVFOS1JZTNmb2FmV2VpXzFIb3FKb2JJQXhsRnJTaHpLcFY4NGhGdGRSdlRFWmNPenRMYXF4RWRSc1V2QWlpbVZKbERmMnlFV0RCWHpVOV9UNWFIcHhCbVdaMGFOSDkxb2QyZGRfMXlJY0djRUFMWmR3WHBQeWNTZlBZTS01QXRjWWNJazhDaVAxS2xlVVJPTUswUGpzeUdlQUd4d2Y2OGNMZC1nZ1REazExR09tMTA3MQ?oc=5"
+  },
+  "rss::58c80ffde9d2c299": {
+    "title": "ODU Grad Students Place Third at Inaugural Hampton Roads Datathon - Old Dominion University",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcTFZYXRXcEhVNnhMTC11SVFlczY5b2Vvc3R3LTc4X0tjSU1qZ0lwMzE2VWswdnJodUxqTWgxdWdfZVROa2dZRGZEYVUtNHNJMnN4ZjMySXBmLXhhZFVieTZ2NVVvRlNwTDdTSWJWRDh6a3p5eXM3T2d2c21yWE1wcDFFN1BRc1huRUdOLXdtRnRYTElsS3NjUw?oc=5"
+  },
+  "rss::36a204824f72ff31": {
+    "title": "Datathon Challenges Georgetown Students to Harness the Power of Data to Advance Learning - McDonough School of Business | Georgetown University",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOVWxNcHZvRWRESjlCSlBtSkNyX1R6a1hoTW9SMHI3b2ZwMk9Tbnp4Vkp1VFRYamRoLXJSSUlRRmEwN09BWUllOVNqdWllSjY2MzlYTDZLTlJyT0FjN3puaDRFQkp2NDlYUTNTLUU4QlFVR185ZklOZzBKQW56UVRNNEF0TnY5U0J1VjQ4V05HaTVjOXE2dUJ0U2pqeF9hUWJKUU9XUzd4aUtYWktuZDV0LUxnN09zbmJoTjk5aFZoLU5MWEY3bmoyRnF2R25QM3prc3h6M2lZMzlzaHBjSFEw?oc=5"
+  },
+  "rss::49f714464894ccb2": {
+    "title": "Our First Datathon – CUNYverse - The City University of New York",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeWpYQjNWYWNCVUpmLXVwV1JTTi1tNDdBUXFWT0pSVlJCRlhZX0o5enZQeGd0UUxXbmNBdTRPUWJUTlkzYkpTMEY1MFdoNnUwOWdXdHNCUXZ4OVJFbzVFaS1nN1JQNlRUOWtydXZvOHdNUDVPam9CTkFVWEZqR2o4WQ?oc=5"
+  },
+  "rss::d9da8926de200845": {
+    "title": "AI Datathon Aims to Aid in Browntail Moth Invasion - Colby News",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbno2dFRHS0ZxMGNQLWRLOGY5QUJpbXBYcTVzcmN2bUVkTWxxSTlkNTdHdFFkSHhPOWF4cHpCVXRweXhKR25yUmVtdm9lWjhvVU4yenFYRzFrQmFLUG0xT3NibEdzVnpfbHNHenJ0cTVhYk1IZ3pCVEdqQm83VmFaVnZvOW9XNG8?oc=5"
+  },
+  "rss::de202d3e5b8921ec": {
+    "title": "UTSA School of Data Science hosts second annual Rowdy Datathon - UT San Antonio Today",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQVkNLSHFWNGtpQmlWcEdtTzNEc0VnU3ByN1o5NXdWYXc2cTNHRXpwekZvdEswQzhxa1lEcURVb2FEbHBUM2FmaHlwdjVFOTh0VW12TUloNTRWa1plaUx1akJDUkkzUzZSVk0yUy05S1U5Z3M1V3E0ZVVPcFFwZjllOTRQVDUxNUVqbXlFRXVWYXBvUU1ibjZlNQ?oc=5"
+  },
+  "rss::dfb59e123498a1b2": {
+    "title": "Batten College Team Awarded 2nd Place in Hampton Roads Datathon - Old Dominion University",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNd3ZkVGt6czg4REtVRkRJSGRkTzFXVEZzSHVma2xkVVNlWjNYZzhEaGs0eHVzVzV2M0ZmWllUbEdjbENZem9UbWp0a0FHanpWUzVZaWpvdU1yZ1A5MnBaeEt5TlYxN254MG4yQU4zYkc2dGhpSUFUY3R1UmdQZkloQWJOUjQyYzFjQ3l5YjVlWmZjWWlHbE5xRVRSdTh6S3Myb0E?oc=5"
+  },
+  "rss::d14471e9afe23608": {
+    "title": "Harvard team wins Boston Regional Datathon - Harvard School of Engineering and Applied Sciences",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MNUNqVU9qaFJxa3ROZ3RtWjlCM0JCWW9sLVN0aHpMNXh1aTZtRHFKckh1RF91b1dpckdwMzVOcXJaaEx5TjMtUHRSQW5FRHpGblVtWGpJYVBGMHhXQ2ZOelFHR21QaEJiOTg3cmZsdkE2LW01S3VXQjlkanc?oc=5"
+  },
+  "rss::7000e927bb5595c4": {
+    "title": "Harvard team wins Boston Regional Datathon for second straight year - Harvard School of Engineering and Applied Sciences",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPNXJpYW1aQW1yYUlMTDUzQjJXTVZKY3VuUzN5Z0U1a0Z4ZXNuRDYwbkdkVVk5cjJETm1PWm5taXp2c1cxd3JfTkE3LUdIV05IZmFDTlRtZ045Qkt0aE0tcGFKT1ZjXzRyZ0dxSnhXS1lyRnN2YndDZXFtMElIVlVMa1Flc2ptRWo0dWZzc2YtTWx2eEJTd09oYg?oc=5"
+  },
+  "rss::b6015f54100afa9d": {
+    "title": "Texas A&M To Host World’s First Datathon October 19-20 - stories.tamu.edu",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZDY4RUF5c0RZZWZUTktYQ3FvMEFub3M4blgwLUhCQnVpUTdPX0F1QUVGUG5KU2xZWlJ1LVVFWVZpVWZtNEJhM2Vsd1U1NFBtSVB0OW1uLVpuWVdGZ1IwcXhwQ2thZ1VNYnQ3Y2JJVTNTcjdrMVZNQlNET3h2UzdrS2xGci03Y2dMdUV5WWliaHZqVmYtZmRHdzln?oc=5"
+  },
+  "rss::4cffced04ed9acf3": {
+    "title": "MSCF Students Win Grand Prize in the 2018 Citadel Datathon - Master of Science in Computational Finance - Carnegie Mellon University",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFAtc0JKalVabEFWX0xJUzFTM0tYWEJrSTNRbzlsbE5PVjBHWVZXZ1k0LVFnaWQybzdGLXBIb2dzaWR4YWQ4Y3FEb3JNU3MzUEphR2tveXlRZUlucWVvVXVBOGJNX0lNNHNYdDBqbkhJeUtLZw?oc=5"
+  },
+  "rss::e16ccd094396acff": {
+    "title": "Haas Team Wins First Place in West Coast Citadel Datathon - UC Berkeley Haas News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZlU4Q3BtN1U5c2wtZXZxLXNqU3cxLXdYRWxROTR0RVVOWlc3S3M0WEdpbzNONFN0eWJoT25IVVg4YnEyV3VnaTAxRi1zWU9QUVBsc1FjNWliMHNoVTBpa3k3anAtTjV0Y1hER3NWdG1icmFDektTejJFZFFLYWZiWXhmM2lNOVNfUVZvQ3ZrSTVYT0d6UGlUcw?oc=5"
+  },
+  "rss::3d021292776f6935": {
+    "title": "Student Team Wins $25K at Datathon - Dietrich College of Humanities and Social Sciences - Carnegie Mellon University",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5KWVpGZmNad0lhMWltcWt3blN6MkJORmpsQ0w2elRPWlM5OEdkNTBmcnFJcjJkM3lOQlVycF9tVmxseGRiQTk3T01KOXpCMTV3MEVSTVFzRVBpOGpMRGlweXpucExWMklOT1JmUDhmVkJuaUZJcTdLeWlEYkdfdw?oc=5"
+  },
+  "rss::732603895d1ff8d9": {
+    "title": "Driven to Succeed: Leeds Student Wins Global Racing-Inspired Alteryx Competition - colorado.edu",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQN1VwcFBjcTIzdW5wTEJKUVBIX1l5dEluMVVQYnFkVUt5QnpYYnlNSnZ5cDN2TE9BNmp0YzlTODUydDNDQTU5VDB1dWNSV3pXa3NTVkppUHctV3FWMXJITUNWNVNISnFoaWJBeHFkSmdIZkYxbjdFanBFRVJfUnVEa3ZEY20yOFFFS2tyNFlqSmxEM0tXeERhLUt5VnQxdXNqaHdYOEt6eXc?oc=5"
+  },
+  "rss::de09c90c709ff06b": {
+    "title": "Student winners of Dublin Datathon take €20,000 prize - Silicon Republic",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBwZ2NXYWtJZ185ZC1WZ2h2V25nWUdzeXlJMVd5b2w1cjZLUjBqWFlBOWNRUFJIQmV4RVlYeTlLbXkxTllxQlFOalFzOEZQWE5aZllTMGtkYjBqUXloYndQb1FUZ294LVJ5cW5qYk1DN0FSLWNM?oc=5"
+  },
+  "rss::68096db8c6de14d8": {
+    "title": "DigiFAB and FoNS Data Science Datathon Competition: winners announced! - Imperial College London",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVFQxWGlIVUxnQlE1MGtVaVFlSnlOaXdEVHZELVhVWUxXSkt1WTFPdXdOaHNMUl9EdV9Hbm5INnlJM2tFX3lYS1diRW0zSmFOYlRFOXdhcFpPNVYyMlVDZUFqdkt5aTV1TTdWTEVNNTlQaWhXSWV5NXBnOWQ4cktUWS1vOVB6SVo5ZTBod1JlMA?oc=5"
+  },
+  "rss::85df2fc9e6c82b50": {
+    "title": "WPI team aces women's Datathon - telegram.com",
+    "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNdjQ0MDJxOGtWS3BRQVFlUWI1QWtUcnZMV0NoMm5tWnZSVTY3bk1TT2JnTXlpaExTZ2xZTWJrSW5NVUdQXzYzYlB6c0RKcTJ0M1VyVHFWdWxwLWc3VURiYmNGbXlMcllubzM2c181OG02dG9VclhMYlh3aUZLbkhEMmJJTkFpbGZlS2tNUExtZVhkUlVtSXFYZFdIdGRobjRZMlc5dnppNUFQemxfbGxFV3Y5TVl6bnp4bFBSQ3F5RjBRMkJzWU1yWWFtNXQzZVgxYjVLY2tJby1FMW95anF0YWwtd1RnNHNqbGg4RkN1S1Z1LUoy?oc=5"
+  },
+  "rss::98c6d7cffc266c1b": {
+    "title": "Albania’s first Gender Datathon spurs youth and activists to spotlight gender inequalities and drive change - UN Women Albania",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPSFVUNmYzWXJHeUUxV1JWdnpRT180RDg5NWEzVWg2ZW1FbV8zNlAzN1BBVUw5ZTZJZW9hSnJLMHRzNVFFN0dPdjh5cWZvaEdRU2R5bS1qLUJHQXREb09pdEtBQ25HZVNWcG43LUFuODNBdFRWWWlQTWwwNk8wQUtGVUNEUEJVZENKSjNvcVAzMW1kOTV1NlR2NWtWb0FwdWdBcmJ0eGliNHlMczBaVV92djZNVXFyTkh2eHNUX1NRVTVjaFFNdmhnTmloQXhBNk5COGVjYjgta1NUZTc5V0RwVmVyTV9UYktWd2ZIbE0xcw?oc=5"
+  },
+  "rss::5efa3b731920b190": {
+    "title": "Waterloo students win $20,000 at Citadel and Citadel Securities datathon - University of Waterloo",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOU1FqS0ZYTllQV0NuMzVPRThkcU9BY2tSeFVjcmU0UGFvZmgtZHJDX2FZWEZRRm9oajdHZ3IzOVk0a2xxTzlzQ1hSdmFiUHAwaUtTNUhPdGd3d283UHNrU2lUUHlSUWZHWnZ5bFJjZFNGbm5WRnI4RlJVNlplb0w2cmQ0ejZqd3lFWjJXMWVQUnhrZWVIUldicEQwcG1lYnlKVC1r?oc=5"
+  },
+  "rss::b4afafe3d8cd83b0": {
+    "title": "Student participants sought for datathon challenge - itweb.co.za",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQSkRQSE5YLThfSFlTM1JlaTZROWRxVTJTY3F1ZEdQV1VvR1o3Nzk2eFI0WGhrQUNFckVLc003RU1hRXdmV09JdUFCNEdYMTFaa3lIRDZ4b183YmdFeV94SzFpbC1vVzRWOEJrLUh5WGFnakt3c2RuM3NReUJPV2ZxbGFxTXpYNkFFTDZFa1drM1ZVOWNHRW0wMFh1VkxTd2Y2?oc=5"
+  },
+  "rss::0a3ce8c11b7aec0f": {
+    "title": "Robyn Ritchie and Phil Shreeves win the Big Data Cup datathon - Simon Fraser University",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE9KVjkySWNFS09BTWUwZ2gyY3hRSE9nemVuOU85TDh3c0xXUUVtcWFRVVRKX19OUnU1dXItY2hnVVF0UjF2Q2k4dEtTNk5ES01PMVk4bEFnVk9Gdk5XZ1h0MlpMbnJNR2pTdmRUMlhHc2RGUQ?oc=5"
+  },
+  "rss::2c09fda371245f51": {
+    "title": "Political Science students from Unicauca are the winners of the 2023 Pacific Datathon - unicauca - home",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeHBjSks1cGh0d0cwVEZSNlVELWRlUFczRUdXMDB0ekFjU1R0dkpvMDdJUXJSaGlzNk9GNlhraWZOWFhyUHpxdEI4ZkpHcWl5MDNrbWFqMGRWeURNZjlTbGE0ZG5VcVY3V2hqM0JjOUQtbGo1ZXZVLTlRa2VZUVVmY01Bbk5UanA4aHIwWHAzTlg0dHEwZG11dnBFSW1XR2hGUXJ3SEFnZndVU21DakRoQlgzWXozN092?oc=5"
+  },
+  "rss::bf21d5e5726a54da": {
+    "title": "IIT Madras Pravartak organises hackathon on Emerging Technologies - iitm.ac.in",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVlY1YWVCQ3dJdzNQVjVOV2d0NzR1WXVyTXk4R21ZakcyU0JQek1qOXI5Q3pBLVdUc3ZnTGgxS3kzTkRqaW5HYmdILXVaYVV6dWF0OTlHYmtMZlZCYkJ3NzB5MDRDWjYyREYtTGtoR19NcUhFWGpiV3dheVpIVmswSkdCRHo3RzR5dXAtdkVwS3lrV2V6dE83ZTNxRHhxS041dG1lTG9mLVM5SVdwNDJGd0VB?oc=5"
+  },
+  "rss::5e589ed39f5a84cc": {
+    "title": "Brock Datathon to highlight growing analytics field – The Brock News - brocku.ca",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPazhsN3dKdHBPUG5kajFKcVRUSldJbXE0YlBFMG1KX2N1QXZTUkJLT3ItTkljeDhuYllrcm5CVW9Hd2lLVzFMTE5VZEZrS2pEZlFEU0JVWTRHTDA0SXRfMTRWS1hoVDhieTA5ZXlQZDdoN0IwMUtTU0dZWHVWOU5PenZsdnEwNzN4d3kwQUVIek0teGM?oc=5"
+  },
+  "rss::8c007115918aea38": {
+    "title": "NWU team secures second position in Student Datathon Challenge - NWU News",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONGh6SkdJVm1vdU0yZ3hOT2RHUjEtRUs0QTJKMWRRSHJEWnptOGd2cGV6cmdVaHprd0ZaNnlwQV9LUXNCcml3c3pJOVlvLWdNNFdtTnE1ZXVKQjhROGwyWWRoOUd4bVIwM3BhOFlyVk5Ubkg4UEdlSVoxaVkxQ043dEZIcnNERUpB?oc=5"
+  },
+  "rss::5e5dc2da22f9b0d6": {
+    "title": "Brock Datathon to showcase storytelling using data – The Brock News - brocku.ca",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQWNQajd1d01YWUR5OEZZcDJpeFdESmNiMndSTnlPcUNLWDJJaXJSeWU4dmlXb3Y2dFBwa1lsVHN2NHlZczJ5a0d5RTk5S0xHNmJ5M292VktfUGxoclRpQ25CS0s1RHV0eHdPMjVjSU90Uk9RMlVyNW9WVDl0ZzdPdHJZY2t1SzN6ZTlNcXJGQzZHZw?oc=5"
+  },
+  "rss::19a5e06a070af0d4": {
+    "title": "ASPIRE, Abu Dhabi Youth Council roll out inaugural AI Datathon STEM Competition - وكالة وام",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNQVNkT2VOWXJXLTVlMHpEd0o0TWNOd3RTdWFvUHo1Ri1IRWYwdUY1MVpBQzBKTmZTWV9NWlBzcXJoaW5FY2VmcFphVWszaXdYWmN4R2dIMndndmd3NU5STzc5c2FNZy1VWU9vTW9YMlRfTVdnSVVnc0JNdm9sbjZlYnhIaWh0WEtQWUxJZnJIVHE?oc=5"
+  },
+  "rssfeed::https://news.google.com/rss/search?q=hackathon+(%22travel+reimbursement%22+or+%22travel+stipend%22)&hl=en-us&gl=us&ceid=us:en": {
+    "title": "RSS: Google News – hackathon travel",
+    "url": "https://news.google.com/rss/search?q=hackathon+(%22travel+reimbursement%22+OR+%22travel+stipend%22)&hl=en-US&gl=US&ceid=US:en"
+  },
+  "rss::fe716fcaad4a4192": {
+    "title": "ISRO Launches Bharatiya Antariksh Hackathon 2026 for Space Innovation - News Mobile",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSVpoYlVKSndqd3Z4MjJvT3RIeXIxT3pjb0lGbmVrWVVJcUlTbDJMZU9TTGVfanI5SjkxLXQ3TTR5Mkd5VmJRMXhWaE9OYjZ0S0tPdGdpUndYRFZrWkFLenBkNFloaGQxcDcyVUJxT3NoaUVNRzBRZk84MWRRMzRSZmJCSlptdnI1OUJrRUdjTVdYMDJsQkFkVkl5SFVKWlBhTnpKYzNmTHJ6bkk1MkE?oc=5"
+  },
+  "rss::023b407d89edff21": {
+    "title": "Registration For The 2024 AFROTECH™ AI Hackathon Is Now Open - AfroTech",
+    "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5aXzc2U3ZoRXdvTTQ5U1FtNUYyQ3hPdjAxSW1fRGhFakw0Wk4zOEVPOU9fOUlOZlM1NmlXWEE4Q1lNTm9sWWNyZ2ZpTzR5dmlQQ3l1Sw?oc=5"
+  },
+  "rssfeed::https://news.google.com/rss/search?q=quant+competition+undergraduate&hl=en-us&gl=us&ceid=us:en": {
+    "title": "RSS: Google News – quant competition",
+    "url": "https://news.google.com/rss/search?q=quant+competition+undergraduate&hl=en-US&gl=US&ceid=US:en"
+  },
+  "rss::730af61783e71581": {
+    "title": "100 Best & Brightest Undergraduate Business Majors Of 2026 - Poets&Quants for Undergrads",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOYjlBUHhtb1JjOXNwTHo4dnUxRE5PYVhfVE1OMFd5OF82UUMwV0hZZFBmMFd3cXVqempmUjlZczhsWHFNai04V1Jzel9HSUVpdWV1RFE2TVItSmpKRUZCLVROSld1WUliTEV2NFJoVUoxSThKZWtjUXZIdWtyenppaDBkWHdWNWxBNm9ScVdKQTNLZXlXVE5wcnhUSU03M3Jmc01ZX0ZvX3FKSFFJ?oc=5"
+  },
+  "rss::b98f842e3724a7df": {
+    "title": "ABM Spreadsheet Competition Team Earns Another Top-3 Finish | Agricultural and Resource Economics - NC State University",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc3VrUjh1TkdudFlfVEVKWE5WNUpxODBnM2ExNl9qQ2RSQzE4WWVpdzd2Yjh5R2cwN3R5Z3NDb0lzSkZhaWJlRUp0X0wyR2U1dlZqVG9rd3ozcU56bG1SVjA5R2wwaVNxVXBqME5XQ3VRRXFtdUN2emdYQWxsTVdvZXRkQ1I3d0FBdmxOVVBtajYxN29tQW1SUWxnWHhja2ZBS0RZQnlZSTg0RkljcUUtRUt0NjRmRnc1TlB4bkFucmI?oc=5"
+  },
+  "rss::d8e8fd1cac396d86": {
+    "title": "2026 Best & Brightest Business Major: Ellie Hwang, U.C.-Berkeley (Haas) - Poets&Quants for Undergrads",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPWS1rdDJzNmVQTml5T0Y5YUlfdWtlQ0dIbHJLZTI0NHJnUmtKNXczRE9RMDVCdGdqaGVraGVpbUI0NmpYclNvS1NyOW5Qcmk3QTRfQktaUjBZTktNS2FhQXl5RVBYbXBkZmNYdzlBMGJlU2FPMGJuTHVIWTJVVmRfNHNMNzNtMTBoN2EwdjBzckIzWko0RUs2NnhoRWp4RlBBa2VyLTF3Vkx0V2xwS3hTdzVQVWc?oc=5"
+  },
+  "rss::fd956632e10dcef5": {
+    "title": "Bridging Data and Finance: NTU Team Reaches Finals of Global Algo Trading Challenge 2025 - Nanyang Technological University - NTU Singapore",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPQmxTQUszR0hBa1JRTEFnUHc3aEh0Q0NkZjNQRUZCVEJoUDYxRWtUMnAtOXlwX0Y0RHpHdnp3dmJmSW5LOGstd0tFbXpVUVdTVVAtZldSYjNYZEZXTW5MSWtTNVhlZnNKMEVkamp6Z2xGSC16YzQtSTktNGVzZFFGVWMtc1hqN3NQNjZ5a3ppd2xHRGhpSVliS0tmYVRIRXdGcjY3SUlaZkdKUkNGRDY4aXNvMnF0NmxhT2NOeGs4dHgxcFI3SUstems1VWJObXUyYmVmZEpGVjQ?oc=5"
+  },
+  "rss::d54b87950b9a0893": {
+    "title": "How to get a hedge fund quant researcher job: 11 routes in - eFinancialCareers",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTFJIdW1QdkhiWmpCdGtBOUU2MlREVmFmZWZ4WU1oRjFRZXFXREtZeHhmN3ZoVUFQQTdDVGNLcXBHQXUtdmcyLWZacWxOMjZVemJHX1U3Q1hUWUcwUFZ6ZldfMDFzOEhyNnd6NHZRTW9sYWZ1Sng5VmxzdTRTYndCYWFsWG9MWkxZYWFOYkFBTQ?oc=5"
+  },
+  "rss::691fbfc13818abc9": {
+    "title": "Students invested in stock market competition - Union College",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZWhMUWczakxzeG5DLXdvSXhldFVlQ3hnck1xWEcxeHB2RnB3NDV5MF9uSExjSlAzUzViUDhJcXk3UG1LeVNBQzc2LTZFd1JZTHV2c0dZQklleVF1X1dTQUhWQUZ3aENDQ2cyLUFaSlU1cWhlTVkwdGR6SkdDMU5sSWxpMjRxRUx3U1N4Yw?oc=5"
+  },
+  "rss::e77bc1f8e1c13c7f": {
+    "title": "Georgetown McDonough’s Psaros Center Hosts Second Annual Undergraduate Stock Pitch Competition - McDonough School of Business | Georgetown University",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQLWFMcWJCMDhuZkU5dlJqT2xIdHZvQ3pKTEQ4LUw5cWRWSjRhYXY0N0RMLWlTbE1xaW5jcjZydmNDUTBuNzJUSGhrakdON3dNc2lmSU4wVDhGSWJXeVVFQnhjMFlyY0hJVFJPMEhVNEcxZC1WTGVfUjZJVU41b3JrbDR5VzlWM0lwOVFHenFJdHRtWmhzYkZ1WVNQRnJ1QklOMlZNbUZKV2Q0a1Z4eGszeTdRRDFqeUt0VW8yT2RmTkNKNlYwVzRZNlM4YUNtNmtONjVDVnJ6YVFQU044Sng1Y1hmYnF2UQ?oc=5"
+  },
+  "rss::c78851745227bfc5": {
+    "title": "100 Best & Brightest Undergraduate Business Majors Of 2026 - Poets&Quants",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUFNlNGpQdVlHcXg0ZVNJYV9nYTR3SV92S25DcW1KVTkxLUJuOTBkZlJrSGJONUhpRFE3VmtfZHFMT1VIYVl4OVNzNzlPMlNkNXFvSHhRYXh4MkRGRFBlT3laRkVzd1JYVFJVT1JEYURFdU0xeWR2RzhjeV9raW1ja19OQl9PTkF2ZnNQZE9FSDNhUmpUMzNzd2ZsWQ?oc=5"
+  },
+  "rss::1743d51bab61a37a": {
+    "title": "Tim Derdenger Tepper School of Business, Carnegie Mellon University - Poets&Quants for Undergrads",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNX0RiU1lzQUFsMFV3TUhWeWN4RGgtOXFrOXliRk1vYjZ2UzFFczc1d1gyWHZ4RFU2dUVFV0Z5WDdQOTYyR3FQNlRwdERkNXg1cklFNFd6S0dtZUFjaER4TWhaQkNsM2Z5MWtKUHJMbG9yblNvam9aeWNXTUxpR3lWTnY3VjByTi1vZ3VZdXQxRXlnMWIyNkRDYm1MZTZmLXVUeVN5ZG9PVTFad1RsUVJoWWJNYklJOU54Njg5cVJKdllaS2V6enVWeFQwSXRxTFdVZDE0a2JBNUNoaXZRcUpMRmVNVXZYbGFudm5ZLVBjZGE?oc=5"
+  },
+  "rss::fda3f8692e19128d": {
+    "title": "100 Best & Brightest Undergraduate Business Majors Of 2024 - Poets&Quants",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPVGVSeHcwclJNcDFNV0prZ1d0ODREQlV4SUZCODdTZVpQcmNadE51UUg1UW5reEN1d244YkhBN1U2ZV9zYVRCSkZUdGFQdVBVdkhQMHBHQm0wT1p3NWdkZ29tdHc5eVI2QU9salB3WmRhdktmQ0hya09uaUNXQ050TkRJQVpkNExCbFBiNk5LYUJ2MlVtMVRUd05ZQQ?oc=5"
+  },
+  "rss::15340ee6259176fd": {
+    "title": "Global Challenges Competition Tackles Income Inequality - Tepper School of Business - Carnegie Mellon University",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRTRhbUlvOWg1aWRXMGJ2RzFaX1hScjM3U25ha3J3aDkwOERlb3pzR1I5VHo0OUkzTVJ2czZXMGlJUmVnSi1EVHQ0MWlxN2kwTEYwM1ZORmp5dDYxZW9tQWZwLUVia1I0MHZyZXRncTZVZUlnaDlYdVJrQ3czUF9rMlBzS2VWZ2hjajJnaE80X1k0bG1UcEtJUw?oc=5"
+  },
+  "rss::5c8fa29cfb6d2225": {
+    "title": "Winners Of Duke Fuqua’s New Ideas Competition Tackle Polarization Through Business - Poets&Quants for Undergrads",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQUmluVTFYc3BQcnp0V3JqREYwcFdqeW9OU0ZGZnF5WlRkM3pfQTBXRkk4MWtXWG50aG9pSkNaV20tN2JkdGxFc0ZjNm9sRk5lWXRDRnpZS2FpRjNTVllsV3U4UHBRUHdoRV8tdUN3Q2hnbWxHQUg0akIzeGJuVk1YN3JRYlJNTXpjVGZnV1pKaXNIY0VsUWUtUXlxbFJRT25IMVA1VGhNLUw2QWtpOVJQUFhnNC05RGswNDdrZG5HTDJkcVE1WFhuZzlCNGNmUQ?oc=5"
+  },
+  "rss::0713e3a0fa676307": {
+    "title": "Robert S. Goldberg Robert B. Willumstad School of Business Adelphi University - Poets&Quants for Undergrads",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxQWHZBOHhVWmRIUzQxeEo0d2dhT1pXdTlFQ01VbUZHaEFPVnY0Y0pCS3FwRXpxeGJsMjZmYmRONVZaNF9NNHhvbmRjV2ZfYkxEd3BBUElRdEdDUkxKbzlVejF5UmpfWjNGV1JPLVRvcFhzUXg3cUEwU1llSjBSZmZlY1IyWnExZXFwRlc3TXAwMVVjT1doYVRhcE5vNExBb21oQWNnYmtVdDYxUnQ1c1FsZGxSSXRIRzJHVUhvb2FGMDk4SjZVd0FyRVlhbjlWZHY4Smc0SEppN2x0STlhY2c2N3lDZS1GVUdEQTVxTjRVUGdCazlBZHNib0hEdTA?oc=5"
+  },
+  "rss::09c23be0970cdc44": {
+    "title": "2019 Best & Brightest: Tanisha Gupta, Elon University (Love) - Poets&Quants for Undergrads",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOLTM5R3k3SGloSWhaeWtNdnpoNExuaWpVS21TVFpoZ0NHTkd2bk9JeVA1ZXFQOUh4cTNjUU01ZjlSSzdtUmg0c1M2MnZOS2JsTFVuTjVSSmExQ0J2N2c4a3B0WlhSLVdjV1RkN0ZPSjdoV0lLR3o5NktHQ0dyRzJ1eXBvNlVldlJBUnJFZVBhRk9wMV9tQ0FaWThLZWw0WWlwWFdOQ3djMA?oc=5"
+  },
+  "rss::4989426c98d63ca4": {
+    "title": "Two VSB Students Selected as Poets&Quants 2024 Best & Brightest Business Majors - Villanova University",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOWUVHaVNFTERqMXZnbmdkREdfWkdHNnNucXo4Tm5fRVl1QXVzTHpIUEUyaTJpRlMtN2NscHhpQUx6ekhCSlJHMVRVS1ZhWENFc2gyNXNlZ0xDMFZRaTRXNG5FZzlXZHhjblNmVU1HeXBxV2RWNDNIVkxpelk5eDBfSFloSXVFMlhfaGZOSHhkUEJLRWs?oc=5"
+  },
+  "rss::1d1a3d2b5801d63c": {
+    "title": "Stock Pitch Competitions Bring Wall Street Access To Heartland Business Students - Poets&Quants for Undergrads",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNUs5V0tycEFGa1ZKb0xTc3FOQnFVc3poVG9USW9wdEN2Vjl5amdMQW5WcFRTMC1FTnIyVXFjaUYzSVdzT2tmQWg1aHBGYk1jNXZHY2JfdFRQc091WHVoOUlfMy1CclRTaVdteWVFZlRSWUVhZm9reWFKWnVaa0hSbVBRLXF2YmNsS1E?oc=5"
+  },
+  "rss::54d3b0b8c27df7a5": {
+    "title": "2026 Best & Brightest Business Major: Matthew Merril, Cornell University (Nolan School of Hotel Administration) - Poets&Quants for Undergrads",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPZllHXzhrTTRSZ09VNHRvcXV2SW53ajNCZ3NNUER1YzZGem9wcHlFODI3QzFHeHhjYkJuODBPa3JULVpITWtNWWVqZVlnazVuR0pLc3VNUS0tX21feHFUT3lXclR0T09hakNINEdfbXg1R3UzREFJcXQxMV9HYTcxRnFGVmFqYW1vX1kyY29HN0psbHI0QUswbklEMTdmMk5uTUJ4NkVXa2dkaTA1QkQ1UmxzRlcwd21xOTBqRW9EdlJoNXp0M3lGYndhTW9Uck5OTC1fVHNCQXdEZWpCVVlnWS1xT3hNQkFrLTE0?oc=5"
+  },
+  "rss::70513efb6d776c4b": {
+    "title": "Entrepreneurship Ranking: Best Undergraduate and MBA Programs - Poets&Quants for Undergrads",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNExhZlR2REJEUUI2UHp3UlYyVjl5enJhalV4djgxVHpKWnNRNVRFTlB3ZmpjSnJfM3JsczNBT3NBM0Y4TFNBR3hfbTBXdnZIelNfcXdqZnlkeW1KU2N1Q1ZHNXZQUTVRZjE1RWNJRVdJLVdTZmQxb21CY0Vmdko5RkNVZnVkU05RR1ZPeUNUUUlrMmdHU1NTT2E3RTVBUnhXTjV4SHF5Y05fRTZ6OFU0?oc=5"
+  },
+  "rss::e87d9f978f2dd3e2": {
+    "title": "2018 Best & Brightest: Chris Johnson, North Carolina (Kenan-Flagler) - Poets&Quants for Undergrads",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNmJ6ZXBzcUZBVm5zaG9NMG04NHNWTWhHUERBRHo2ZWluYVVfRjJwX2x0WFpFd2F3am5JcHp5YVVzSkZYRjhNOURDcEhSeWJQaEtzRzhKdTB2VUhKdkRlWnA1WEthSlZTV2tCb1UtWkhqYjJDbE9Ea3FQTk9WZGoxOW1xSUZFSWh0R3VvM3Z2X1VWeGMzc1RxS1hoZTJQcThueFFzd2t2UUpmWjhrWVhTTm5R?oc=5"
+  },
+  "rss::62f06292e7547d9e": {
+    "title": "100 Best & Brightest Undergraduate Business Majors Of 2022 - Poets&Quants",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQYmlxQ2sxbHhtZWlFb2hHTDY3N0stR2ZtUmhjTDgzd0xMdE9DeXdKdmRHdk0zZmE0OEZSWURwVnBjUHRUOEhzcGMya0ZWLUlFbFFSSHlqQm50WXR2aXlic0JtQzVWamJtU2dyZ1VWYzRhQ29pd09VOUZoOEJqWWZ5ejdFenN3cXp3OXc4ZzJ4ZFBhc0MzaGxwNldxcw?oc=5"
+  },
+  "rss::2dee91d3b7f5321a": {
+    "title": "Chirag Agrawal: 2016 Best and Brightest - Poets&Quants for Undergrads",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOMFVFUWZoa0RzcHE3WGQxTGhBY3hVZUV0RS1QSU95RmxSM19GTGh3Zktiam82SGpkdFNvUks5RWxVLThPYXNWTTlhbk1zdG9wYzJFX3VfaF9hdFlLT3lzQVlsSnVMRUNEMVhmcy1hcmZ1SVpRRGlXLWhQMVFuVkEzNEZnZXFjaGYteE9pRU1tLTc?oc=5"
+  },
+  "rss::9731baddb6b584d1": {
+    "title": "Desautels BCom team places 1st in Quant at 2014 Rotman International Trading Competition - mcgill.ca",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQmEySFFYdUtPMGppeWxUQll4aGNNZEZndWNLd0NMTlRGeFRyOGpOb01td01qSVNUUVhvN0ZWRS1OOUp0U1ZLWEpxUi1DN3NsTndVaU1SMzI0VHF0R25VanlpcjNkZWtXUm5JWlZCTFJsc0U3V2JTc1laSm9TOUplM01tOFhELWJCd185Tlp5SjN5dHBtR2FISjNNbElDSUlSSHBWMU9nWXgzMDdjVklndllTS0M1ajFUSE82OTBWZWg0TGRyeUNSUWMwR0M?oc=5"
+  },
+  "rss::7e78b2839158e3c6": {
+    "title": "Emory University Goizueta Business School - Poets&Quants for Undergrads",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN0xjZHRYS3pTQkhKRUgxMXR0ekctWkZMbjR6N2dfWEVIT0NJblZKd0xlTnpoTnRWX2pQZTNWaTZoV2VFa3k4U3p2cVY0T0JXNlJESFljYVZLeDlIWl85YUlYOWViQVo4aVlOWVFxaDFERXBkZ0wwME9VeWVnVllodzd2Z2NULXk3WnVPdHpkTGZReC1YeDcyVkxSdW02QQ?oc=5"
+  },
+  "rss::6c1e566fb660b44b": {
+    "title": "Celebrating 3rd annual DataFest competition at the University of Waterloo - University of Waterloo",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNU1NlZXZMXzFDLTRGTExyM21RUzhMMXVxUG4xV1pGV29rLVNjVEdQM3lZV0RKRGVvRVFhdjg0UnVHTGIzakt2WTRPclgyVXVxTlJFMnRySmo4S1NwTFRGUm8wTWxnZHlJS1pVdDB3Vi0wRThjTXYyWUg5UFFOb2xHNFVxR2V5aXlrdnNCejNXeVF5LXoteEQyWi1Zd29WdUxjVHhBdjBFMktmOUZkcTdYX2FXYw?oc=5"
+  },
+  "rss::bf1cf308d70821e5": {
+    "title": "HKUST Business Students Win Multiple Professional Institute Competitions - The Hong Kong University of Science and Technology",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMkQ5MVhxSGhUR3VlbHlTVkx3N19OdjZseW85ckdfWUJaQ3B0bnJObFY0cFUyMHRsUkkyVlR3OWg1STIxS2l0bTVFdXRpaHZjTjZrdHFja2xIYzJBWEc1NF9IclNFNU5FT3JOdVpsekNKOS1hYkZZb0ZtQ21RZUFfY1lFSUNQT19mek5GVXM3TzEyRHlXZXAyN0owelBEWHc?oc=5"
+  },
+  "rss::125f668cbb0b3306": {
+    "title": "S’pore universities’ computing enrolment surges, amid industry changes and stiff competition for jobs - The Straits Times",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNWDNGSjJ1TkZTeVpQSVJWMVMzZFZoaVhZTzdDcUdPZFU1d09QYjUweEhocVhJTlhTS1lNaFRKZDBMdS1RS3RyR3pocU5aLTFyemhHS2xSQTRDZ1dENC1PM204UmhQUXlqWjVWV3h6LXJQMF9NWWlidmlLZTRRMl80cENyckI0UDJiWU5YZEZnUWVvdjJBdXd5WVRZaHpzeDk3NFJEZFNGaXhNMUpoMWFXbndIMnJHdzUxOUVxWmlmVFcyMjA5ZE9QT1Znckp4ckx2SFJUaw?oc=5"
+  },
+  "rssfeed::https://news.google.com/rss/search?q=%22fellowship%22+undergraduate+apply+2026&hl=en-us&gl=us&ceid=us:en": {
+    "title": "RSS: Google News – student fellowship",
+    "url": "https://news.google.com/rss/search?q=%22fellowship%22+undergraduate+apply+2026&hl=en-US&gl=US&ceid=US:en"
+  },
+  "rss::fd410048a41fdc3e": {
+    "title": "Applications now open for Undergraduate Research Fellowship program - wire.auburn.edu",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdURFVkxoV1VqSmxJSDJHT0dkUlBWSFEyVGN3TGxfTlUzWDBiM3Bxcl94T2VfSnQxcjN6TTF3eWlCUFhkMTBocU5BaHZwcTlLbjloQlJJaVZuSE1qUGRTc1hpc25aVmNKdElmS19tenhUT1NKUkZGdFZBOGNMbXBXLTZ1WGpucU9FbXlHeGNOS3ZuaV9FOEdXMm8xZ2pCaThzOHl6QUtRZXNEOHUzR2k3R3FBQ0Z5MXg2d2lIc0ZUTVRHbjQ2YjUydms1Z08?oc=5"
+  },
+  "rss::c8bbb2057090999f": {
+    "title": "Applications Open for 2026–2027 Undergraduate Research Fellowships in Neuroscience - Simons Foundation",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSlJKUV9raWVWcGxFeWdCZTZwTmRyVC1ZT1BmOXhOSjZBM2FMUDZUX2RRR3Rjd2R0cmstUWNSaUh1NmwzSURZdWZEQ29sckVZR3JNYWJ5a09iQWlnY2V1eXpYcG81X2hoME80dGNUSjh3XzlzOWxtaWw3WFJ6X3FYLU5ieTR3ZFoybTJvREZUWm5MbmZnRzdISmNGb3JDY05wUzc4QU9JZFhVXzVyUUVpQS1IMUlyYmZmaV83blJwa0p0NE00LUE?oc=5"
+  },
+  "rss::a414b203b9ec551d": {
+    "title": "UMW Undergraduate Science Fellowship Extends Applications for First Cohort - University of Mary Washington",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMTdOVjN3WlJ4V3M0Z1FoT2tZeDVBU29LZm4tbkZuM3BfR3JwbFNvLTRaNUJXb3c0V2QtTk5YQVNPOEFaSmMxRUYybnRjdklJUnBRUjJCMFhSV3h0cEloSkVyTkxmSGlHMU1kU1NvLVZGSElkNUpUdnRKTFRJNEpCeXkydGNLdjNGTTlhS2tQM1prLVJTUldVSnRCamRJU21ZUHlPck5XYUw5ZVk0anhtaw?oc=5"
+  },
+  "rss::4fefc0cbc0005dd1": {
+    "title": "Office of UResearch: VSGC STEM UResearch Scholarship Program - Old Dominion University",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaHJCM0VDazR1RVg2MnI5ZkpqRnh5bmFiOS1FS2xEVHRLRy02NGJja1dxd0Z0R2dXbzZ1NU44MEhadFRPRWxmN3FYMmJma0RuTTlpSUdKNlUwYTdONi1FdkRjY0c4VzQ1RGwxSkpYdXRsTzdiYkI0dm8zLVNSQnh6aHJFNnlWU01ZT3dPZGlsTUlDNEt1Y2NUcVBVNTluQnhJVnVIZlBRMG5yWHpUQUFHVW55bWpwX2xsQmVz?oc=5"
+  },
+  "rss::60f9c219c5f4dba7": {
+    "title": "SURF 26′: Summer Undergraduate Research Fellowship – DWELL Lab - The University of Rhode Island",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxONlRBdXNoT0ZLTkZ0dF9XcTJKbzduRjZ5T1YxNWtVLUtzb1FhMlQ0aVFCWVZ2eWh3UUgtTm4wc0dyd3JLMkQ4THhxblJwVWcxNVV3RkVGanBMeEpiY0dESGpRcm9FS214LVJVb3VGSG56WXF2eWNaM29UYWJkaUlFdQ?oc=5"
+  },
+  "rss::2705e88a829b1d76": {
+    "title": "Apply to the Millennium Fellowship Class of 2026 - globalsouthopportunities.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FdGxNTjhiQnF4VWNrODVYdUctMDlvWFlCdXJWOEN6YXNocm9WdDNCZkpwOVFCWE14aG1KX2JISDhhWXRrX05ITUFIQUpVcldYWEN1VHZtcVVrNkRzRmY0SUFWNFFBUEZ1aDYxcjBqSUkwcU91U0E?oc=5"
+  },
+  "rss::9c2f5290fe9c8f69": {
+    "title": "Gaines Center now accepting fellowship applications - UKNow",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNaEY3TUl4SzRKbEQ5Tkd5S2puSU5FdFoyR0w1RDZCdkQ1Q2hNM0h5WUdvN3ItWXlzOFRRcS1EekNjTEtZZlQ5cmFQczc5bGYxdTFBUFE3dk5DXy1aa0cyQVZHbWFlOXFYdzdIaV9VWWdua3g4NHJHWTFGQnk0STFTX2p0QmJuUnRUMVNVOGlJYw?oc=5"
+  },
+  "rss::6ae465020347d63b": {
+    "title": "The NBA Foundation opens applications for the 2026 HBCU Fellowship - NBA.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWVBkcmR5QmljV1E2ZU9ROElGTW5JQ0VaN0ZneDNuRkRmR1Rzc25NaThzQnY0MzVjU2hxQm96NmxuSVFQWGZoemNZVmVvdTNuOTVPQmxMVUNSV0xSb09HeGU4ZEdwWlVuTzI5T2VfMkMwSkh4TWg2U05wb08zd0s3YTVrSEFZMjVnaHY1WW5ncHNRTUo4U3c?oc=5"
+  },
+  "rss::4b73c22117e73ce5": {
+    "title": "2026 - 2027 Undergraduate Research Fellowship (URF) Program - Auburn University",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5uQnpyLUpvbEVSbUliME9tVjRQa2ZoUjU5VktRYktQRnh4UnFtdjc4aTdOM0NaY1BzYUFQaURhVHRMSFpjX2RvbUhoSjJnTmxUYTdSaEZGQlRRN0hfRFNPTld4NUxjQ3VnUGphNnZR?oc=5"
+  },
+  "rss::7148e0d34a610429": {
+    "title": "The United Nations Academic Impact/MCN Millennium Fellowship 2026 for emerging Leaders worldwide. - Opportunities For Africans",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR2Y0SXBMaEdFWkp3QU00NGY3dUxWajZMSWlEQzdUQnhDekJYdHk1VkRGbDhBY2o5Z3Z3MTJsUC1YMWVfWU5lNGw5X01YRzBjQW9idG42c3BQeG1zWENySG1UaUJRYTVlSURscDNCbU1MX3NIQ1J0WGtMTG82RUdtMXd5dWdBMUpXdHk2M19VVEpjX2o5TjNoRFV2eTA5RmJDcmZNQ0VsTnVwRmc?oc=5"
+  },
+  "rss::4d1765bac1d56fab": {
+    "title": "Fully Funded Summer Undergraduate Research Fellowship (SURF) 2026 – INSAIT: Open to Undergraduate Students Worldwide - globalsouthopportunities.com",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5Ia19sSHBoZlV0WDhEVEVfYkJkZmlPdFFPWjJ3TmFvckU5VmZqb1RkQ3JFR2dFYzBiQ2w0NDNnSWh5VWZNQ2hwQ1VUYzY4dkxlU2drSW40NzBGNWFscGtzSndCZmdkdkJK?oc=5"
+  },
+  "rss::9d233f6ed155c18f": {
+    "title": "Intellect Africa Opens Applications for Summer Fellowship 2.0 - globalsouthopportunities.com",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54Z1ZhZTZzbXZUd2FiMVA4SVBXV3FYbENYeTh1SU5LRHpkel81NDFiSDFaWmRXN3cyeTJlQTJQQTNFcGdpZk42QzA2eVY2ZUl4Nkd2b0Q5ajJSS0pFVWgxRFY4WkdGUnlNRlc3WmF1QQ?oc=5"
+  },
+  "rss::2582993421096d9f": {
+    "title": "Application period for Undergraduate Research Fellowship opens Friday - wire.auburn.edu",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQQWFPcjRORHRWZmt2aGZsU1RZYWpfWVExMUJCRG8ycDdYczZlNHA2Ql9xN1RHdkRGNzRibThlaFRjOG9qeHBBSnF1UWRWcC1NYURpRlBPWWpyRU1pamlzVFkyakJVM2E5R2NRMG45cnd6TWRpeFBRZjBEVnoyT1E4RF8xM2NQUQ?oc=5"
+  },
+  "rss::d76d2ad09f3bfc75": {
+    "title": "Apply to the Millennium Fellowship Class of 2026 - globalsouthopportunities.com",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9tX1FqQV92UnBEcTN3aXMyNmx5QW14aUtnS2RiYVpLOUtVbmh4OTNqdThNM1A3TC1NRXlUblpiVmZlTEpsZS01MmNVX2tnUVl0a1RtUmJHZFl1cHJDa0c0UGJ0aU42ZlNJLXlCM0wxbXR3dG9r?oc=5"
+  },
+  "rss::ff94cfc62d6efc0c": {
+    "title": "Calling Undergraduate Leaders: Apply for the Fully Funded Millennium Fellowship Class of 2026 - globalsouthopportunities.com",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9MU1ZGbW94eEdzREVHRWQyY0lEZ1ZjYzFkM1N1TmVnX2FOV2tIVFdyd0hVZVFFR1J2WFVLNUJlMkpEZ2publNrWmR0Y1BHaG9jaXhtbks1clF0dEZBNVNNUmY0WWZFRHFtNzh0SnlfdEM?oc=5"
+  },
+  "rss::6c046201b6682329": {
+    "title": "Application open for the Benson Undergraduate Fellowship - colorado.edu",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVXUxUjhfblJScF84eFZVaHc2eXBoeDcxaUNUZjkxdWhNN2xuT3FGUDZOR0JHRGxnRHYyNGdudjVsNG4zanAtTVhpSzBBV2ExNG5ENk12M21DdUdOTzVkSEhLZl9keVdiVGJOazlUMFUtdWZ6WlNOYnVHNW5LV1lIT1FrSW55dW8xZ2kxSjIwUkY?oc=5"
+  },
+  "rss::593c25813d6397ff": {
+    "title": "Call For Applications: Intellect Africa Summer Fellowship 2.0 for all African Undergraduates - MSME Africa",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWXlNV1J5X0tQQVdhbEd5WlZiclNGLUlVcVFjMUlJU3NleUstRk1UdDQyRVhZbXdmV1RvYUlnVnZ2d0FUZVZTeW5YQ1VGeXVPQjl1YkZmNXA5bm1xNlBBcTlING9ocVNac2g0ZVJ0UmNETGtXaUVNbHlSd04xcjNfbVRPLVlKYTFnVlpIaE9wV3pXSHMyVzU1Mi1sMVRoLUphOVB2MERxRzRHRFA1dFRSMW01bENUWUhPc0p6Zkl3?oc=5"
+  },
+  "rss::2a204348bcfcbc54": {
+    "title": "IIT Hyderabad invites applications for SURE internship: Know eligibility, duration & fellowship - The Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSzVaOVRGU29MQW5CYzRyZnczUFJDQjVRVUFBRHVKZ0JmbnlySFQxbnVGVWgwZEVmRjVfR2F4a0tzak1iYU1YbENELUM5eGNDSlZGMEdCa3prM3g4bnRYSnVGdGFGa1c3MElHVUREWFAtLThxZ2dxbHRyS3I3aGRIQmdpRzl2ZW93NXFBaEwyQU5ETlYyd3g0aXFyY2QyX0dteS1YT256ZmZEaGRjVEkyazFqN1NiOEZ0RFNXM3NnTzdHOExzN2xQWFlHdHRDdjFVeWMtQ1RhLVJLOHBJMF9OSdIB5wFBVV95cUxNQ0hBaGNMTDdSdlN5MnVPYWlWdHgway1FeTBEeFZjeUlGd3Itb2txRjhSVXNocTRrRFZvaWdUZlRfdFZZTVZvbi1vWEY3RTV0Yi1vX3FPa21qQXlWNU13RDBORi16dnI5ZTVPUmFERGVROWtkQm9reF9FbkNWRFZUZzNMUlBKRnBrQ0xzaU1qMWl0Z2FPUGt4NTV5cENBSkEwWWYxNFBXdDJuRGFJV21HaWRWYUtSWlJvNGRiX1U3NENNM2l0TmtKaU1OX2s0SG5CWVd0bm5UeGlaem5EcGZfbTFZNVVJQ00?oc=5"
+  },
+  "rss::42df1870d99f5234": {
+    "title": "Shenoy Undergraduate Research Fellowship in Neuroscience (SURFiN) - Simons Foundation",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPa0dhdnZ2LVZfVG5MRzBodTBHSHVUUkxLWUpuLTY1VkVVbHhRQXhuN05ONmhoWU1KSkVpWjQtQl8wQ212eEVmTHVJQ2t6QlJ2cGdCaDNVTW05d2UyaXNJSG80TWhsT3pYLUwwXzNfd3dRRjFVSkh4Q2Z0QlR1S3NPeGNIVk1vNGlHX2I4UDg0MFlIUjlSTjBIWGJBcWlfeDAyb29PNEV1TEVEQjc4dnFQRHhR?oc=5"
+  },
+  "rss::b8c415d6b6134aa9": {
+    "title": "ASF Announces Recipients of 2026 Undergraduate Summer Research Fellowships - Autism Science Foundation",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNHJDQV9BbjNXVEdvckhITVFBUmg1em12RUh0cm85NG9tR0c5cFZqZC1fNmwxQ2EzeEFRdWU4aWFWelBDWnBoZEc1UWw4QnJTVVBwQXlrSjhsUXM4M1JYb2duWjRBYi12T2Q2SzByajBVYnZLT2ZWSFAwRjd2LWhiMnIwalU?oc=5"
+  },
+  "rss::ffb693492f0a26c5": {
+    "title": "The fabulous five: Open Quantum Initiative undergraduate fellows conduct research at Argonne - anl.gov",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDJGRlhSdWstQmZVbUs5QS1JVEtuSmNfMUo4V0dZTkZtOHJoSHJSOEgxTmZwZ2UtckVLamxmeGl2dXRQMFZYRk1LT2Y2OENYMlFQbzM4cWNEWmZId2RmcFB1U0U1dXF2WThERk1nakp3ajcyUTFkRDhYZ01pNUg3Z0U1N3JlTE1sYzJDU0JwZ2ZBYTdCTWJlcWNBZmRuMFVFT2RQSnlqMWk0NHN6RHprSmF0VktRV3pmM3k4?oc=5"
+  },
+  "rss::677f09eb55846d28": {
+    "title": "Apply to the Mellon Undergraduate Curatorial Fellowship Program at LACMA - unframed.lacma.org",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObzJmT0RQN1ZwbWt2WTlRZ1dZM1lRdjQwNUhlajNTblZVZk5ESHIwVjgwb2U1OElRQnItOWUwejQxNjNlM1JsUHAyeWNteFlXb1hUMGJHR1pxQi1ic1Z4T1VTVnl2V1RXSl9Sek1tUll1ZVNBZnBmY2JQTXAzZHg0QmN5dkRDTlc2VUZvdV84R2RCaXExZVBtWDVfNFg2RGNrSlE?oc=5"
+  },
+  "rss::d24f86798c1fd96d": {
+    "title": "Applications Open: Two Cultures Fellowship on Law & Governance 2026 (Fully Funded, LUMS Lahore, Pakistan - globalsouthopportunities.com",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5VQVlkVEFSTzEyTWVudE5OWE1QZWg1Um9KeDVhbFh6RHFTMHNzX1ltdl8ydmtQSUljOVpXclBNMmduRV9rcW5VLXBKcEUxeHd4OEVtWGY5Z2puSG8wa1JmQVJwLVpTNTg?oc=5"
+  },
+  "rss::2914a92859275892": {
+    "title": "Applications Open for 2025–2026 Undergraduate Research Fellowships in Neuroscience - Simons Foundation",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPc3pQWVZHLWJLWFhsZk5HTlE4d1pJN1l4T0ZsY3pKV1ZCYzJPUzlkSE5EN3AwNk0wQUZVOVRIdkhfZWQxbEZEM1BiRWlxR0pHNU96dEx4S1hHRFpuOXhOOTMzaDdWc2I3Q1M0VkktQWZ2X0Zrc3hPVTJMQmlRbko4M3c0VUNHa3ZhU0dCYUNFTlQ4Q3Q5U0czQ1psNUR3NmVYX3FwY285OEZRanlkZGhTOVd1RDNYOG4wMTE3X2RSZ0FSWHRDMVE?oc=5"
+  },
+  "rss::254360d6fcb10d50": {
+    "title": "Grad Student and Undergrad Win National Science Foundation Research Fellowship - CSUN Newsroom",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPN0RvdkotZkdBa21IYzZudnl6bXZrcmk0US1OYlFlRUZZcnBZSWZ4NmxQUkZPeHFIMUdGVXN5b09VU1IzYmExd3d4S2NxNElobHUtQWhhV0wyWTdtSVhvUWlHS0gzZktRQlFHYnBXcW9RSjFtb2dpbXd1RkhEVWVkZWlXZllwbkxLMGt0czdma08yZlJHNEpHQk5GVjB2LVI3bFlfOW9LREpvQlRWendTWlZRMnJRMEU?oc=5"
+  },
+  "rss::cf24fc7c155fe1af": {
+    "title": "15 Best US Scholarships for International Students in 2026 - North American Community Hub - NCHStats",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNSkZ4MkVhUnlOZV95NUozSXh4N3duMjF1MXBaRHpLYUN6RVdBOF8zVlNHSWQ2b2JKbnBLaUdyRkdZczA4ZEVIWjJGZkY4MFJvNjF1NWlWUFRXQTlWeE1CcThNdkJndjhWcHZFS3Mwekc2Z0ZIc25kRkZUbm5OSFU5Tg?oc=5"
+  },
+  "rss::bc021f3e5b5d8a98": {
+    "title": "Graduate Students’ NSF Fellowship Applications Are Being “Returned Without Review” - eos.org",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNblhqem5fU2tyakJxTHZLZjNIeE5qXzJxdXFuNnA3dTQ5VVk1V1hVbFhucU1seWFXODhDY3Z3d2VTQUl5WU9MQ2kxQWhtTHpBQzZTaE9GdEtXbi1TMTloSk5QSmVYLXg3TlY2MGw5MmJhY3lMb0pSZEFDNkpnTjN3b0xIa3FiSkIwa1NkR3kyeFdTLXYyTTNRVXZzSUxVTExtNUU4ZFR3SnhoVnJseXg0NUM0czY0ZEJ4ejVYTVR3?oc=5"
+  },
+  "rss::d63f9684f29db41e": {
+    "title": "DOE EM STARS Scholarship Program for STEM Students – Summer 2026 Applications Open - blogs.illinois.edu",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Hb1prS3huNGRDNmwyNHpUUjdEeUlud2ZLemIySFdoQUJVSzVkcTNHNjFkRUZsZk1mWUZHaU12cTRxSjBUZ0p5dFlmbHJaVXltVGFuemJvR014QQ?oc=5"
+  },
+  "rss::8e884062804fc42c": {
+    "title": "2026 Society for Biomaterials Cato T. Laurencin, MD, Ph.D. Undergraduate Travel Fellowship Award Winners - UConn Today",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNQlZzdHdWQTI4QjI0TlBueGt3Q19UcXVxVGw2OUJqQTRZVl90c0sxX01QaVU0Q2ZfamctdlBhVVNxbkw4SktYLTZBQkxkRmVrMjFlRmxzLVg5RGxOR2xvY1RFU09PNHNHZEh1a0FCaHJ6OWFzc0drV3VSNDctc1pxUlF6dXNQUlI0UVhBWkRuM1FpbzRhOFo1LWtXQWZyV3d1OGlPZmhCMFdlNUVEakx3TUt2MExmeEg3UDNYemhyVzhFUERkSmNMVlNLd1l0QQ?oc=5"
+  },
+  "rss::6dfc887938437b58": {
+    "title": "Students, faculty mystified as NSF turns back applications for prestigious fellowship program - STAT",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlVXZWZGMG9yTGFIY25kQkpZY2Exd3VwaEZFc1hfcVo5UHhRMFhrTFotNUVna0p3MzRpV1FKek93aG1jdlZIUFM1TVBTSXk3ZGpsZmUyQmtqd3B0cDdKZ1NtNWl4X0tSdkFPM1NZNmtXbDU4c0JXN3dkdFRTMUhwXw?oc=5"
+  },
+  "rss::5344dce131301e2e": {
+    "title": "Cornell School of Criticism and Theory Summer Fellowship - Stony Brook University",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcUlhRUVDMlZFLWsyTS1FR0lZWXZtVFNSZEExRlEzZW15bVQ3VnlybUhwaWc1Uy1aWHNUU1NGZThPMm5UZkplS1RuWVR4ZG9ybTNheXcxc0VsU1JzV2kzZDY5LVRpM2lNTW1Fb2RmUmJYd1lEeW5vMHNFVHBLRnU1WVlrdkdWVHJQY0ZpMi1VemowZkp4ejVEQXJtVU8zdHpOSzk1M1U4R3MwaHNI?oc=5"
+  },
+  "rss::2daa9c4acb79f94e": {
+    "title": "Call for Applications: 2025-2026 APSA Diversity Fellowship Program | Deadline: October 27 - - Political Science Now",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQ3J4Y05Sc3dhaC1KeHV4YlNyeDBVbzVZT2JNbnM3SnUyZm05dDZVd1hmaXVJYm4xOVRKVmZSeXFlLUVvMXRmR1I3d1NWbDVxQm8xTjY4aVBxRl9xS29CZ05Zem5VVEVRUm54SzMtUmNQUHpSQWZVM1BKNGpzVzJqR0hFb1VUYmQ2aGVNNVd4S0hnUjBiaDVpc2x2TzFRTDRnTnBkNlV4aGl0ZTk1YzZOYzRPVDcyXzRibFE?oc=5"
+  },
+  "rss::9d43af0119e54620": {
+    "title": "Last-minute changes for NSF graduate fellowships spark chaos - C&EN",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPcU96bXNweVhMem5CM3BXUml2MVliWGIxSFNnWXFBd3JibUFUSjJQY1BmVWplZGJ6UlNFU3ZXTWp2WGU1eTJxNnRia0xXZThjaC0tMEpTMllmYXc5WUYtZFN4eEJad2xpWHFHZmt3WVNaVDk2MDBNbnF4ejEyM05sQjZCYTU0UWhpS01KdXRMZ1V2ZGc2cW9V?oc=5"
+  },
+  "rss::d8eb24bb9beb4abc": {
+    "title": "The Fulcrum Opens Applications for 2026 Summer Journalism Fellowship - The Fulcrum",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5JMU1JdDhweUtHRXN5RGlCWGloZVUyQ1FERkdSSzFtekFyMnI0Nk0zRmM4aE1OM2FuV2hLMW1uWEZSU1ZHZDFtQUVrdzBUVzMwYjRZR0UtZVR3eDlxQVlZa3VkWDJrck5IbWFjSXBtaERfenp1MzBQWVp4d3hMMFU?oc=5"
+  },
+  "rss::8a8661f0c5560236": {
+    "title": "BRAID (Bridgebuilders Relating Across Interfaith Differences) Fellowship – United States - fundsforngos.org",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZUVVRDVjb2ZxcGFfclA0bFpwN2VqSDNidG9GREQ5YXNIX3pRUFZoWGVwYjdKT1dSaWw4V0JzRGJYbFJ0dTRQUmFHRmZOanh3aXZjYXByN0Nfd1A5UU04Y3lLanNLbEppN1cxZXMyTFVYeExUbnJaZXhMa2UyTGZCUkFydzVIWDVrYjVKeHdpTHJ3Vmh2dlp2NXd5aEJ5aW9Sc3EyblB6ZDhwMkF3T3Y3NXBJN0VqYlJESDZMM3ZOTENiR3c00gHKAUFVX3lxTE0taEkybzRYRExzMVU0RDg3eGlqSldIQWVYcDJuNnF3Szlkai1lZEhUbnVHaWFMd2R6bEJjVklCbThmMFhMLUJOVC12c1RjcUtSd2pVa1drSzJuTnNUZVZXOWM0VVpYRFI1SE9kSl9DRzN3UDFKNUZaUDNWXzhkakZDcy1xMEhsZW9NZTF2ODBsRTlMMlhmRXhqM01QOVo5NkttU3hSVVZzTEJFaV9KRDRXSHkzeHhjQWRHOHJDTzdDZGJGS25OZUZZT0E?oc=5"
+  },
+  "rss::649d6f00889dcc18": {
+    "title": "Paragon Policy Fellowship 2026 - opportunitydesk.org",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB0NVliME5yemprcm9NYU1yUEhyaWNOLTg2VnlkSDJ3U3hnaDFIWTNiNHdpNVhicnVlbDkwaXhnQkl4YWpJdlBuNFhCTVFpV0lqTmROWUV1WlhHdU9KQk9hQ1phSmNzRzV5b0E3cmJCMDJSWWo3NU1vYVZ3?oc=5"
+  },
+  "rss::0c5354dd6a96bc86": {
+    "title": "Distinguished Summer Research Fellowship (DSRF) | College of Engineering - Boston University",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPbTNZLUxBdWJzRFZfdm5Od2VWNnVlb1Q4T0dFd0UxWW1hMkpEb3FLelRfZnRibVJLZUNlRGxWaERGYk1lNkFIRE5Eb09OUkM2UGtRbTVqaEdIcm1nVUdDa1pLTXJENU5CM1hXT0w2UFR5SUFSdExnRm0tVjNpWnlwUmlzOExoZ0FmR0g1U0d1MTh1bGs1bzh2Rlg1cVdURXRlRm9TUzlGQ29kUF9TLVJvUmVYU0xpQ0Rk?oc=5"
+  },
+  "rss::7c996615b2dcf13f": {
+    "title": "Student Fellowships at The Yale Review - The Yale Review",
+    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE5iRkoxbGg3eFZmaHczOWxfVWt5Y0NBc2QyTlRCWTV3ZUxmSm4xcGtwcUZBcklCZVR2dzBUZ29JZXc2VVkxWFNRdnI3ZTA?oc=5"
+  },
+  "rss::129a81ae4a29fc32": {
+    "title": "13 Global Scholarships and Fellowships Currently Open – July 9, 2026 - opportunitydesk.org",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPbXVEQWp0MG5iZXFsWHNIbE5iUldjQVpjZElOTW8zdW5tRGNkblkwcHZKemlsSGpDSGJXdzUxdURTeEx5c1poVTFscXhJdk41Y05yZ2t1LURiOVpQbDN1b3NKRko4bEdKTEpmeGpLa1A3RDYyTzJ4MXB4YWNFSXh1VkkwVEZaTzRsRmdQXzlQbjJNc0I4YXVKRFZoQkdYNldkbTZxOHRmX2k?oc=5"
+  },
+  "rss::79aced74c7614dd3": {
+    "title": "Absa Fellowship Programme 2026 for Undergraduates Studies in South Africa (Fully Funded). - Opportunities For Africans",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNaTZXYzR0cXlDSW0wODkyb3JhN1hBN3owTDhkd2M0eHc2bVU5YkkwTFlsSDczaE84Ty1JWXc1WldEZXdEejRPZ2tTWGZZWnlMR0FBTXFaRXlkeUpMdmRLV08tRExLcjVQVWRpRTl1bE83b3dlWWF4ZGpzdDhBNUpyRFBfakd6VllPc0xBUzQ0SVQwWUlvVlF2UVFaMEUxMnhSZjRyb0RtclBtbFB4NlJsQTRRSkgwZw?oc=5"
+  },
+  "rss::1455e41dcb94ebe9": {
+    "title": "The Allan Gray Orbis Foundation Fellowship Programme 2026 for young Southern Africans. - Opportunities For Africans",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbGl2WFVHbmQ3LTVNN3FIZV9XUjVVU05FcTlqODk0cENlZnJfLThid090UXl0X0pIZWdZVnlqenVJSmVkVGlyOUJrSzY0NkF0dHJVM1ZoUTJIelpfREt4MHJsN0VSN1NMdGRvU3ZFQmZ4OGpQelYwQ04tX2NjNmpPc19meXJkR0h4LTVtYkUxbW03b0RwMTB3Y1BzZm5Od1FvcVZla050eVNNSjR3SnJzcVotRmZMeU44R2FWUW5HRmp4dmVmMXc?oc=5"
+  },
+  "rss::4d02c90631e0465c": {
+    "title": "Applications Open: UNHR Summer Fellowship Program 2026 - globalsouthopportunities.com",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBDVWlqUVJVOUhJbHJrME9zVTVFSFEwcVdsVXhaNDE2b0ZNRXJENFlaOHd4Z3R2bEhzWWpFdjBFRkg5VHMxZ3dpc0VrX2gyZFJKNFBxX3hOSmpIS0g0T0h3WUMwa3VuZnlt?oc=5"
+  },
+  "rss::35309d63390609fc": {
+    "title": "Iméra Institute for Advanced Study Opens FIAS Fellowship Applications for 2027–2028: Monthly Allowance €2,200 - globalsouthopportunities.com",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE85OVNvWFJITGdOSUV0NUd3bGRKbnlqWkVpRm4tVEd1emFmMkViRDdHLXpBcjUxZlcxUzJyWERaTERCWFBPYUJZdXNqN29Mc0lrb0JfbUw1UkNCcTBmajFORElGSkpKMGpR?oc=5"
+  },
+  "rss::e36e93b2ad5723a9": {
+    "title": "Absa Fellowship Programme 2026 for Undergraduate Studies in South Africa (Fully-funded) - opportunitydesk.org",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJd2dxSWNIX3VHa2pVMDZUOUcxOG1Sd3B4U0s2cVo0dnhTdXNxaS12NWFjeVVMRzduN1VzQkFIZjNWMEtFcXgzejhwbS1kWmptSUx3NnFXdy1pTncwSTliT0wyM0VDRDZiM0U3UTJKTjRiZGgwbElvdFFn?oc=5"
+  },
+  "rss::1e54fdd5dee918f3": {
+    "title": "LSE-Miguel Dols Fellowship Autumn Term 2026-7 - lse.ac.uk",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQTJTdFN3Q1BQMVNHcEVEdVVXREg4TlJiX0tleGhEbXJpdjBrWGJTSHMyZnpDdGZyTi15VTVwSFp5TEwyZXFGSGp5Z0tVNUxWWFZ2bkRIZGFtR21acnFPWWxVSTNtTFgwdlNZSDk4LTFScTN1TmZlVVZmLUNrT2VyRlRscWQtUFIxUmZURFJLR3F5a3c?oc=5"
+  },
+  "rss::bf3c05fd6e891d89": {
+    "title": "Summer Undergraduate Research Fellowship (SURF) - Michigan Technological University",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE8zN3VmWWVDbEF2Rmt2UXRvUk95QnZoSnBiNE9tMzFfWFU4U2NOaFlORFlPWlhSRUtQbUFzVHdKYUZDenhHVmNRczZTR09zZjA4VUUw?oc=5"
+  },
+  "rss::4fb7dcba35a86e61": {
+    "title": "Summer Research Fellowship 2026 at IIT Delhi - globalsouthopportunities.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QRTJteEM0bk5GX1N6UDQwUl95T1l1amQxcW9vWXl1Qmp5NlJnQTJseE43UDlwdWF2VGotc2lwSjdJSTRYcHVwSjN2eG1KTDhOa2ZJTnVER2pRUk92eFQ2TUxQNk9pT1Z2c1A4VHRqNE5pUW5kMHc?oc=5"
+  },
+  "rss::43dcdfdcda00df19": {
+    "title": "Scholarships for College - Apply Now - UNCF",
+    "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9oSUFqRnNmb0M3VnRBdF9JbW0wX3A1YXc3ekpyeFZVb3pDaEpuUVBMTC1UWTVDZzhTWHUxaGQ1WW1MaFU?oc=5"
+  },
+  "rss::a9536a7f7d32103e": {
+    "title": "IIT Madras Summer Fellowship Programme 2026: Check eligibility, stipend and direct link to apply here - Moneycontrol.com",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNUXplM25KVGNIS3hJMmJYUThkZ2RLZGhGUUZxbTJmeEVXdzJOMkNrQmRCelhlRWp3ckRNckhicjJ4bEU0OTBIbHdDdVlFelB4R1pELWV2ZVUwTEhZWHl4OTU0UktXbVQ4NDZaemxET1JjTlJjY19vQjBSVzlfTmlGWFpTYlRMS1NZOEczWDFuRmpKSU45OVhIWDRSVkUwUjhMNzhvUnQ2X1VMazFKMm9ic09IX2NSdmhPTWp1Rnh5V0U4QTV6Q05ucGFuUUxzUXJ1dExuTlJyQjBROFJPSk1qOEhVUHZGS0Y0eWt4czRsaEdId9IB9wFBVV95cUxPV08wZ1J2MmZ3R1YtZ3pGOWRhajFwWHJIcUhSQjhzLTYyd0dRZnYyWXRjbnhwUFdHTEFaLWRJUHhzOG9lRTBTcVMzSjc4VmwxdVEyajROaU5NS2RaUl9meFRfZzZVR253c1BYd0RhVWdSdVotU3dqSE1qQ0kzVEl1SDM2TVpfUThGRE5CdGVBaC1kcGt0aDVLNzgtTGZ1NG9GaklDYXNXZ3dndkdUd2gxR08tWVVoNlVBNHVZU2thdHo2LV8zRV8yenRlcmRmOEp3VkNMdDVkNFd5VFF4ejU5bFRvM0RzcndpWEd6SVJpelNQVWEybC1J?oc=5"
+  },
+  "rss::44ef9cb0b26013a0": {
+    "title": "INTERA Fellowship Application 2025/2026 – Join a Network of Innovative Researchers in Africa: (open to both emerging researchers undergraduate to doctoral level & experienced researchers, postdoc leve",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1zeTFGcUo1aDRPLUpKU0pIVEYyV01xalFYNklnNF9VZVpCbkYtODBuQllJWG5WTXZQUms1U3d4WjEyLU85TlNfRk81QkRiM3RKeDZjSTlGcng1OU1aT1F4SVhCcG53cmFOY3V3?oc=5"
+  },
+  "rss::edde9c58936d8e14": {
+    "title": "Now Open: World Bank Group Africa Fellowship Program 2026 - After School Africa",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQakFIb3hTUTNBa0N3Q1EzMEJlTHhxUFdwRGNRR20wM0dvVDlQdWtEbFhvYTZGdWI4aDIxZG9HcjFnQW9ONmlZRFVHckNRMUpCSmdHMHg3RUxTVk5LRXpGeXRfSlZtcGNQa1dTQVFwTVU2c1B1TTVBTEc5VVRfbllzaQ?oc=5"
+  },
+  "rss::9023644895dcf65c": {
+    "title": "How To Apply For The 2026 Mandela Rhodes Scholarship For Africans (Now Open for Applications) - After School Africa",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPLWRqYnJtX1BCV0dpcnRrMVZ4bS1KYm56U1JyZmt0T3JIdGV0QnJmaXZSY3JkdGJpeDRXVk1FZmxHck1QQVlEcEZiQzdaZVdYLXNYTVZKY19XNUh1ZVlUdk1oeXpPd0pJMjd2c19MRFU5QmZDdVV5V096ZnhwemRueU1LNlg4WVk?oc=5"
+  },
+  "rss::a7f4d3549f3ea4bb": {
+    "title": "NOW OPEN: The Bridge Fellowship Program 2026 for Nigerian Undergraduates - After School Africa",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5taDFzUDNjRDJyRERPV2RHZXQzQU90dTF4UFBqMmZfRHNPdm1RRzYxaHp2VzFpM3BaQm0zX3g5QUV6ME5KaXpDaWZ0eFZyb2NIMEJPVHQ1Mkd1TUhmdG9OeXJPa1dWc2ZheVFZLWVKc1QybnVz?oc=5"
+  },
+  "rss::0c8705b4d52750f2": {
+    "title": "OpenAI Safety Fellowship 2026–2027: How to Apply (Get Monthly Stipend & Mentorship from OpenAI Experts) - After School Africa",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE43RjFQa1d6N0hkQUItYzM4RzZFc0FkTjZnb3BuSWFua3haMmlDZkRYeExRRmZUUzc4WDNXUlN2djBaVy05bU9HQ2ZFMTVZdlBaZkd1cU9yMzNXS2dIaFMyUlZTMmtqaVZ0VUpMeHFwSFlMVDlu?oc=5"
+  },
+  "rss::16d4d49130f96667": {
+    "title": "New York University (NYU) Opens African Fellowship 2025/2026 for African Researchers - After School Africa",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU0V0NnZjcmxrczhIUHU1V1diak53S2pRX0JTZlNzcE9leVV4VmVVNTNHaDlRLUU2WWxFaHR1ZmJBcU1wd3c1emd3aFdmdjdITjVIVGM3eGRZblBnQnVmQnY2bUkwOGN3UDJUVjR3WTJYQy0tZXdOUTFnUHVwWEl3dXpoMWhqTTdibnJvcWwzQnhjVExOYkI1MDB3LWRLTHQ3cUNfSnZYa0JBMFN0UTQ2Q2VSODdodDRGUmVEME5SME8?oc=5"
+  },
+  "rssfeed::https://www.reddit.com/r/quant/new/.rss": {
+    "title": "RSS: Reddit r/quant",
+    "url": "https://www.reddit.com/r/quant/new/.rss"
+  },
+  "rss::fca78da0c34ab7bc": {
+    "title": "Do quants work in sovereign debt management agencies or adjacent roles?",
+    "url": "https://www.reddit.com/r/quant/comments/1wbptf3/do_quants_work_in_sovereign_debt_management/"
+  },
+  "rss::a3b17a96734c5340": {
+    "title": "What does Gerko do all day?",
+    "url": "https://www.reddit.com/r/quant/comments/1wbouzy/what_does_gerko_do_all_day/"
+  },
+  "rss::2037359c31448fb1": {
+    "title": "AM quant research → options market making: is Mako respected enough to be worth the jump?",
+    "url": "https://www.reddit.com/r/quant/comments/1wbbhr1/am_quant_research_options_market_making_is_mako/"
+  },
+  "rss::3691c1ecc91f5ba2": {
+    "title": "Adversely selecting against Agentic AI Trading Bots",
+    "url": "https://www.reddit.com/r/quant/comments/1wb3nha/adversely_selecting_against_agentic_ai_trading/"
+  },
+  "rss::d3412885ab4aeea5": {
+    "title": "Is there core \"fundamentals\" when coming up with a trading strategy?",
+    "url": "https://www.reddit.com/r/quant/comments/1wa2j32/is_there_core_fundamentals_when_coming_up_with_a/"
+  },
+  "rss::68462e02c9d7c2eb": {
+    "title": "Bad Quant Job Mobility",
+    "url": "https://www.reddit.com/r/quant/comments/1w9yijw/bad_quant_job_mobility/"
+  },
+  "rss::669104e7a45ebec1": {
+    "title": "A published PSR worked example was wrong for months (mine). The kurtosis term doesn't vanish at γ₂ = 3.",
+    "url": "https://www.reddit.com/r/quant/comments/1w9vr4f/a_published_psr_worked_example_was_wrong_for/"
+  },
+  "rss::305a2ff9c2a2de64": {
+    "title": "Weekly Megathread: Education, Early Career and Hiring/Interview Advice",
+    "url": "https://www.reddit.com/r/quant/comments/1w9jpcb/weekly_megathread_education_early_career_and/"
+  },
+  "rss::e00bf98135c421c8": {
+    "title": "How do you negotiate your bonus in quant finance?",
+    "url": "https://www.reddit.com/r/quant/comments/1w98ryn/how_do_you_negotiate_your_bonus_in_quant_finance/"
+  },
+  "rss::629ba714aebc7a18": {
+    "title": "LGBTQIA+ buy-side quants and their coworkers [Poll]",
+    "url": "https://www.reddit.com/r/quant/comments/1w9044n/lgbtqia_buyside_quants_and_their_coworkers_poll/"
+  },
+  "rss::2852f48b9288a2ff": {
+    "title": "What type of lifestyle do Quants have?",
+    "url": "https://www.reddit.com/r/quant/comments/1w8xk9e/what_type_of_lifestyle_do_quants_have/"
+  },
+  "rss::493f5aa316e1a1c4": {
+    "title": "Tried to replicate the Attention Factors stat-arb paper (ICAIF 2025). Got Sharpe −0.64 where they got +2.30. Where did I go wrong?",
+    "url": "https://www.reddit.com/r/quant/comments/1w8otws/tried_to_replicate_the_attention_factors_statarb/"
+  },
+  "rss::e80fb336a1c9169b": {
+    "title": "I don't understand the whole WorldQuant BRAIN thing",
+    "url": "https://www.reddit.com/r/quant/comments/1w7zxtu/i_dont_understand_the_whole_worldquant_brain_thing/"
+  },
+  "rss::56ccd15029d297f2": {
+    "title": "How Quant Funds Use AI Safely",
+    "url": "https://www.reddit.com/r/quant/comments/1w7o3j2/how_quant_funds_use_ai_safely/"
+  },
+  "rss::bf991b39996c37d3": {
+    "title": "Why does IMC get so much hate",
+    "url": "https://www.reddit.com/r/quant/comments/1w71bvp/why_does_imc_get_so_much_hate/"
+  },
+  "rss::a1842c4be303f98f": {
+    "title": "Balyasny flat in 2026!",
+    "url": "https://www.reddit.com/r/quant/comments/1w6bcuc/balyasny_flat_in_2026/"
+  },
+  "rss::af991bfce7d7f797": {
+    "title": "Preventing Delta-Hedging blowups: Handling Gamma instability in Barrier Options via Finite Differences",
+    "url": "https://www.reddit.com/r/quant/comments/1w67szg/preventing_deltahedging_blowups_handling_gamma/"
+  },
+  "rss::839c3ad4759d4d22": {
+    "title": "Changing firms mid-career",
+    "url": "https://www.reddit.com/r/quant/comments/1w657xd/changing_firms_midcareer/"
+  },
+  "rssfeed::https://hnrss.org/newest?q=competition+students": {
+    "title": "RSS: HN – competition",
+    "url": "https://hnrss.org/newest?q=competition+students"
+  },
+  "opp::cornell-trading-2026": {
+    "title": "Cornell Trading Competition 2026",
+    "url": "https://cornellquantfund.org/competition"
+  },
+  "opp::citadel-stock-pitch-2026": {
+    "title": "Citadel Intercollegiate Stock Pitch Competition 2026",
+    "url": "https://www.citadel.com/careers/investing/citadel-associate-program/apply-for-2026-intercollegiate-stock-pitch-competition/"
+  },
+  "opp::stevens-hftc-2026": {
+    "title": "Stevens High Frequency Trading Competition (HFTC-26)",
+    "url": "https://www.stevens.edu/school-business/2026-stevens-high-frequency-trading-competition"
+  },
+  "opp::ibm-z-datathon-2026": {
+    "title": "IBM Z Datathon 2026",
+    "url": "https://www.ibm.com/z/datathon"
+  },
+  "opp::hackgt-2026": {
+    "title": "HackGT (Georgia Tech)",
+    "url": "https://hack.gt/"
+  },
+  "opp::nsa-codebreaker-2026": {
+    "title": "NSA Codebreaker Challenge 2026",
+    "url": "https://nsa-codebreaker.org/"
+  },
+  "opp::uchicago-midwest-trading-2027": {
+    "title": "UChicago Midwest Trading Competition 2027",
+    "url": "https://midwesttrading.uchicago.edu/competition.html"
+  },
+  "opp::traders-at-mit-spring-2027": {
+    "title": "Traders@MIT Intercollegiate Trading Competition (Spring 2027)",
+    "url": "https://traders.mit.edu/competition"
+  },
+  "opp::berkeley-trading-2027": {
+    "title": "Berkeley Trading Competition 2027",
+    "url": "https://traders.studentorg.berkeley.edu/competition.html"
+  },
+  "opp::mig-quant-conference-2027": {
+    "title": "MIG Quant Conference + Competition (Michigan) 2027",
+    "url": "https://www.migconf.com/"
+  },
+  "opp::rice-datathon-2027": {
+    "title": "Rice Datathon 2027",
+    "url": "https://datathon.rice.edu/"
+  },
+  "opp::advent-of-code-2026": {
+    "title": "Advent of Code 2026",
+    "url": "https://adventofcode.com/"
   }
 }
