@@ -6144,7 +6144,7 @@
     "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e"
   },
   "https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17": {
-    "title": "Software Engineer Intern, Agent (Singapore Summer 2027)",
+    "title": "Software Engineer Intern, Agent (Summer 2027)",
     "url": "https://jobs.ashbyhq.com/Sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17"
   },
   "https://job-boards.greenhouse.io/vercel/jobs/6181759004": {
@@ -9164,7 +9164,7 @@
     "url": "https://jobs.ashbyhq.com/semgrep/8e64dc7f-e925-4361-86d5-b01ee518c987"
   },
   "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770": {
-    "title": "Software Engineer, Intern",
+    "title": "Software Engineer - Intern",
     "url": "https://jobs.ashbyhq.com/oneapp/ba18d004-3212-44e4-8a0c-bd1215bae770"
   },
   "https://jobs.ashbyhq.com/oneapp/7cc2fdfb-a186-4a58-af1b-8255c173244a": {
@@ -15630,5 +15630,309 @@
   "https://aoins.wd5.myworkdayjobs.com/autoowners/job/lansing-mi/intelligent-automation-developer-internship---summer-2027_r_14474": {
     "title": "Intelligent Automation Developer Intern",
     "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-ca-san-diego-sd1--8650-balboa-ave--san-antonio-bldg/systems-engineering-intern--summer-2027-_01873644": {
+    "title": "Systems Engineering Intern (Summer 2027)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-SAN-DIEGO-SD1--8650-Balboa-Ave--SAN-ANTONIO-BLDG/Systems-Engineering-Intern--Summer-2027-_01873644"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-ct-middletown-220a--aircraft-rd--bldg-220a/test-engineer-at-assembly---systems-intern--onsite-_01872767": {
+    "title": "Test Engineer at Assembly - Systems Intern (Onsite)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CT-MIDDLETOWN-220A--Aircraft-Rd--BLDG-220A/Test-Engineer-at-Assembly---Systems-Intern--Onsite-_01872767"
+  },
+  "https://aero.wd5.myworkdayjobs.com/en-us/external/job/el-segundo-ca/xmlname-2027-machine-learning-engineering-graduate-intern_r016432": {
+    "title": "2027 Machine Learning Engineering Graduate Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Machine-Learning-Engineering-Graduate-Intern_R016432"
+  },
+  "https://job-boards.greenhouse.io/harbingermotors/jobs/5231840007": {
+    "title": "Intern, Business Systems",
+    "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/5231840007"
+  },
+  "https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007": {
+    "title": "Intern, Cybersecurity",
+    "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007"
+  },
+  "https://jobs.smartrecruiters.com/solidigm/744000148621589": {
+    "title": "Talent Acquisition Data Engineering & Analytics Graduate Intern",
+    "url": "https://jobs.smartrecruiters.com/Solidigm/744000148621589"
+  },
+  "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003": {
+    "title": "Flight Software Intern Summer 2027",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7989722003"
+  },
+  "https://job-boards.greenhouse.io/rocketlab/jobs/7986794003": {
+    "title": "Fluid Systems Intern Summer 2027",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7986794003"
+  },
+  "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003": {
+    "title": "Systems Engineering Intern Summer 2027",
+    "url": "https://job-boards.greenhouse.io/rocketlab/jobs/7987046003"
+  },
+  "https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7": {
+    "title": "2027 BT RISE Internship - Information Technology AI Intern",
+    "url": "https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7"
+  },
+  "https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177": {
+    "title": "2027 BT RISE Internship - Information Security ",
+    "url": "https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177"
+  },
+  "https://jobs.ashbyhq.com/seqholdings/9dc9a7f3-198a-43c0-be75-a3aba228bf2c": {
+    "title": "Software Engineer (Intern)",
+    "url": "https://jobs.ashbyhq.com/seqholdings/9dc9a7f3-198a-43c0-be75-a3aba228bf2c"
+  },
+  "https://jobs.smartrecruiters.com/pilotcompany/744000148578069": {
+    "title": "Program Intern, Cloud Operations",
+    "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148578069"
+  },
+  "https://jobs.smartrecruiters.com/pilotcompany/744000148577368": {
+    "title": "Program Intern, Infrastructure Support",
+    "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148577368"
+  },
+  "https://jobs.smartrecruiters.com/pilotcompany/744000148575429": {
+    "title": "Program Intern, Applications Development",
+    "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148575429"
+  },
+  "https://jobs.smartrecruiters.com/pilotcompany/744000148572860": {
+    "title": "Program Intern, Network Operations",
+    "url": "https://jobs.smartrecruiters.com/PilotCompany/744000148572860"
+  },
+  "https://job-boards.greenhouse.io/amperesand/jobs/4381214009": {
+    "title": "Intern, Software ",
+    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4381214009"
+  },
+  "https://job-boards.greenhouse.io/amperesand/jobs/4392181009": {
+    "title": "Software Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/amperesand/jobs/4392181009"
+  },
+  "https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d": {
+    "title": "Full-Stack Engineering Internship - Summer 2027",
+    "url": "https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d"
+  },
+  "https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e": {
+    "title": "Platform & Site Reliability Engineering Internship - Summer 2027",
+    "url": "https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e"
+  },
+  "https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4": {
+    "title": "Product Engineering Intern - Summer 2027",
+    "url": "https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4"
+  },
+  "https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b": {
+    "title": "Product Research Internship - Summer 2027",
+    "url": "https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b"
+  },
+  "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009": {
+    "title": "Summer 2027 Internship- Software Engineering ",
+    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4398373009"
+  },
+  "https://greatamerica.wd12.myworkdayjobs.com/en-us/greatamericacareers/job/cedar-rapids-ia/software-engineer-intern_jr1221": {
+    "title": "Software Engineer Intern",
+    "url": "https://greatamerica.wd12.myworkdayjobs.com/en-US/greatamericacareers/job/Cedar-Rapids-IA/Software-Engineer-Intern_JR1221"
+  },
+  "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008": {
+    "title": "Electrical/Embedded Software Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400236008"
+  },
+  "https://polarsemi.wd501.myworkdayjobs.com/en-us/polar/job/bloomington-mn-usa/technology-development-engineer-intern_r3783": {
+    "title": "Technology Development Engineer Intern",
+    "url": "https://polarsemi.wd501.myworkdayjobs.com/en-US/Polar/job/Bloomington-MN-USA/Technology-Development-Engineer-Intern_R3783"
+  },
+  "https://polarsemi.wd501.myworkdayjobs.com/en-us/polar/job/bloomington-mn-usa/technology-development-engineering-intern_r3784": {
+    "title": "Technology Development Engineering Intern",
+    "url": "https://polarsemi.wd501.myworkdayjobs.com/en-US/Polar/job/Bloomington-MN-USA/Technology-Development-Engineering-Intern_R3784"
+  },
+  "https://hmhw.wd12.myworkdayjobs.com/en-us/hmh_careers/job/houston-tx/software-engineering-intern_jr102384": {
+    "title": "Software Engineering Intern",
+    "url": "https://hmhw.wd12.myworkdayjobs.com/en-US/hmh_careers/job/Houston-TX/Software-Engineering-Intern_JR102384"
+  },
+  "https://jobs.smartrecruiters.com/infinitequant/744000143287594": {
+    "title": "Quantitative Developer Intern - Summer 2027",
+    "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594"
+  },
+  "https://higher.gs.com/roles/175424?type=students": {
+    "title": "Quantitative Strategist Intern - Multiple Teams",
+    "url": "https://higher.gs.com/roles/175424?type=students"
+  },
+  "https://higher.gs.com/roles/175427?type=students": {
+    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/175427?type=students"
+  },
+  "https://higher.gs.com/roles/171535?type=students": {
+    "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171535?type=students"
+  },
+  "https://higher.gs.com/roles/171563?type=students": {
+    "title": "Quantitative Strategist Intern - Multiple Teams",
+    "url": "https://higher.gs.com/roles/171563?type=students"
+  },
+  "https://higher.gs.com/roles/171546?type=students": {
+    "title": "Associate Intern - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171546?type=students"
+  },
+  "https://higher.gs.com/roles/171551?type=students": {
+    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171551?type=students"
+  },
+  "https://higher.gs.com/roles/170860?type=students": {
+    "title": "Summer Analyst Intern - Wealth Management - Quantitative Finance",
+    "url": "https://higher.gs.com/roles/170860?type=students"
+  },
+  "https://higher.gs.com/roles/175426?type=students": {
+    "title": "Summer Analyst Intern - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/175426?type=students"
+  },
+  "https://higher.gs.com/roles/171534?type=students": {
+    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171534?type=students"
+  },
+  "https://higher.gs.com/roles/175428?type=students": {
+    "title": "Quantitative Strategist Intern - Investment Banking",
+    "url": "https://higher.gs.com/roles/175428?type=students"
+  },
+  "https://higher.gs.com/roles/171533?type=students": {
+    "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171533?type=students"
+  },
+  "https://higher.gs.com/roles/171547?type=students": {
+    "title": "Summer Analyst Intern - Americas - Investment Banking Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171547?type=students"
+  },
+  "https://higher.gs.com/roles/171549?type=students": {
+    "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
+    "url": "https://higher.gs.com/roles/171549?type=students"
+  },
+  "https://leidos.wd5.myworkdayjobs.com/external/job/annapolis-junction-md/software-developer-intern_r-00191713": {
+    "title": "Software Developer Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713"
+  },
+  "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/st-louis-mo/the-cigna-group-s-technology-development-program----software-engineering-track-summer-internship_26009527": {
+    "title": "Software Engineering Intern - Technology Development Program - Software Engineering Track",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527"
+  },
+  "https://tel.wd3.myworkdayjobs.com/tel-careers/job/san-jose/software-engineer--ai-research-summer-2027-intern_r26-01531": {
+    "title": "Software Engineer Intern - AI Research",
+    "url": "https://tel.wd3.myworkdayjobs.com/tel-careers/job/San-Jose/Software-Engineer--AI-Research-Summer-2027-Intern_R26-01531"
+  },
+  "https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560": {
+    "title": "Software Engineer Intern",
+    "url": "https://app.careerpuck.com/job-board/domino-data-lab/job/7992560?gh_jid=7992560"
+  },
+  "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/tx-austin-11501-alterra-pkwy-ste-500/the-cigna-group-s-technology-development-program---ai-engineering-track-summer-internship_26009535": {
+    "title": "AI Engineer Intern",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535"
+  },
+  "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/bloomfield-ct/the-cigna-group-s-technology-development-program---data---analytics-engineering-track-summer-internship_26009533": {
+    "title": "Data & Analytics Engineering Intern - Technology Development Program",
+    "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/Bloomfield-CT/The-Cigna-Group-s-Technology-Development-Program---Data---Analytics-Engineering-Track-Summer-Internship_26009533"
+  },
+  "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern-software-engineer_r10250150": {
+    "title": "Software Engineer Intern",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150"
+  },
+  "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-data-analytics-intern---clearfield-ut_r10250086": {
+    "title": "Data Analytics Intern",
+    "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Data-Analytics-Intern---Clearfield-UT_R10250086"
+  },
+  "https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsredirect=false": {
+    "title": "Payload Control System Software/Systems Engineering Intern - Summer 2027",
+    "url": "https://careers-gdms.icims.com/jobs/74848/job?mobile=true&needsRedirect=false"
+  },
+  "https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application?embed=true": {
+    "title": "Information Technology AI Intern",
+    "url": "https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7/application?embed=true"
+  },
+  "https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce/application?embed=true": {
+    "title": "Forward Deployed Engineer Intern - Summer 2027",
+    "url": "https://jobs.ashbyhq.com/saronic/cffe4bc2-5f34-45bf-904d-e9a6c8a8e5ce/application?embed=true"
+  },
+  "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77": {
+    "title": "Software Engineer Intern - Web Applications - Summer 2027",
+    "url": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77"
+  },
+  "https://spgi.wd5.myworkdayjobs.com/kensho_careers/job/cambridge-ma/software-engineer---summer-intern-2027_331717-1": {
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-1"
+  },
+  "https://novatechengineering.applytojob.com/apply/prjzdfwzee/software-development-coop-located-onsite-in-willmar-mn": {
+    "title": "Software Development Co-op",
+    "url": "https://novatechengineering.applytojob.com/apply/prjzDfwzEE/Software-Development-CoOp-Located-Onsite-In-Willmar-MN"
+  },
+  "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51": {
+    "title": "Software Engineer Intern",
+    "url": "https://ats.rippling.com/collieraerospace/jobs/b666dbfe-34e5-422f-8879-4d53c0ae1f51"
+  },
+  "https://spgi.wd5.myworkdayjobs.com/kensho_careers/job/cambridge-ma/machine-learning-engineer---summer-intern-2027_331714": {
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://spgi.wd5.myworkdayjobs.com/Kensho_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714"
+  },
+  "https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4/apply": {
+    "title": "Product Engineering Intern",
+    "url": "https://jobs.lever.co/immuta/bf3c9d23-8da9-4a11-adf6-ecb7bce82ad4/apply"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/northampton-barclays-campus-pavilion-drive/xmlname-2027-technology-developer-summer-internship-programme-northampton_jr-0000129379": {
+    "title": "Technology Developer Intern - Programme",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Northampton-Barclays-Campus-Pavilion-Drive/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Northampton_JR-0000129379"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/canary-wharf-1-churchill-place/xmlname-2027-technology-developer-summer-internship-programme-london_jr-0000129397": {
+    "title": "Technology Developer Intern",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-London_JR-0000129397"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/canary-wharf-1-churchill-place/xmlname-2027-customer-and-digital---data-and-analytics-summer-internship-programme-london_jr-0000129280": {
+    "title": "Data and Analytics Intern - Customer and Digital",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-London_JR-0000129280"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/glasgow-campus/xmlname-2027-technology-developer-summer-internship-programme-glasgow_jr-0000129387": {
+    "title": "Technology Developer Intern",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Glasgow_JR-0000129387"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/glasgow-campus/xmlname-2027-customer-and-digital---data-and-analytics-summer-internship-programme-glasgow_jr-0000129278": {
+    "title": "Customer and Digital Data and Analytics Intern",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278"
+  },
+  "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/houston-tx/software-engineering-intern_jr102384": {
+    "title": "Software Engineer Intern",
+    "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Software-Engineering-Intern_JR102384"
+  },
+  "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/knutsford-radbroke-hall/xmlname-2027-technology-developer-summer-internship-programme-knutsford_jr-0000129381": {
+    "title": "Technology Developer Intern",
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Developer-Summer-Internship-Programme-Knutsford_JR-0000129381"
+  },
+  "https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d/apply": {
+    "title": "Full-Stack Engineering Intern - Summer 2027",
+    "url": "https://jobs.lever.co/immuta/b9b21075-74a4-4b64-8f1b-f0be1fb0b24d/apply"
+  },
+  "https://wd3.myworkdaysite.com/recruiting/brevanhoward/bh_externalcareers/job/new-york/xmlname-2027-summer-internship-program---systematic-trading--new-york_jr101591": {
+    "title": "Systematic Trading Intern",
+    "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading--New-York_JR101591"
+  },
+  "https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply": {
+    "title": "Product Research Intern",
+    "url": "https://jobs.lever.co/immuta/18aabf0a-8b27-4b7d-8a96-6995a7f8847b/apply"
+  },
+  "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/washington-dc/university---summer-2027-quantum-computing-research-intern_r0249046": {
+    "title": "Quantum Computing Research Intern",
+    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046"
+  },
+  "https://careersus-shure.icims.com/jobs/4956/job?mobile=true&needsredirect=false": {
+    "title": "Application Software Engineer Intern",
+    "url": "https://careersus-shure.icims.com/jobs/4956/job?mobile=true&needsRedirect=false"
+  },
+  "https://ecnf.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/301901": {
+    "title": "Java Developer Intern",
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301901"
+  },
+  "https://careers.publicisgroupe.com/jobs/172577?icims=1": {
+    "title": "Software Engineer Intern",
+    "url": "https://careers.publicisgroupe.com/jobs/172577?icims=1"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-co-aurora-s75--16800-e-centretech-pkwy--bldg-s75/software-engineering-intern--summer-2027-_01873646": {
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-AURORA-S75--16800-E-Centretech-Pkwy--BLDG-S75/Software-Engineering-Intern--Summer-2027-_01873646"
+  },
+  "https://ecnf.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/301899": {
+    "title": "C++ Developer Intern",
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301899"
+  },
+  "https://ecnf.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx/job/301900": {
+    "title": "AI Engineering Intern",
+    "url": "https://ecnf.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/301900"
   }
 }
