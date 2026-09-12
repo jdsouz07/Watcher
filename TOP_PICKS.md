@@ -1,6 +1,6 @@
 # Top picks (auto-generated)
 
-_2302 role(s) worth a look, out of 3398 tracked items. Rebuilt every sweep: 2026-09-12 19:13 UTC._
+_2301 role(s) worth a look, out of 3399 tracked items. Rebuilt every sweep: 2026-09-12 22:11 UTC._
 
 Grouped by lane in the order set by `filters.lane_order` in config.json: ai → cyber → quant → startup → swe → other. Within a lane, preferred locations first, then sweet-spot firms before elite ones.
 
@@ -190,7 +190,6 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Marvell — Applied Machine Learning Scientist Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1) — Santa Clara, CA
 - [Merck — Data Scientist Intern - Nonclinical Drug Safety](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861) — Boston, MA
 - [Merck — Optical Imaging Data Science Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Optical-Imaging-Data-Science-Intern---Intern_R412885) — Boston, MA
-- [Meta — Research Scientist Intern - Monetization Generative AI - LLM](https://www.metacareers.com/jobs/2916726525182155) — Seattle, WA, Menlo Park, CA, NYC, Bellevue, WA
 - [Meta — Research Scientist Intern - Photorealistic Telepresence](https://www.metacareers.com/jobs/924149567345400) — London, UK
 - [Meta — Research Scientist Intern - State Estimation for Dexterous Manipulation](https://www.metacareers.com/jobs/2774289902955470) — Redmond, WA
 - [Microsoft — Software Engineer Intern, AI/ML & LLM](https://apply.careers.microsoft.com/careers?query=intern&start=0&location=untied+states&sort_by=relevance&filter_include_remote=1&filter_include_relocation=0&pid=1970393556922929) — Redmond, WA
@@ -1020,8 +1019,8 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Quant: Jump Trading — Campus AI Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052281) ⚡elite — Chicago; New York
 - [Quant: Jump Trading — Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) ⚡elite — Chicago; New York
 - [Quant: Jump Trading — Campus AI Research Engineer – Research Automation (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052351) ⚡elite — Chicago; New York
-- [Quant: Jump Trading — Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) ⚡elite — Chicago
 - [Quant: Jump Trading — Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975008) ⚡elite — London
+- [Quant: Jump Trading — Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) ⚡elite — Chicago
 - [Quant: Jump Trading — Campus ML Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7977145) ⚡elite — London
 - [Quant: Jump Trading — Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8010307) ⚡elite — London; Amsterdam
 - [Quant: Jump Trading — Campus Quantitative Researcher (M1/M2 Intern)](https://www.jumptrading.com/hr/job?gh_jid=8059384) ⚡elite — London; Paris
@@ -1123,12 +1122,12 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [PIMCO — Quantitative Portfolio Management Intern](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) ⚡elite — Newport Beach, CA
 - [PIMCO — Quantitative Research Analyst Intern - Portfolio Management](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749) ⚡elite — Newport Beach, CA
 - [Quant: Jump Trading — Campus AI/ML Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027938) ⚡elite — Hong Kong; Shanghai; Singapore
-- [Quant: Jump Trading — Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027946) ⚡elite — Singapore
 - [Quant: Jump Trading — Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027860) ⚡elite — Shanghai
-- [Quant: Jump Trading — Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027923) ⚡elite — Shanghai
+- [Quant: Jump Trading — Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027946) ⚡elite — Singapore
 - [Quant: Jump Trading — Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027955) ⚡elite — Singapore
-- [Quant: Jump Trading — Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027900) ⚡elite — Hong Kong; Shanghai
+- [Quant: Jump Trading — Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027923) ⚡elite — Shanghai
 - [Quant: Jump Trading — Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027939) ⚡elite — Singapore
+- [Quant: Jump Trading — Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027900) ⚡elite — Hong Kong; Shanghai
 - [Quant: Jump Trading — Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027941) ⚡elite — Singapore
 - [Quant: Jump Trading — Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027922) ⚡elite — Hong Kong; Shanghai
 - [Quant: Jump Trading — Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027952) ⚡elite — Singapore
@@ -1143,8 +1142,8 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 
 - [Startup: Stripe — Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130867) — London
 - [Startup: Stripe — Software Engineer, Intern (Summer or Winter)](https://stripe.com/jobs/search?gh_jid=8097801) — Dublin
-- [Startup: Stripe — Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) — Bengaluru
 - [Startup: Stripe — Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8130883) — Singapore
+- [Startup: Stripe — Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) — Bengaluru
 - [Startup: Stripe — Software Engineer, Intern ](https://stripe.com/jobs/search?gh_jid=8130807) — Bucharest
 
 ## 💻 Software engineering
