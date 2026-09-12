@@ -17448,7 +17448,7 @@
     "url": "https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Santa-Monica/Intern---Kite-Development---Tech-Ops--Process-Development-_R0054669-1"
   },
   "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002": {
-    "title": "Software Engineer Intern - Backend",
+    "title": "Software Engineer Intern - Backend - Summer 2027",
     "url": "https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002"
   },
   "https://app.careerpuck.com/job-board/lyft/job/8796054002?gh_jid=8796054002": {
@@ -17464,7 +17464,7 @@
     "url": "https://app.careerpuck.com/job-board/lyft/job/8767710002?gh_jid=8767710002"
   },
   "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002": {
-    "title": "Software Engineer Intern - Fullstack - Multiple Teams",
+    "title": "Software Engineer Intern - Fullstack - Summer 2027",
     "url": "https://app.careerpuck.com/job-board/lyft/job/8797837002?gh_jid=8797837002"
   },
   "https://app.careerpuck.com/job-board/lyft/job/8797859002?gh_jid=8797859002": {
@@ -17658,5 +17658,61 @@
   "https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply": {
     "title": "Strategic Research Intern - Pacific Legal Foundation",
     "url": "https://jobs.lever.co/standtogether/e4dd1d3c-79a0-435d-87b3-eac542b4c2b5/apply"
+  },
+  "https://exfo.wd10.myworkdayjobs.com/en-us/exfo_careers/job/montreal-qc-canada/stagiaire-ingnieur-logiciel---software-engineer-intern_r-100381": {
+    "title": "Stagiaire ingénieur logiciel / Software Engineer Intern",
+    "url": "https://exfo.wd10.myworkdayjobs.com/en-US/exfo_careers/job/Montreal-QC-Canada/Stagiaire-ingnieur-logiciel---Software-Engineer-Intern_R-100381"
+  },
+  "https://apply.careers.microsoft.com/careers/job/1970393556983223": {
+    "title": "Software Engineering Intern - CTJ - TS",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556983223"
+  },
+  "https://apply.careers.microsoft.com/careers/job/1970393556983221": {
+    "title": "Software Engineering Intern - CTJ - TS",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221"
+  },
+  "https://bah.wd1.myworkdayjobs.com/en-us/bah_jobs/job/fayetteville-nc/university---summer-2027--software-engineer-intern_r0249225": {
+    "title": "University - Summer 2027 - Software Engineer Intern",
+    "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225"
+  },
+  "https://career-schwab.icims.com/jobs/126228/2027-technology-intern---software-engineering/job": {
+    "title": "2027 Technology Intern - Software Engineering",
+    "url": "https://career-schwab.icims.com/jobs/126228/2027-technology-intern---software-engineering/job"
+  },
+  "https://career-schwab.icims.com/jobs/126229/2027-technology-intern---site-reliability-engineering/job": {
+    "title": "2027 Technology Intern - Site Reliability Engineering",
+    "url": "https://career-schwab.icims.com/jobs/126229/2027-technology-intern---site-reliability-engineering/job"
+  },
+  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c5cf1d0c-643f-4e8c-85a5-37a75957c4c1&jobid=574505": {
+    "title": "Software Engineer Intern",
+    "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c5cf1d0c-643f-4e8c-85a5-37a75957c4c1&jobId=574505"
+  },
+  "https://philips.wd3.myworkdayjobs.com/en-us/jobs-and-careers/job/plymouth-minnesota-united-states/co-op---software-design-assurance--igtd----plymouth--mn---january-2027_592000": {
+    "title": "Co-op - Software Design Assurance - IGTD - Plymouth - MN - January 2027",
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Plymouth-Minnesota-United-States/Co-op---Software-Design-Assurance--IGTD----Plymouth--MN---January-2027_592000"
+  },
+  "https://jobs.eu.lever.co/quantinuum/782bea0b-1959-48cc-8872-1305aece51bf": {
+    "title": "Software Engineering Intern - 989",
+    "url": "https://jobs.eu.lever.co/quantinuum/782bea0b-1959-48cc-8872-1305aece51bf"
+  },
+  "https://jobs.eu.lever.co/quantinuum/550a6e3c-2556-4ac3-8cc4-862cb0681dc0": {
+    "title": "Layout Automation Developer Intern - 993",
+    "url": "https://jobs.eu.lever.co/quantinuum/550a6e3c-2556-4ac3-8cc4-862cb0681dc0"
+  },
+  "https://ttc.wd1.myworkdayjobs.com/en-us/toro_external_careers/job/bloomington-mn/embedded-software-engineering-intern---the-toro-company_jr17114": {
+    "title": "Embedded Software Engineering Intern - The Toro Company",
+    "url": "https://ttc.wd1.myworkdayjobs.com/en-US/toro_external_careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114"
+  },
+  "https://careersus-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job": {
+    "title": "Cloud DevOps Engineer Intern",
+    "url": "https://careersus-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job"
+  },
+  "https://clearwateranalytics.wd1.myworkdayjobs.com/en-us/clearwater_analytics_careers/job/office---chicago/software-development-intern_r12186": {
+    "title": "Software Development Intern",
+    "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---Chicago/Software-Development-Intern_R12186"
+  },
+  "https://clearwateranalytics.wd1.myworkdayjobs.com/en-us/clearwater_analytics_careers/job/office---new-york/quant-developer-intern_r12184": {
+    "title": "Quant Developer Intern",
+    "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/en-US/clearwater_analytics_careers/job/Office---New-York/Quant-Developer-Intern_R12184"
   }
 }
