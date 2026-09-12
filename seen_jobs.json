@@ -9437,7 +9437,7 @@
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern-software-engineer_r10250150": {
     "title": "2027 Intern Software Engineer",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150"
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Software-Engineer_R10250150"
   },
   "https://www.amazon.jobs/en/jobs/10535280/software-development-engineer-intern-robotics-2027": {
     "title": "Software Development Engineer Intern, ROBOTICS - 2027",
@@ -17634,5 +17634,21 @@
   "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520": {
     "title": "Commodity Trading Analyst Intern",
     "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520"
+  },
+  "https://jobs.ashbyhq.com/afterquery/00cd591f-6894-4259-83b6-36c999351dde": {
+    "title": "AI/ML Research Intern",
+    "url": "https://jobs.ashbyhq.com/AfterQuery/00cd591f-6894-4259-83b6-36c999351dde"
+  },
+  "https://jobs.constellationenergy.com/jobs/138708?icims=1": {
+    "title": "Information Technology Software Development Intern",
+    "url": "https://jobs.constellationenergy.com/jobs/138708?icims=1"
+  },
+  "https://jobs.constellationenergy.com/jobs/138716?icims=1": {
+    "title": "IT Data Engineering Intern",
+    "url": "https://jobs.constellationenergy.com/jobs/138716?icims=1"
+  },
+  "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003535": {
+    "title": "Power Optimization Intern",
+    "url": "https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003535"
   }
 }
