@@ -1,6 +1,6 @@
 # Top picks (auto-generated)
 
-_2301 role(s) worth a look, out of 3399 tracked items. Rebuilt every sweep: 2026-09-12 22:11 UTC._
+_2316 role(s) worth a look, out of 3418 tracked items. Rebuilt every sweep: 2026-09-13 00:52 UTC._
 
 Grouped by lane in the order set by `filters.lane_order` in config.json: ai → cyber → quant → startup → swe → other. Within a lane, preferred locations first, then sweet-spot firms before elite ones.
 
@@ -122,7 +122,6 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [crowe — AI Functional Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008) — Chicago IL USA
 - [crowe — AI Project Coordinator Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/AI-Project-Coordinator-Intern_R-71007) — Chicago IL USA
 - [Crowe — Machine Learning Intern](https://crowe.wd12.myworkdayjobs.com/en-US/external_careers/job/Chicago-IL-USA/Machine-Learning-Intern_R-71005) — Lexington, KY, Boston, MA, Indianapolis, IN, Houston, TX, Louisville, KY, Knoxville, TN, Nashville, TN, Washington, DC, SF, Austin, TX, Cleveland, OH, LA, Tampa, FL, San Jose, CA, Livingston, NJ, Grand Rapids, MI, Miami, FL, Dallas, TX, The Woodlands, TX, Plano, TX, Chicago, IL, Tallahassee, FL, Charlotte, NC, Fort Lauderdale, FL, Oakbrook Terrace, IL, Burlington, VT, Sacramento, CA, Columbus, OH, Hartford, CT, Springfield, IL, NYC, Denver, CO, Atlanta, GA, Fort Wayne, IN, South Bend, IN, Sarasota, FL, Costa Mesa, CA
-- [Databricks — Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) — Bellevue, Washington; Mountain View, California; San Francisco, California
 - [Deloitte — AI and Data Engineering Summer Scholar Intern - Government & Public Services](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Government-Public-Services-Summer-Scholar-AI-and-Data-Engineering/362479) — Austin, TX
 - [Deloitte — Data & AI Solutions Engineering Summer Scholar Intern](https://apply.deloitte.com/en_US/careers/JobDetail/Consultative-Offerings-Summer-Scholar-Data-AI-Solutions-Engineering/363475) — Atlanta, GA
 - [devtechnology — AI/Agentic Solution Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/devtechnology/jobs/8728292002) 🇺🇸 — Reston, Virginia
@@ -161,6 +160,7 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [gallup — Data Science Intern — Summer 2027](https://job-boards.greenhouse.io/gallup/jobs/4395491009) — San Francisco
 - [GE Aerospace — Applied AI Intern](https://geaerospace.wd5.myworkdayjobs.com/ge_externalsite/job/Evendale/Applied-AI-Engineer-Intern---Summer-2027--May-June-Start-_R5039302-1) — Evendale, OH, Atlanta, GA
 - [GE Vernova — AI Digitization Co-op - HDNU Global Operations](https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-HDNU-Global-Operations---AI-Digitization-Co-op---Spring-Summer-2027_R5049275-2) — Schenectady, NY, Atlanta, GA
+- [Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) — NYC
 - [graymatter-robotics — AI Research Intern: Foundation Models](https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429) 🇺🇸 — Los Angeles - HQ
 - [gresearch — Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/job/London-UK/Data-Science-Internship_R3679) — London, UK
 - [gresearch — Machine Learning Research Internship](https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/job/London-UK/Machine-Learning-Research-Internship_R3682) — London, UK
@@ -792,20 +792,19 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 ## 📈 Quant / trading
 
 - [Akuna Capital — Platform Engineer Intern](https://akunacapital.com/careers/job/8018856/?gh_jid=8018856) 🇺🇸 — Chicago, IL
-- [Akuna Capital — Platform Engineer Intern, Summer 2027](https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856) — Chicago, IL
 - [Akuna Capital — Python Software Engineer Intern](https://akunacapital.com/careers/job/8018853/?gh_jid=8018853) 🇺🇸 — Chicago, IL
 - [Akuna Capital — Quantitative Development & Strategy Intern](https://akunacapital.com/careers/job/8021481/?gh_jid=8021481) 🇺🇸 — Chicago
-- [Akuna Capital — Quantitative Development & Strategy Intern, Summer 2027](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) — Chicago, IL
 - [Akuna Capital — Quantitative Research Intern](https://akunacapital.com/careers/job/8036614/?gh_jid=8036614) 🇺🇸 — Chicago
-- [Akuna Capital — Quantitative Research Intern, Summer 2027](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) — Chicago, IL 
 - [Akuna Capital — Software Engineer Intern (Summer 2027, Python / C++ / Full Stack / C# .NET)](https://akunacapital.com/careers/job/8018847/) — Chicago, IL
-- [Akuna Capital — Software Engineer Intern - C# .NET Desktop, Summer 2027](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) — Chicago, IL
-- [Akuna Capital — Software Engineer Intern - C++, Summer 2027](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) — Chicago, IL
-- [Akuna Capital — Software Engineer Intern - Full Stack Web, Summer 2027](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) — Chicago, IL
-- [Akuna Capital — Software Engineer Intern - Python, Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) — Chicago, IL
+- [Akuna Capital — Software Engineer Intern - C# .NET Desktop - Summer 2027](https://www.akunacapital.com/careers/job/8018886/?gh_jid=8018886) — Chicago, IL
+- [Akuna Capital — Software Engineer Intern - C++ - Summer 2027](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) — Chicago, IL
+- [Akuna Capital — Software Engineer Intern - Full Stack Web - Summer 2027](https://www.akunacapital.com/careers/job/8018893/?gh_jid=8018893) — Chicago, IL
+- [Akuna Capital — Software Engineer Intern - Python - Summer 2027](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) — Chicago, IL
 - [Akuna Capital — Software Engineer Intern, C# .NET Desktop](https://akunacapital.com/careers/job/8018886/?gh_jid=8018886) — Chicago, IL
 - [Akuna Capital — Software Engineer Intern, C++](https://akunacapital.com/careers/job/8018847/?gh_jid=8018847) 🇺🇸 — Chicago, IL
 - [Akuna Capital — Software Engineer Intern, Full Stack Web](https://akunacapital.com/careers/job/8018893/?gh_jid=8018893) 🇺🇸 — Chicago, IL
+- [Akuna Capital University — Quantitative Development & Strategy Intern](https://www.akunacapital.com/careers/job/8021481/?gh_jid=8021481) — Chicago, IL
+- [Akuna Capital University — Quantitative Research Intern](https://www.akunacapital.com/careers/job/8036614/?gh_jid=8036614) — Chicago, IL
 - [Aquatic Capital — Quantitative Researcher Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489186002) — Chicago, IL
 - [Aquatic Capital — Software Engineer Intern](https://job-boards.greenhouse.io/embed/job_app?for=aquaticcapitalmanagement&jr_id=6a06fd77152f493123c4b595&token=8489233002) — Chicago, IL
 - [Aquatic Capital — Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/aquaticcapitalmanagement/jobs/8489233002) — Chicago, IL
@@ -883,9 +882,18 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [gardacp — Trading Analyst Intern, Credit ](https://job-boards.greenhouse.io/gardacp/jobs/6163540004) — New York, New York, United States
 - [gardacp — Trading Analyst Intern, Mortgages ](https://job-boards.greenhouse.io/gardacp/jobs/6179468004) — New York, New York, United States
 - [gardacp — Trading Analyst Intern, Rates](https://job-boards.greenhouse.io/gardacp/jobs/4934006004) — New York, New York, United States
+- [Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students) — London, UK
+- [Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175427?type=students) — London, UK
+- [Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171533?type=students) — NYC
+- [Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats](https://higher.gs.com/roles/175421?type=students) — London, UK
+- [Goldman Sachs — Quantitative Strategist Intern - Investment Banking](https://higher.gs.com/roles/175428?type=students) — London, UK
+- [Goldman Sachs — Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/175424?type=students) — London, UK
+- [Goldman Sachs — Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students) — NYC
+- [Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats](https://higher.gs.com/roles/171547?type=students) — NYC
+- [Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175426?type=students) — London, UK
+- [Goldman Sachs — Summer Analyst Intern - Wealth Management - Quantitative Finance](https://higher.gs.com/roles/170860?type=students) — London, UK
 - [gresearch — Quant Research Internship](https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/job/London-UK/Quant-Research-Internship_R3691) — London, UK
 - [InfiniteQuant — Quantitative Developer - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879) — New York, New York, us
-- [InfiniteQuant — Quantitative Developer Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134) — Dubai - United Arab Emirates, NYC
 - [InfiniteQuant — Quantitative Researcher - Internship - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000147161390) — New York, NY, us
 - [InfiniteQuant — Quantitative Researcher Intern - Summer 2027](https://jobs.smartrecruiters.com/InfiniteQuant/744000143307421) — Dubai - United Arab Emirates, NYC
 - [JP Morgan Chase — Quantitative Research Intern](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210774061) — NYC
@@ -945,13 +953,13 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [DRW — Quantitative Trading Analyst Intern](https://www.drw.com/work-at-drw/listings/quantitative-trading-analyst-intern-3375090) ⚡elite — Chicago, IL
 - [DRW — Software Developer Intern](https://www.drw.com/work-at-drw/listings/software-developer-intern-3467328) ⚡elite — Chicago, IL
 - [drweng — Platform Engineer Intern](https://job-boards.greenhouse.io/drweng/jobs/7997729) ⚡elite — Chicago
-- [drweng — Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7957756) ⚡elite — London
 - [drweng — Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7818540) ⚡elite — Chicago, New York City
+- [drweng — Quantitative Research Intern](https://job-boards.greenhouse.io/drweng/jobs/7957756) ⚡elite — London
 - [drweng — Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7957243) ⚡elite — London
 - [drweng — Quantitative Trading Analyst Intern](https://job-boards.greenhouse.io/drweng/jobs/7668776) ⚡elite — Chicago, Illinois
-- [drweng — Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) ⚡elite — Chicago
-- [drweng — Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) ⚡elite — London
 - [drweng — Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/8020364) ⚡elite — Amsterdam
+- [drweng — Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7942281) ⚡elite — London
+- [drweng — Software Developer Intern](https://job-boards.greenhouse.io/drweng/jobs/7992936) ⚡elite — Chicago
 - [Five Rings Capital — Quantitative Researcher Intern](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349219008) ⚡elite — NYC
 - [Hudson River Trading — Algorithm Development (Quant Research & Trading) Internship – Summer 2027](https://www.hudsonrivertrading.com/careers/job/?gh_jid=7964062) ⚡elite — London, United Kingdom; New York, NY, United States; Singapore
 - [Hudson River Trading — Algorithm Development Intern - Quant Research](https://www.hudsonrivertrading.com/careers/job/?gh_jid=8059837) ⚡elite — NYC
@@ -991,16 +999,16 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Optiver — Quantitative Research Intern](https://www.optiver.com/join-us/jobs/8451782002/?gh_jid=8451782002) ⚡elite — Austin, TX, Chicago, IL, NYC
 - [Optiver — Software Engineer Intern (Austin)](https://www.optiver.com/join-us/jobs/technology/austin/software-engineer-intern-summer-2027-austin/) ⚡elite — Austin, TX
 - [Optiver — Software Engineer Intern (Chicago)](https://www.optiver.com/join-us/jobs/technology/chicago/software-engineer-intern-summer-2027-chicago/) ⚡elite — Chicago, IL
-- [Optiver (Campus) — Institutional Trader Intern (2027 Start - Chicago)](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002) ⚡elite — Chicago, Illinois, United States
-- [Optiver (US) — Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) ⚡elite — Austin, Texas, United States
 - [Optiver (US) — Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8402215002/?gh_jid=8402215002) ⚡elite — Chicago, Illinois, United States
+- [Optiver (US) — Quantitative Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8682750002/?gh_jid=8682750002) ⚡elite — Austin, Texas, United States
 - [Optiver (US) — Quantitative Research Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488699002/?gh_jid=8488699002) ⚡elite — Amsterdam, North Holland, Netherlands
 - [Optiver (US) — Quantitative Trading Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8488701002/?gh_jid=8488701002) ⚡elite — Amsterdam, North Holland, Netherlands
 - [Optiver (US) — Software Engineer Intern (Summer 2027 - Austin)](https://www.optiver.com/join-us/jobs/8401052002/?gh_jid=8401052002) ⚡elite — Austin, Texas, United States
 - [Optiver (US) — Software Engineer Intern (Summer 2027 - Chicago)](https://www.optiver.com/join-us/jobs/8604760002/?gh_jid=8604760002) ⚡elite — Chicago, Illinois, United States
-- [Optiver (US) — Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) ⚡elite — Amsterdam, North Holland, Netherlands
 - [Optiver (US) — Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713435002/?gh_jid=8713435002) ⚡elite — London, England, United Kingdom
+- [Optiver (US) — Software Engineer Internship (2027 Start)](https://www.optiver.com/join-us/jobs/8713409002/?gh_jid=8713409002) ⚡elite — Amsterdam, North Holland, Netherlands
 - [Optiver (US) — Trading Automation and Operations Intern (Summer 2027)](https://www.optiver.com/join-us/jobs/8489582002/?gh_jid=8489582002) ⚡elite — Chicago, Illinois, United States
+- [optiverprivate — Institutional Trader Intern (2027 Start - Chicago)](https://job-boards.greenhouse.io/optiverprivate/jobs/8402208002) ⚡elite — Chicago, Illinois, United States
 - [pdtpartners — Summer 2027 Software Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) ⚡elite — New York, NY
 - [pdtpartners — Summer 2027 Systems Engineering Intern](https://job-boards.greenhouse.io/pdtpartners/jobs/8083292) ⚡elite — New York, NY
 - [pimco — 2027 Summer Intern - Client Solutions & Analytics Quantitative Research Analyst (MFE), London](https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/London-GBR/XMLNAME-2027-Summer-Intern---Client-Solutions---Analytics-Strategist--London--MBA-_R106804) ⚡elite — London, GBR
@@ -1019,8 +1027,8 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Quant: Jump Trading — Campus AI Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052281) ⚡elite — Chicago; New York
 - [Quant: Jump Trading — Campus AI Research Engineer - Deep Learning (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052338) ⚡elite — Chicago; New York
 - [Quant: Jump Trading — Campus AI Research Engineer – Research Automation (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8052351) ⚡elite — Chicago; New York
-- [Quant: Jump Trading — Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975008) ⚡elite — London
 - [Quant: Jump Trading — Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8002998) ⚡elite — Chicago
+- [Quant: Jump Trading — Campus Data Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7975008) ⚡elite — London
 - [Quant: Jump Trading — Campus ML Research Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=7977145) ⚡elite — London
 - [Quant: Jump Trading — Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8010307) ⚡elite — London; Amsterdam
 - [Quant: Jump Trading — Campus Quantitative Researcher (M1/M2 Intern)](https://www.jumptrading.com/hr/job?gh_jid=8059384) ⚡elite — London; Paris
@@ -1055,6 +1063,10 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [chevron — 2026-2027 Supply & Trading TAMU TRIP Program Intern](https://chevron.wd5.myworkdayjobs.com/en-US/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072485) — Houston 1400 Smith Street
 - [conocophillips — Intern, Trading Analytics 2027](https://conocophillips.wd1.myworkdayjobs.com/en-US/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) — Houston, TX
 - [ConocoPhillips — Trading Analytics Intern](https://conocophillips.wd1.myworkdayjobs.com/External/job/Houston-TX/Intern--Trading-Analytics-2027_REQ-006429) — Houston, TX
+- [Goldman Sachs — Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171546?type=students) — Dallas, TX
+- [Goldman Sachs — Quantitative Strategist Intern - Americas](https://higher.gs.com/roles/171532?type=students) — Dallas, TX
+- [Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171534?type=students) — Dallas, TX
+- [Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking](https://higher.gs.com/roles/171548?type=students) — Dallas, TX
 - [repsol — Trading Intern](https://repsol.wd3.myworkdayjobs.com/en-US/Repsol/job/Houston/Trading-Intern_83912) — Houston
 - [scm — Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895) — Radnor, PA
 - [VWHCapitalManagementLP — Quantitative Researcher Intern](https://jobs.smartrecruiters.com/VWHCapitalManagementLP/744000135105801) — Dallas, TX, us
@@ -1074,6 +1086,8 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Energy Transfer Partners — Commodity Trading Analyst Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520) — Overland Park, KS
 - [Fanatics — Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) — Coppell, TX
 - [fmr — Co-op, Quantitative Analyst](https://fmr.wd1.myworkdayjobs.com/en-US/targeted/job/Boston-MA/Co-op--Quantitative-Analyst_2135235) — 4 Locations
+- [Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171551?type=students) — Salt Lake City, UT
+- [Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats](https://higher.gs.com/roles/171549?type=students) — Salt Lake City, UT
 - [hrhub — Quant Intern](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Quant-Intern_R28576) — Paris
 - [jainglobal — Risk Quant Modeller - Intern](https://jainglobal.wd5.myworkdayjobs.com/en-US/ExternalSite/job/Hong-Kong-Office/Risk-Quant-Modeller---Intern_JR100472-1) — Hong Kong Office
 - [manulife — Summer Intern 2027 - Quantitative Analyst](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358) — Toronto, Ontario
@@ -1093,8 +1107,8 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Quant: Qube RT — 2027 – Internship, Quantitative Research and Trading ](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8581570002) — Hong Kong, Singapore, Shanghai, Beijing
 - [Quant: Wincent — Quantitative Research Internship - Quant Research/Trading - Starting Summer 2027](https://jobs.ashbyhq.com/wincent/984bf12c-8d80-431f-9789-04a9739cfc99) — Bratislava
 - [rbc — 2027 Winter - GRM, Quantitative Risk Intern (4 Months)](https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--Quantitative-Risk-Intern--4-Months-_R-0000186003-1) — TORONTO, Ontario, Canada
-- [towerresearchcapital — Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8138524) — Singapore
 - [towerresearchcapital — Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=7011493) — Paris
+- [towerresearchcapital — Quantitative Developer Intern](https://www.tower-research.com/open-positions/?gh_jid=8138524) — Singapore
 - [troweprice — 2027 Global Trading Internship Program](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Global-Trading-Internship-Program_82718) — Baltimore, MD
 - [troweprice — 2027 Quantitative Equity Investing Internship Program](https://troweprice.wd5.myworkdayjobs.com/en-US/TRowePrice/job/Baltimore-MD/XMLNAME-2027-Quantitative-Equity-Investing-Internship-Program_82699) — Baltimore, MD
 - [U.S. Bank — Quantitative Modeling Intern](https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558) — Charlotte, NC
@@ -1122,12 +1136,12 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [PIMCO — Quantitative Portfolio Management Intern](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Quantitative-Portfolio-Management_R106830) ⚡elite — Newport Beach, CA
 - [PIMCO — Quantitative Research Analyst Intern - Portfolio Management](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-PhD-Summer-Intern---Portfolio-Management--Quantitative-Research-Analyst_R106749) ⚡elite — Newport Beach, CA
 - [Quant: Jump Trading — Campus AI/ML Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027938) ⚡elite — Hong Kong; Shanghai; Singapore
-- [Quant: Jump Trading — Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027860) ⚡elite — Shanghai
 - [Quant: Jump Trading — Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027946) ⚡elite — Singapore
-- [Quant: Jump Trading — Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027955) ⚡elite — Singapore
+- [Quant: Jump Trading — Campus C++ Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027860) ⚡elite — Shanghai
 - [Quant: Jump Trading — Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027923) ⚡elite — Shanghai
-- [Quant: Jump Trading — Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027939) ⚡elite — Singapore
+- [Quant: Jump Trading — Campus Python Software Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027955) ⚡elite — Singapore
 - [Quant: Jump Trading — Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027900) ⚡elite — Hong Kong; Shanghai
+- [Quant: Jump Trading — Campus Quantitative Researcher (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027939) ⚡elite — Singapore
 - [Quant: Jump Trading — Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027941) ⚡elite — Singapore
 - [Quant: Jump Trading — Campus Quantitative Trader (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027922) ⚡elite — Hong Kong; Shanghai
 - [Quant: Jump Trading — Campus Systems Engineer (Intern)](https://www.jumptrading.com/hr/job?gh_jid=8027952) ⚡elite — Singapore
@@ -1171,8 +1185,8 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Amgen — Software Engineer Intern - Technology & Medical Organizations](https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719) — Remote in USA
 - [amgen — Undergrad Intern – Data Engineer – Amgen’s Technology & Medical Organizations (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708) — United States - Remote
 - [amgen — Undergrad Intern – Software Engineer – Amgen’s Technology & Medical Organizations (Summer 2027)](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719) — United States - Remote
-- [Anduril — 2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) 🇺🇸 — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
 - [Anduril — 2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5231488007?gh_jid=5231488007) 🇺🇸 — Dublin, Dublin, Ireland
+- [Anduril — 2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) 🇺🇸 — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
 - [Anduril — Software Engineer Intern](https://job-boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) — Atlanta, GA, Boston, MA, Costa Mesa, CA, Irvine, CA, Reston, VA, Seattle, WA
 - [Anduril — Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007) — Boston, MA, Seattle, WA, Newport Beach, CA, Irvine, CA, Reston, VA, Atlanta, GA
 - [Apex Technology, Inc. — Software Engineering Intern, Embedded Systems](https://jobs.ashbyhq.com/apex-technology-inc/5ec2dfa9-724d-4ce4-ab97-5067ec747f11) — Los Angeles
@@ -1260,6 +1274,7 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [ctgt — Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155) — San Francisco
 - [CTGT — Software Engineering Intern / Research Intern, Interpretability (Summer 2027)](https://www.ycombinator.com/companies/ctgt/jobs/b3hTkK4-software-engineering-intern-summer-2027) — San Francisco, CA
 - [CustomShow — Software Development Intern](https://jobs.smartrecruiters.com/CustomShow/75886593) — New York, NY, us
+- [databricks — Software Engineering Intern (2027 Start) - Winter](https://databricks.com/company/careers/open-positions/job?gh_jid=8732364002) — Bellevue, Washington; Mountain View, California; San Francisco, California
 - [Datadog — Software Engineering Intern - Summer](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) — Boston, MA +1
 - [Dedalus Labs — Forward Deployed Engineer Intern](https://www.workatastartup.com/jobs/94400) 🇺🇸 — San Francisco, CA
 - [Dedalus Labs — Systems Engineer / Product Manager Intern (Summer 2027)](https://www.ycombinator.com/companies/dedalus-labs/jobs/YtbvXM8-systems-engineer-summer-2027-intern) — San Francisco, CA
@@ -1280,13 +1295,13 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [Dropbox — Software Engineering Intern - Summer 2027](https://jobs.dropbox.com/listing/8106224?gh_jid=8106224) — Remote - Canada +1
 - [droyd — Software Engineering Intern](https://jobs.ashbyhq.com/droyd/8d46ed05-1b38-4c68-938e-f10b4c7d4694) — San Francisco, CA
 - [dryft — Full-Stack Engineering Intern ](https://jobs.ashbyhq.com/dryft/3f1c261d-9b65-412b-9f17-34b8968bdd78) — San Francisco
-- [dvtrading — Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005) — London
-- [dvtrading — Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) — New York
 - [dvtrading — Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732683005) — Chicago
+- [dvtrading — Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732697005) — New York
+- [dvtrading — Client Platforms Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4732700005) — London
 - [dvtrading — DevOps Engineer Intern - Summer 2027](https://job-boards.greenhouse.io/dvtrading/jobs/4730886005) — Chicago
 - [dvtrading — Software Developer Intern - Summer 2027 (DV Equities)](https://job-boards.greenhouse.io/dvtrading/jobs/4733138005) — New York
-- [dvtrading — Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) — London
 - [dvtrading — Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) — New York
+- [dvtrading — Software Engineer Intern - Summer 2027 (DV Commodities)](https://job-boards.greenhouse.io/dvtrading/jobs/4719125005) — London
 - [ellipsislabs — Software Engineer - 2027 Interns](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) — New York, New York
 - [Emerson Electric — Software Development Intern - DeltaV](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010396) — Austin, TX
 - [Etched — Infrastructure Intern](https://jobs.ashbyhq.com/Etched/80926a71-0a62-4bf8-a877-b6d96df279b7) — San Jose, CA
@@ -2236,9 +2251,9 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 - [tenstorrentuniversity — Infrastructure Automation Engineering Intern](https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5165445007) — Warszawa, Masovian Voivodeship, Poland
 - [testnisc — Intern - Data Engineer](https://job-boards.greenhouse.io/testnisc/jobs/8167883) — Cedar Rapids, IA
 - [testnisc — Intern - Data Engineer](https://job-boards.greenhouse.io/testnisc/jobs/8167884) — Lake Saint Louis, MO
-- [testnisc — Intern - Software Development](https://job-boards.greenhouse.io/testnisc/jobs/8174096) — Mandan, ND
 - [testnisc — Intern - Software Development](https://job-boards.greenhouse.io/testnisc/jobs/8174090) — Lake Saint Louis, MO
 - [testnisc — Intern - Software Development](https://job-boards.greenhouse.io/testnisc/jobs/8174088) — Cedar Rapids, IA
+- [testnisc — Intern - Software Development](https://job-boards.greenhouse.io/testnisc/jobs/8174096) — Mandan, ND
 - [Textron — Software Engineer Co-op - Uncrewed Land & Air](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342650) — Hunt Valley, Cockeysville, MD
 - [Textron — Software Engineer Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=342550) — Waterboro, ME
 - [Textron — Software Engineer Intern](https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343299) — Augusta, GA
