@@ -55,6 +55,107 @@ def save_json(path, data):
         json.dump(data, f, indent=2, ensure_ascii=False)
 
 
+def _iso_date(v):
+    """Best-effort: ISO string / epoch seconds / epoch ms -> 'YYYY-MM-DD' or ''."""
+    import datetime as _dt
+    if not v:
+        return ""
+    try:
+        if isinstance(v, (int, float)):
+            if v > 1e12:
+                v = v / 1000.0
+            return _dt.datetime.utcfromtimestamp(v).strftime("%Y-%m-%d")
+        sv = str(v).strip()
+        if re.fullmatch(r"\d{10}(\.\d+)?", sv):
+            return _dt.datetime.utcfromtimestamp(float(sv)).strftime("%Y-%m-%d")
+        if re.fullmatch(r"\d{13}", sv):
+            return _dt.datetime.utcfromtimestamp(int(sv) / 1000).strftime("%Y-%m-%d")
+        return sv[:10] if re.match(r"\d{4}-\d{2}-\d{2}", sv) else ""
+    except (ValueError, OverflowError, OSError):
+        return ""
+
+
+# ----------------------------- deadlines ----------------------------------- #
+# Most ATS feeds carry NO close date -- postings just vanish. So this is
+# best-effort text extraction from the description. It finds explicit
+# "apply by <date>" phrasing and the RTX-style "closes N days from posting".
+# When nothing is stated, deadline stays "" and the role is simply not in the
+# closing-soon section; it is never guessed.
+_MONTHS = ("january|february|march|april|may|june|july|august|september|"
+           "october|november|december|jan|feb|mar|apr|jun|jul|aug|sep|sept|oct|nov|dec")
+_DL_LEAD = (r"(?:application\s+)?deadline(?:\s+is|\s+to\s+apply)?|apply\s+by|applications?\s+(?:are\s+|will\s+be\s+|is\s+)?"
+            r"(?:due|close[sd]?|closing|will\s+close|accepted\s+(?:until|through)|must\s+be\s+(?:received|submitted)\s+by)|"
+            r"posting\s+(?:will\s+)?close[sd]?|closes?\s+on|open\s+until|accepting\s+applications\s+(?:until|through)|"
+            r"last\s+day\s+to\s+apply(?:\s+is)?")
+_DL_RE = re.compile(
+    r"(?:" + _DL_LEAD + r")\W{0,12}(?:on\s+|by\s+|until\s+|through\s+|of\s+)?"
+    r"(?P<d>(?:" + _MONTHS + r")\.?\s+\d{1,2}(?:st|nd|rd|th)?(?:,?\s+\d{4})?"
+    r"|\d{1,2}\s+(?:" + _MONTHS + r")\.?(?:,?\s+\d{4})?"
+    r"|\d{1,2}/\d{1,2}/\d{2,4}|\d{4}-\d{2}-\d{2})", re.I)
+_DL_REL_RE = re.compile(
+    r"(?:window|posting|application[s]?|role|position|requisition)\s+(?:will\s+)?(?:be\s+)?"
+    r"(?:clos(?:e|es|ing)|remov(?:ed|e))\D{0,40}?(?P<n>\d{1,3})\s+days?", re.I)
+_POSTED_RE = re.compile(r"(?:date\s+posted|posted\s+on|posting\s+date)\W{0,6}(?P<d>\d{4}-\d{2}-\d{2}|"
+                        r"(?:" + _MONTHS + r")\.?\s+\d{1,2},?\s+\d{4}|\d{1,2}/\d{1,2}/\d{4})", re.I)
+
+
+def _parse_date_text(txt, today):
+    """'October 15, 2026' / 'Oct 15' / '10/15/2026' / '2026-10-15' -> date or None.
+    A month-day with no year is assumed to be the next occurrence."""
+    import datetime as _dt
+    t = re.sub(r"(\d)(st|nd|rd|th)\b", r"\1", txt.strip().rstrip(".,"))
+    fmts = ["%Y-%m-%d", "%m/%d/%Y", "%m/%d/%y", "%B %d %Y", "%b %d %Y", "%B %d, %Y", "%b %d, %Y",
+            "%d %B %Y", "%d %b %Y", "%B %d", "%b %d", "%d %B", "%d %b"]
+    t2 = t.replace("Sept ", "Sep ").replace("sept ", "sep ").replace(".", "")
+    for f in fmts:
+        try:
+            d = _dt.datetime.strptime(t2, f).date()
+        except ValueError:
+            continue
+        if "%Y" not in f and "%y" not in f:
+            d = d.replace(year=today.year)
+            if d < today - _dt.timedelta(days=30):
+                d = d.replace(year=today.year + 1)
+        return d
+    return None
+
+
+def extract_deadline(job, today=None):
+    """Return 'YYYY-MM-DD' if the description states a close date, else ''."""
+    import datetime as _dt
+    today = today or _dt.date.today()
+    content = (job.get("content") or "")[:8000]
+    if not content:
+        return ""
+    m = _DL_RE.search(content)
+    if m:
+        d = _parse_date_text(m.group("d"), today)
+        if d:
+            return d.isoformat()
+    m = _DL_REL_RE.search(content)
+    if m:
+        n = int(m.group("n"))
+        pm = _POSTED_RE.search(content)
+        base = _parse_date_text(pm.group("d"), today) if pm else None
+        if not base and job.get("posted"):
+            try:
+                base = _dt.date.fromisoformat(job["posted"])
+            except ValueError:
+                base = None
+        if base and 0 < n <= 365:
+            return (base + _dt.timedelta(days=n)).isoformat()
+    return ""
+
+
+def days_until(iso, today=None):
+    import datetime as _dt
+    today = today or _dt.date.today()
+    try:
+        return (_dt.date.fromisoformat(iso) - today).days
+    except (ValueError, TypeError):
+        return None
+
+
 # ----------------------------- board fetchers ------------------------------ #
 # Each fetcher takes the firm dict from config and returns a list of normalized
 # jobs: {id, title, location, url, content(lowercased)}.
@@ -72,6 +173,7 @@ def fetch_greenhouse(firm):
             "location": (j.get("location") or {}).get("name", "") or "",
             "url": j.get("absolute_url", "") or "",
             "content": (j.get("content", "") or "").lower(),
+            "posted": _iso_date(j.get("first_published") or j.get("updated_at")),
         })
     return out
 
@@ -90,6 +192,7 @@ def fetch_lever(firm):
             "location": cats.get("location", "") or "",
             "url": j.get("hostedUrl", "") or "",
             "content": (j.get("descriptionPlain", "") or "").lower(),
+            "posted": _iso_date(j.get("createdAt")),
         })
     return out
 
@@ -191,6 +294,7 @@ def fetch_github_json(firm):
             "content": "",
             "sponsorship": (j.get("sponsorship") or ""),
             "year_text": f"{title} {season_text} {cycle_year}",
+            "posted": _iso_date(j.get("date_posted")),
             **({"lane": lane_by_cat[cat]} if cat in lane_by_cat else {}),
         })
     if n_cat:
@@ -359,6 +463,7 @@ def fetch_ashby(firm):
             "location": j.get("location", "") or "",
             "url": j.get("jobUrl") or j.get("applyUrl") or "",
             "content": (j.get("descriptionPlain", "") or "").lower(),
+            "posted": _iso_date(j.get("publishedAt")),
         })
     return out
 
@@ -910,13 +1015,36 @@ def _collapse_locations(jobs):
     return out
 
 
+def _when_tag(job):
+    """' · closes Oct 15 (in 6d)' if a deadline is known, else ' · posted Sep 8'."""
+    import datetime as _dt
+    dl = job.get("deadline") or ""
+    if dl:
+        n = days_until(dl)
+        try:
+            pretty = _dt.date.fromisoformat(dl).strftime("%b %-d")
+        except ValueError:
+            pretty = dl
+        if n is not None:
+            urgency = ("<b style='color:#b91c1c'>closes " + pretty + f" (in {n}d)</b>"
+                       if n <= 14 else f"closes {pretty} (in {n}d)")
+            return " &middot; " + urgency
+    posted = job.get("posted") or ""
+    if posted:
+        try:
+            return " &middot; posted " + _dt.date.fromisoformat(posted).strftime("%b %-d")
+        except ValueError:
+            pass
+    return ""
+
+
 def _job_li(job, with_company=True):
     company = job.get("company") if with_company else None
     pin = "&#128205; " if job.get("_ploc") else ""
     label = pin + (f"{escape(company)} &mdash; {escape(job['title'])}"
              if company else escape(job["title"]))
     loc = f" &mdash; {escape(job['location'])}" if job["location"] else ""
-    return f"<li><a href='{escape(job['url'])}'>{label}</a>{loc}</li>"
+    return f"<li><a href='{escape(job['url'])}'>{label}</a>{loc}{_when_tag(job)}</li>"
 
 
 def _mark_and_sort_priority(jobs, filters):
@@ -1039,14 +1167,29 @@ def _loc_rank(loc, filters=None):
     return 2 if s.strip() else 3
 
 
-def build_email_html(grouped, baseline=False, filters=None):
+def build_email_html(grouped, baseline=False, filters=None, closing=None):
     intro = (
         "Baseline of currently-open roles. Future emails will contain only "
         "<b>newly opened</b> postings."
         if baseline
         else "These internship postings just opened:"
     )
-    parts = [f"<p>{intro}</p>"]
+    parts = []
+    # Closing-soon block sits ABOVE everything else. Only roles whose
+    # description states a deadline get here -- most postings never state one.
+    if closing:
+        days = int((filters or {}).get("closing_soon_days", 14))
+        parts.append(
+            f"<div style='border:2px solid #b91c1c;background:#fff5f5;padding:6px 12px;margin:0 0 16px'>"
+            f"<h3 style='margin:4px 0;color:#b91c1c'>&#9200; Closing within {days} days &mdash; "
+            f"{len(closing)} role(s)</h3>"
+            "<p style='margin:2px 0;color:#888;font-size:12px'>Apply-by dates stated in the posting. "
+            "Most postings never state one and simply disappear, so treat silence as no information.</p><ul>")
+        for j in sorted(closing, key=lambda x: (x.get("deadline") or "9999", (x.get("company") or "").lower())):
+            parts.append(_job_li(j))
+        parts.append("</ul></div>")
+    if grouped:
+        parts.append(f"<p>{intro}</p>")
 
     # Lanes, in the order set by filters.lane_order (2026-09-07). Every role
     # lands in exactly one lane; within a lane, preferred locations float up.
@@ -1392,6 +1535,21 @@ def write_top_picks(current, filters=None):
         lines += ["_Nothing open matches right now. That is normal outside "
                   "peak posting season -- check the Actions log to confirm the "
                   "sources actually resolved._", ""]
+    closing_days = int((filters or {}).get("closing_soon_days", 14))
+    closing = []
+    for rec in current.values():
+        j = rec["job"]
+        n = days_until(j.get("deadline") or "")
+        if n is not None and 0 <= n <= closing_days and not j.get("pagewatch"):
+            closing.append((j.get("deadline"), n, j.get("company") or rec["src"], j))
+    if closing:
+        lines += ["", f"## ⏰ Closing within {closing_days} days", "",
+                  "_Only postings that state an apply-by date. Most never do._", ""]
+        for dl, n, comp, j in sorted(closing, key=lambda x: (x[0], x[2].lower())):
+            t = j.get("title", "").replace("[", "(").replace("]", ")")
+            c = comp.replace("[", "(").replace("]", ")")
+            lines.append(f"- **closes {dl} ({n}d)** — [{c} — {t}]({j.get('url','')})"
+                         + (f" — {j['location']}" if j.get("location") else ""))
     seen_lane = None
     for (lane_idx, _lrank), tier, _, title, comp, loc, url, clr in picks:
         lane = order[lane_idx]
@@ -1819,9 +1977,13 @@ def main():
             relevant = kept
         for j in relevant:
             j["clearance"] = is_clearance(j, filters)
+            if not j.get("pagewatch"):
+                j["deadline"] = extract_deadline(j)
         n_clear = sum(1 for j in relevant if j["clearance"])
+        n_dl = sum(1 for j in relevant if j.get("deadline"))
         print(f"  ok {name}: {len(jobs)} jobs, {len(relevant)} relevant"
               + (f" ({n_clear} clearance/US-citizen)" if n_clear else "")
+              + (f" [{n_dl} with deadline]" if n_dl else "")
               + (f" [-{n_drop} non-US]" if n_drop else "")
               + (f" [-{n_nontop} not-top-firm]" if n_nontop else "")
               + (f" [-{n_notfall} not-fall-2027]" if n_notfall else ""))
@@ -1847,8 +2009,23 @@ def main():
                 grouped_new.setdefault(name, []).append(j)
         time.sleep(0.3)  # be polite between firms
 
+    # Closing-soon: every OPEN role (new or already-seen) whose stated deadline
+    # is within closing_soon_days. Alerted ONCE per role via a closing::<key>
+    # marker, so it appears the run it enters the window and then stays out of
+    # the way (it is still listed at the top of TOP_PICKS until it closes).
+    closing_days = int(filters.get("closing_soon_days", 14))
+    closing_alert = []
+    for gkey, rec in current.items():
+        j = rec["job"]
+        n = days_until(j.get("deadline") or "")
+        if n is not None and 0 <= n <= closing_days and f"closing::{gkey}" not in seen:
+            j.setdefault("company", rec["src"])
+            closing_alert.append((gkey, j))
+
     # Remember everything currently relevant (merge so closed roles stay "seen")
     new_seen = dict(seen)
+    for gkey, _ in closing_alert:
+        new_seen[f"closing::{gkey}"] = {"title": "closing-soon alert sent", "url": ""}
     for gkey, rec in current.items():
         new_seen[gkey] = {"title": rec["job"]["title"], "url": rec["job"].get("url", "")}
     for name in baselined_sources:
@@ -1861,17 +2038,20 @@ def main():
         if grouped:
             send_email(
                 f"[Internship Watcher] Baseline: {len(current)} open role(s)",
-                build_email_html(grouped, baseline=True, filters=filters),
+                build_email_html(grouped, baseline=True, filters=filters,
+                                 closing=[j for _, j in closing_alert]),
             )
         else:
             print("Baseline run: no relevant roles open right now.")
     else:
         total_new = sum(len(v) for v in grouped_new.values())
-        if total_new:
-            send_email(
-                f"[Internship Watcher] {total_new} new role(s) just opened",
-                build_email_html(grouped_new, filters=filters),
-            )
+        closing_jobs = [j for _, j in closing_alert]
+        if total_new or closing_jobs:
+            subj = f"[Internship Watcher] {total_new} new role(s) just opened" if total_new \
+                else "[Internship Watcher]"
+            if closing_jobs:
+                subj += f" \u23f0 {len(closing_jobs)} closing soon"
+            send_email(subj, build_email_html(grouped_new, filters=filters, closing=closing_jobs))
         else:
             print("No new roles this run.")
 

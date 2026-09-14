@@ -575,7 +575,8 @@
       "engineering degree",
       "any engineering",
       "all engineering"
-    ]
+    ],
+    "closing_soon_days": 14
   },
   "firms": [
     {

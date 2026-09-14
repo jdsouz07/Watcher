@@ -161,6 +161,22 @@ run. Read the Actions log to see which sources actually resolved.
 6. `top_firms_only` / `fall_2027_only` — **both off**, kept for future use
 7. `clearance_keywords` — computed by `is_clearance()` for the run log only
 
+## Closing-soon alerts (2026-09-14)
+
+`extract_deadline()` reads each posting's description for an explicit
+apply-by date ("deadline October 15", "apply by 9/30", "applications accepted
+until…") or an RTX-style relative window ("closes 40 days from the date
+posted"). A role whose stated deadline is within `filters.closing_soon_days`
+(14) goes into a red **Closing soon** block at the top of the email and a
+section at the top of `TOP_PICKS.md`. Alerted once per role via a
+`closing::<key>` marker in `seen_jobs.json`; an email is sent for a
+closing-soon role even when nothing new opened. Every role line also shows
+`posted <date>` when the feed supplies one (Greenhouse, Lever, Ashby, Simplify).
+
+**Honest limit:** most postings never state a deadline -- they just vanish.
+No deadline is ever guessed; absence means "unknown", not "not soon". Workday
+and tracker sources carry no description, so they never produce a deadline.
+
 ## HARD-WON GOTCHAS — read before changing anything
 
 1. **NEVER require the year in the job title.** Most companies don't put it
