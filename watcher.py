@@ -860,6 +860,20 @@ def is_relevant(job, filters):
             and not any(m in content for m in csok):
         return _drop("wrong-major", title)
 
+    # 3d) LOCAL-WORK-AUTH CHECK (2026-09-15). John is fine with internships
+    #     abroad, but a non-US posting that requires an existing local right to
+    #     work and says nothing about sponsoring a visa is dead on arrival for a
+    #     US undergrad (Airwallex/AppLovin Singapore, Howden London all did this).
+    #     If the location is clearly non-US AND the body demands local work
+    #     authorization AND never offers sponsorship, drop it. US postings are
+    #     untouched (John is a US citizen). No body, no drop.
+    need = [m.lower() for m in filters.get("local_work_auth_phrases", [])]
+    spons = [m.lower() for m in filters.get("sponsorship_ok_phrases", [])]
+    if content and need and not _is_us_location(job.get("location")) \
+            and any(m in content for m in need) \
+            and not any(m in content for m in spons):
+        return _drop("needs-local-work-auth", title)
+
     # 4) CYCLE CHECK.
     #    Recruiting runs ~a year ahead, so a LIVE intern posting that states no year
     #    is almost always the current (2027) cycle -- most companies never put the
@@ -1693,12 +1707,17 @@ def _opp_state(o, today):
             return _dt.date.fromisoformat(x) if x else None
         except ValueError:
             return None
-    dl, ev = d(o.get("deadline")), d(o.get("event_date"))
-    if dl and dl < today and (not ev or ev < today):
-        return "expired", None
+    dl, ev, op = d(o.get("deadline")), d(o.get("event_date")), d(o.get("opens"))
+    if dl and dl < today:
+        return "expired", None   # can't apply any more, even if the event is later
     if ev and ev < today and not dl:
         return "expired", None
     days = (dl - today).days if dl else None
+    # `opens`: application window not open yet. Status "upcoming" until that
+    # date; "opening" in the 14 days before it, so the digest nags ahead of it.
+    if op and op > today:
+        until = (op - today).days
+        return ("opening" if until <= 14 else "upcoming"), days
     return ("closing" if days is not None and days <= 10 else "open"), days
 
 
@@ -1713,11 +1732,22 @@ def _hidden_season(o, filters):
 
 
 def _opp_li(o, days, status, is_new):
+    import datetime as _dt
     tag = " <b style='color:#b45309'>NEW</b>" if is_new else ""
-    if days is not None:
+    est = " <i style='color:#888'>(est.)</i>" if o.get("estimated") else ""
+    if status in ("upcoming", "opening") and o.get("opens"):
+        try:
+            until = (_dt.date.fromisoformat(o["opens"]) - _dt.date.today()).days
+        except ValueError:
+            until = None
+        when = (f"<b style='color:#b45309'>applications open in {until}d</b>" if status == "opening"
+                else f"applications open in {until}d") + f" ({escape(o['opens'])}){est}"
+        if days is not None:
+            when += f", then close {escape(o.get('deadline',''))}{est}"
+    elif days is not None:
         when = (f"<b style='color:#b91c1c'>closes in {days}d</b>" if days <= 10
                 else f"closes in {days}d")
-        when += f" ({escape(o.get('deadline',''))})"
+        when += f" ({escape(o.get('deadline',''))}){est}"
     else:
         when = "rolling / no deadline listed"
     bits = [x for x in [
@@ -1816,7 +1846,14 @@ def send_weekly_digest():
         for _, o, status, days, is_new in closing:
             parts.append(_opp_li(o, days, status, is_new))
         parts.append("</ul>")
-    rest = [v for v in visible if v[2] != "closing"]
+    opening = [v for v in visible if v[2] == "opening"]
+    if opening:
+        parts.append("<h3 style='color:#b45309;margin:10px 0 4px'>&#128276; Applications opening within 14 days "
+                     "&mdash; get materials ready</h3><ul>")
+        for _, o, status, days, is_new in opening:
+            parts.append(_opp_li(o, days, status, is_new))
+        parts.append("</ul>")
+    rest = [v for v in visible if v[2] not in ("closing", "opening")]
     if rest:
         parts.append("<h3 style='margin:10px 0 4px'>Open</h3><ul>")
         for _, o, status, days, is_new in rest:

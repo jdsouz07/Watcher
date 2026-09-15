@@ -576,7 +576,65 @@
       "any engineering",
       "all engineering"
     ],
-    "closing_soon_days": 14
+    "closing_soon_days": 14,
+    "local_work_auth_phrases": [
+      "right to work in",
+      "right-to-work",
+      "authorized to work in",
+      "authorised to work in",
+      "eligible to work in",
+      "eligibility to work in",
+      "legally authorized to work in",
+      "legally entitled to work in",
+      "work authorization in",
+      "work authorisation in",
+      "valid work permit",
+      "existing work permit",
+      "must hold a valid",
+      "no visa sponsorship",
+      "not able to sponsor",
+      "unable to sponsor",
+      "will not sponsor",
+      "cannot sponsor",
+      "do not sponsor",
+      "does not sponsor",
+      "without sponsorship",
+      "sponsorship is not available",
+      "citizens or permanent residents",
+      "citizen or permanent resident",
+      "singaporeans",
+      "singapore citizens",
+      "pr holders",
+      "settled status",
+      "eu citizen",
+      "eu national",
+      "swiss national",
+      "australian citizen",
+      "canadian citizen"
+    ],
+    "sponsorship_ok_phrases": [
+      "visa sponsorship available",
+      "sponsorship available",
+      "sponsorship is available",
+      "we sponsor",
+      "will sponsor",
+      "able to sponsor",
+      "can sponsor",
+      "provide sponsorship",
+      "provides sponsorship",
+      "offer sponsorship",
+      "offers sponsorship",
+      "visa support",
+      "relocation and visa",
+      "visa assistance",
+      "international students welcome",
+      "international students are welcome",
+      "open to international",
+      "work permit will be",
+      "work permit provided",
+      "employment pass will",
+      "we will arrange"
+    ]
   },
   "firms": [
     {
@@ -5439,6 +5497,33 @@
       "token": "perplexity",
       "lane": "startup",
       "verified": true
+    },
+    {
+      "name": "GT: GTRI GRIP summer program (2027 dates)",
+      "ats": "pagewatch",
+      "url": "https://grip.gtri.gatech.edu/",
+      "watch_keywords": [
+        "2027",
+        "apply",
+        "application",
+        "deadline",
+        "open"
+      ],
+      "digest": true,
+      "note": "Fires when the GRIP page changes -- that is the signal the Summer 2027 window/dates are posted. Then fix the estimated dates in opportunities.json (gtri-grip-summer-2027)."
+    },
+    {
+      "name": "GT: GTRI careers -- student postings",
+      "ats": "pagewatch",
+      "url": "https://careers.gtri.gatech.edu/jobs?keywords=student",
+      "watch_keywords": [
+        "student assistant",
+        "student",
+        "intern",
+        "2027"
+      ],
+      "digest": true,
+      "note": "Ad hoc part-time lab roles; rolling. Change = new posting worth a look."
     }
   ]
 }
