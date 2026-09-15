@@ -1824,8 +1824,8 @@
     "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173"
   },
   "https://cox.wd1.myworkdayjobs.com/en-us/cox_external_career_site_1/job/draper-ut/software-engineering-intern---summer-2027--draper-ut-_r202682169": {
-    "title": "Software Engineering Intern - Summer 2027 - Draper UT",
-    "url": "https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169"
+    "title": "Software Engineering Intern - Summer 2027 (Draper UT)",
+    "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169"
   },
   "https://cox.wd1.myworkdayjobs.com/en-us/cox_external_career_site_1/job/austin-tx/software-engineering-intern---summer-2027--austin--tx-_r202682168": {
     "title": "Software Engineering Intern - Summer 2027 - Austin - TX",
@@ -9880,7 +9880,7 @@
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Information-Security-Summer-2027-Internship---GA_R26029762"
   },
   "https://hcmportal.wd5.myworkdayjobs.com/en-us/search/job/us---ups-corporate-offices-gacor/ups-global-finance-summer-2027-analytics-internship_r26030589": {
-    "title": "Finance Analytics Intern - Global Finance",
+    "title": "UPS Global Finance Summer 2027 Analytics Internship",
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance-Summer-2027-Analytics-Internship_R26030589"
   },
   "https://criteo.wd3.myworkdayjobs.com/en-us/criteo_career_site/job/paris/product-data-scientist-intern_r15715-1": {
@@ -11284,7 +11284,7 @@
     "url": "https://job-boards.greenhouse.io/instead/jobs/7761472003"
   },
   "https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007": {
-    "title": "Junior Software Engineer Internship",
+    "title": "Junior Software Engineer Intern",
     "url": "https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007"
   },
   "https://jobs.lever.co/geocomply-2/7b5cf819-341e-4980-be14-97b8a205ec1f": {
@@ -17252,7 +17252,7 @@
     "url": "https://psu.wd1.myworkdayjobs.com/en-US/PSU_Staff/job/Penn-State-University-Park/Research-and-Development-Engineer-Intern_REQ_0000082128"
   },
   "https://moog.wd5.myworkdayjobs.com/en-us/moog_external_career_site/job/blacksburg-va/intern--embedded-design-engineering_r-26-20053": {
-    "title": "Intern, Embedded Design Engineering",
+    "title": "Intern - Embedded Design Engineering",
     "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Blacksburg-VA/Intern--Embedded-Design-Engineering_R-26-20053"
   },
   "https://fmr.wd1.myworkdayjobs.com/en-us/targeted/job/boston-ma/co-op--advanced-data-analytics-and-insights_2135232": {
@@ -18958,5 +18958,77 @@
   "https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true": {
     "title": "Data Engineer Intern",
     "url": "https://jobs.ashbyhq.com/ibotta/666cac72-9e06-46ee-aea0-576f766338b2/application?embed=true"
+  },
+  "https://micron.wd1.myworkdayjobs.com/en-us/external/job/fab-10nx-singapore/intern---nand-device-engineering-ai_jr112107": {
+    "title": "Intern - NAND Device Engineering AI",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Fab-10NX-Singapore/Intern---NAND-Device-Engineering-AI_JR112107"
+  },
+  "https://micron.wd1.myworkdayjobs.com/en-us/external/job/albany-ny/intern---semiconductor-research---technology-development_jr110876": {
+    "title": "Intern - Semiconductor Research & Technology Development",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Albany-NY/Intern---Semiconductor-Research---Technology-Development_JR110876"
+  },
+  "https://aero.wd5.myworkdayjobs.com/en-us/external/job/el-segundo-ca/xmlname-2027-communication-systems-and-signal-processing-graduate-intern_r016555": {
+    "title": "2027 Communication Systems and Signal Processing Graduate Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Communication-Systems-and-Signal-Processing-Graduate-Intern_R016555"
+  },
+  "https://aero.wd5.myworkdayjobs.com/en-us/external/job/chantilly-va/xmlname-2027-sdr-digital-signal-processing-undergraduate-intern_r016558": {
+    "title": "2027 SDR/Digital Signal Processing Undergraduate Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/XMLNAME-2027-SDR-Digital-Signal-Processing-Undergraduate-Intern_R016558"
+  },
+  "https://aero.wd5.myworkdayjobs.com/en-us/external/job/el-segundo-ca/xmlname-2027-power-systems-engineering-undergraduate-intern_r016530": {
+    "title": "2027 Power Systems Engineering Undergraduate Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Undergraduate-Intern_R016530"
+  },
+  "https://aero.wd5.myworkdayjobs.com/en-us/external/job/el-segundo-ca/xmlname-2027-power-systems-engineering-graduate-intern_r016527": {
+    "title": "2027 Power Systems Engineering Graduate Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Power-Systems-Engineering-Graduate-Intern_R016527"
+  },
+  "https://accenture.wd103.myworkdayjobs.com/en-us/accenturecareers/job/brussels/security-internship-as-of-february-2026_r00287897": {
+    "title": "Internship - Security - as of February 2027",
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897"
+  },
+  "https://jobs.lever.co/rigetti/efe28dd4-f331-4738-b282-23106928c3a3": {
+    "title": "Research Intern: Scalable Fabrication of Superconducting Quantum Devices",
+    "url": "https://jobs.lever.co/rigetti/efe28dd4-f331-4738-b282-23106928c3a3"
+  },
+  "https://job-boards.greenhouse.io/instawork/jobs/4712960006": {
+    "title": "Quality Control Intern - Hardware",
+    "url": "https://job-boards.greenhouse.io/instawork/jobs/4712960006"
+  },
+  "https://walmart.wd504.myworkdayjobs.com/en-us/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern--cybersecurity-undergrad_r-2630025": {
+    "title": "Summer 2027 Intern: Cybersecurity Undergrad",
+    "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Undergrad_R-2630025"
+  },
+  "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944": {
+    "title": "Software Engineer, Intern (Summer 2027) - TOR",
+    "url": "https://job-boards.greenhouse.io/doordashcanada/jobs/8170944"
+  },
+  "https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006": {
+    "title": "Machine Learning Engineering Intern (2027 Summer Internship)",
+    "url": "https://boards.greenhouse.io/applovin/jobs/4713038006?gh_jid=4713038006"
+  },
+  "https://amgen.wd1.myworkdayjobs.com/careers/job/united-states---remote/undergrad-intern---data-engineer---amgen-s-technology---medical-organizations--summer-2027-_r-255708": {
+    "title": "Data Engineer Intern - Technology & Medical Organizations",
+    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708"
+  },
+  "https://jobs.ashbyhq.com/superhuman%20platform%20inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application?embed=true": {
+    "title": "Software Engineer Intern - Summer 2027",
+    "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/e6b917b1-325a-47d0-b267-b279b0efdad0/application?embed=true"
+  },
+  "https://jobs.ashbyhq.com/superhuman%20platform%20inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true": {
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/Superhuman%20Platform%20Inc/5f1f25ee-709d-4ae0-ada4-d1f243bde89c/application?embed=true"
+  },
+  "https://jj.wd5.myworkdayjobs.com/jj/job/santa-clara-california-united-states-of-america/rc---a---robotics-r-d_r-099654-1": {
+    "title": "Robotics Controls & Autonomy Intern - Robotics R&D",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1"
+  },
+  "https://careers.jhuapl.edu/jobs/60049?icims=1": {
+    "title": "Computer Engineer Intern - Shipboard Systems Group",
+    "url": "https://careers.jhuapl.edu/jobs/60049?icims=1"
+  },
+  "https://hyperiongrp.wd3.myworkdayjobs.com/hyperion_external/job/london---one-creechurch-place/analytics-summer-internship-2027_r0019272": {
+    "title": "Analytics Intern",
+    "url": "https://hyperiongrp.wd3.myworkdayjobs.com/Hyperion_External/job/London---One-Creechurch-Place/Analytics-Summer-Internship-2027_R0019272"
   }
 }
