@@ -1,5 +1,5 @@
 {
-  "_readme": "Structured list rendered IN FULL in every Wed/Sun digest. Fields: id,name,type,url,apply_url,event_date,deadline (ISO),location,format (in-person|online|hybrid),season (fall|winter|spring|summer|rolling),travel,prizes,perks,eligibility,notes. filters.hide_seasons is empty, so nothing is hidden by season. Add entries here or ask Claude to.",
+  "_readme": "Structured list rendered IN FULL in every Wed/Sun digest. Fields: id,name,type,url,apply_url,opens (ISO, expected application-open date; shows 'opens in Nd' and nags 14 days ahead),event_date,deadline (ISO),estimated (true if dates are projected from prior cycles),location,format (in-person|online|hybrid),season (fall|winter|spring|summer|rolling),travel,prizes,perks,eligibility,notes. filters.hide_seasons is empty, so nothing is hidden by season. Add entries here or ask Claude to.",
   "opportunities": [
     {
       "id": "cornell-trading-2026",
@@ -192,6 +192,43 @@
       "perks": "daily puzzles Dec 1-25, doable from anywhere",
       "eligibility": "anyone",
       "notes": "Fixed date every year; no application. Good daily habit through December, and a natural CP@GT warm-up."
+    },
+    {
+      "id": "gtri-grip-summer-2027",
+      "name": "GTRI Research Internship Program (GRIP) — Summer 2027",
+      "type": "research-internship",
+      "url": "https://grip.gtri.gatech.edu/",
+      "apply_url": "https://careers.gtri.gatech.edu/",
+      "opens": "2026-11-01",
+      "event_date": "2027-05-24",
+      "deadline": "2027-01-08",
+      "estimated": true,
+      "location": "GTRI (Atlanta + other GTRI sites; per-project)",
+      "format": "in-person",
+      "season": "summer",
+      "travel": "n/a",
+      "prizes": "paid, full-time, 10 weeks (late May – end of July)",
+      "perks": "project-based; ranks top 3 projects; can start a clearance",
+      "eligibility": "any accredited US school, GPA 2.5+, graduating Dec 2027 or later; each project sets its own citizenship/location rules",
+      "notes": "DATES ARE ESTIMATES from the 2024 and 2026 cycles (window opened ~Nov, closed Jan 29 / Jan 7). Process: rank top 3 projects via survey + upload resume on the careers portal; mentor phone interviews Feb; offers early March, 5 business days to accept; waitlist late March. The GRIP pagewatch in config.json fires when the 2027 page changes — update these dates then."
+    },
+    {
+      "id": "gtri-student-assistant-spring-2027",
+      "name": "GTRI part-time Student Assistant roles (Spring 2027, Atlanta)",
+      "type": "part-time-research",
+      "url": "https://careers.gtri.gatech.edu/jobs?keywords=student",
+      "opens": null,
+      "event_date": null,
+      "deadline": null,
+      "estimated": false,
+      "location": "Atlanta (also Warner Robins, Huntsville, etc.)",
+      "format": "in-person",
+      "season": "rolling",
+      "travel": "n/a",
+      "prizes": "paid, part-time during the semester",
+      "perks": "fastest route into GTRI; may start a clearance",
+      "eligibility": "GT students; most require US citizenship",
+      "notes": "Labs post whenever they have budget; spring roles tend to appear Sep–Nov, summer/fall roles Jan–Apr. Rolling until filled — check every couple of weeks. The careers.gtri pagewatch in config.json fires on changes."
     }
   ]
 }

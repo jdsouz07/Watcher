@@ -138,7 +138,18 @@ most scholarship essays.
 - **GT undergraduate research** portal — rolling faculty positions
 - **GT VIP** — he's already on the DIB Cyber Compliance team; VIP credit can
   extend into a research line
-- **GTRI student positions** — rolling; note most require US citizenship
+- **GTRI — two tracks, two clocks** (added 2026-09-15):
+  - **GRIP (GTRI Research Internship Program), Summer 2027** — structured,
+    paid, 10 weeks. Window expected to open **~Nov 2026** and close
+    **early–mid Jan 2027** (2026 cycle closed Jan 7; 2024 closed Jan 29 —
+    2027 dates not yet posted). You rank your top 3 projects and upload a
+    resume; mentor phone interviews in Feb; offers early March. Each project
+    sets its own citizenship/location rules. The digest counts down to the
+    expected open date and the GRIP pagewatch fires when the page changes.
+  - **Part-time Student Assistant roles** on careers.gtri.gatech.edu —
+    rolling, posted whenever a lab has budget. Spring roles tend to show
+    Sep–Nov. The fastest way into GTRI (and possibly a clearance start).
+    Watched; check every couple of weeks regardless.
 - **NSF ETAP REUs** · **DOE SULI** · **NREIP** · **MIT Lincoln Lab summer** ·
   **LLNL DSSI** — deadlines cluster Dec–Feb
 - **DAAD RISE Germany** (~Nov 30) · **ETH Zurich SSRF** (~Dec 16) ·
