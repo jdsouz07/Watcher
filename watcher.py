@@ -1146,6 +1146,10 @@ def _lane(job, company, title):
     declared = (job.get("lane") or "").strip().lower()
     if declared in LANES:
         return declared
+    # Roles from the trackers / autodiscover carry no source lane, so a
+    # config list of startup names (filters.startup_companies) catches them.
+    if _is_startup_company(company):
+        return "startup"
     t = title or ""
     if _is_quant(company, t):
         return "quant"
@@ -1156,6 +1160,44 @@ def _lane(job, company, title):
     if SWE_RE.search(t):
         return "swe"
     return "other"
+
+
+_STARTUP_NAMES = None
+
+
+def _is_startup_company(company):
+    """Word-boundary match of the company name against filters.startup_companies
+    (loaded once). 'Ramp' must not match 'Rampart'; 'Scale AI' should match
+    'Scale AI, Inc.'."""
+    global _STARTUP_NAMES
+    if _STARTUP_NAMES is None:
+        try:
+            names = (load_json(CONFIG_FILE, {}) or {}).get("filters", {}).get("startup_companies", [])
+        except Exception:  # noqa: BLE001
+            names = []
+        # One-word names ("Sierra", "Hex", "Unit") must equal the company name
+        # once corporate suffixes are stripped -- otherwise "Sierra" swallows
+        # "Sierra Nevada Corporation". Multi-word names use a boundary search.
+        _STARTUP_NAMES = []
+        for n in names:
+            n = (n or "").strip().lower()
+            if not n:
+                continue
+            if " " in n or "." in n:
+                _STARTUP_NAMES.append(("search", re.compile(r"(?<![a-z0-9])" + re.escape(n) + r"(?![a-z0-9])")))
+            else:
+                _STARTUP_NAMES.append(("exact", n))
+    c = (company or "").lower().strip()
+    if not c:
+        return False
+    core = re.sub(r"[,.]?\s*\b(inc|llc|ltd|corp|corporation|co|labs?|technologies|technology|ai|io|hq)\b\.?\s*$", "", c).strip()
+    core = re.sub(r"[,.]?\s*\b(inc|llc|ltd|corp|corporation|co|labs?|technologies|technology|ai|io|hq)\b\.?\s*$", "", core).strip()
+    for kind, m in _STARTUP_NAMES:
+        if kind == "exact" and (core == m or c == m):
+            return True
+        if kind == "search" and m.search(c):
+            return True
+    return False
 
 
 def _lane_order(filters):
