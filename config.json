@@ -5696,228 +5696,158 @@
       "note": "Ad hoc part-time lab roles; rolling. Change = new posting worth a look."
     },
     {
-      "name": "Startup: Cursor (Anysphere)",
-      "ats": "ashby",
-      "token": "anysphere",
-      "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
-    },
-    {
       "name": "Startup: ElevenLabs",
       "ats": "ashby",
       "token": "elevenlabs",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Harvey",
       "ats": "ashby",
       "token": "harvey",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Glean",
       "ats": "greenhouse",
       "token": "gleanwork",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
-    },
-    {
-      "name": "Startup: Retool",
-      "ats": "greenhouse",
-      "token": "retool",
-      "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
-    },
-    {
-      "name": "Startup: Together AI",
-      "ats": "ashby",
-      "token": "together-ai",
-      "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
-    },
-    {
-      "name": "Startup: Hugging Face",
-      "ats": "greenhouse",
-      "token": "huggingface",
-      "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
-    },
-    {
-      "name": "Startup: Runway",
-      "ats": "greenhouse",
-      "token": "runwayml",
-      "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Baseten",
       "ats": "ashby",
       "token": "baseten",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
-    },
-    {
-      "name": "Startup: Weights & Biases",
-      "ats": "lever",
-      "token": "wandb",
-      "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Cerebras",
       "ats": "greenhouse",
       "token": "cerebras",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Groq",
       "ats": "greenhouse",
       "token": "groq",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Lambda",
       "ats": "greenhouse",
       "token": "lambda",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Supabase",
       "ats": "ashby",
       "token": "supabase",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Clerk",
       "ats": "ashby",
       "token": "clerk",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: PostHog",
       "ats": "ashby",
       "token": "posthog",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Sentry",
       "ats": "greenhouse",
       "token": "sentry",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Tailscale",
       "ats": "greenhouse",
       "token": "tailscale",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Rippling",
       "ats": "greenhouse",
       "token": "rippling",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Deel",
       "ats": "ashby",
       "token": "deel",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Modern Treasury",
       "ats": "ashby",
       "token": "moderntreasury",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Kalshi",
       "ats": "ashby",
       "token": "kalshi",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Cognition",
       "ats": "ashby",
       "token": "cognition",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Decagon",
       "ats": "ashby",
       "token": "decagon",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Applied Intuition",
       "ats": "greenhouse",
       "token": "appliedintuition",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Zipline",
       "ats": "greenhouse",
       "token": "flyzipline",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Physical Intelligence",
       "ats": "ashby",
       "token": "physicalintelligence",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "Startup: Figure AI",
       "ats": "greenhouse",
       "token": "figureai",
       "lane": "startup",
-      "verified": false,
-      "note": "token guessed 2026-09-16 -- run verify_sources.py / workflow 'verify' mode and delete if it 404s"
+      "verified": true
     },
     {
       "name": "RSS: HN Who is Hiring (intern mentions)",
