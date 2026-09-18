@@ -1220,7 +1220,7 @@
     "url": "https://job-boards.greenhouse.io/appian/jobs/8041237"
   },
   "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007": {
-    "title": "AI Compiler Software Intern (PEY)",
+    "title": "AI Compiler Software Intern",
     "url": "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/4873659007"
   },
   "https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5165445007": {
@@ -9880,7 +9880,7 @@
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Information-Security-Summer-2027-Internship---GA_R26029762"
   },
   "https://hcmportal.wd5.myworkdayjobs.com/en-us/search/job/us---ups-corporate-offices-gacor/ups-global-finance-summer-2027-analytics-internship_r26030589": {
-    "title": "UPS Global Finance Summer 2027 Analytics Internship",
+    "title": "Finance Analytics Intern - Global Finance",
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance-Summer-2027-Analytics-Internship_R26030589"
   },
   "https://criteo.wd3.myworkdayjobs.com/en-us/criteo_career_site/job/paris/product-data-scientist-intern_r15715-1": {
@@ -19297,7 +19297,7 @@
   },
   "https://micron.wd1.myworkdayjobs.com/en-us/external/job/longmont-max--office-co/intern---data-center-ssd-firmware_jr111461": {
     "title": "Intern - Data Center SSD Firmware",
-    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461"
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/external/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461"
   },
   "https://micron.wd1.myworkdayjobs.com/en-us/external/job/boise-id---main-site/intern---node-development-product-engineer---dram-technology_jr111846": {
     "title": "Intern - Node Development Product Engineer - DRAM Technology",
@@ -21558,5 +21558,41 @@
   "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa": {
     "title": "Software Development Engineer Intern - Summer",
     "url": "https://amazon.jobs/en/jobs/10552937/software-development-engineer-internship-summer-2027-usa"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000150286279": {
+    "title": "Internship Performance Analysis and Optimization of Python-Based Verification for C++ Models",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000150286279"
+  },
+  "https://asml.wd3.myworkdayjobs.com/en-us/asmlext1/job/veldhoven-netherlands/communication---marketing-internship--security-awareness-communications_j-00346899": {
+    "title": "Communication internship: Security communication & behavioral change",
+    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Veldhoven-Netherlands/Communication---Marketing-internship--security-awareness-communications_J-00346899"
+  },
+  "https://disney.wd5.myworkdayjobs.com/en-us/disneycareer/job/jakarta-indonesia/intern--content-programming---curation---jan-to-jun-2027_10160563": {
+    "title": "Intern, Content Programming & Curation, Disney+ - Jan to Jun 2027",
+    "url": "https://disney.wd5.myworkdayjobs.com/en-US/disneycareer/job/Jakarta-Indonesia/Intern--Content-Programming---Curation---Jan-to-Jun-2027_10160563"
+  },
+  "https://pg.wd5.myworkdayjobs.com/en-us/1000/job/paris-go-saint-ouen-go/data-engineering-intern_r000155891": {
+    "title": "Data Engineering Intern",
+    "url": "https://pg.wd5.myworkdayjobs.com/en-US/1000/job/PARIS-GO-SAINT-OUEN-GO/Data-Engineering-Intern_R000155891"
+  },
+  "https://job-boards.greenhouse.io/cloudsek/jobs/6200261004": {
+    "title": "SDE Intern - Frontend   ",
+    "url": "https://job-boards.greenhouse.io/cloudsek/jobs/6200261004"
+  },
+  "https://marinabaysands.wd102.myworkdayjobs.com/en-us/external/job/marina-bay-sands-singapore/intern--ir1-hospitality-planning---development_jr10006050": {
+    "title": "Intern, IR1 Hospitality Planning & Development",
+    "url": "https://marinabaysands.wd102.myworkdayjobs.com/en-US/external/job/Marina-Bay-Sands-Singapore/Intern--IR1-Hospitality-Planning---Development_JR10006050"
+  },
+  "https://marinabaysands.wd102.myworkdayjobs.com/en-us/external/job/marina-bay-sands-singapore/inter--software-quality-assurance_jr10006968": {
+    "title": "Intern, Software Quality Assurance",
+    "url": "https://marinabaysands.wd102.myworkdayjobs.com/en-US/external/job/Marina-Bay-Sands-Singapore/Inter--Software-Quality-Assurance_JR10006968"
+  },
+  "https://ntst.wd1.myworkdayjobs.com/careers/job/overland-park-ks/software-engineer-intern--summer-2027-internship-_r015667": {
+    "title": "Software Engineer Intern",
+    "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667"
+  },
+  "https://www.tesla.com/careers/search/job/284004": {
+    "title": "Internship - Software Engineering - People Products - Summer 2027",
+    "url": "https://www.tesla.com/careers/search/job/284004"
   }
 }
