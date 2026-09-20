@@ -1200,6 +1200,57 @@ def _is_startup_company(company):
     return False
 
 
+# --- PRIORITY roles (2026-09-19) ------------------------------------------
+# A role is PRIORITY when its company is in filters.priority_companies OR its
+# title hits filters.priority_title_terms (word-boundary). New priority roles
+# get their own email, sent FIRST, with high-importance headers and a red
+# subject, plus a red banner at the top of the regular email. Both lists live
+# in config.json -- edit them, never the code.
+_PRIO = None
+
+
+def _priority_reason(job, company, title, filters):
+    """'' if not priority, else a short reason string for the email line."""
+    global _PRIO
+    if _PRIO is None:
+        f = filters or {}
+        comps = []
+        for n in f.get("priority_companies", []):
+            n = (n or "").strip().lower()
+            if not n:
+                continue
+            comps.append((n, re.compile(r"(?<![a-z0-9])" + re.escape(n) + r"(?![a-z0-9])")))
+        terms = [(t, re.compile(r"(?<![a-z0-9])" + re.escape(t.lower()) + r"(?![a-z0-9])"))
+                 for t in f.get("priority_title_terms", []) if t]
+        _PRIO = (comps, terms)
+    comps, terms = _PRIO
+    if job.get("pagewatch") or job.get("rss"):
+        return ""
+    c = (company or "").lower()
+    t = (title or "").lower()
+    for n, rx in comps:
+        if rx.search(c):
+            return f"target company: {n}"
+    for term, rx in terms:
+        if rx.search(t):
+            return f"title: {term}"
+    return ""
+
+
+def build_priority_email(jobs, filters=None):
+    parts = [
+        "<div style='border:3px solid #b91c1c;background:#fff1f2;padding:10px 14px'>"
+        "<h2 style='margin:0 0 6px;color:#b91c1c'>&#128680; PRIORITY &mdash; apply today</h2>"
+        "<p style='margin:0 0 8px;color:#444'>These just opened at companies on your must-apply list "
+        "(or match a must-apply title). Rolling roles fill fast; do these before anything else.</p><ul>"]
+    for j in sorted(jobs, key=lambda x: ((x.get("company") or "").lower(), x.get("title", ""))):
+        parts.append(_job_li(j).replace("<li>", "<li style='margin:6px 0;font-size:15px'>", 1)
+                     + f"<div style='font-size:12px;color:#888;margin-left:2px'>{escape(j.get('_prio', ''))}</div>")
+    parts.append("</ul></div><p style='color:#888;font-size:12px'>Sent automatically by your internship watcher. "
+                 "Edit <code>priority_companies</code> / <code>priority_title_terms</code> in config.json to change what counts.</p>")
+    return "\n".join(parts)
+
+
 def _lane_order(filters):
     order = [x for x in (filters or {}).get("lane_order", [])
              if x in LANES and x != "watch"]
@@ -1231,6 +1282,15 @@ def build_email_html(grouped, baseline=False, filters=None, closing=None):
         else "These internship postings just opened:"
     )
     parts = []
+    # PRIORITY banner (also got its own email) sits above even closing-soon.
+    prio = [j for firm in (grouped or {}) for j in grouped[firm] if j.get("_prio")]
+    if prio:
+        parts.append(
+            "<div style='border:3px solid #b91c1c;background:#fff1f2;padding:6px 12px;margin:0 0 16px'>"
+            f"<h3 style='margin:4px 0;color:#b91c1c'>&#128680; PRIORITY &mdash; {len(prio)} must-apply role(s)</h3><ul>")
+        for j in sorted(prio, key=lambda x: (x.get("company") or "").lower()):
+            parts.append(_job_li(j))
+        parts.append("</ul></div>")
     # Closing-soon block sits ABOVE everything else. Only roles whose
     # description states a deadline get here -- most postings never state one.
     if closing:
@@ -1282,7 +1342,7 @@ def build_email_html(grouped, baseline=False, filters=None, closing=None):
     return "\n".join(parts)
 
 
-def send_email(subject, html):
+def send_email(subject, html, important=False):
     host = os.environ.get("SMTP_HOST") or "smtp.gmail.com"
     port = int(os.environ.get("SMTP_PORT") or "465")
     user = os.environ.get("SMTP_USERNAME")
@@ -1297,6 +1357,12 @@ def send_email(subject, html):
     msg["Subject"] = subject
     msg["From"] = user
     msg["To"] = to_addr
+    if important:
+        # Outlook shows the red "!" for these; Gmail honours Importance for
+        # its own priority marker. Reserved for PRIORITY roles only.
+        msg["X-Priority"] = "1"
+        msg["X-MSMail-Priority"] = "High"
+        msg["Importance"] = "High"
     msg.attach(MIMEText(html, "html", "utf-8"))
 
     with smtplib.SMTP_SSL(host, port, timeout=TIMEOUT) as server:
@@ -2058,6 +2124,7 @@ def main():
             j["clearance"] = is_clearance(j, filters)
             if not j.get("pagewatch"):
                 j["deadline"] = extract_deadline(j)
+            j["_prio"] = _priority_reason(j, j.get("company") or name, j.get("title", ""), filters)
         n_clear = sum(1 for j in relevant if j["clearance"])
         n_dl = sum(1 for j in relevant if j.get("deadline"))
         print(f"  ok {name}: {len(jobs)} jobs, {len(relevant)} relevant"
@@ -2125,6 +2192,13 @@ def main():
     else:
         total_new = sum(len(v) for v in grouped_new.values())
         closing_jobs = [j for _, j in closing_alert]
+        prio_new = [dict(j, company=j.get("company") or firm)
+                    for firm in grouped_new for j in grouped_new[firm] if j.get("_prio")]
+        if prio_new:
+            names = sorted({(j.get("company") or "").strip() for j in prio_new})
+            send_email(f"\U0001f6a8 PRIORITY: {len(prio_new)} must-apply role(s) \u2014 " + ", ".join(names[:4])
+                       + (" +more" if len(names) > 4 else ""),
+                       build_priority_email(prio_new, filters), important=True)
         if total_new or closing_jobs:
             subj = f"[Internship Watcher] {total_new} new role(s) just opened" if total_new \
                 else "[Internship Watcher]"
