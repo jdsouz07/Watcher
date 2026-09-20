@@ -1,6 +1,6 @@
 # Top picks (auto-generated)
 
-_2699 role(s) worth a look, out of 3958 tracked items. Rebuilt every sweep: 2026-09-19 22:55 UTC._
+_2729 role(s) worth a look, out of 3987 tracked items. Rebuilt every sweep: 2026-09-20 00:59 UTC._
 
 Grouped by lane in the order set by `filters.lane_order` in config.json: ai → cyber → quant → startup → swe → other. Within a lane, preferred locations first, then sweet-spot firms before elite ones.
 
@@ -9,8 +9,8 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 
 _Only postings that state an apply-by date. Most never do._
 
-- **closes 2026-09-30 (11d)** — [duolingounirecruitment — Software Engineer, Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002) — Pittsburgh, PA; New York, NY; Seattle, WA
-- **closes 2026-09-30 (11d)** — [duolingounirecruitment — Software Engineer, Thrive Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002) — Pittsburgh, PA
+- **closes 2026-09-30 (10d)** — [duolingounirecruitment — Software Engineer, Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002) — Pittsburgh, PA; New York, NY; Seattle, WA
+- **closes 2026-09-30 (10d)** — [duolingounirecruitment — Software Engineer, Thrive Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002) — Pittsburgh, PA
 
 ## 🧠 AI / ML
 
@@ -58,8 +58,12 @@ _Only postings that state an apply-by date. Most never do._
 - [argmax — On-device AI Frameworks Engineer (Intern)](https://job-boards.greenhouse.io/argmax/jobs/4067268009) — Palo Alto, CA
 - [audaxgroup — AI Engineer Co-Op](https://job-boards.greenhouse.io/audaxgroup/jobs/4722801005) — Boston, MA
 - [Axiomatic AI — Software Engineering Internship – AI/Agentic Systems](https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848121101) — Boston, MA
-- [bah — University, Applied AI Intern](https://bah.wd1.myworkdayjobs.com/en-US/Confidential/job/Washington-DC/University--Applied-AI-Intern_R0248853) — Washington, DC
-- [bah — University, Applied AI Software Development Intern](https://bah.wd1.myworkdayjobs.com/en-US/Confidential/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0248854) — McLean, VA
+- [bah — AI RAN Telecommunications Engineer Intern](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415) — McLean, VA
+- [bah — AI Software Developer Intern](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115) — San Diego, CA
+- [bah — University - 2027 Summer Games Data Scientist Intern - McLean, VA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037) — McLean, VA
+- [bah — University - 2027 Summer Games Data Scientist Intern - San Diego, CA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045) — San Diego, CA
+- [bah — University, 2027 Summer Games Data Scientist Intern - Atlanta, GA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140) — Atlanta, GA
+- [bah — University, 2027 Summer Games Data Scientist Intern - El Segundo, CA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050) — El Segundo, CA
 - [bild-ai — AI/SWE Intern](https://jobs.ashbyhq.com/bild-ai/b333f0f7-0ca6-4509-8697-9303396b5364) — San Francisco
 - [BNY — Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81238) — Jersey City, NJ
 - [BNY — Data Science Intern - Engineering](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/81240) — NYC
@@ -221,7 +225,7 @@ _Only postings that state an apply-by date. Most never do._
 - [luminance-1 — AI Engineering Intern](https://apply.workable.com/j/E045EF5A7A) — Cambridge, England, United Kingdom
 - [Lyft — Data Science Intern - Algorithms](https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002) — NYC
 - [M3USA — AI Engineering Intern (Remote)](https://jobs.smartrecruiters.com/M3USA/744000148244649) — Fort Washington, PA, us
-- [manulife — Summer Intern 2027 - AI](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---AI_JR26081682) — Boston, Massachusetts
+- [Manulife Financial — AI Intern - AI](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---AI_JR26081682) — Boston, MA
 - [Marvell — Applied Machine Learning Scientist Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers/job/Santa-Clara-CA/Applied-Machine-Learning-Scientist-Intern---PhD_2502662-1) — Santa Clara, CA
 - [Merck — Data Scientist Intern - Nonclinical Drug Safety](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861) — Boston, MA
 - [Merck — Optical Imaging Data Science Intern](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Optical-Imaging-Data-Science-Intern---Intern_R412885) — Boston, MA
@@ -457,6 +461,10 @@ _Only postings that state an apply-by date. Most never do._
 - [autodesk — Intern, AI Developer/ Stagiaire en développement IA](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--AI-Developer--Stagiaire-en-dveloppement-IA_26WD100523-2) — Montreal, QC, CAN
 - [avav — Summer 2027 Machine Learning Intern](https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389) — 2 Locations
 - [avisbudget — Accelerate - AI Enablement Intern Summer 2027](https://avisbudget.wd1.myworkdayjobs.com/en-US/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---AI-Enablement-Intern-Summer-2027_R0190563) — 379 Interpace Pkwy, Parsippany, 07054
+- [bah — University - 2027 Summer Games Data Scientist Intern - Charleston, SC](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Data-Scientist-Intern_R0248137) — Charleston, SC
+- [bah — University - 2027 Summer Games Data Scientist Intern - Huntsville, AL](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407) — Huntsville, AL
+- [bah — University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406) — Honolulu, HI
+- [bah — University, 2027 Summer Games Data Scientist Intern - Rome, NY](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Data-Scientist-Intern_R0248143) — Rome, NY
 - [Baird — IT AI & Automation Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1) — Milwaukee, WI
 - [baird — Internship – IT AI & Automation (Year-Round)](https://baird.wd1.myworkdayjobs.com/en-US/careers/job/WI-Milwaukee/Internship---IT-Operations-Automation---AI--Year-Round-_R2026986-1) — WI-Milwaukee
 - [barnes — 2027 BT RISE Internship - Information Technology AI Intern](https://jobs.ashbyhq.com/barnes/af9258a6-b6e6-4714-92dc-a9952c0590a7) 🇺🇸 — Indianapolis
@@ -615,7 +623,6 @@ _Only postings that state an apply-by date. Most never do._
 - [Lyft — Data Science Intern - Algorithms](https://app.careerpuck.com/job-board/lyft/job/8767697002?gh_jid=8767697002) — Toronto, ON, Canada
 - [Lyft — Software Engineer Intern - Machine Learning](https://app.careerpuck.com/job-board/lyft/job/8802332002?gh_jid=8802332002) — Toronto, ON, Canada
 - [manex — AI Software Engineer - Internship (f/m/d)](https://jobs.ashbyhq.com/manex/ba2e6b81-606f-4176-9919-2ee0157a8475) — Munich
-- [manulife — Summer Intern 2027 - AI](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---AI_JR26081688) — Toronto, Ontario
 - [Marmon Holdings — Data Engineering Intern Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453-1) — Milwaukee, WI
 - [Marmon Holdings — Data Engineering Intern/Co-op](https://marmon.wd501.myworkdayjobs.com/Marmon_MSIP_Internships/job/Milwaukee-WI/Data-Engineering-Intern-OR-Student-Co-Op_JR0000037453) — Milwaukee, WI
 - [Mastercard — Data Engineer Intern](https://mastercard.wd1.myworkdayjobs.com/Campus/job/OFallon-Missouri/Data-Engineering-Intern--Summer-2027---St-Louis--MO--US_R-284901) — O'Fallon, MO
@@ -790,6 +797,15 @@ _Only postings that state an apply-by date. Most never do._
 
 - [Amazon (AWS / Robotics / all) — System Dev Engineer I Co-op (Robotics), Autonomous AI Security](https://www.amazon.jobs/en/jobs/3117694/system-dev-engineer-i-co-op-robotics-autonomous-ai-security) — Austin, Texas, USA
 - [appian — Information Security Engineer Intern](https://job-boards.greenhouse.io/appian/jobs/8088496) — McLean, Virginia
+- [bah — Enterprise Cybersecurity Data Loss Prevention Intern](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1) — McLean, VA
+- [bah — University - 2027 Summer Games Cyber Security Intern - Atlanta, GA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139) — Atlanta, GA
+- [bah — University - 2027 Summer Games Cyber Security Intern - El Segundo, CA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047) — El Segundo, CA
+- [bah — University - 2027 Summer Games Cyber Security Intern - McLean, VA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034) — McLean, VA
+- [bah — University – Summer 27, Cybersecurity Analyst Intern](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214) — McLean, VA
+- [bah — University – Summer 27, Enterprise Cybersecurity Data Loss Prevention Intern](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249083) — McLean, VA
+- [bah — University – Summer 27, Enterprise Cybersecurity IT Policy Intern](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-IT-Policy-Intern_R0249077) — McLean, VA
+- [bah — University – Summer 27, Enterprise Cybersecurity Vulnerability Intern](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---Summer-27--Enterprise-Cybersecurity-Vulnerability-Intern_R0249085) — McLean, VA
+- [bah — University, 2027 Summer Games Cyber Security Intern - San Diego, CA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043) — San Diego, CA
 - [cc — Internship - Cyber Transformation Officer GISEC](https://cc.wd3.myworkdayjobs.com/en-US/ChanelCareers/job/London/Internship---Cyber-Transformation-Officer-GISEC_JOBREQ00115118) — London
 - [centene — Cybersecurity Summer 2027 Intern (Undergraduate)](https://centene.wd5.myworkdayjobs.com/en-US/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514) — Remote-MO
 - [cna — Technology Internship Program (Cybersecurity)](https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1) — Chicago, IL, USA
@@ -831,6 +847,10 @@ _Only postings that state an apply-by date. Most never do._
 - [aoins — IT Security Engineer Internship - Summer 2027](https://aoins.wd5.myworkdayjobs.com/en-US/AutoOwners/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477) — Lansing, MI
 - [asml — Communication internship: Security communication & behavioral change](https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Veldhoven-Netherlands/Communication---Marketing-internship--security-awareness-communications_J-00346899) — Veldhoven, Netherlands
 - [auctane — CyberSecurity - Interns](https://job-boards.greenhouse.io/auctane/jobs/7977819003) — Wrocław, PL
+- [bah — University - 2027 Summer Games Cyber Security Intern - Charleston, SC](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Cyber-Security-Intern---Charleston--SC_R0248136) — Charleston, SC
+- [bah — University - 2027 Summer Games Cyber Security Intern - Honolulu, HI](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411) — Honolulu, HI
+- [bah — University - 2027 Summer Games Cyber Security Intern - Huntsville, AL](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412) — Huntsville, AL
+- [bah — University, 2027 Summer Games Cyber Security Intern - Rome, NY](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Cyber-Security-Intern_R0248142) — Rome, NY
 - [barclays — 2027 Technology Cyber and Security Summer Internship Programme Knutsford](https://barclays.wd3.myworkdayjobs.com/en-US/External_Career_Site_Barclays/job/Knutsford-Radbroke-Hall/XMLNAME-2027-Technology-Cyber-and-Security-Summer-Internship-Programme-Knutsford_JR-0000129173) — Knutsford, Radbroke Hall
 - [barnes — 2027 BT RISE Internship - Information Security ](https://jobs.ashbyhq.com/barnes/c77ef2c2-6aeb-4350-9fd4-842931c14177) 🇺🇸 — Indianapolis
 - [basspro — Cybersecurity Intern Summer 2027](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444) — Springfield, MO (Bass Pro Shops Base Camp)
@@ -877,6 +897,7 @@ _Only postings that state an apply-by date. Most never do._
 - [LLNL — National Security Engineering Division (NSED) Graduate Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990014731646) — Livermore, CA, us
 - [LLNL — National Security Engineering Division (NSED) Undergraduate Intern - Summer 2027](https://jobs.smartrecruiters.com/LLNL/3743990014731656) — Livermore, CA, us
 - [logitech — Cybersecuirty Intern](https://logitech.wd5.myworkdayjobs.com/en-US/Logitech/job/Suzhou-China/Cybersecuirty-Intern_146252) — Suzhou, China
+- [manulife — Application Security Intern](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Quezon-City/Application-Security-Intern_JR26030033) — Quezon City
 - [marinabaysands — Intern, Cyber Security](https://marinabaysands.wd102.myworkdayjobs.com/en-US/external/job/Marina-Bay-Sands-Singapore/Intern--Cyber-Security_JR10000208) — Marina Bay Sands, Singapore
 - [marinabaysands — Intern, Security Planning](https://marinabaysands.wd102.myworkdayjobs.com/en-US/external/job/Marina-Bay-Sands-Singapore/Intern--Security-Planning_JR10001829) — Marina Bay Sands, Singapore
 - [marinabaysands — Intern, Security Training](https://marinabaysands.wd102.myworkdayjobs.com/en-US/external/job/Marina-Bay-Sands-Singapore/Intern--Security-Training_JR10001828) — Marina Bay Sands, Singapore
@@ -983,6 +1004,8 @@ _Only postings that state an apply-by date. Most never do._
 - [anthelioncap — Quant Developer / Quant Research Intern - 2026/2027](https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96) — New York City
 - [axq — Quantitative Research Intern (Summer 2027)](https://job-boards.greenhouse.io/axq/jobs/6181069004) — New York
 - [axq — Quantitative Research Intern (Year-Round)](https://job-boards.greenhouse.io/axq/jobs/5575450004) — New York
+- [bah — Enterprise Cybersecurity Education and Execution Intern](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/Enterprise-Cybersecurity-Education-and-Execution-Intern_R0249071) — McLean, VA
+- [bah — University - Summer 2027 Quantum Computing Research Intern](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Washington-DC/University---Summer-2027-Quantum-Computing-Research-Intern_R0249046) — Washington, DC
 - [Barclays — Quantitative Finance Associate Intern](https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099) — NYC
 - [Base Power — Quantitative Developer Intern](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e/application) — Austin, TX
 - [base-power — Quantitative Developer Intern](https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e) — Austin, TX
@@ -1234,7 +1257,7 @@ _Only postings that state an apply-by date. Most never do._
 - [hrhub — Quant Intern](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Paris/Quant-Intern_R28576) — Paris
 - [jainglobal — Risk Quant Modeller - Intern](https://jainglobal.wd5.myworkdayjobs.com/en-US/ExternalSite/job/Hong-Kong-Office/Risk-Quant-Modeller---Intern_JR100472-1) — Hong Kong Office
 - [LouisDreyfusCompany — Trader Trainee Intern (Summer 2027)](https://jobs.smartrecruiters.com/LouisDreyfusCompany/744000149341548) — Wilton, CT, us
-- [manulife — Summer Intern 2027 - Quantitative Analyst](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358) — Toronto, Ontario
+- [Manulife Financial — Quantitative Analyst Co-op Intern - Derivative and Asset Modeling](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/XMLNAME-2027-Canada-Summer-Co-op---Quantitative-Analyst_JR26080358) — Toronto, ON, Canada
 - [motorolasolutions — DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734) — Plantation, FL
 - [Northwestern Mutual — Quantitative Analyst Intern - Public Investments](https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) — Milwaukee, WI
 - [northwesternmutual — Public Investments Quantitative Analyst Intern, Summer 2027](https://northwesternmutual.wd5.myworkdayjobs.com/en-US/corporate-careers/job/Milwaukee-WI-Corporate/Public-Investments-Quantitative-Analyst-Intern--Summer-2027_JR-45807) — Milwaukee, WI Corporate
@@ -1484,6 +1507,12 @@ _Only postings that state an apply-by date. Most never do._
 - [audaxgroup — Data Engineer Co-Op](https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005) — Boston, Massachusetts
 - [autostore — Co-Op/Intern - Software Engineering](https://autostore.wd3.myworkdayjobs.com/en-US/autostore/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692) — Atlanta, GA, USA
 - [Axiomatic AI — Software Engineering Internship – Platform/DevOps](https://job-boards.eu.greenhouse.io/axiomaticai/jobs/4848128101) — Boston, MA
+- [bah — University - 2027 Summer Games Software Developer Intern - Atlanta, GA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138) — Atlanta, GA
+- [bah — University - 2027 Summer Games Software Developer Intern - El Segundo, CA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046) — El Segundo, CA
+- [bah — University - 2027 Summer Games Software Developer Intern - San Diego, CA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038) — San Diego, CA
+- [bah — University - 2027 Summer Games Systems Engineer Intern - McLean, VA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University---2027-Summer-Games-Systems-Engineer-Intern---McLean--VA_R0248361) — McLean, VA
+- [bah — University - 2027 Summer Games, Systems Engineer Intern - Atlanta, GA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381) — Atlanta, GA
+- [bah — University, 2027 Summer Games Software Developer Intern - McLean, VA](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029) — McLean, VA
 - [baidu — Forward Deployed Engineer Intern](https://job-boards.greenhouse.io/baidu/jobs/8197142) — Mountain View, CA
 - [Base Power — Software Engineer Intern](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc/application) — Austin, TX
 - [base-power — Software Engineering Intern](https://jobs.ashbyhq.com/base-power/5353ea33-57d4-46fa-9a96-e392a3f841bc) — Austin, TX
@@ -1688,8 +1717,7 @@ _Only postings that state an apply-by date. Most never do._
 - [LiveRamp — Software Engineer Intern, Pixel Serving](https://liveramp.wd5.myworkdayjobs.com/LiveRampCareers/job/New-York/Intern--Software-Engineer---Pixel-Serving_JR012201) — New York, NY
 - [LPL Financial Holdings — Software Engineer Intern](https://lplfinancial.wd1.myworkdayjobs.com/university/job/Fort-MillCharlotte/Summer-Intern-2027--Software-Engineer_R-052921) — Austin, TX, Fort Mill, SC, Charlotte, NC
 - [Lyft — Software Engineer Intern - Backend - Summer 2027 - SF](https://app.careerpuck.com/job-board/lyft/job/8767726002?gh_jid=8767726002) — San Francisco, CA
-- [manulife — Summer Intern 2027 - Data Engineering](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Data-Engineering_JR26081679) — Boston, Massachusetts
-- [manulife — Summer Intern 2027 - Software Engineering](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680) — Boston, Massachusetts
+- [Manulife — Summer Intern 2027 - Software Engineering](https://manulife.wd3.myworkdayjobs.com/en-US/mfcjh_jobs/job/Boston-Massachusetts/Summer-Intern-2027---Software-Engineering_JR26081680) — Boston, MA
 - [Maven Securities — Software Developer Intern](https://job-boards.greenhouse.io/mavensecuritiesholdingltd/jobs/7806987) — London, UK
 - [maximor — Software engineering Intern](https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8) — New York City
 - [Maximor AI — Software Engineer Intern](https://jobs.ashbyhq.com/maximor/3ff6e57d-5430-4836-b6f0-19044d8ee6d8/application?embed=true) — NYC
@@ -2051,7 +2079,16 @@ _Only postings that state an apply-by date. Most never do._
 - [Awardco — Back-End Software Engineer Intern](https://award.co/position?gh_jid=4322220004) — Lindon, UT
 - [Awardco — Front-End Software Engineer Intern](https://award.co/position?gh_jid=4136562004) — Lindon, UT
 - [BAE Systems — Software Engineering Intern I (Summer 2027) 🇺🇸](https://jobs.baesystems.com/global/en/job/BAE1US127293BREXTERNAL/Software-Engineering-Intern-I-Summer-2027) — Nashua, NH
-- [bah — University - Systems Engineer Intern](https://bah.wd1.myworkdayjobs.com/en-US/Confidential/job/Lexington-MA/University---Systems-Engineer-Intern_R0248855) — Lexington, MA
+- [bah — University - 2027 Summer Games Software Developer Intern - Charleston, SC](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Software-Developer-Intern_R0248134) — Charleston, SC
+- [bah — University - 2027 Summer Games Software Developer Intern - Honolulu, HI](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393) — Honolulu, HI
+- [bah — University - 2027 Summer Games Software Developer Intern - Huntsville, AL](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394) — Huntsville, AL
+- [bah — University - 2027 Summer Games Systems Engineer Intern - Charleston, SC](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Charleston-SC/University---2027-Summer-Games-Systems-Engineer-Intern---Charleston--SC_R0248369) — Charleston, SC
+- [bah — University - 2027 Summer Games Systems Engineer Intern - Honolulu, HI](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Systems-Engineer-Intern---Honolulu--HI_R0248370) — Honolulu, HI
+- [bah — University - 2027 Summer Games Systems Engineer Intern - Huntsville, AL](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Systems-Engineer-Intern---Huntsville--AL_R0249188) — Huntsville, AL
+- [bah — University - 2027 Summer Games Systems Engineer Intern - Rome, NY](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386) — Rome, NY
+- [bah — University - Summer 2027, Software Engineer Intern](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225) — Fayetteville, NC
+- [bah — University, 2027 Summer Games Software Developer Intern - Colorado Springs, CO](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Colorado-Springs-CO/University--2027-Summer-Games-Software-Developer-Intern_R0248130) — Colorado Springs, CO
+- [bah — University, 2027 Summer Games Software Developer Intern - Rome, NY](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/University--2027-Summer-Games-Software-Developer-Intern_R0248141) — Rome, NY
 - [baird — Internship – Software Developer (Year-Round)](https://baird.wd1.myworkdayjobs.com/en-US/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1) — 2 Locations
 - [Baird — Software Developer Intern](https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Software-Developer--Year-Round-_R20261024-1) — Madison, WI, Milwaukee, WI
 - [basspro — Product Engineer Co-Op](https://basspro.wd1.myworkdayjobs.com/en-US/careers/job/Springfield-MO-Tracker-Marine-Base-Camp/Product-Engineer-Co-Op_R267071) — Springfield, MO (Tracker Marine Base Camp)
@@ -2079,9 +2116,6 @@ _Only postings that state an apply-by date. Most never do._
 - [Booz Allen — Systems Engineer Intern - University - 2027 Summer Games](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Systems-Engineer-Intern---Annapolis-Junction--MD_R0248384) — Annapolis Junction, MD
 - [Booz Allen — University - 2027 Summer Games Software Developer Intern - Annapolis Junction - MD](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403) — Annapolis Junction, MD
 - [Booz Allen — University - 2027 Summer Games Software Developer Intern - Ft. Walton Beach - FL](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404) — Fort Walton Beach, FL
-- [Booz Allen — University - 2027 Summer Games Software Developer Intern - Honolulu - HI](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393) — Honolulu, HI
-- [Booz Allen — University - 2027 Summer Games Software Developer Intern - Huntsville - AL](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394) — Huntsville, AL
-- [Booz Allen — University - Summer 2027 - Software Engineer Intern](https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225) — Fayetteville, NC
 - [Bosch — Phone as a Key Software Engineering - Intern](https://jobs.smartrecruiters.com/BoschGroup/744000145785190-phone-as-a-key-software-engineering-intern?oga=true) — Plymouth, MI
 - [Bosch — Software Engineering Intern - 8 months/40hrs per week](https://jobs.smartrecruiters.com/BoschGroup/744000146546849-software-engineering-intern-8-months-40hrs-per-week-?oga=true) — Farmington Hills, MI
 - [Bosch Home Comfort — Software Engineer Intern](https://jobs.smartrecruiters.com/BoschGroup/744000146546849) — Farmington Hills, MI
@@ -2325,11 +2359,7 @@ _Only postings that state an apply-by date. Most never do._
 - [Magna — Junior Full Stack Developer Co-op](https://wd3.myworkdaysite.com/recruiting/magna/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) — Oakville, ON, Canada
 - [magna — Junior Full Stack Developer Coop](https://magna.wd3.myworkdayjobs.com/en-US/Magna/job/Milton-Ontario-CA/Junior-Full-Stack-Developer-Coop_R00244793) — Milton, Ontario, CA
 - [manex — Forward Deployed Engineer - Internship (f/m/d)](https://jobs.ashbyhq.com/manex/0cf83eab-9f9c-460c-8a40-711c343cfbaf) — Munich
-- [manulife — Summer Intern 2027 - Data Engineering](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Data-Engineering_JR26081683) — Toronto, Ontario
-- [manulife — Summer Intern 2027 - Infrastructure Equity Internship](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Infrastructure-Equity-Internship_JR26081107) — Toronto, Ontario
-- [manulife — Summer Intern 2027 - Software Engineering](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684) — Toronto, Ontario
-- [manulife — Summer Intern 2027 - Software Engineering](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Waterloo-Ontario/Summer-Intern-2027---Software-Engineering_JR26081686) — Waterloo, Ontario
-- [manulife — Summer Intern 2027 - Software Engineering (8 Months)](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering--8-Months-_JR26081685) — Toronto, Ontario
+- [Manulife Financial — Software Engineering Intern](https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_Jobs/job/Toronto-Ontario/Summer-Intern-2027---Software-Engineering_JR26081684) — Toronto, ON, Canada
 - [marmon — Forward Deployed Engineer Intern](https://marmon.wd501.myworkdayjobs.com/en-US/Marmon_Careers/job/Charlotte-NC/Forward-Deployment-Engineer-Intern_JR0000045825) — Charlotte, NC
 - [Marvell — SRAM Software Engineer Intern](https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760) — Burlington, VT
 - [Marvell — SRAM Software Engineer Intern - BS - Summer 2027](https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760-1) — Burlington, VT
