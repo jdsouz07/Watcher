@@ -9880,7 +9880,7 @@
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Information-Security-Summer-2027-Internship---GA_R26029762"
   },
   "https://hcmportal.wd5.myworkdayjobs.com/en-us/search/job/us---ups-corporate-offices-gacor/ups-global-finance-summer-2027-analytics-internship_r26030589": {
-    "title": "Finance Analytics Intern - Global Finance",
+    "title": "UPS Global Finance Summer 2027 Analytics Internship",
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance-Summer-2027-Analytics-Internship_R26030589"
   },
   "https://criteo.wd3.myworkdayjobs.com/en-us/criteo_career_site/job/paris/product-data-scientist-intern_r15715-1": {
@@ -18612,7 +18612,7 @@
     "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403671009"
   },
   "https://job-boards.greenhouse.io/singlestore/jobs/8154399": {
-    "title": "Software Engineer Intern",
+    "title": "Software Engineer Intern- Engine",
     "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399"
   },
   "https://ncratleos.wd1.myworkdayjobs.com/en-us/ext_intern/job/atlanta-ga-usa/data-science-intern_r1154686": {
@@ -19560,7 +19560,7 @@
     "url": "https://hmhw.wd12.myworkdayjobs.com/en-US/hmh_careers/job/Houston-TX/HR-Learning---Development-Intern_JR102417"
   },
   "https://job-boards.greenhouse.io/singlestore/jobs/8205514": {
-    "title": "Software Engineer Intern",
+    "title": "Software Engineer Intern- Helios",
     "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205514"
   },
   "closing::https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002": {
@@ -22374,5 +22374,33 @@
   "pw::https://www.salesforce.com/company/careers/university-recruiting/::#fbb5a0ea91357379": {
     "title": "Page changed - check Firm SPA: Salesforce Futureforce (may mean applications opened)",
     "url": "https://www.salesforce.com/company/careers/university-recruiting/"
+  },
+  "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-california-camarillo/xmlname-2027-embedded-software-engineer-intern---camarillo-ca_r10251835": {
+    "title": "2027 Embedded Software Engineer Intern - Camarillo CA",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835"
+  },
+  "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/united-kingdom-london/visual-ai-application-intern_r108159": {
+    "title": "Visual AI Application Intern",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/United-Kingdom-London/Visual-AI-Application-Intern_R108159"
+  },
+  "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/st-louis-mo/xmlname-2027-summer-intern---instructional-design---development_r-0000033467": {
+    "title": "2027 Summer Intern - Instructional Design & Development",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/St-Louis-MO/XMLNAME-2027-Summer-Intern---Instructional-Design---Development_R-0000033467"
+  },
+  "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/st-louis-mo/xmlname-2027-summer-internship---research_r-0000033457": {
+    "title": "2027 Summer Internship - Research",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/St-Louis-MO/XMLNAME-2027-Summer-Internship---Research_R-0000033457"
+  },
+  "https://jobs.smartrecruiters.com/nbcuniversal3/744000150641300": {
+    "title": "Legal Intern - Universal Networks",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000150641300"
+  },
+  "https://elanco.wd5.myworkdayjobs.com/en-us/external_career/job/nl---utrecht/market-research-intern_r0027257": {
+    "title": "Market Research Intern",
+    "url": "https://elanco.wd5.myworkdayjobs.com/en-US/External_Career/job/NL---Utrecht/Market-Research-Intern_R0027257"
+  },
+  "https://egud.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/155461": {
+    "title": "Data Science Intern",
+    "url": "https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461"
   }
 }
