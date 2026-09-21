@@ -1632,15 +1632,15 @@
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008"
   },
   "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008": {
-    "title": "Summer 2027 AI/ML Engineering Intern",
+    "title": "AI/ML Engineer Intern",
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"
   },
   "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008": {
-    "title": "Summer 2027 Data Science Intern",
+    "title": "Data Science Intern",
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008"
   },
   "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008": {
-    "title": "Summer 2027 Software Engineering Intern",
+    "title": "Software Engineering Intern - Product - Platform",
     "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"
   },
   "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003": {
@@ -2708,7 +2708,7 @@
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Rome-NY/University---2027-Summer-Games-Systems-Engineer-Intern---Rome--NY_R0248386"
   },
   "https://bah.wd1.myworkdayjobs.com/en-us/bah_jobs/job/huntsville-al/university---2027-summer-games-software-developer-intern---huntsville--al_r0248394": {
-    "title": "University - 2027 Summer Games Software Developer Intern - Huntsville, AL",
+    "title": "University - 2027 Summer Games Software Developer Intern - Huntsville - AL",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394"
   },
   "https://bah.wd1.myworkdayjobs.com/en-us/bah_jobs/job/honolulu-hi/university---2027-summer-games--data-scientist-intern---honolulu--hi_r0248406": {
@@ -2720,7 +2720,7 @@
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games--Systems-Engineer-Intern---Atlanta--GA_R0248381"
   },
   "https://bah.wd1.myworkdayjobs.com/en-us/bah_jobs/job/honolulu-hi/university---2027-summer-games-software-developer-intern---honolulu--hi_r0248393": {
-    "title": "University - 2027 Summer Games Software Developer Intern - Honolulu, HI",
+    "title": "University - 2027 Summer Games Software Developer Intern - Honolulu - HI",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393"
   },
   "https://bah.wd1.myworkdayjobs.com/en-us/bah_jobs/job/honolulu-hi/university---2027-summer-games-cyber-security-intern---honolulu--hi_r0248411": {
@@ -17672,7 +17672,7 @@
     "url": "https://apply.careers.microsoft.com/careers/job/1970393556983221"
   },
   "https://bah.wd1.myworkdayjobs.com/en-us/bah_jobs/job/fayetteville-nc/university---summer-2027--software-engineer-intern_r0249225": {
-    "title": "University - Summer 2027, Software Engineer Intern",
+    "title": "University - Summer 2027 - Software Engineer Intern",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225"
   },
   "https://career-schwab.icims.com/jobs/126228/2027-technology-intern---software-engineering/job": {
@@ -18808,7 +18808,7 @@
     "url": "https://chartermfg.wd5.myworkdayjobs.com/en-US/Charter_Careers/job/Charter-Steel---Saukville-WI/Automation-and-Controls-Engineer-Intern---Year-Round_R08074"
   },
   "https://job-boards.greenhouse.io/doordashusa/jobs/8171041": {
-    "title": "Software Engineer, Intern (Summer 2027) - US",
+    "title": "Software Engineer - Intern - Summer 2027 - US",
     "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041"
   },
   "https://job-boards.greenhouse.io/athinkingape/jobs/8203048": {
@@ -22306,5 +22306,17 @@
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-md-annapolis-904--2551-riva-rd--bldg-904/software-engineering-intern--summer-2027-_01870699": {
     "title": "Software Engineering Intern (Summer 2027)",
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Software-Engineering-Intern--Summer-2027-_01870699"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--simulation-and-virtualization--rdss-intern-_jr2025783": {
+    "title": "Software Engineer, Simulation and Virtualization (RDSS Intern)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer--Simulation-and-Virtualization--RDSS-Intern-_JR2025783"
+  },
+  "https://job-boards.greenhouse.io/twilio/jobs/8190887": {
+    "title": "Software Engineer Intern (January 12th start, 23 weeks) ",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/8190887"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-md-annapolis-904--2551-riva-rd--bldg-904/software-engineering-intern--summer-2027-_01870699": {
+    "title": "Software Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-904--2551-Riva-Rd--BLDG-904/Software-Engineering-Intern--Summer-2027-_01870699"
   }
 }
