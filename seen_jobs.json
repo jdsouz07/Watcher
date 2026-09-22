@@ -6020,7 +6020,7 @@
     "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8742098002"
   },
   "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002": {
-    "title": "2027 – Internship or Graduate, Software Engineer",
+    "title": "2027 – Internship or Graduate, Software Engineer and Quantitative Developer",
     "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8617401002"
   },
   "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8785833002": {
@@ -18516,7 +18516,7 @@
     "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742"
   },
   "https://lowes.wd5.myworkdayjobs.com/en-us/lws_external_cs/job/lowes-charlotte-technology-hub-3505/software-engineer---undergrad-internship---summer-2027_jr-02623576": {
-    "title": "Software Engineer – Undergrad Internship – Summer 2027",
+    "title": "Software Engineer Intern",
     "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Lowes-Charlotte-Technology-Hub-3505/Software-Engineer---Undergrad-Internship---Summer-2027_JR-02623576"
   },
   "https://lowes.wd5.myworkdayjobs.com/en-us/lws_external_cs/job/lowes-charlotte-technology-hub-3505/exploratory-software-engineering---undergrad-internship---summer-2027_jr-02623542": {
@@ -23010,5 +23010,77 @@
   "https://careers.withwaymo.com/jobs?gh_jid=8221795": {
     "title": "Software Engineer Intern - Simulation Evaluation ML Model",
     "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/system-software-engineer---usb--rdss-intern-_jr2025914-1": {
+    "title": "System Software Engineer - USB (RDSS Intern)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---USB--RDSS-Intern-_JR2025914-1"
+  },
+  "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-software-engineer-intern---san-diego-ca_r10252150": {
+    "title": "2027 Software Engineer Intern - San Diego CA",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150"
+  },
+  "https://www.amazon.jobs/en/jobs/10555877/transportation-management-intern-aws-cloud-logistics": {
+    "title": "Transportation Management Intern, AWS Cloud Logistics",
+    "url": "https://www.amazon.jobs/en/jobs/10555877/transportation-management-intern-aws-cloud-logistics"
+  },
+  "https://www.amazon.jobs/en/jobs/10555878/program-manager-intern-aws-cloud-logistics": {
+    "title": "Program Manager Intern, AWS Cloud Logistics",
+    "url": "https://www.amazon.jobs/en/jobs/10555878/program-manager-intern-aws-cloud-logistics"
+  },
+  "https://www.amazon.jobs/en/jobs/10555863/2027-software-dev-engineer-intern-france": {
+    "title": "2027 Software Dev Engineer Intern - France",
+    "url": "https://www.amazon.jobs/en/jobs/10555863/2027-software-dev-engineer-intern-france"
+  },
+  "https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy": {
+    "title": "2027 Software Dev Engineer Intern - Italy",
+    "url": "https://www.amazon.jobs/en/jobs/10555867/2027-software-dev-engineer-intern-italy"
+  },
+  "https://www.amazon.jobs/en/jobs/10555873/2027-software-dev-engineer-intern-poland": {
+    "title": "2027 Software Dev Engineer Intern - Poland",
+    "url": "https://www.amazon.jobs/en/jobs/10555873/2027-software-dev-engineer-intern-poland"
+  },
+  "https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain": {
+    "title": "2027 Software Dev Engineer Intern - Spain",
+    "url": "https://www.amazon.jobs/en/jobs/10555855/2027-software-dev-engineer-intern-spain"
+  },
+  "https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg": {
+    "title": "2027 Software Dev Engineer Intern - Luxembourg",
+    "url": "https://www.amazon.jobs/en/jobs/10554706/2027-software-dev-engineer-intern-luxembourg"
+  },
+  "https://micron.wd1.myworkdayjobs.com/en-us/external/job/msb-singapore/intern---product-engineering--nand-validation-characterization_jr111131": {
+    "title": "Intern - Product Engineering, NAND Validation/Characterization",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/MSB-Singapore/Intern---Product-Engineering--NAND-Validation-Characterization_JR111131"
+  },
+  "https://criteo.wd3.myworkdayjobs.com/en-us/criteo_career_site/job/paris/machine-learning-engineer-intern_r14933": {
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://criteo.wd3.myworkdayjobs.com/en-US/Criteo_Career_Site/job/Paris/Machine-Learning-Engineer-Intern_r14933"
+  },
+  "https://philips.wd3.myworkdayjobs.com/en-us/jobs-and-careers/job/bangalore/intern---data-science-and-ai-engineering_587413": {
+    "title": "Intern – Data Science and AI Engineering",
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bangalore/Intern---Data-Science-and-AI-Engineering_587413"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---digital-product--embedded-and-systems-engineering_jr-202620513": {
+    "title": "2027 Summer Intern - Digital Product: Embedded and Systems Engineering",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Digital-Product--Embedded-and-Systems-Engineering_JR-202620513"
+  },
+  "https://nxp.wd3.myworkdayjobs.com/en-us/careers/job/shanghai-pudong/ai-develop-intern_r-10066739": {
+    "title": "AI Develop Intern",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/AI-Develop-Intern_R-10066739"
+  },
+  "https://zeissgroup.wd3.myworkdayjobs.com/en-us/external/job/oberkochen/intern-ai-innovation-for-medical-devices--f-m-x-_jr_1053345": {
+    "title": "Intern AI Innovation for Medical Devices (f/m/x)",
+    "url": "https://zeissgroup.wd3.myworkdayjobs.com/en-US/External/job/Oberkochen/Intern-AI-Innovation-for-Medical-Devices--f-m-x-_JR_1053345"
+  },
+  "https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101": {
+    "title": "Quant Research Analyst Intern",
+    "url": "https://job-boards.eu.greenhouse.io/mangroup/jobs/4982410101"
+  },
+  "https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813": {
+    "title": "Software Engineer - Legacy Applications & Modernization - Intern/Part Time",
+    "url": "https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-marlborough-ma2--1001-boston-post-rd--bldg-2/software-engineer-intern--summer-2027-_01875743": {
+    "title": "Software Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Software-Engineer-Intern--Summer-2027-_01875743"
   }
 }
