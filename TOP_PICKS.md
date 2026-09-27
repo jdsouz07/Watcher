@@ -1,6 +1,6 @@
 # Top picks (auto-generated)
 
-_2899 role(s) worth a look, out of 4261 tracked items. Rebuilt every sweep: 2026-09-27 18:18 UTC._
+_2897 role(s) worth a look, out of 4257 tracked items. Rebuilt every sweep: 2026-09-27 22:04 UTC._
 
 Grouped by lane in the order set by `filters.lane_order` in config.json: ai → cyber → quant → startup → swe → other. Within a lane, preferred locations first, then sweet-spot firms before elite ones.
 
@@ -612,7 +612,6 @@ _Only postings that state an apply-by date. Most never do._
 - [hpe — AI and Machine Learning Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Singapore-Central-Singapore-Singapore/AI-and-Machine-Learning-Intern_1213583) — Singapore, Central Singapore, Singapore
 - [hpe — Data Science Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Data-Science-Intern_1213632) — 10 Locations
 - [hpe — HPC AI Systems Administrator Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396) — Bloomington, Minnesota, United States of America
-- [hpe — Hybrid Cloud Innovation AI Internship](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Galway-Galway-Ireland/Hybrid-Cloud-Innovation-AI-Internship_1210999) — Galway, Galway, Ireland
 - [hpe — Networking Internship - AI Engineering](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Galway-Galway-Ireland/Networking-Internship---AI-Engineering_1211025) — Galway, Galway, Ireland
 - [hq — Data Science and Advanced Analytics Internship - Summer 2027](https://hq.wd12.myworkdayjobs.com/en-US/Securian_External/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894) — Saint Paul, MN Campus
 - [ia — Intern – Artificial Intelligence, Automation and Operational Efficiency](https://ia.wd3.myworkdayjobs.com/en-US/professional/job/Quebec-Quebec/Stagiaire---Intelligence-artificielle--automatisation-et-efficacit-oprationnelle_JR10027592) — 3 Locations
@@ -2409,7 +2408,6 @@ _Only postings that state an apply-by date. Most never do._
 - [hpe — Software Engineer Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Spring-Texas-United-States-of-America/Software-Engineer-Intern_1213625) — 10 Locations
 - [hpe — Software Engineer Intern, Embedded Firmware](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Singapore-Central-Singapore-Singapore/Software-Engineer-Intern--Embedded-Firmware_1194562) — Singapore, Central Singapore, Singapore
 - [hpe — Software Engineering Intern](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Galway-Galway-Ireland/Software-Engineering-Intern_1211006) — Galway, Galway, Ireland
-- [hpe — Systems/Software Engineer - Internship (C++/Linux)](https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Galway-Galway-Ireland/Systems-Software-Engineer---Internship--C---Linux-_1213130) — Galway, Galway, Ireland
 - [hudl — Software Engineering Intern](https://job-boards.greenhouse.io/hudl/jobs/8114314) — Lincoln, NE, United States
 - [Humana — Software Engineer Intern, CenterWell and Humana Military](https://humana.wd5.myworkdayjobs.com/Humana_External_Career_Site/job/Louisville-KY/Humana-Technology-Internship---Summer-2027_R-424692-1) 🇺🇸 — Louisville, KY
 - [Hy-Vee — Software Engineer Intern](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133) — West Des Moines, IA
