@@ -1,6 +1,6 @@
 # Top picks (auto-generated)
 
-_2888 role(s) worth a look, out of 4258 tracked items. Rebuilt every sweep: 2026-09-26 22:41 UTC._
+_2883 role(s) worth a look, out of 4252 tracked items. Rebuilt every sweep: 2026-09-27 01:22 UTC._
 
 Grouped by lane in the order set by `filters.lane_order` in config.json: ai → cyber → quant → startup → swe → other. Within a lane, preferred locations first, then sweet-spot firms before elite ones.
 
@@ -9,8 +9,8 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 
 _Only postings that state an apply-by date. Most never do._
 
-- **closes 2026-09-30 (4d)** — [duolingounirecruitment — Software Engineer, Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002) — Pittsburgh, PA; New York, NY; Seattle, WA
-- **closes 2026-09-30 (4d)** — [duolingounirecruitment — Software Engineer, Thrive Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002) — Pittsburgh, PA
+- **closes 2026-09-30 (3d)** — [duolingounirecruitment — Software Engineer, Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002) — Pittsburgh, PA; New York, NY; Seattle, WA
+- **closes 2026-09-30 (3d)** — [duolingounirecruitment — Software Engineer, Thrive Intern](https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002) — Pittsburgh, PA
 
 ## 🧠 AI / ML
 
@@ -638,7 +638,7 @@ _Only postings that state an apply-by date. Most never do._
 - [Keysight Technologies — Software Engineer Intern - AI Developer Tooling](https://jobs.keysight.com/jobs/54383?icims=1) — Colorado Springs, CO
 - [Keysight Technologies — Software Engineering Intern - AI Solutions](https://jobs.keysight.com/jobs/54322?icims=1) — Colorado Springs, CO
 - [kiongroup — AI Internships](https://kiongroup.wd3.myworkdayjobs.com/en-US/KION_SCS/job/Wauwatosa-WI-United-States/AI-Internships_JR-0088855) — Wauwatosa, WI, United States
-- [kla — Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2) — Milpitas, CA
+- [kla — Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2) — Milpitas, CA
 - [KLA — Algorithm Engineering Intern - AI - Computer Vision & Software Engineering](https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-1) — Milpitas, CA
 - [KLA — Software Engineering Intern](https://kla.wd1.myworkdayjobs.com/AnnArbor/job/Ann-Arbor-MI/Software-Engineering-Intern_2531653) — Ann Arbor, MI
 - [Later — AI Automation Engineer Co-op](https://job-boards.greenhouse.io/later/jobs/8604889002) — Vancouver, BC, Canada
@@ -829,8 +829,6 @@ _Only postings that state an apply-by date. Most never do._
 - [veeamsoftware — Customer Care AI Analyst Intern - Summer 2027](https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4972324101) — Columbus, OH, USA
 - [VeoliaEnvironnementSA — SAP & ServiceNow AI Automation Intern](https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151947749) — Trevose, PA, us
 - [Walmart — Data Science Intern 3](https://walmart.wd504.myworkdayjobs.com/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) — Bentonville, AR
-- [walmart — Summer 2027 Intern: Intern: Sr Data Science](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Intern--Sr-Data-Science_R-2630032) — (USA) ISD Office - DGTC AR BENTONVILLE Home Office
-- [walmart — Summer 2027 Intern:: Data Science III](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Data-Science-III_R-2630030) — (USA) ISD Office - DGTC AR BENTONVILLE Home Office
 - [West Bend Insurance — Data Scientist Intern](https://careers-thesilverlining.icims.com/jobs/3785/job?mobile=true&needsRedirect=false) — Madison, WI, West Bend, WI
 - [West Bend Insurance — IT Data Engineer Intern](https://careers-thesilverlining.icims.com/jobs/3759/job?mobile=true&needsRedirect=false) — Madison, WI, West Bend, WI
 - [Western & Southern Financial Group — Artificial Intelligence Developer Intern - Full Year 2027](https://careers-westernsouthern.icims.com/jobs/25211/artificial-intelligence-developer-intern-%28full-year-2027%29/job) — Cincinnati, OH
@@ -880,6 +878,7 @@ _Only postings that state an apply-by date. Most never do._
 - [RSM — Cyber ServiceNow Developer Intern - Summer 2027](https://rsm.wd1.myworkdayjobs.com/en-US/rsmcareers/job/Chicago/Cyber-ServiceNow-Developer-Intern---Summer-2027_JR117289) — Chicago, IL +1
 - [RTX (Raytheon) — Internship – Raytheon Systems Security Engineer -Onsite](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-MARLBOROUGH-MA2--1001-Boston-Post-Rd--BLDG-2/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874700) — US-MA-MARLBOROUGH-MA2 ~ 1001 Boston Post Rd ~ BLDG 2
 - [sezzle — Security Infrastructure Engineer Intern](https://job-boards.greenhouse.io/sezzle/jobs/7694916003) — Colombia, Remote
+- [talentmanagementsolution — Cyber Security Intern](https://talentmanagementsolution.wd3.myworkdayjobs.com/en-US/perseus-careers/job/Remote---USA/Cyber-Security-Intern_R52980-2) — Remote - USA
 - [tencent — Cyber Security Engineer Intern](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2) — US-California-Palo Alto
 - [tencent — Cyber Security Intern](https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/United-Kingdom-London/Cyber-Security-Intern_R108126) — United Kingdom-London
 - [The Aerospace Corporation — Software Tools and Assurance Intern - Information Systems and Cyber Division](https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429) — El Segundo, CA
@@ -1000,8 +999,6 @@ _Only postings that state an apply-by date. Most never do._
 - [vanguard — College to Corporate IT Internship - Risk & Security - Engineer  (PA)](https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Risk---Security---Engineer---PA-_177687-1) — Malvern, PA
 - [verkada — Security Software Engineering Intern 2027](https://job-boards.greenhouse.io/verkada/jobs/5213881007) — San Mateo, CA United States
 - [vfc — Security, Health & Safety Intern](https://vfc.wd5.myworkdayjobs.com/en-US/vfc_careers/job/EMEA--CHE--Stabio--VF-Campus-VF1/Security--Health---Safety-Intern_R-20260817-0021) — EMEA > CHE > Stabio > VF Campus VF1
-- [walmart — 2026 Intern Conversion:  2027 Return Intern Cybersecurity](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/XMLNAME-2026-Intern-Conversion---2027-Return-Intern-Cybersecurity_R-2630154) — (USA) ISD Office - DGTC AR BENTONVILLE Home Office
-- [walmart — Summer 2027 Intern: Cybersecurity Undergrad](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern--Cybersecurity-Undergrad_R-2630025) — (USA) ISD Office - DGTC AR BENTONVILLE Home Office
 - [WellmarkInc — Cyber Security Internship ](https://jobs.smartrecruiters.com/WellmarkInc/744000148918178) — Des Moines, IA, us
 - [WellmarkInc — Security Analyst Internship](https://jobs.smartrecruiters.com/WellmarkInc/744000150269748) — Des Moines, IA, us
 - [accenture — Internship - Security - as of February 2027](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Brussels/Security-Internship-as-of-February-2026_R00287897)
@@ -2338,7 +2335,6 @@ _Only postings that state an apply-by date. Most never do._
 - [ffive — DevOps & Cloud Infrastructure Intern](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Tel-Aviv/DevOps---Cloud-Infrastructure-Intern_RP1038691) — Tel Aviv
 - [ffive — Software Development Intern - WAF & WAAP](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Tel-Aviv/Software-Development-Intern---WAF---WAAP_RP1038705) — Tel Aviv
 - [ffive — Software Engineering Intern](https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Cork/Software-Engineering-Intern_RP1038785) — Cork
-- [First Citizens BancShares — IT Intern - Software Developer](https://firstcitizens.jibeapply.com/jobs/35709?icims=1) — Raleigh, NC
 - [FIS — Intern - Software Engineer - FIS University Program](https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512) — Jacksonville, FL +1
 - [flir — EADSIM Software Engineering Intern (Summer 2027)](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667) — US - Huntsville, AL
 - [flir — NHRC Software Engineering Internship (Summer 2027)](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) — US - Huntsville, AL
@@ -2455,8 +2451,8 @@ _Only postings that state an apply-by date. Most never do._
 - [kbr — Image Processing Software Engineer Intern](https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067) — Sioux Falls, South Dakota
 - [KBR — Image Processing Software Engineer Intern](https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067) — Sioux Falls, SD
 - [kepler — Embedded Software Engineering Intern (January 2027) (4 months)](https://jobs.lever.co/kepler/2ad02ce3-1d56-4aee-9f1d-5199c780c0c1) — Toronto, Ontario
-- [kla — Software Engineering Intern](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Shanghai-China/Software-Engineering-Intern_2641426) — Shanghai, China
-- [kla — Software Engineering Intern (C++, Unix)](https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1) — Milpitas, CA
+- [kla — Software Engineering Intern](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Shanghai-China/Software-Engineering-Intern_2641426) — Shanghai, China
+- [kla — Software Engineering Intern (C++, Unix)](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1) — Milpitas, CA
 - [KLA — Software Engineering Intern - C++ - Unix](https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325) — Milpitas, CA
 - [KnobelsdorffEnterprises — Power Systems Engineer Intern](https://jobs.smartrecruiters.com/KnobelsdorffEnterprises/744000148834584) — Eagan, MN, us
 - [Koch Industries — Software Engineer Co-op - Information Technology](https://koch.avature.net/en_US/careers/JobDetail/192476) — Wichita, KS
@@ -2883,7 +2879,6 @@ _Only postings that state an apply-by date. Most never do._
 - [visiersolutionsinc — Software Developer Co-op (January to August 2027)](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711071006) — Vancouver, BC, Canada
 - [visiersolutionsinc — Software Developer Intern (January to June 2027)](https://job-boards.greenhouse.io/visiersolutionsinc/jobs/4711074006) — Singapore
 - [W.R. Berkley — Software Developer Intern - Java](https://careers-berkley.icims.com/jobs/14437/job?mobile=true&needsRedirect=false) — Urbandale, IA
-- [walmart — Summer 2027 Intern:: Software Engineer II](https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1) — (USA) ISD Office - DGTC AR BENTONVILLE Home Office
 - [wati-dot-i-o — Software Development Engineer Intern](https://apply.workable.com/j/8653E181C2) — Shenzhen, Guangdong Province, China
 - [wati-dot-i-o — Software Engineer Intern](https://apply.workable.com/j/370711315A) — Shenzhen, Guangdong Province, China
 - [wati-dot-i-o — Software Engineer Intern](https://apply.workable.com/j/F08DC5D5A4) — Hong Kong, Hong Kong, Hong Kong
