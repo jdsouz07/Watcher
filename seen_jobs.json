@@ -1932,7 +1932,7 @@
     "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Pathobiology_R0054579"
   },
   "https://gilead.wd1.myworkdayjobs.com/en-us/gileadcareers/job/united-states---california---foster-city/intern---research---inflammation_r0054741": {
-    "title": "Intern - Research - Inflammation",
+    "title": "Intern - Research - Inflammation - AI",
     "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741"
   },
   "https://gilead.wd1.myworkdayjobs.com/en-us/gileadcareers/job/united-states---california---foster-city/intern---development---biostatistics_r0054649": {
@@ -10404,7 +10404,7 @@
     "url": "https://integritymarketing.wd1.myworkdayjobs.com/en-US/Integrity/job/Minneapolis-MN/Research-Intern_JR4284"
   },
   "https://entegris.wd1.myworkdayjobs.com/en-us/entegriscareers/job/singapore-singapore/modeling---simulation-intern_req-13667": {
-    "title": "Modeling & Simulation Intern",
+    "title": "Digital Engineering & Simulation Intern",
     "url": "https://entegris.wd1.myworkdayjobs.com/en-US/entegriscareers/job/Singapore-Singapore/Modeling---Simulation-Intern_REQ-13667"
   },
   "https://entegris.wd1.myworkdayjobs.com/en-us/entegriscareers/job/colorado-springs-co/operations-technical-training-platforms-co-op_req-14416": {
@@ -12004,7 +12004,7 @@
     "url": "https://job-boards.greenhouse.io/gallup/jobs/4395454009"
   },
   "https://job-boards.greenhouse.io/gallup/jobs/4395491009": {
-    "title": "Data Science Intern — Summer 2027",
+    "title": "Data Science Intern - Summer 2027",
     "url": "https://job-boards.greenhouse.io/gallup/jobs/4395491009"
   },
   "https://job-boards.greenhouse.io/gallup/jobs/4393830009": {
@@ -18600,7 +18600,7 @@
     "url": "https://jobs.lever.co/acronaviation/6c0066e6-ed85-43c9-b1ec-911709dafca9"
   },
   "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009": {
-    "title": "IT Application Development Intern",
+    "title": "IT Application Development Intern (Inforce) – Summer 2027",
     "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4402184009"
   },
   "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403863009": {
@@ -26266,5 +26266,69 @@
   "https://radiancetech.wd12.myworkdayjobs.com/radiance_external/job/dayton-office/software-engineer-intern-spring-summer-2027_hr102445": {
     "title": "Software Engineer Intern",
     "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Dayton-Office/Software-Engineer-Intern-Spring-Summer-2027_HR102445"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-131--5450-c-ave-ne--bldg-131/software-engineering-co-op--spring-summer-2027-_01871645": {
+    "title": "Software Engineering Co-op (Spring/Summer 2027)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645"
+  },
+  "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern-systems-engineer---ca---nd_r10249236": {
+    "title": "2027 Intern Systems Engineer - CA & ND",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Systems-Engineer---CA---ND_R10249236"
+  },
+  "https://msd.wd5.myworkdayjobs.com/en-us/searchjobs/job/usa---new-jersey---rahway/xmlname-2027-future-talent-program---value---implementation---outcomes-research-intern_r413998": {
+    "title": "2027 Future Talent Program - Value & Implementation - Outcomes Research Intern",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---New-Jersey---Rahway/XMLNAME-2027-Future-Talent-Program---Value---Implementation---Outcomes-Research-Intern_R413998"
+  },
+  "https://hp.wd5.myworkdayjobs.com/en-us/exteu-ac-careersite/job/corvallis-oregon-united-states-of-america/electrical-hardware-engineering-intern_uni4765": {
+    "title": "Electrical/Hardware Engineering Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Corvallis-Oregon-United-States-of-America/Electrical-Hardware-Engineering-Intern_UNI4765"
+  },
+  "https://aero.wd5.myworkdayjobs.com/en-us/external/job/el-segundo-ca/xmlname-2027-software-tools-and-assurance-engineering-grad-intern_r016753": {
+    "title": "2027 Software Tools and Assurance Engineering Grad Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753"
+  },
+  "https://aero.wd5.myworkdayjobs.com/en-us/external/job/chantilly-va/xmlname-2027-software-engineering-undergrad-intern_r016758": {
+    "title": "2027 Software Engineering Undergrad Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Undergrad-Intern_R016758"
+  },
+  "https://aero.wd5.myworkdayjobs.com/en-us/external/job/chantilly-va/xmlname-2027-software-engineering-grad-intern_r016759": {
+    "title": "2027 Software Engineering Grad Intern",
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/XMLNAME-2027-Software-Engineering-Grad-Intern_R016759"
+  },
+  "https://borgwarner.wd5.myworkdayjobs.com/en-us/borgwarner_careers/job/wuhan---china/hr-data---analytics-intern_r2026-3800": {
+    "title": "HR Data & Analytics Intern",
+    "url": "https://borgwarner.wd5.myworkdayjobs.com/en-US/BorgWarner_Careers/job/Wuhan---China/HR-Data---Analytics-Intern_R2026-3800"
+  },
+  "https://itron.wd5.myworkdayjobs.com/en-us/early_careers/job/united-states-of-america-washington-liberty-lake/intern---data-science--distributed-intelligence_jr102942-2": {
+    "title": "Intern - Data Science, Distributed Intelligence",
+    "url": "https://itron.wd5.myworkdayjobs.com/en-US/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2"
+  },
+  "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958": {
+    "title": "Software Engineer Intern (2027) - Austin, TX",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958"
+  },
+  "https://tcenergy.wd3.myworkdayjobs.com/en-us/career_site_tc/job/calgary-alberta/intern--predictive-insights---real-time-monitoring---analytics_jr-10912": {
+    "title": "Intern, Predictive Insights - Real-time Monitoring & Analytics",
+    "url": "https://tcenergy.wd3.myworkdayjobs.com/en-US/CAREER_SITE_TC/job/Calgary-Alberta/Intern--Predictive-Insights---Real-time-Monitoring---Analytics_JR-10912"
+  },
+  "https://cisco.wd5.myworkdayjobs.com/en-us/cisco_careers/job/north-sydney-australia/network-engineer-intern--australia_2024351": {
+    "title": "Network Engineer Intern, Australia",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/North-Sydney-Australia/Network-Engineer-Intern--Australia_2024351"
+  },
+  "https://cisco.wd5.myworkdayjobs.com/en-us/cisco_careers/job/kanata-ontario-canada/software-developer-embedded-systems-ii--co-op----canada_2024136": {
+    "title": "Software Developer Embedded Systems II (Co-op) – Canada",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Co-op----Canada_2024136"
+  },
+  "https://jobs.ea.com/en_us/careers/jobdetail/ai-engineer-intern/216223": {
+    "title": "AI Engineer Intern - AI Platform",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/AI-Engineer-Intern/216223"
+  },
+  "https://careers-hrblock.icims.com/jobs/76992/job?mobile=true&needsredirect=false": {
+    "title": "Machine Learning Intern",
+    "url": "https://careers-hrblock.icims.com/jobs/76992/job?mobile=true&needsRedirect=false"
+  },
+  "https://bostonscientific.eightfold.ai/careers/job/563602813584985": {
+    "title": "Software Engineer Intern - Interns/Graduates",
+    "url": "https://bostonscientific.eightfold.ai/careers/job/563602813584985"
   }
 }
