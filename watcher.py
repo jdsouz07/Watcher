@@ -1001,6 +1001,236 @@ def is_clearance(job, filters):
     return any(k in hay for k in kws)
 
 
+# ----------------------- dedup / applied / fit (2026-10-01) ----------------- #
+import hashlib as _hashlib
+import datetime as _datetime
+
+_CO_PREFIX_RE = re.compile(r"^(startup|page|lab|program|firm|quant spa|firm spa)\s*:\s*", re.I)
+_CO_SUFFIX_RE = re.compile(r"\b(inc|llc|ltd|corp|corporation|co|company|group|holdings|plc|lp|"
+                           r"technologies|technology|the)\b\.?", re.I)
+
+
+def _ckey(company):
+    """Normalized company: 'Startup: Ramp' / 'Ramp, Inc.' / 'ramp' -> 'ramp'."""
+    c = _CO_PREFIX_RE.sub("", (company or "").strip().lower())
+    c = re.sub(r"\(.*?\)", " ", c)
+    c = _CO_SUFFIX_RE.sub(" ", c)
+    return re.sub(r"[^a-z0-9]", "", c)
+
+
+def _tkey(title):
+    """Normalized title, so the same role from two sources matches:
+    'Software Engineering Intern (Summer 2027) \U0001f6c2' ==
+    'Software Engineering Intern - Summer 2027' == 'software engineering intern'."""
+    t = (title or "").lower()
+    t = re.sub(r"[^\x00-\x7f]", " ", t)
+    t = re.sub(r"\b(summer|fall|autumn|winter|spring)\b\s*'?(20)?\d\d\b", " ", t)
+    t = re.sub(r"\b(summer|fall|autumn|winter|spring)\b", " ", t)
+    t = re.sub(r"\b[a-z-]*\d{4,}[\w-]*\b", " ", t)          # 2027, req ids, R23056
+    t = re.sub(r"\b(job id|req|requisition|ref|jr|id)\b", " ", t)
+    t = re.sub(r"\binternships?\b", "intern", t)
+    t = re.sub(r"\bco-?ops?\b", "coop", t)
+    t = re.sub(r"[^a-z0-9+#]+", " ", t)
+    return " ".join(t.split())
+
+
+def _ukey(url):
+    u = (url or "").strip().lower()
+    u = re.sub(r"^https?://(www\.)?", "", u).split("?")[0].split("#")[0].rstrip("/")
+    u = re.sub(r"/(application|apply)$", "", u)
+    return u
+
+
+def _role_sig(company, title):
+    return f"{_ckey(company)}|{_tkey(title)}"
+
+
+def _h(s):
+    return _hashlib.sha256(s.encode("utf-8")).hexdigest()[:16]
+
+
+# --- already-applied list ----------------------------------------------------
+# applied.json is generated LOCALLY by sync_applied.py from the private
+# job-search/applications.md. It holds only short unsalted hashes of
+# url / company|title, never names, so the public repo doesn't list where John
+# applied. Statuses: applied (also interview/offer), skipped, prepared.
+APPLIED_FILE = "applied.json"
+_APPLIED = None
+
+
+def _load_applied():
+    global _APPLIED
+    if _APPLIED is None:
+        data = load_json(APPLIED_FILE, {}) or {}
+        _APPLIED = dict(data.get("h", {}))
+        if _APPLIED:
+            print(f"Applied list: {len(_APPLIED)} key(s) from {APPLIED_FILE} "
+                  f"(updated {data.get('updated', '?')})")
+    return _APPLIED
+
+
+def _applied_status(job, company):
+    a = _load_applied()
+    if not a or job.get("pagewatch"):
+        return ""
+    for k in (_ukey(job.get("url")), _role_sig(company, job.get("title"))):
+        if k and _h(k) in a:
+            return a[_h(k)]
+    return ""
+
+
+SUPPRESS_STATUSES = ("applied", "skipped")
+
+
+# --- fit score ---------------------------------------------------------------
+# A rules-based 0-4 score on the same scale Jev uses in SHORTLIST.md, so it can
+# run inside GitHub Actions (Jev can't). Title-only, so it is a sort key, not
+# a verdict: 3.5+ = names one of John's strengths, 3 = general SWE,
+# 2 = software-adjacent, 1 = engineering outside his background.
+FIT_STRENGTH_RE = re.compile(
+    r"\bios\b|swift|mobile|android|machine learning|deep learning|\bml\b|\bai\b|"
+    r"artificial intelligence|computer vision|\bnlp\b|\bllm|generative|applied scien|"
+    r"research eng|data scien|data eng|analytics eng|\bsecurity\b|cyber|appsec|infosec|"
+    r"detection|threat|vulnerab|pentest|cryptograph|quant|trading|trader|forward.?deployed|"
+    r"full.?stack|founding|product eng|agent", re.I)
+FIT_GENERIC_RE = re.compile(
+    r"software|developer|\bswe\b|\bsde\b|backend|back-end|front.?end|platform|"
+    r"infrastructure|devops|\bsre\b|site reliability|cloud|systems eng|"
+    r"engineering intern|engineer intern|data analy|algorithm", re.I)
+FIT_ADJACENT_RE = re.compile(
+    r"it support|help ?desk|service desk|\bqa\b|quality assurance|manual test|"
+    r"technical sales|sales eng|product manag|program manag|project manag|"
+    r"business analy|solutions consult|technical writer|it intern|\bit\b", re.I)
+FIT_OFF_RE = re.compile(
+    r"hardware|mechanical|electrical|\bfpga\b|asic|analog|circuit|\brf\b|chip|"
+    r"silicon|firmware|manufactur|process eng|industrial|chemical|materials|"
+    r"thermal|packaging|supply chain|technician|civil|structural|aerospace eng|"
+    r"propulsion|\bcad\b|accounting|finance intern|marketing|\bhr\b|recruit", re.I)
+
+
+def _fit(job, company, title, filters=None):
+    t = title or ""
+    strong = bool(FIT_STRENGTH_RE.search(t))
+    if FIT_OFF_RE.search(t):
+        s = 2.0 if strong else 1.0
+    elif strong:
+        s = 3.5
+    elif FIT_ADJACENT_RE.search(t):
+        s = 2.0
+    elif FIT_GENERIC_RE.search(t):
+        s = 3.0
+    else:
+        s = 2.5
+    if job.get("_prio", "").startswith("target company"):
+        s += 0.3
+    if re.search(r"undergrad", t, re.I):
+        s += 0.2
+    if job.get("_ploc"):
+        s += 0.1
+    if re.search(r"\bph\.?d|master'?s|graduate (student|intern)|mba\b", t, re.I):
+        s -= 1.0
+    return max(0.0, min(4.0, round(s, 1)))
+
+
+def _fit_badge(job):
+    f = job.get("_fit")
+    if f is None:
+        return ""
+    color = "#15803d" if f >= 3.5 else "#4b5563" if f >= 2.5 else "#9ca3af"
+    return (f" <span style='font-size:11px;color:{color};border:1px solid {color};"
+            f"border-radius:3px;padding:0 3px'>fit {f:.1f}</span>")
+
+
+# --- source health -----------------------------------------------------------
+# One record per source, stored under a single key in seen_jobs.json (so the
+# workflow file doesn't need to commit a new file). A weekly email lists
+# sources that have errored for 3+ days or returned zero jobs for 14+ days.
+HEALTH_KEY = "meta::source_health"
+HEALTH_FAIL_DAYS = 3
+HEALTH_EMPTY_DAYS = 14
+
+
+def _today_iso():
+    return _datetime.datetime.utcnow().date().isoformat()
+
+
+def _health_update(health, name, firm, n_jobs=None, error=None):
+    today = _today_iso()
+    r = health.setdefault(name, {"since": today})
+    r["ats"] = firm.get("ats", "")
+    if firm.get("token"):
+        r["token"] = firm.get("token")
+    if error is not None:
+        r["err"] = str(error)[:140]
+        if not r.get("ef"):
+            r["ef"] = today          # first day of the current failure streak
+    else:
+        r.pop("err", None)
+        r.pop("ef", None)
+        r["ok"] = today
+        r["n"] = n_jobs
+        if n_jobs:
+            r["nz"] = today
+
+
+def _days_since(iso):
+    try:
+        return (_datetime.date.fromisoformat(_today_iso()) - _datetime.date.fromisoformat(iso)).days
+    except (TypeError, ValueError):
+        return None
+
+
+def _health_problems(health, config):
+    live = {f.get("name") for f in config.get("firms", [])
+            if f.get("enabled", True) and not _is_digest_source(f)}
+    failing, empty = [], []
+    for name, r in health.items():
+        if name not in live:
+            continue
+        ef = _days_since(r.get("ef"))
+        if r.get("err") and ef is not None and ef >= HEALTH_FAIL_DAYS:
+            failing.append((ef, name, r))
+            continue
+        ref = r.get("nz") or r.get("since")
+        d = _days_since(ref)
+        if r.get("ok") and not r.get("n") and d is not None and d >= HEALTH_EMPTY_DAYS:
+            empty.append((d, name, r))
+    failing.sort(key=lambda x: (-x[0], x[1].lower()))
+    empty.sort(key=lambda x: (-x[0], x[1].lower()))
+    return failing, empty
+
+
+def build_health_email(failing, empty, n_sources):
+    def row(cells):
+        return "<tr>" + "".join(f"<td style='padding:2px 8px;border-bottom:1px solid #eee'>{c}</td>"
+                                 for c in cells) + "</tr>"
+    p = [f"<p>{n_sources} sources tracked. These look broken and are worth a cleanup "
+         "(dead sources slow every run and can hide real postings).</p>"]
+    if failing:
+        p.append(f"<h3 style='color:#b91c1c'>&#10060; Erroring for {HEALTH_FAIL_DAYS}+ days &mdash; {len(failing)}</h3>"
+                 "<p style='color:#888;font-size:12px'>Usually a dead or renamed board token. "
+                 "Run the <b>verify</b> workflow, then remove or fix these in config.json.</p>"
+                 "<table style='font-size:13px;border-collapse:collapse'>"
+                 + row(["<b>Source</b>", "<b>ATS / token</b>", "<b>Failing for</b>", "<b>Last error</b>"]))
+        for d, name, r in failing:
+            p.append(row([escape(name), escape(f"{r.get('ats','')} / {r.get('token','')}"),
+                          f"{d}d", escape(r.get("err", ""))]))
+        p.append("</table>")
+    if empty:
+        p.append(f"<h3 style='color:#b45309'>&#9888;&#65039; Zero postings for {HEALTH_EMPTY_DAYS}+ days &mdash; {len(empty)}</h3>"
+                 "<p style='color:#888;font-size:12px'>The board answers but lists nothing at all "
+                 "(not just nothing relevant). Either the company moved boards or isn't hiring; "
+                 "worth a 30-second check of their careers page.</p>"
+                 "<table style='font-size:13px;border-collapse:collapse'>"
+                 + row(["<b>Source</b>", "<b>ATS / token</b>", "<b>Empty for</b>"]))
+        for d, name, r in empty:
+            p.append(row([escape(name), escape(f"{r.get('ats','')} / {r.get('token','')}"), f"{d}d"]))
+        p.append("</table>")
+    p.append("<p style='color:#888;font-size:12px'>Weekly source-health report from your internship "
+             "watcher (Sundays, only sent when something is broken). Paste it to Claude to clean up.</p>")
+    return "\n".join(p)
+
+
 # ----------------------------- email --------------------------------------- #
 def _collapse_locations(jobs):
     """One line per role: the same company+title posted in N locations becomes
@@ -1008,7 +1238,8 @@ def _collapse_locations(jobs):
     Display-only -- every posting is still tracked individually in seen state."""
     merged, order = {}, []
     for j in jobs:
-        key = ((j.get("company") or "").lower(), j["title"].strip().lower())
+        key = _role_sig(j.get("company") or "", j["title"]) or \
+            ((j.get("company") or "").lower(), j["title"].strip().lower())
         if key not in merged:
             m = dict(j)
             m["_locs"] = []
@@ -1054,11 +1285,22 @@ def _when_tag(job):
 
 def _job_li(job, with_company=True):
     company = job.get("company") if with_company else None
+    if company:
+        company = _CO_PREFIX_RE.sub("", company)   # "Startup: Ramp" -> "Ramp"
     pin = "&#128205; " if job.get("_ploc") else ""
     label = pin + (f"{escape(company)} &mdash; {escape(job['title'])}"
              if company else escape(job["title"]))
     loc = f" &mdash; {escape(job['location'])}" if job["location"] else ""
-    return f"<li><a href='{escape(job['url'])}'>{label}</a>{loc}{_when_tag(job)}</li>"
+    st = job.get("_applied") or ""
+    tag = ""
+    if st in ("applied", "interview", "offer"):
+        tag = " <span style='color:#15803d;font-size:12px'>&#10003; you applied</span>"
+    elif st == "prepared":
+        tag = " <span style='color:#1d4ed8;font-size:12px'>&#128196; resume ready, not sent</span>"
+    elif st == "skipped":
+        tag = " <span style='color:#9ca3af;font-size:12px'>(you skipped this)</span>"
+    return (f"<li><a href='{escape(job['url'])}'>{label}</a>{_fit_badge(job)}{loc}"
+            f"{_when_tag(job)}{tag}</li>")
 
 
 def _mark_and_sort_priority(jobs, filters):
@@ -1243,7 +1485,7 @@ def build_priority_email(jobs, filters=None):
         "<h2 style='margin:0 0 6px;color:#b91c1c'>&#128680; PRIORITY &mdash; apply today</h2>"
         "<p style='margin:0 0 8px;color:#444'>These just opened at companies on your must-apply list "
         "(or match a must-apply title). Rolling roles fill fast; do these before anything else.</p><ul>"]
-    for j in sorted(jobs, key=lambda x: ((x.get("company") or "").lower(), x.get("title", ""))):
+    for j in sorted(jobs, key=lambda x: (-(x.get("_fit") or 0), (x.get("company") or "").lower(), x.get("title", ""))):
         parts.append(_job_li(j).replace("<li>", "<li style='margin:6px 0;font-size:15px'>", 1)
                      + f"<div style='font-size:12px;color:#888;margin-left:2px'>{escape(j.get('_prio', ''))}</div>")
     parts.append("</ul></div><p style='color:#888;font-size:12px'>Sent automatically by your internship watcher. "
@@ -1288,7 +1530,7 @@ def build_email_html(grouped, baseline=False, filters=None, closing=None):
         parts.append(
             "<div style='border:3px solid #b91c1c;background:#fff1f2;padding:6px 12px;margin:0 0 16px'>"
             f"<h3 style='margin:4px 0;color:#b91c1c'>&#128680; PRIORITY &mdash; {len(prio)} must-apply role(s)</h3><ul>")
-        for j in sorted(prio, key=lambda x: (x.get("company") or "").lower()):
+        for j in sorted(prio, key=lambda x: (-(x.get("_fit") or 0), (x.get("company") or "").lower())):
             parts.append(_job_li(j))
         parts.append("</ul></div>")
     # Closing-soon block sits ABOVE everything else. Only roles whose
@@ -1322,7 +1564,9 @@ def build_email_html(grouped, baseline=False, filters=None, closing=None):
         jobs = _collapse_locations(cats[cid])
         if not jobs:
             continue
-        jobs.sort(key=lambda j: (_loc_rank(j.get("location") or "", filters),
+        # Best fit first; ties broken by location preference, then name.
+        jobs.sort(key=lambda j: (-(j.get("_fit") or 0),
+                                  _loc_rank(j.get("location") or "", filters),
                                   (j.get("company") or "").lower()))
         parts.append(
             f"<div style='border-left:4px solid {color};padding:4px 12px;margin:16px 0'>"
@@ -1614,7 +1858,7 @@ def write_top_picks(current, filters=None):
     excluded), grouped by lane in filters.lane_order and, inside a lane, best
     locations first. Regenerated every full sweep."""
     geo = bool((filters or {}).get("top_picks_location_filter"))
-    picks, skipped_geo = [], 0
+    picks, skipped_geo, hidden_applied = [], 0, 0
     for rec in current.values():
         j = rec["job"]
         if j.get("pagewatch"):
@@ -1628,14 +1872,20 @@ def write_top_picks(current, filters=None):
             continue
         if _excluded(comp):
             continue
+        if j.get("_applied") in SUPPRESS_STATUSES:
+            hidden_applied += 1
+            continue
         if geo and loc and not GOOD_LOC_RE.search(loc):
             skipped_geo += 1
             continue
+        fit = j.get("_fit")
+        if fit is None:
+            fit = _fit(j, comp, title, filters)
         picks.append((_bucket(j, comp, title, loc, filters), _tier(comp),
                       comp.lower(), title, comp, loc, j.get("url", ""),
-                      bool(j.get("clearance"))))
-    # sort: (lane, location) bucket, then sweet-spot before elite, then name
-    picks.sort(key=lambda p: (p[0], p[1], p[2], p[3]))
+                      bool(j.get("clearance")), fit, j.get("_applied") or ""))
+    # sort: lane, then best fit, then location, sweet-spot before elite, name
+    picks.sort(key=lambda p: (p[0][0], -p[8], p[0][1], p[1], p[2], p[3]))
     if skipped_geo:
         print(f"  TOP_PICKS: {skipped_geo} role(s) dropped by the city whitelist")
 
@@ -1645,12 +1895,14 @@ def write_top_picks(current, filters=None):
         "# Top picks (auto-generated)",
         "",
         f"_{len(picks)} role(s) worth a look, out of {len(current)} tracked "
-        f"items. Rebuilt every sweep: {stamp}._",
+        f"items. Rebuilt every sweep: {stamp}."
+        + (f" {hidden_applied} role(s) you already applied to or skipped are hidden." if hidden_applied else "")
+        + "_",
         "",
         "Grouped by lane in the order set by `filters.lane_order` in "
         "config.json: " + " &rarr; ".join(order[:-1]).replace("&rarr;", "→")
-        + ". Within a lane, preferred locations first, then sweet-spot firms "
-        "before elite ones.",
+        + ". Within a lane, best **fit** first (0–4, from the title; same scale "
+        "as SHORTLIST.md), then preferred locations.",
         "",
     ]
     if not picks:
@@ -1662,7 +1914,8 @@ def write_top_picks(current, filters=None):
     for rec in current.values():
         j = rec["job"]
         n = days_until(j.get("deadline") or "")
-        if n is not None and 0 <= n <= closing_days and not j.get("pagewatch"):
+        if (n is not None and 0 <= n <= closing_days and not j.get("pagewatch")
+                and j.get("_applied") not in SUPPRESS_STATUSES):
             closing.append((j.get("deadline"), n, j.get("company") or rec["src"], j))
     if closing:
         lines += ["", f"## ⏰ Closing within {closing_days} days", "",
@@ -1673,7 +1926,7 @@ def write_top_picks(current, filters=None):
             lines.append(f"- **closes {dl} ({n}d)** — [{c} — {t}]({j.get('url','')})"
                          + (f" — {j['location']}" if j.get("location") else ""))
     seen_lane = None
-    for (lane_idx, _lrank), tier, _, title, comp, loc, url, clr in picks:
+    for (lane_idx, _lrank), tier, _, title, comp, loc, url, clr, fit, st in picks:
         lane = order[lane_idx]
         if lane != seen_lane:
             header = LANE_META[lane][0]
@@ -1687,7 +1940,8 @@ def write_top_picks(current, filters=None):
         tg = " ⚡elite" if tier == 2 else ""
         t = title.replace("[", "(").replace("]", ")")
         c = comp.replace("[", "(").replace("]", ")")
-        lines.append(f"- [{c} — {t}]({url}){flag}{tg}" + (f" — {loc}" if loc else ""))
+        prep = " 📄 resume ready" if st == "prepared" else ""
+        lines.append(f"- `{fit:.1f}` [{c} — {t}]({url}){flag}{tg}{prep}" + (f" — {loc}" if loc else ""))
 
     with open(TOP_PICKS_FILE, "w", encoding="utf-8") as fh:
         fh.write("\n".join(lines) + "\n")
@@ -2041,6 +2295,13 @@ def main():
               f" ({len(TOP_FIRMS)} firms on the top list)")
     seen = load_json(SEEN_FILE, {}) or {}
     first_run = len(seen) == 0
+    health = dict((seen.get(HEALTH_KEY) or {}).get("sources") or {})
+    # Normalized company|title signatures of every role already alerted, so the
+    # same role reappearing from a second source (or under a new URL) is not
+    # emailed again. Only entries written since 2026-10-01 carry a sig.
+    seen_sigs = {v.get("sig") for v in seen.values() if isinstance(v, dict) and v.get("sig")}
+    sig_src = {}           # sig -> first source that produced it this run
+    n_dupes = n_dupes_seen = n_suppressed = 0
 
     current = {}        # key -> job (everything relevant right now)
     grouped_new = {}    # firm -> [jobs] (relevant AND not seen before)
@@ -2077,7 +2338,9 @@ def main():
             jobs = fetcher(firm)
         except Exception as e:  # noqa: BLE001 -- skip any firm that errors, never crash
             print(f"  x {name} skipped: {e}")
+            _health_update(health, name, firm, error=e)
             continue
+        _health_update(health, name, firm, n_jobs=len(jobs))
 
         # `silent_baseline: true` on a source: the FIRST time it is polled, its
         # roles are recorded as seen without being emailed (they still land in
@@ -2124,7 +2387,13 @@ def main():
             j["clearance"] = is_clearance(j, filters)
             if not j.get("pagewatch"):
                 j["deadline"] = extract_deadline(j)
-            j["_prio"] = _priority_reason(j, j.get("company") or name, j.get("title", ""), filters)
+            comp = j.get("company") or name
+            j["_applied"] = _applied_status(j, comp)
+            # Already applied / deliberately skipped: no priority alert, no
+            # closing-soon alert, no "new role" line. Still tracked as seen.
+            j["_prio"] = ("" if j["_applied"] in SUPPRESS_STATUSES
+                          else _priority_reason(j, comp, j.get("title", ""), filters))
+            j["_fit"] = None if j.get("pagewatch") else _fit(j, comp, j.get("title", ""), filters)
         n_clear = sum(1 for j in relevant if j["clearance"])
         n_dl = sum(1 for j in relevant if j.get("deadline"))
         print(f"  ok {name}: {len(jobs)} jobs, {len(relevant)} relevant"
@@ -2141,18 +2410,32 @@ def main():
             # alert exactly once ever and then go silent forever.
             if j.get("pagewatch"):
                 gkey = _pw_key(url, j["id"])
-            # secondary dedup: same company+title+location from a different URL
-            sig = "|".join([
-                (j.get("company") or name).lower().strip(),
-                (j.get("title") or "").lower().strip(),
-                (j.get("location") or "").lower().strip(),
-            ])
-            if gkey in current or (not j.get("bypass_filters") and sig in sigs_this_run):
+            # Cross-source dedup (2026-10-01). `rsig` is a normalized
+            # company|title ("Startup: Circleback" + "Software Engineering
+            # Intern (Summer 2027) 🛂" == "Circleback" + "Software Engineering
+            # Intern"). The same role from a SECOND source is dropped; the
+            # same source listing it in several cities is kept (the email
+            # collapses those into one line).
+            rsig = "" if j.get("pagewatch") else _role_sig(j.get("company") or name, j.get("title"))
+            sig = rsig + "|" + (j.get("location") or "").lower().strip()
+            if gkey in current:
                 continue
+            if not j.get("bypass_filters") and rsig:
+                if sig_src.get(rsig, name) != name:
+                    n_dupes += 1
+                    continue
+                if sig in sigs_this_run:
+                    continue
+                sig_src.setdefault(rsig, name)
             sigs_this_run.add(sig)
-            current[gkey] = {"src": name, "job": j}
+            current[gkey] = {"src": name, "job": j, "sig": rsig}
             if gkey not in seen and not silent:
-                grouped_new.setdefault(name, []).append(j)
+                if rsig and rsig in seen_sigs and not j.get("bypass_filters"):
+                    n_dupes_seen += 1      # already alerted via another source / old URL
+                elif j.get("_applied") in SUPPRESS_STATUSES:
+                    n_suppressed += 1
+                else:
+                    grouped_new.setdefault(name, []).append(j)
         time.sleep(0.3)  # be polite between firms
 
     # Closing-soon: every OPEN role (new or already-seen) whose stated deadline
@@ -2164,7 +2447,8 @@ def main():
     for gkey, rec in current.items():
         j = rec["job"]
         n = days_until(j.get("deadline") or "")
-        if n is not None and 0 <= n <= closing_days and f"closing::{gkey}" not in seen:
+        if (n is not None and 0 <= n <= closing_days and f"closing::{gkey}" not in seen
+                and j.get("_applied") not in SUPPRESS_STATUSES):
             j.setdefault("company", rec["src"])
             closing_alert.append((gkey, j))
 
@@ -2174,6 +2458,13 @@ def main():
         new_seen[f"closing::{gkey}"] = {"title": "closing-soon alert sent", "url": ""}
     for gkey, rec in current.items():
         new_seen[gkey] = {"title": rec["job"]["title"], "url": rec["job"].get("url", "")}
+        if rec.get("sig"):
+            new_seen[gkey]["sig"] = rec["sig"]
+    new_seen[HEALTH_KEY] = {"title": "source health", "url": "", "sources": health}
+    if n_dupes or n_dupes_seen or n_suppressed:
+        print(f"Dedup: {n_dupes} cross-source duplicate(s) dropped this run, "
+              f"{n_dupes_seen} already alerted under another source/URL, "
+              f"{n_suppressed} already applied/skipped (not emailed).")
     for name in baselined_sources:
         new_seen[f"srcbaseline::{name}"] = {"title": "silent baseline marker", "url": ""}
 
@@ -2215,6 +2506,19 @@ def main():
         write_top_picks(current, filters)
     else:
         print(f"{OPEN_ROLES_FILE} not rewritten (partial sweep).")
+
+    # Weekly source-health report: first sweep on a Sunday (UTC), once per ISO
+    # week, and only when something is actually broken.
+    now = _datetime.datetime.utcnow()
+    wk = "health::%d-W%02d" % now.isocalendar()[:2]
+    if (now.weekday() == 6 or os.environ.get("FORCE_HEALTH") == "1") and wk not in seen:
+        failing, empty = _health_problems(health, config)
+        print(f"Source health: {len(failing)} failing {HEALTH_FAIL_DAYS}+d, "
+              f"{len(empty)} empty {HEALTH_EMPTY_DAYS}+d")
+        if failing or empty:
+            send_email(f"[Internship Watcher] Source health: {len(failing)} broken, {len(empty)} empty",
+                       build_health_email(failing, empty, len(health)))
+        new_seen[wk] = {"title": "health report checked", "url": ""}
 
     # NOTE: the weekly digest is NOT triggered from here. It runs as its own
     # scheduled job via DIGEST_MODE=1 (see send_weekly_digest). Firing it from

@@ -27,8 +27,8 @@ the Actions log.
 ## Who this is for (drives all filtering)
 
 - **Georgia Tech, B.S. Computer Science**, Artificial Intelligence and
-  Cybersecurity threads, Minor in Leadership Studies. **Graduating May 2029**,
-  so Summer 2027 is his rising-junior internship.
+  Cybersecurity threads, Minor in Leadership Studies. **Graduating May 2028** (accelerated via summer
+  classes, decided 2026-09-17), so Summer 2027 is his penultimate-year internship.
 - **Five lanes, hunted in parallel** — the email and `TOP_PICKS.md` group roles
   into these, in the order set by `filters.lane_order`:
 
@@ -119,7 +119,9 @@ URLs containing `#` fragments. A URL with no recorded hash yet is baselined
 | `opportunities.json` | Hand-curated competitions/programs feeding the digest |
 | `PROGRAMS.md` | Human-readable calendar of competitions, scholarships, research |
 | `apply.md` | Slash-command pipeline: tailor a resume to a posting and log it |
-| `applications.md` | **Private, gitignored** (repo is public). Application tracker. Never commit it. |
+| `jev_triage.py`, `jev_priority.py`, `jd_fetch.py` | Local-only triage of `TOP_PICKS.md` into `SHORTLIST.md`. Not run by the Action. Caches and raw output go to `.jev/` (gitignored). |
+| `SHORTLIST.md` | Output of `jev_triage.py`. Gitignored. |
+| `job-search/` | **Private, gitignored** (repo is public). John's tracker (`applications.md`), `career-history.md`, and every resume (`resumes/templates`, `sent`, `ready`, `archive`). Never commit any of it. |
 
 **Secrets (repo → Settings → Secrets → Actions):** `SMTP_USERNAME` (a Gmail
 address), `SMTP_PASSWORD` (Gmail **App Password**, not the account password),
@@ -158,6 +160,11 @@ run. Read the Actions log to see which sources actually resolved.
 4. **Cycle check** — see gotcha #1
 5. `us_only` — **off**. When on, `_is_us_location()` drops clearly-non-US roles
    after the relevance check; empty/ambiguous locations are always kept
+5b. **Local-work-auth check** (added 2026-09-15) — John is fine with roles
+   abroad, but a *non-US* posting whose body demands an existing local right to
+   work (`local_work_auth_phrases`) and never offers a visa
+   (`sponsorship_ok_phrases`) is dropped as `needs-local-work-auth`. US
+   postings are never touched; no body, no drop. Logged in `DROP_COUNTS`.
 6. `top_firms_only` / `fall_2027_only` — **both off**, kept for future use
 7. `clearance_keywords` — computed by `is_clearance()` for the run log only
 
@@ -176,6 +183,39 @@ closing-soon role even when nothing new opened. Every role line also shows
 **Honest limit:** most postings never state a deadline -- they just vanish.
 No deadline is ever guessed; absence means "unknown", not "not soon". Workday
 and tracker sources carry no description, so they never produce a deadline.
+
+## Applied list, fit scores, dedup, source health (2026-10-01)
+
+- **Applied list.** `sync_applied.py` (run locally) reads the private
+  `job-search/applications.md` and writes `applied.json`: 16-char sha256
+  hashes of each entry's normalized URL and company|title, plus a status
+  (`applied` covers applied/interview/offer/rejected; `skipped`; `prepared`).
+  No names or URLs are committed. The watcher hashes every posting the same
+  way: `applied`/`skipped` roles are never emailed as new, never get priority
+  or closing-soon alerts, and are hidden from TOP_PICKS (with a count);
+  `prepared` roles show "resume ready, not sent". Hashes are unsalted, so
+  someone could confirm a guess -- acceptable for this, not real secrecy.
+  Re-run `python3 sync_applied.py` and commit `applied.json` after applying.
+- **Fit score** (`_fit`, 0-4, title-only rules on the same scale as Jev's
+  SHORTLIST fit): 3.5 = names a strength (iOS/mobile, ML/AI, data, security,
+  quant, forward-deployed, full-stack), 3 = general SWE, 2 = software-adjacent,
+  1 = engineering outside his background; +0.3 target company, +0.2
+  "undergrad", -1 PhD/masters. Jev can't run in Actions, so this is the
+  in-email stand-in. Lanes, the priority block and TOP_PICKS sort best-fit
+  first. It's a sort key, not a verdict.
+- **Cross-source dedup.** `_role_sig` = normalized company (drops
+  "Startup:"/"Page:" prefixes, parentheticals, Inc/LLC) + normalized title
+  (drops emoji, seasons, years, req ids; internship->intern). A role already
+  produced by an earlier source this run is dropped; a same-source multi-city
+  listing is kept and collapsed in the email. Seen entries now store `sig`,
+  so a role re-posted under a new URL or found by a new source isn't
+  re-alerted. Pagewatch/bypass items are exempt.
+- **Source health.** Every poll updates `seen_jobs.json["meta::source_health"]`
+  (per source: since, ok, n, nz = last non-empty day, err/ef = failure streak
+  start). First sweep each Sunday UTC (marker `health::YYYY-Www`) emails a
+  report of sources erroring 3+ days or returning zero jobs 14+ days -- only
+  if there's something broken. `FORCE_HEALTH=1` forces the check. Stored in
+  seen_jobs.json on purpose so watch.yml didn't need to change.
 
 ## HARD-WON GOTCHAS — read before changing anything
 
