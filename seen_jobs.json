@@ -1074,7 +1074,8 @@
   },
   "https://philips.wd3.myworkdayjobs.com/en-us/jobs-and-careers/job/eindhoven/product-innovation---ai-powered-video-creation-internship---philips-avent-experience-innovation_586187": {
     "title": "Product Innovation & AI Prototyping Internship – Philips Avent Experience Innovation",
-    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Product-Innovation---AI-Powered-Video-Creation-Internship---Philips-Avent-Experience-Innovation_586187"
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Eindhoven/Product-Innovation---AI-Powered-Video-Creation-Internship---Philips-Avent-Experience-Innovation_586187",
+    "sig": "philips|product innovation ai prototyping intern philips avent experience innovation"
   },
   "https://thales.wd3.myworkdayjobs.com/en-us/careers/job/madrid/devops-intern_r0336368-1": {
     "title": "DevOps Intern",
@@ -15270,9 +15271,9 @@
     "sig": "tiktok|data engineer intern data platform global live"
   },
   "https://nxp.wd3.myworkdayjobs.com/en-us/careers/job/glasgow/intern-ai-and-software-engineer---automotive-mpus_r-10065882-1": {
-    "title": "AI and Software Engineer Intern - Automotive MPUs",
+    "title": "Intern AI and Software Engineer - Automotive MPUs",
     "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1",
-    "sig": "nxpsemiconductors|ai and software engineer intern automotive mpus"
+    "sig": "nxp|intern ai and software engineer automotive mpus"
   },
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011796": {
     "title": "AI Engineer Intern - Enterprise Technology Services",
@@ -17495,7 +17496,8 @@
   },
   "https://usbank.wd1.myworkdayjobs.com/us_bank_careers/job/charlotte-nc/xmlname-2027-quantitative-modeling-summer-intern_2026-0027558": {
     "title": "Quantitative Modeling Intern",
-    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558"
+    "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Charlotte-NC/XMLNAME-2027-Quantitative-Modeling-Summer-Intern_2026-0027558",
+    "sig": "usbank|quantitative modeling intern"
   },
   "https://buildertrend.wd108.myworkdayjobs.com/external_careers/job/omaha-ne/software-engineering-inter_jr-000467": {
     "title": "Software Engineer Intern",
@@ -20442,15 +20444,18 @@
   },
   "https://td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/mount-laurel-new-jersey/xmlname-2027-summer-internship-program---global-technology---solutions---cyber-security_r_1510795": {
     "title": "2027 Summer Internship Program - Global Technology & Solutions - Cyber Security",
-    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795"
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795",
+    "sig": "td|intern program global technology solutions cyber security"
   },
   "https://td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/mount-laurel-new-jersey/xmlname-2027-summer-internship-program---global-technology---solutions---software-engineer--swe-_r_1510796-1": {
     "title": "2027 Summer Internship Program - Global Technology & Solutions - Software Engineer (SWE)",
-    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1"
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Software-Engineer--SWE-_R_1510796-1",
+    "sig": "td|intern program global technology solutions software engineer swe"
   },
   "https://td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/mount-laurel-new-jersey/xmlname-2027-summer-internship-program---global-technology---solutions---data-engineer_r_1510797": {
     "title": "2027 Summer Internship Program - Global Technology & Solutions - Data Engineer",
-    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797"
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Data-Engineer_R_1510797",
+    "sig": "td|intern program global technology solutions data engineer"
   },
   "https://oshkoshcorporation.wd5.myworkdayjobs.com/en-us/oshkosh/job/new-hudson-michigan-united-states/modeling-and-simulation-engineering-intern---summer-2027_r50278-1": {
     "title": "Modeling and Simulation Engineering Intern - Summer 2027",
@@ -25045,11 +25050,13 @@
   },
   "https://td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/mount-laurel-new-jersey/xmlname-2027-summer-internship-program---global-technology---solutions---cloud-devops_r_1510799": {
     "title": "2027 Summer Internship Program - Global Technology & Solutions - Cloud/DevOps",
-    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799"
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cloud-DevOps_R_1510799",
+    "sig": "td|intern program global technology solutions cloud devops"
   },
   "https://td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/mount-laurel-new-jersey/xmlname-2027-summer-internship-program---global-technology-solutions---business-systems-analyst--bsa-_r_1510802": {
     "title": "2027 Summer Internship Program - Global Technology Solutions - Business Systems Analyst (BSA)",
-    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology-Solutions---Business-Systems-Analyst--BSA-_R_1510802"
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology-Solutions---Business-Systems-Analyst--BSA-_R_1510802",
+    "sig": "td|intern program global technology solutions business systems analyst bsa"
   },
   "https://jobs.ashbyhq.com/datologyai/0ced19c2-21ec-4bcc-92d2-68d448279f3f": {
     "title": "Research Intern",
@@ -29202,7 +29209,8 @@
   },
   "https://td.wd3.myworkdayjobs.com/en-us/td_bank_careers/job/new-york-new-york/xmlname-2027-summer-graduate-leadership-internship-program---retail-distribution_r_1508518-1": {
     "title": "2027 Summer Internship Graduate Leadership Program- Retail Banking Strategy & AI",
-    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Graduate-Leadership-Internship-Program---Retail-Distribution_R_1508518-1"
+    "url": "https://td.wd3.myworkdayjobs.com/en-US/TD_Bank_Careers/job/New-York-New-York/XMLNAME-2027-Summer-Graduate-Leadership-Internship-Program---Retail-Distribution_R_1508518-1",
+    "sig": "td|intern graduate leadership program retail banking strategy ai"
   },
   "https://careers.withwaymo.com/jobs?gh_jid=8227411": {
     "title": "Perception Intern - Multiple Teams",
@@ -30430,7 +30438,7 @@
     "sig": "hrblock|software engineering intern s"
   },
   "https://philips.wd3.myworkdayjobs.com/en-us/jobs-and-careers/job/bothell-washington-united-states/intern---embedded-systems-test-automation-engineer---bothell--wa---summer-2027_592074": {
-    "title": "Intern - Embedded Systems Test Automation Engineer - Bothell - WA - Summer 2027",
+    "title": "Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027",
     "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074",
     "sig": "philips|intern embedded systems test automation engineer bothell wa"
   },
@@ -30669,9 +30677,9 @@
     "sig": "rtx|systems engineer intern onsite mission sensor manager"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-tx-richardson-c17--1717-cityline-dr--cityline-c17/software-engineering-intern--summer-2027-_01875411": {
-    "title": "Software Engineering Intern (Summer 2027)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411",
-    "sig": "rtx|software engineering intern"
+    "title": "Software Engineering Intern - Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2027-_01875411",
+    "sig": "raytheon|software engineering intern"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-fl-largo-382sr--7887-bryan-dairy-rd--bldg-600/software-engineering-intern--summer-2027-_01874951": {
     "title": "Software Engineering Intern (Summer 2027)",
@@ -30799,9 +30807,9 @@
     "sig": "marvell|ai intern"
   },
   "https://marvell.wd1.myworkdayjobs.com/en-us/marvellcareers2/job/hyderabad/intern--software-qa-engineer_2604247": {
-    "title": "Intern, Software QA Engineer",
+    "title": "Software QA Automation Intern",
     "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Hyderabad/Intern--Software-QA-Engineer_2604247",
-    "sig": "marvell|intern software qa engineer"
+    "sig": "marvell|software qa automation intern"
   },
   "https://accenture.wd103.myworkdayjobs.com/en-us/accenturecareers/job/ebene/software-engineer-intern_r00342918-1": {
     "title": "Software Engineer Intern",
@@ -32006,7 +32014,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-10-02",
-        "n": 359,
+        "n": 356,
         "nz": "2026-10-02"
       },
       "OpenAI": {
@@ -32045,7 +32053,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-02",
-        "n": 2420,
+        "n": 2418,
         "nz": "2026-10-02"
       },
       "Palantir": {
@@ -32061,7 +32069,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-10-02",
-        "n": 581,
+        "n": 582,
         "nz": "2026-10-02"
       },
       "Page: Lockheed Martin (search)": {
@@ -32117,14 +32125,14 @@
         "ats": "greenhouse",
         "token": "imc",
         "ok": "2026-10-02",
-        "n": 170,
+        "n": 167,
         "nz": "2026-10-02"
       },
       "AUTO-DISCOVER (all boards found in trackers)": {
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-02",
-        "n": 110345,
+        "n": 110355,
         "nz": "2026-10-02"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32158,7 +32166,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-02",
-        "n": 2123,
+        "n": 2088,
         "nz": "2026-10-02"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32318,7 +32326,7 @@
         "ats": "greenhouse",
         "token": "jumptrading",
         "ok": "2026-10-02",
-        "n": 110,
+        "n": 111,
         "nz": "2026-10-02"
       },
       "Quant: Mako Trading": {
@@ -32326,7 +32334,7 @@
         "ats": "greenhouse",
         "token": "mako",
         "ok": "2026-10-02",
-        "n": 9,
+        "n": 8,
         "nz": "2026-10-02"
       },
       "Quant: Man Group": {
@@ -32334,7 +32342,7 @@
         "ats": "greenhouse",
         "token": "mangroup",
         "ok": "2026-10-02",
-        "n": 57,
+        "n": 58,
         "nz": "2026-10-02"
       },
       "Quant: Marshall Wace": {
@@ -32396,7 +32404,7 @@
         "ats": "greenhouse",
         "token": "squarepointcapital",
         "ok": "2026-10-02",
-        "n": 90,
+        "n": 91,
         "nz": "2026-10-02"
       },
       "Quant: Tower Research": {
@@ -32722,7 +32730,7 @@
         "ats": "ashby",
         "token": "sierra",
         "ok": "2026-10-02",
-        "n": 193,
+        "n": 194,
         "nz": "2026-10-02"
       },
       "Startup: Notion": {
@@ -33707,7 +33715,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-02",
         "n": 1,
-        "nz": "2026-10-02"
+        "nz": "2026-10-02",
+        "err": "502 Server Error: Bad Gateway for url: https://saracenenergy.com/careers.html",
+        "ef": "2026-10-02"
       },
       "Quant SPA: Twin Eagle Resource Management": {
         "since": "2026-10-01",
@@ -34016,7 +34026,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-02",
         "n": 1,
-        "nz": "2026-10-02"
+        "nz": "2026-10-02",
+        "err": "404 Client Error: Not Found for url: https://jobs.kaiko.ai/",
+        "ef": "2026-10-02"
       },
       "Quant SPA: Exegy": {
         "since": "2026-10-01",
@@ -34181,7 +34193,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-10-02",
-        "n": 402,
+        "n": 401,
         "nz": "2026-10-02"
       },
       "Cyber: Datadog": {
@@ -34189,7 +34201,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-10-02",
-        "n": 441,
+        "n": 440,
         "nz": "2026-10-02"
       },
       "Startup: Figma": {
@@ -34197,7 +34209,7 @@
         "ats": "greenhouse",
         "token": "figma",
         "ok": "2026-10-02",
-        "n": 165,
+        "n": 164,
         "nz": "2026-10-02"
       },
       "Startup: Discord": {
@@ -34252,7 +34264,7 @@
         "ats": "ashby",
         "token": "perplexity",
         "ok": "2026-10-02",
-        "n": 125,
+        "n": 124,
         "nz": "2026-10-02"
       },
       "Startup: ElevenLabs": {
@@ -34260,7 +34272,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-10-02",
-        "n": 173,
+        "n": 172,
         "nz": "2026-10-02"
       },
       "Startup: Harvey": {
@@ -34598,5 +34610,100 @@
     "title": "IS Intern - Web Applications",
     "url": "https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Houston-TX/IS-Internship---Web-Applications_R-268964",
     "sig": "cswholesalegrocers|is intern web applications"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000153102859": {
+    "title": "Internship in Neural Camera-Projection Modeling",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153102859",
+    "sig": "boschgroup|intern in neural camera projection modeling"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern---software-engineer--autonomous-vehicle--simulation_jr-202621503": {
+    "title": "2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
+    "sig": "generalmotors|intern software engineer autonomous vehicle simulation"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern---ai-ml-engineer--autonomous-vehicle--simulation_jr-202621508": {
+    "title": "2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+    "sig": "generalmotors|intern ai ml engineer autonomous vehicle simulation"
+  },
+  "https://jci.wd5.myworkdayjobs.com/en-us/jci/job/amherst-new-york-united-states-of-america/hvac-controls-intern_wd30281129": {
+    "title": "HVAC Controls Intern",
+    "url": "https://jci.wd5.myworkdayjobs.com/en-US/JCI/job/Amherst-New-York-United-States-of-America/HVAC-Controls-Intern_WD30281129",
+    "sig": "jci|hvac controls intern"
+  },
+  "https://nxp.wd3.myworkdayjobs.com/en-us/careers/job/shanghai-pudong/edge-ai-field-application-engineer-intern_r-10066551": {
+    "title": "Edge AI Field Application Engineer Intern",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Shanghai-Pudong/Edge-AI-Field-Application-Engineer-Intern_R-10066551",
+    "sig": "nxp|edge ai field application engineer intern"
+  },
+  "https://nxp.wd3.myworkdayjobs.com/en-us/careers/job/bucharest/intern-software-engineer---embedded-benchmarking---thermal-characterization_r-10066624-1": {
+    "title": "Intern Software Engineer – Embedded Benchmarking & Thermal Characterization",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Bucharest/Intern-Software-Engineer---Embedded-Benchmarking---Thermal-Characterization_R-10066624-1",
+    "sig": "nxp|intern software engineer embedded benchmarking thermal characterization"
+  },
+  "https://nxp.wd3.myworkdayjobs.com/en-us/careers/job/eindhoven/internship----robotics_r-10062364": {
+    "title": "Internship -  Robotics",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Eindhoven/Internship----Robotics_R-10062364",
+    "sig": "nxp|intern robotics"
+  },
+  "https://nxp.wd3.myworkdayjobs.com/en-us/careers/job/gratkorn/internship---digital-verification---generative-ai-support--m-f-d-_r-10064593": {
+    "title": "Internship – Digital Verification & Generative AI Support (m/f/d)",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship---Digital-Verification---Generative-AI-Support--m-f-d-_R-10064593",
+    "sig": "nxp|intern digital verification generative ai support m f d"
+  },
+  "https://jobs.smartrecruiters.com/eurofins/744000153085752": {
+    "title": "Internship - IT (Software)",
+    "url": "https://jobs.smartrecruiters.com/Eurofins/744000153085752",
+    "sig": "eurofins|intern it software"
+  },
+  "https://pwc.wd3.myworkdayjobs.com/en-us/global_campus_careers/job/ho-chi-minh-city/intern---cyber-security--soc-_764688wd": {
+    "title": "Intern - Cyber Security (SOC)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Ho-Chi-Minh-City/Intern---Cyber-Security--SOC-_764688WD",
+    "sig": "pwc|intern cyber security soc"
+  },
+  "https://pwc.wd3.myworkdayjobs.com/en-us/global_campus_careers/job/brussels/school-internship-in-technology---ai--2026-2027-_764001wd": {
+    "title": "School Internship in Technology & AI (2026-2027)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Brussels/School-Internship-in-Technology---AI--2026-2027-_764001WD",
+    "sig": "pwc|school intern in technology ai"
+  },
+  "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718": {
+    "title": "Software Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718",
+    "sig": "range|software engineering intern"
+  },
+  "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15": {
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15",
+    "sig": "shopback2|software engineer intern"
+  },
+  "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98": {
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98",
+    "sig": "shopback2|software engineer intern"
+  },
+  "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718/application?embed=true": {
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718/application?embed=true",
+    "sig": "range|software engineer intern"
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/135156989620560582": {
+    "title": "Forward Deployed Engineer Intern",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/135156989620560582",
+    "sig": "google|forward deployed engineer intern"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern---ai-ml-engineer--autonomous-vehicle--simulation_jr-202621508": {
+    "title": "AI/ML Engineer Intern - Autonomous Vehicle: Simulation",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+    "sig": "generalmotors|ai ml engineer intern autonomous vehicle simulation"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern---ai-ml-engineer--autonomous-vehicles--simulation--phd-_jr-202621511": {
+    "title": "AI/ML Engineer Intern - Autonomous Vehicles: Simulation",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511",
+    "sig": "generalmotors|ai ml engineer intern autonomous vehicles simulation"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern---software-engineer--autonomous-vehicle--simulation_jr-202621503": {
+    "title": "Simulation Intern - Software Engineer - Autonomous Vehicle: Simulation",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
+    "sig": "generalmotors|simulation intern software engineer autonomous vehicle simulation"
   }
 }
