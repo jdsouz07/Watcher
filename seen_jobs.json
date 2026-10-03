@@ -5444,7 +5444,8 @@
   },
   "https://lifeattiktok.com/search/7675128776856029445": {
     "title": "Software Engineer Intern - TikTok Search Data Infra - 2027 Summer",
-    "url": "https://lifeattiktok.com/search/7675128776856029445"
+    "url": "https://lifeattiktok.com/search/7675128776856029445",
+    "sig": "tiktok|software engineer intern tiktok search data infra"
   },
   "https://lifeattiktok.com/search/7675163472469444917": {
     "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Fall",
@@ -5471,7 +5472,8 @@
   },
   "https://lifeattiktok.com/search/7672930401597671733": {
     "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Summer",
-    "url": "https://lifeattiktok.com/search/7672930401597671733"
+    "url": "https://lifeattiktok.com/search/7672930401597671733",
+    "sig": "tiktok|software engineer intern recommendation architecture feeds infrastructure"
   },
   "https://lifeattiktok.com/search/7672926068681951493": {
     "title": "Software Engineer Intern - Recommendation Architecture - Feeds Infrastructure - 2027 Summer",
@@ -5484,7 +5486,8 @@
   },
   "https://lifeattiktok.com/search/7670839727059339525": {
     "title": "Software Engineer Intern - Global E-commerce-Search - 2027 Summer",
-    "url": "https://lifeattiktok.com/search/7670839727059339525"
+    "url": "https://lifeattiktok.com/search/7670839727059339525",
+    "sig": "tiktok|software engineer intern global e commerce search"
   },
   "https://lifeattiktok.com/search/7670874691332212997": {
     "title": "Site Reliability Engineer Intern - Global SRE - 2027 Summer",
@@ -16734,7 +16737,8 @@
   },
   "https://careersus-shure.icims.com/jobs/4965/job?mobile=true&needsredirect=false": {
     "title": "Cloud Applications Development Intern",
-    "url": "https://careersus-shure.icims.com/jobs/4965/job?mobile=true&needsRedirect=false"
+    "url": "https://careersus-shure.icims.com/jobs/4965/job?mobile=true&needsRedirect=false",
+    "sig": "shure|cloud applications development intern"
   },
   "https://careersus-shure.icims.com/jobs/4996/job?mobile=true&needsredirect=false": {
     "title": "Software Engineer Intern",
@@ -20243,11 +20247,13 @@
   },
   "https://career-schwab.icims.com/jobs/126228/2027-technology-intern---software-engineering/job": {
     "title": "2027 Technology Intern - Software Engineering",
-    "url": "https://career-schwab.icims.com/jobs/126228/2027-technology-intern---software-engineering/job"
+    "url": "https://career-schwab.icims.com/jobs/126228/2027-technology-intern---software-engineering/job",
+    "sig": "charlesschwab|technology intern software engineering"
   },
   "https://career-schwab.icims.com/jobs/126229/2027-technology-intern---site-reliability-engineering/job": {
     "title": "2027 Technology Intern - Site Reliability Engineering",
-    "url": "https://career-schwab.icims.com/jobs/126229/2027-technology-intern---site-reliability-engineering/job"
+    "url": "https://career-schwab.icims.com/jobs/126229/2027-technology-intern---site-reliability-engineering/job",
+    "sig": "charlesschwab|technology intern site reliability engineering"
   },
   "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=c5cf1d0c-643f-4e8c-85a5-37a75957c4c1&jobid=574505": {
     "title": "Software Engineer Intern",
@@ -25192,9 +25198,9 @@
     "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W"
   },
   "https://www.equipmentshare.com/careers/openings/?gh_jid=8188926": {
-    "title": "Software Engineer Intern",
+    "title": "Intern: Software Engineer",
     "url": "https://www.equipmentshare.com/careers/openings/?gh_jid=8188926",
-    "sig": "equipmentshare|software engineer intern"
+    "sig": "equipmentshare|intern software engineer"
   },
   "https://apply.workable.com/talentpluto/j/6a02556484/": {
     "title": "Backend Engineering Intern",
@@ -32099,7 +32105,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-10-03",
-        "n": 379,
+        "n": 380,
         "nz": "2026-10-03"
       },
       "OpenAI": {
@@ -32107,7 +32113,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-03",
-        "n": 830,
+        "n": 828,
         "nz": "2026-10-03"
       },
       "Anthropic": {
@@ -32115,7 +32121,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-03",
-        "n": 641,
+        "n": 640,
         "nz": "2026-10-03"
       },
       "Databricks": {
@@ -32123,7 +32129,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-10-03",
-        "n": 885,
+        "n": 886,
         "nz": "2026-10-03"
       },
       "Page: Microsoft Careers": {
@@ -32138,7 +32144,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-03",
-        "n": 2434,
+        "n": 2435,
         "nz": "2026-10-03"
       },
       "Palantir": {
@@ -32217,7 +32223,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-03",
-        "n": 111413,
+        "n": 111431,
         "nz": "2026-10-03"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32237,7 +32243,7 @@
         "since": "2026-10-01",
         "ats": "github_md",
         "ok": "2026-10-03",
-        "n": 748,
+        "n": 757,
         "nz": "2026-10-03"
       },
       "Tracker: vanshb03 Summer2027": {
@@ -32251,7 +32257,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-03",
-        "n": 2097,
+        "n": 2079,
         "nz": "2026-10-03"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32807,7 +32813,7 @@
         "ats": "ashby",
         "token": "cohere",
         "ok": "2026-10-03",
-        "n": 136,
+        "n": 137,
         "nz": "2026-10-03"
       },
       "Startup: Sierra": {
@@ -33405,7 +33411,7 @@
         "ats": "workable",
         "token": "bestex-research",
         "ok": "2026-10-03",
-        "n": 16,
+        "n": 15,
         "nz": "2026-10-03"
       },
       "Quant SPA: XR Trading": {
@@ -33581,11 +33587,9 @@
       "Quant SPA: Deep Blue Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-02",
+        "ok": "2026-10-03",
         "n": 1,
-        "nz": "2026-10-02",
-        "err": "404 Client Error: Not Found for url: https://deepbluecap.com/careers/",
-        "ef": "2026-10-03"
+        "nz": "2026-10-03"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -34112,7 +34116,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-03",
         "n": 1,
-        "nz": "2026-10-03"
+        "nz": "2026-10-03",
+        "err": "404 Client Error: Not Found for url: https://jobs.kaiko.ai/",
+        "ef": "2026-10-03"
       },
       "Quant SPA: Exegy": {
         "since": "2026-10-01",
@@ -34309,7 +34315,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-03",
-        "n": 715,
+        "n": 716,
         "nz": "2026-10-03"
       },
       "Startup: Mercury": {
@@ -35534,5 +35540,60 @@
     "title": "UX Quantitative Research Intern",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8140217",
     "sig": "pinterest|ux quantitative research intern"
+  },
+  "https://ntrs.wd1.myworkdayjobs.com/en-us/northerntrust/job/chicago-il/data---analytics-office-intern_r160769-1": {
+    "title": "Data & Analytics Office Intern",
+    "url": "https://ntrs.wd1.myworkdayjobs.com/en-US/northerntrust/job/Chicago-IL/Data---Analytics-Office-Intern_R160769-1",
+    "sig": "ntrs|data analytics office intern"
+  },
+  "https://jobs.lever.co/cesiumastro/5ac10e3b-f9d7-4029-bf25-73a191ff2636": {
+    "title": "Summer 2027 - Electrical Engineering Internship, FPGA",
+    "url": "https://jobs.lever.co/CesiumAstro/5ac10e3b-f9d7-4029-bf25-73a191ff2636",
+    "sig": "cesiumastro|electrical engineering intern fpga"
+  },
+  "https://apply.workable.com/j/b45af12ae3": {
+    "title": "Software Engineering Intern",
+    "url": "https://apply.workable.com/j/B45AF12AE3",
+    "sig": "devsinc17|software engineering intern"
+  },
+  "https://jobs.lever.co/anybotics/d78ed750-b7fa-41a1-8691-0091b9df4169": {
+    "title": "Software Engineer Intern - Industrialization",
+    "url": "https://jobs.lever.co/anybotics/d78ed750-b7fa-41a1-8691-0091b9df4169",
+    "sig": "anybotics|software engineer intern industrialization"
+  },
+  "https://jobs.lever.co/anybotics/7e305a48-4628-4a6a-b054-0367b6f6e586": {
+    "title": "Software Engineering Internship - AI Platform",
+    "url": "https://jobs.lever.co/anybotics/7e305a48-4628-4a6a-b054-0367b6f6e586",
+    "sig": "anybotics|software engineering intern ai platform"
+  },
+  "https://hntb.wd5.myworkdayjobs.com/en-us/hntb_university_careers/job/austin-tx/intern---ai-business-process-developer--summer-2027-_r-31865": {
+    "title": "Intern - AI Business Process Developer - Summer 2027",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_university_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865",
+    "sig": "hntb|intern ai business process developer"
+  },
+  "https://ideas-sas.icims.com/jobs/42665/software-developer-in-test-intern/job": {
+    "title": "Software Developer in Test Intern",
+    "url": "https://ideas-sas.icims.com/jobs/42665/software-developer-in-test-intern/job",
+    "sig": "ideas|software developer in test intern"
+  },
+  "https://idtus.pinpointhq.com/en/postings/20817d1b-bd0e-4aa8-a3d5-78e4614b52a3": {
+    "title": "Software Engineer Intern",
+    "url": "https://idtus.pinpointhq.com/en/postings/20817d1b-bd0e-4aa8-a3d5-78e4614b52a3",
+    "sig": "innovativedefense|software engineer intern"
+  },
+  "https://idtus.pinpointhq.com/en/postings/0900a5f2-65d5-4cfa-8b14-b2a58d156d53": {
+    "title": "Software Engineer Intern",
+    "url": "https://idtus.pinpointhq.com/en/postings/0900a5f2-65d5-4cfa-8b14-b2a58d156d53",
+    "sig": "innovativedefense|software engineer intern"
+  },
+  "https://idtus.pinpointhq.com/en/postings/77292978-8fb0-4bdd-8c2e-b8e37eacdf46": {
+    "title": "Software Systems Engineer Intern - JobID-0299",
+    "url": "https://idtus.pinpointhq.com/en/postings/77292978-8fb0-4bdd-8c2e-b8e37eacdf46",
+    "sig": "innovativedefense|software systems engineer intern"
+  },
+  "https://job-boards.greenhouse.io/profluent/jobs/5441955008": {
+    "title": "Intern - Software Engineering",
+    "url": "https://job-boards.greenhouse.io/profluent/jobs/5441955008",
+    "sig": "profluent|intern software engineering"
   }
 }
