@@ -3304,12 +3304,12 @@
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/us-california-palo-alto/tencent-cloud-cpaas-product-management-intern_r108019": {
     "title": "Tencent Cloud CPaaS Product Management Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019",
     "sig": "tencent|tencent cloud cpaas product management intern"
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/us-california-los-angeles/tencent-cloud-cpaas-product-management-intern_r108020": {
     "title": "Tencent Cloud CPaaS Product Management Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Los-Angeles/Tencent-Cloud-CPaaS-Product-Management-Intern_R108020",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Los-Angeles/Tencent-Cloud-CPaaS-Product-Management-Intern_R108020",
     "sig": "tencent|tencent cloud cpaas product management intern"
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/singapore-capitasky/tencent-cloud---edge-platform-product-solutions-architecture-intern---singapore_r107927": {
@@ -20531,7 +20531,8 @@
   },
   "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/phd-research-intern--autonomous-systems-and-physical-ai-research---2027_jr2024171": {
     "title": "Research Intern",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171"
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/PhD-Research-Intern--Autonomous-Systems-and-Physical-AI-Research---2027_JR2024171",
+    "sig": "nvidia|research intern"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-ma-marlborough-ma1--1001-boston-post-rd--bldg-1/systems-engineering-intern--onsite_01873911": {
     "title": "Systems Engineering Intern- Onsite",
@@ -22862,11 +22863,13 @@
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/oa_huoshui_platform/job/us-california-palo-alto/machine-learning-intern_r108140": {
     "title": "Machine Learning Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/OA_Huoshui_Platform/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140"
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/OA_Huoshui_Platform/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140",
+    "sig": "tencent|machine learning intern"
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/oa_huoshui_platform/job/us-california-palo-alto/cyber-security-engineer-intern_r108141-1": {
     "title": "Cyber Security Engineer Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/OA_Huoshui_Platform/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-1"
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/OA_Huoshui_Platform/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-1",
+    "sig": "tencent|cyber security engineer intern"
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/oa_huoshui_platform/job/us-california-palo-alto/ai-business-analyst-intern_r108039": {
     "title": "AI Business Analyst Intern",
@@ -22878,19 +22881,23 @@
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/oa_huoshui_platform/job/us-california-palo-alto/hunyuan-multimodal-algorithm-researcher-intern-omni-modal---_r107051-1": {
     "title": "Hunyuan Multimodal Algorithm Researcher Intern(Omni-Modal)​​",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051-1"
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R107051-1",
+    "sig": "tencent|hunyuan multimodal algorithm researcher intern omni modal"
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/oa_huoshui_platform/job/singapore-capitasky/data-science-intern_r107259-1": {
     "title": "Data Science Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/OA_Huoshui_Platform/job/Singapore-CapitaSky/Data-Science-Intern_R107259-1"
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/OA_Huoshui_Platform/job/Singapore-CapitaSky/Data-Science-Intern_R107259-1",
+    "sig": "tencent|data science intern"
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/oa_huoshui_platform/job/singapore-capitasky/game-ml-researcher-intern_r107258": {
     "title": "Game ML Researcher Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/OA_Huoshui_Platform/job/Singapore-CapitaSky/Game-ML-Researcher-Intern_R107258"
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/OA_Huoshui_Platform/job/Singapore-CapitaSky/Game-ML-Researcher-Intern_R107258",
+    "sig": "tencent|game ml researcher intern"
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/oa_huoshui_platform/job/united-kingdom-london/nlp-research-intern_r106758": {
     "title": "NLP Research Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/OA_Huoshui_Platform/job/United-Kingdom-London/NLP-Research-Intern_R106758"
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/OA_Huoshui_Platform/job/United-Kingdom-London/NLP-Research-Intern_R106758",
+    "sig": "tencent|nlp research intern"
   },
   "https://bah.wd1.myworkdayjobs.com/en-us/confidential/job/annapolis-junction-md/systems-administrator-intern_r0249564": {
     "title": "Systems Administrator Intern",
@@ -28560,12 +28567,12 @@
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/us-california-palo-alto/cloud-media-services-intern_r107794": {
     "title": "Cloud Media Services Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R107794",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R107794",
     "sig": "tencent|cloud media services intern"
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/us-california-palo-alto/cloud-media-services-intern_r108186": {
     "title": "Cloud Media Services Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186",
     "sig": "tencent|cloud media services intern"
   },
   "https://gehc.wd5.myworkdayjobs.com/en-us/gehc_externalsite/job/oh05-01-beachwood-science-park-drive/software-engineering-intern---workflow-platform_r4046886-1": {
@@ -32121,7 +32128,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-03",
-        "n": 640,
+        "n": 639,
         "nz": "2026-10-03"
       },
       "Databricks": {
@@ -32223,7 +32230,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-03",
-        "n": 111443,
+        "n": 111450,
         "nz": "2026-10-03"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32257,7 +32264,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-03",
-        "n": 2079,
+        "n": 2095,
         "nz": "2026-10-03"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32329,7 +32336,7 @@
         "ats": "greenhouse",
         "token": "aqr",
         "ok": "2026-10-03",
-        "n": 52,
+        "n": 51,
         "nz": "2026-10-03"
       },
       "Quant: Belvedere Trading": {
@@ -34291,7 +34298,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-10-03",
-        "n": 445,
+        "n": 444,
         "nz": "2026-10-03"
       },
       "Startup: Figma": {
@@ -35600,5 +35607,15 @@
     "title": "Roadway Engineering Intern - Networking Event with AECOM – Atlanta, GA",
     "url": "https://jobs.smartrecruiters.com/AECOM2/744000153336639",
     "sig": "aecom2|roadway engineering intern networking event with aecom atlanta ga"
+  },
+  "https://tencent.wd1.myworkdayjobs.com/en-us/oa_huoshui_platform/job/us-california-palo-alto/site-reliability-engineer--sre--intern---ai-infrastructure_r108158": {
+    "title": "Site Reliability Engineer (SRE) Intern — AI Infrastructure",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/OA_Huoshui_Platform/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158",
+    "sig": "tencent|site reliability engineer sre intern ai infrastructure"
+  },
+  "https://kla.wd1.myworkdayjobs.com/annarbor/job/ann-arbor-mi/uiuc-next-day-on-campus-interviews_2640825-1": {
+    "title": "Software Engineer Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/annarbor/job/Ann-Arbor-MI/UIUC-Next-Day-On-Campus-Interviews_2640825-1",
+    "sig": "kla|software engineer intern"
   }
 }
