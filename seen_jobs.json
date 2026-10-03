@@ -32144,7 +32144,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-03",
-        "n": 2435,
+        "n": 2431,
         "nz": "2026-10-03"
       },
       "Palantir": {
@@ -32223,7 +32223,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-03",
-        "n": 111431,
+        "n": 111443,
         "nz": "2026-10-03"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -33143,7 +33143,7 @@
         "ats": "greenhouse",
         "token": "grayscaleinvestments",
         "ok": "2026-10-03",
-        "n": 5,
+        "n": 7,
         "nz": "2026-10-03"
       },
       "Quant: Uniswap Labs": {
@@ -33589,7 +33589,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-03",
         "n": 1,
-        "nz": "2026-10-03"
+        "nz": "2026-10-03",
+        "err": "404 Client Error: Not Found for url: https://deepbluecap.com/careers/",
+        "ef": "2026-10-03"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -34116,9 +34118,7 @@
         "ats": "pagewatch",
         "ok": "2026-10-03",
         "n": 1,
-        "nz": "2026-10-03",
-        "err": "404 Client Error: Not Found for url: https://jobs.kaiko.ai/",
-        "ef": "2026-10-03"
+        "nz": "2026-10-03"
       },
       "Quant SPA: Exegy": {
         "since": "2026-10-01",
@@ -35595,5 +35595,10 @@
     "title": "Intern - Software Engineering",
     "url": "https://job-boards.greenhouse.io/profluent/jobs/5441955008",
     "sig": "profluent|intern software engineering"
+  },
+  "https://jobs.smartrecruiters.com/aecom2/744000153336639": {
+    "title": "Roadway Engineering Intern - Networking Event with AECOM – Atlanta, GA",
+    "url": "https://jobs.smartrecruiters.com/AECOM2/744000153336639",
+    "sig": "aecom2|roadway engineering intern networking event with aecom atlanta ga"
   }
 }
