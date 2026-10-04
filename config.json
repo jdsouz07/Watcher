@@ -1090,7 +1090,9 @@
       "watch_keywords": [
         "2027",
         "intern"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (403 Client Error: Forbidden for url: https://careers.leidos.)"
     },
     {
       "name": "Page: Booz Allen careers",
@@ -1108,7 +1110,9 @@
       "watch_keywords": [
         "2027",
         "intern"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (405 Client Error: Not Allowed for url: https://careers-gdms.)"
     },
     {
       "name": "Lab: MIT Lincoln Laboratory internships",
@@ -1187,7 +1191,9 @@
         "data science intern",
         "pathways intern engineering"
       ],
-      "note": "needs free USAJOBS_API_KEY + USAJOBS_EMAIL secrets"
+      "note": "needs free USAJOBS_API_KEY + USAJOBS_EMAIL secrets",
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (no USAJOBS_API_KEY/USAJOBS_EMAIL secret set -- get a free ke)"
     },
     {
       "name": "Program: NSF ETAP (all NSF REUs)",
@@ -1427,7 +1433,9 @@
         "register",
         "deadline"
       ],
-      "note": ""
+      "note": "",
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (406 Client Error: Not Acceptable for url: https://www.ycombi)"
     },
     {
       "name": "Lab: MIT Lincoln Laboratory summer program",
@@ -1471,7 +1479,9 @@
     {
       "name": "Bessemer Fellows (relaunch detector)",
       "ats": "greenhouse",
-      "token": "bessemerventurepartnersfellows"
+      "token": "bessemerventurepartnersfellows",
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://boards-api.gree)"
     },
     {
       "name": "Kleiner Perkins Fellows",
@@ -2186,7 +2196,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://www.bam.com/car)"
     },
     {
       "name": "Quant SPA: Millennium",
@@ -2197,7 +2209,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (HTTPSConnectionPool(host='careers.mlp.com', port=443): Max r)"
     },
     {
       "name": "Quant SPA: Citadel",
@@ -2208,7 +2222,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (403 Client Error: Forbidden for url: https://www.citadel.com)"
     },
     {
       "name": "Quant SPA: Citadel Securities",
@@ -2219,7 +2235,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (403 Client Error: Forbidden for url: https://www.citadelsecu)"
     },
     {
       "name": "Quant SPA: Two Sigma",
@@ -2230,7 +2248,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://careers.twosigm)"
     },
     {
       "name": "Quant SPA: Verition",
@@ -2241,7 +2261,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://www.verition.co)"
     },
     {
       "name": "Quant SPA: Peak6",
@@ -2285,7 +2307,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://www.mavensecuri)"
     },
     {
       "name": "Quant SPA: Voleon",
@@ -2296,7 +2320,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://voleon.com/care)"
     },
     {
       "name": "Quant SPA: GTS",
@@ -2329,7 +2355,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (HTTPSConnectionPool(host='www.allstontrading.com', port=443))"
     },
     {
       "name": "Quant SPA: Quantlab",
@@ -2340,7 +2368,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (403 Client Error: Forbidden for url: https://www.quantlab.co)"
     },
     {
       "name": "Quant SPA: Cboe",
@@ -2362,7 +2392,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://www.radix-tradi)"
     },
     {
       "name": "Quant SPA: Headlands Tech",
@@ -2537,7 +2569,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (403 Client Error: Forbidden for url: https://www.bloomberg.c)"
     },
     {
       "name": "Firm SPA: Capital One",
@@ -2559,7 +2593,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://careers.blackro)"
     },
     {
       "name": "Firm SPA: Apollo Global",
@@ -2581,7 +2617,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://jobs.rbc.com/ca)"
     },
     {
       "name": "Firm SPA: Salesforce Futureforce",
@@ -3005,7 +3043,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://www.xrtrading.c)"
     },
     {
       "name": "Quant SPA: Sumo Capital",
@@ -3049,7 +3089,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://www.prime-tradi)"
     },
     {
       "name": "Quant SPA: Consolidated Trading",
@@ -3060,7 +3102,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (HTTPSConnectionPool(host='www.consolidatedtrading.com', port)"
     },
     {
       "name": "Quant SPA: Edgehog Trading",
@@ -3071,7 +3115,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (429 Client Error: Too Many Requests for url: https://www.edg)"
     },
     {
       "name": "Quant SPA: Nico Trading (Nico Holdings)",
@@ -3082,7 +3128,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (HTTPSConnectionPool(host='www.nicotrading.com', port=443): M)"
     },
     {
       "name": "Quant SPA: Volant Trading",
@@ -3291,7 +3339,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (HTTPSConnectionPool(host='www.nyenburgh.com', port=443): Max)"
     },
     {
       "name": "Quant SPA: XBTO",
@@ -3324,7 +3374,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (403 Client Error: Forbidden for url: https://dexterity.capit)"
     },
     {
       "name": "Quant SPA: Chaos Labs",
@@ -3390,7 +3442,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (403 Client Error: Forbidden for url: https://www.quantlab.co)"
     },
     {
       "name": "Quant SPA: Trexquant Investment",
@@ -3555,7 +3609,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (HTTPSConnectionPool(host='sescollc.com', port=443): Max retr)"
     },
     {
       "name": "Quant SPA: Elmagin Capital",
@@ -3577,7 +3633,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (HTTPSConnectionPool(host='mercuria.com', port=443): Max retr)"
     },
     {
       "name": "Quant SPA: Freepoint Commodities",
@@ -3599,7 +3657,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (403 Client Error: Forbidden for url: https://www.hartreepart)"
     },
     {
       "name": "Quant SPA: Tenaska (Power Services)",
@@ -3665,7 +3725,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (HTTPSConnectionPool(host='www.skylarcapital.com', port=443):)"
     },
     {
       "name": "Quant SPA: Saracen Energy",
@@ -3709,7 +3771,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (HTTPSConnectionPool(host='www.hctech.com', port=443): Max re)"
     },
     {
       "name": "Quant SPA: XO Energy",
@@ -3742,7 +3806,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (403 Client Error: Forbidden for url: https://acespower.com/c)"
     },
     {
       "name": "Quant SPA: Nodal Exchange",
@@ -3786,7 +3852,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (HTTPSConnectionPool(host='www.seveneightcapital.com', port=4)"
     },
     {
       "name": "Quant SPA: Jain Global",
@@ -3907,7 +3975,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (HTTPSConnectionPool(host='marathontradingllc.com', port=443))"
     },
     {
       "name": "Quant SPA: Tradition (Compagnie Financiere Tradition / TFS)",
@@ -4006,7 +4076,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (HTTPSConnectionPool(host='www.millburncorp.com', port=443): )"
     },
     {
       "name": "Quant SPA: Welton Investment Partners",
@@ -4160,7 +4232,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://www.tradeweb.co)"
     },
     {
       "name": "Quant SPA: Kaiko",
@@ -4281,7 +4355,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://www.cqg.com/abo)"
     },
     {
       "name": "Quant SPA: Barchart",
@@ -4369,7 +4445,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (429 Client Error: Too Many Requests for url: https://www.aqu)"
     },
     {
       "name": "Quant SPA: TS Imagine",
@@ -4413,7 +4491,9 @@
         "2027",
         "summer",
         "campus"
-      ]
+      ],
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (HTTPSConnectionPool(host='www.hudson-fintech.com', port=443))"
     },
     {
       "name": "Quant SPA: Geneva Trading (open positions)",
@@ -5783,21 +5863,27 @@
       "ats": "greenhouse",
       "token": "cerebras",
       "lane": "startup",
-      "verified": true
+      "verified": true,
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://boards-api.gree)"
     },
     {
       "name": "Startup: Groq",
       "ats": "greenhouse",
       "token": "groq",
       "lane": "startup",
-      "verified": true
+      "verified": true,
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://boards-api.gree)"
     },
     {
       "name": "Startup: Lambda",
       "ats": "greenhouse",
       "token": "lambda",
       "lane": "startup",
-      "verified": true
+      "verified": true,
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://boards-api.gree)"
     },
     {
       "name": "Startup: Supabase",
@@ -5825,7 +5911,9 @@
       "ats": "greenhouse",
       "token": "sentry",
       "lane": "startup",
-      "verified": true
+      "verified": true,
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://boards-api.gree)"
     },
     {
       "name": "Startup: Tailscale",
@@ -5839,7 +5927,9 @@
       "ats": "greenhouse",
       "token": "rippling",
       "lane": "startup",
-      "verified": true
+      "verified": true,
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://boards-api.gree)"
     },
     {
       "name": "Startup: Deel",
@@ -5881,7 +5971,9 @@
       "ats": "greenhouse",
       "token": "appliedintuition",
       "lane": "startup",
-      "verified": true
+      "verified": true,
+      "enabled": false,
+      "disabled_note": "2026-10-04 source-health: failed every run since tracking began 2026-10-01 (404 Client Error: Not Found for url: https://boards-api.gree)"
     },
     {
       "name": "Startup: Zipline",
