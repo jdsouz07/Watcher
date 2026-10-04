@@ -13671,7 +13671,8 @@
   },
   "https://draftkings.wd1.myworkdayjobs.com/en-us/campus_career_portal/job/boston-ma/software-engineer-intern--summer-2027-_jr14928": {
     "title": "Software Engineer Intern - Summer 2027",
-    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928"
+    "url": "https://draftkings.wd1.myworkdayjobs.com/en-US/campus_career_portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928",
+    "sig": "draftkings|software engineer intern"
   },
   "https://lifeattiktok.com/search/7572665884037826869": {
     "title": "Software Engineer Intern - Ads Infrastructure",
@@ -19381,8 +19382,8 @@
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125"
   },
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-us/careers/job/plantation-fl/dsp--digital-signal-processing--software-engineering-intern---summer-2027_r68734": {
-    "title": "DSP - Digital Signal Processing Software Engineering Intern - Summer 2027",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
+    "title": "DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
     "sig": "motorolasolutions|dsp digital signal processing software engineering intern"
   },
   "https://intactfc.wd3.myworkdayjobs.com/en-us/intactfc/job/hong-kong-science-park-hk/ai-developer-i--hk---winter-2027_r155622-1": {
@@ -19439,8 +19440,8 @@
     "sig": "qtsdatacenters|intern learning and development programs administrator"
   },
   "https://hp.wd5.myworkdayjobs.com/en-us/exteu-ac-careersite/job/spring-texas-united-states-of-america/software-internship-roles---hp-solutions--hps-_3167906": {
-    "title": "Software Internship Roles - HP Solutions (HPS)",
-    "url": "https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906",
+    "title": "Software Internship Roles - HP Solutions - HPS",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/exteu-ac-careersite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906",
     "sig": "hp|software intern roles hp solutions hps"
   },
   "https://momentive.wd1.myworkdayjobs.com/en-us/mc/job/us-ny-pearl-river/summer-2027-intern-research-intern-for-polymers_r9781": {
@@ -20278,7 +20279,8 @@
   },
   "https://careersus-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job": {
     "title": "Cloud DevOps Engineer Intern",
-    "url": "https://careersus-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job"
+    "url": "https://careersus-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job",
+    "sig": "shure|cloud devops engineer intern"
   },
   "https://clearwateranalytics.wd1.myworkdayjobs.com/en-us/clearwater_analytics_careers/job/office---chicago/software-development-intern_r12186": {
     "title": "Software Development Intern",
@@ -27676,7 +27678,8 @@
   },
   "https://jobs.statefarm.com/jobs/45689?icims=1": {
     "title": "Software Developer Intern - HR&D",
-    "url": "https://jobs.statefarm.com/jobs/45689?icims=1"
+    "url": "https://jobs.statefarm.com/jobs/45689?icims=1",
+    "sig": "statefarm|software developer intern hr d"
   },
   "https://careers.withwaymo.com/jobs?gh_jid=8224746": {
     "title": "Machine Learning Engineer Intern - Road Understanding",
@@ -32112,7 +32115,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-10-04",
-        "n": 380,
+        "n": 377,
         "nz": "2026-10-04"
       },
       "OpenAI": {
@@ -32128,7 +32131,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-04",
-        "n": 639,
+        "n": 638,
         "nz": "2026-10-04"
       },
       "Databricks": {
@@ -32151,7 +32154,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-04",
-        "n": 2431,
+        "n": 2430,
         "nz": "2026-10-04"
       },
       "Palantir": {
@@ -32230,7 +32233,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-04",
-        "n": 111349,
+        "n": 111297,
         "nz": "2026-10-04"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32250,7 +32253,7 @@
         "since": "2026-10-01",
         "ats": "github_md",
         "ok": "2026-10-04",
-        "n": 757,
+        "n": 763,
         "nz": "2026-10-04"
       },
       "Tracker: vanshb03 Summer2027": {
@@ -32264,7 +32267,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-04",
-        "n": 1766,
+        "n": 2047,
         "nz": "2026-10-04"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32624,7 +32627,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-04",
         "n": 1,
-        "nz": "2026-10-04"
+        "nz": "2026-10-04",
+        "err": "HTTPSConnectionPool(host='group1.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(ho",
+        "ef": "2026-10-04"
       },
       "Quant SPA: Wolverine Trading": {
         "since": "2026-10-01",
@@ -32772,7 +32777,7 @@
         "ats": "ashby",
         "token": "ramp",
         "ok": "2026-10-04",
-        "n": 157,
+        "n": 158,
         "nz": "2026-10-04"
       },
       "Quant/Tech: Modal Labs": {
@@ -32804,7 +32809,7 @@
         "ats": "ashby",
         "token": "anyscale",
         "ok": "2026-10-04",
-        "n": 21,
+        "n": 20,
         "nz": "2026-10-04"
       },
       "Startup: Brex": {
@@ -33794,7 +33799,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-04",
         "n": 1,
-        "nz": "2026-10-04"
+        "nz": "2026-10-04",
+        "err": "HTTPSConnectionPool(host='www.bostonenergygroup.com', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HT",
+        "ef": "2026-10-04"
       },
       "Quant SPA: Statar Capital": {
         "since": "2026-10-01",
@@ -35682,5 +35689,40 @@
     "title": "Product Engineer Placement Intern",
     "url": "https://jobs.ashbyhq.com/incident/2f692a4d-91b4-4d0f-ae39-b38b68a24a27/application?embed=true",
     "sig": "incidentio|product engineer placement intern"
+  },
+  "https://jobs.smartrecruiters.com/nbcuniversal3/744000153373639": {
+    "title": "Audience Insights & Analytics Intern",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153373639",
+    "sig": "nbcuniversal3|audience insights analytics intern"
+  },
+  "https://jobs.smartrecruiters.com/nbcuniversal3/744000153372699": {
+    "title": "Scripted Development Intern",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153372699",
+    "sig": "nbcuniversal3|scripted development intern"
+  },
+  "https://cerved.wd3.myworkdayjobs.com/en-us/cerved/job/san-donato-milanese-italy/developer-intern_r-0000003562": {
+    "title": "Developer Intern",
+    "url": "https://cerved.wd3.myworkdayjobs.com/en-US/cerved/job/San-Donato-Milanese-Italy/Developer-Intern_R-0000003562",
+    "sig": "cerved|developer intern"
+  },
+  "https://cerved.wd3.myworkdayjobs.com/en-us/cerved/job/san-donato-milanese-italy/hr-talent---culture-intern_r-0000003504": {
+    "title": "HR Talent & Analytics Intern",
+    "url": "https://cerved.wd3.myworkdayjobs.com/en-US/cerved/job/San-Donato-Milanese-Italy/HR-Talent---Culture-Intern_R-0000003504",
+    "sig": "cerved|hr talent analytics intern"
+  },
+  "https://idtus.pinpointhq.com/en/postings/0be468fd-19df-4455-b4a2-5c4392574805": {
+    "title": "Software Systems Engineer Intern",
+    "url": "https://idtus.pinpointhq.com/en/postings/0be468fd-19df-4455-b4a2-5c4392574805",
+    "sig": "innovativedefense|software systems engineer intern"
+  },
+  "https://idtus.pinpointhq.com/en/postings/58417813-ec8f-4d3b-9728-40b13c6b358d": {
+    "title": "Software Systems Engineer Intern",
+    "url": "https://idtus.pinpointhq.com/en/postings/58417813-ec8f-4d3b-9728-40b13c6b358d",
+    "sig": "innovativedefense|software systems engineer intern"
+  },
+  "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/east-syracuse-ny-collamer/systems-engineering-co-op--summer-2027-_r-03231-1": {
+    "title": "Systems Engineer Co-op",
+    "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Systems-Engineering-Co-Op--Summer-2027-_R-03231-1",
+    "sig": "saab|systems engineer coop"
   }
 }
