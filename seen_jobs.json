@@ -1243,9 +1243,9 @@
     "sig": "intel|software engineer intern"
   },
   "https://intel.wd1.myworkdayjobs.com/en-us/external/job/us-oregon-hillsboro/software-engineering---intern--bachelor-s_jr0286834": {
-    "title": "Software Engineering - Intern - Bachelor’s",
-    "url": "https://intel.wd1.myworkdayjobs.com/en-US/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834",
-    "sig": "intel|software engineering intern bachelor s"
+    "title": "Software Engineer Intern",
+    "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Bachelor-s_JR0286834",
+    "sig": "intel|software engineer intern"
   },
   "https://intel.wd1.myworkdayjobs.com/en-us/external/job/malaysia-penang/intern-systems-software-development-engineer_jr0286499": {
     "title": "Intern Systems Software Development Engineer",
@@ -11075,9 +11075,9 @@
     "sig": "hcmportal|ups information security intern ga"
   },
   "https://hcmportal.wd5.myworkdayjobs.com/en-us/search/job/us---ups-corporate-offices-gacor/ups-global-finance-summer-2027-analytics-internship_r26030589": {
-    "title": "UPS Global Finance Summer 2027 Analytics Internship",
+    "title": "Finance Analytics Intern - Global Finance",
     "url": "https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/UPS-Global-Finance-Summer-2027-Analytics-Internship_R26030589",
-    "sig": "hcmportal|ups global finance analytics intern"
+    "sig": "unitedparcelservice|finance analytics intern global finance"
   },
   "https://criteo.wd3.myworkdayjobs.com/en-us/criteo_career_site/job/paris/product-data-scientist-intern_r15715-1": {
     "title": "Product Data Scientist Intern",
@@ -20873,9 +20873,9 @@
     "sig": "basepower|software engineering intern"
   },
   "https://coreandmain.wd1.myworkdayjobs.com/en-us/coreandmain/job/saint-louis-mo-63146/intern---data-engineering----corp_45804": {
-    "title": "Data Engineering Intern",
+    "title": "Intern - AI Intern - Copilot-  Onsite - St. Louis",
     "url": "https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
-    "sig": "coremain|data engineering intern"
+    "sig": "coreandmain|intern ai intern copilot onsite st louis"
   },
   "https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9": {
     "title": "2027 Internship Hardware Engineer, Machine Integration & Test",
@@ -32136,7 +32136,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-10-04",
-        "n": 886,
+        "n": 887,
         "nz": "2026-10-04"
       },
       "Page: Microsoft Careers": {
@@ -32230,7 +32230,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-04",
-        "n": 111311,
+        "n": 111349,
         "nz": "2026-10-04"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32264,7 +32264,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-04",
-        "n": 2078,
+        "n": 1766,
         "nz": "2026-10-04"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -34367,7 +34367,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-10-04",
-        "n": 168,
+        "n": 171,
         "nz": "2026-10-04"
       },
       "Startup: Harvey": {
@@ -34489,7 +34489,7 @@
         "ats": "ashby",
         "token": "cognition",
         "ok": "2026-10-04",
-        "n": 103,
+        "n": 101,
         "nz": "2026-10-04"
       },
       "Startup: Decagon": {
@@ -35637,5 +35637,50 @@
   "health::2026-W40": {
     "title": "health report checked",
     "url": ""
+  },
+  "https://jobs.smartrecruiters.com/nbcuniversal3/744000153371465": {
+    "title": "Data Analytics Intern",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153371465",
+    "sig": "nbcuniversal3|data analytics intern"
+  },
+  "https://apply.workable.com/j/ceff400d40": {
+    "title": "Product Development Associate (January - May) 2027 Engineering Co-op",
+    "url": "https://apply.workable.com/j/CEFF400D40",
+    "sig": "cornerstoneresearch|product development associate january may engineering coop"
+  },
+  "https://lifeattiktok.com/search/7646621925436131637": {
+    "title": "AI Software Engineer Intern - Transaction Platform",
+    "url": "https://lifeattiktok.com/search/7646621925436131637",
+    "sig": "tiktok|ai software engineer intern transaction platform"
+  },
+  "https://lifeattiktok.com/search/7670875283026053381": {
+    "title": "Machine Learning MLOps Intern - Global Site Reliability Engineering",
+    "url": "https://lifeattiktok.com/search/7670875283026053381",
+    "sig": "tiktok|machine learning mlops intern global site reliability engineering"
+  },
+  "https://careers.amd.com/jobs/91359?icims=1": {
+    "title": "Graphics Software Engineer Intern/Co-op",
+    "url": "https://careers.amd.com/jobs/91359?icims=1",
+    "sig": "amd|graphics software engineer intern coop"
+  },
+  "https://hdjq.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26010048": {
+    "title": "Software Engineer Co-op",
+    "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048",
+    "sig": "emersonelectric|software engineer coop"
+  },
+  "https://theocc.wd5.myworkdayjobs.com/careers/job/chicago---125-s-franklin/summer-intern---quantitative-risk-management_req-4864": {
+    "title": "Quantitative Risk Management Intern",
+    "url": "https://theocc.wd5.myworkdayjobs.com/careers/job/Chicago---125-S-Franklin/Summer-Intern---Quantitative-Risk-Management_REQ-4864",
+    "sig": "occ|quantitative risk management intern"
+  },
+  "https://itron.wd5.myworkdayjobs.com/early_careers/job/united-states-of-america-washington-liberty-lake/intern---data-science--distributed-intelligence_jr102942-2": {
+    "title": "Data Science Intern - Distributed Intelligence",
+    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2",
+    "sig": "itron|data science intern distributed intelligence"
+  },
+  "https://jobs.ashbyhq.com/incident/2f692a4d-91b4-4d0f-ae39-b38b68a24a27/application?embed=true": {
+    "title": "Product Engineer Placement Intern",
+    "url": "https://jobs.ashbyhq.com/incident/2f692a4d-91b4-4d0f-ae39-b38b68a24a27/application?embed=true",
+    "sig": "incidentio|product engineer placement intern"
   }
 }
