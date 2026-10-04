@@ -26335,7 +26335,7 @@
   "https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813": {
     "title": "Software Engineer - Legacy Applications & Modernization - Intern/Part Time",
     "url": "https://jobs.lever.co/cscgeneration-2/3a04b45f-a2eb-438a-a8ac-b07324223813",
-    "sig": "cscgeneration2|software engineer legacy applications modernization intern part time"
+    "sig": "cscgeneration|software engineer legacy applications modernization intern part time"
   },
   "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ma-marlborough-ma2--1001-boston-post-rd--bldg-2/software-engineer-intern--summer-2027-_01875743": {
     "title": "Software Engineer Intern",
@@ -32154,7 +32154,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-04",
-        "n": 2430,
+        "n": 2432,
         "nz": "2026-10-04"
       },
       "Palantir": {
@@ -32211,7 +32211,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-04",
         "n": 1,
-        "nz": "2026-10-04"
+        "nz": "2026-10-04",
+        "err": "HTTPSConnectionPool(host='careers.gatech.edu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(h",
+        "ef": "2026-10-04"
       },
       "Flow Traders": {
         "since": "2026-10-01",
@@ -32233,7 +32235,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-04",
-        "n": 111297,
+        "n": 110702,
         "nz": "2026-10-04"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32267,7 +32269,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-04",
-        "n": 2047,
+        "n": 2046,
         "nz": "2026-10-04"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32627,9 +32629,7 @@
         "ats": "pagewatch",
         "ok": "2026-10-04",
         "n": 1,
-        "nz": "2026-10-04",
-        "err": "HTTPSConnectionPool(host='group1.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(ho",
-        "ef": "2026-10-04"
+        "nz": "2026-10-04"
       },
       "Quant SPA: Wolverine Trading": {
         "since": "2026-10-01",
@@ -32785,7 +32785,7 @@
         "ats": "ashby",
         "token": "modal",
         "ok": "2026-10-04",
-        "n": 38,
+        "n": 37,
         "nz": "2026-10-04"
       },
       "Startup: Robinhood": {
@@ -33601,7 +33601,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-04",
         "n": 1,
-        "nz": "2026-10-04"
+        "nz": "2026-10-04",
+        "err": "404 Client Error: Not Found for url: https://deepbluecap.com/careers/",
+        "ef": "2026-10-04"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33799,9 +33801,7 @@
         "ats": "pagewatch",
         "ok": "2026-10-04",
         "n": 1,
-        "nz": "2026-10-04",
-        "err": "HTTPSConnectionPool(host='www.bostonenergygroup.com', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HT",
-        "ef": "2026-10-04"
+        "nz": "2026-10-04"
       },
       "Quant SPA: Statar Capital": {
         "since": "2026-10-01",
@@ -34350,7 +34350,7 @@
         "ats": "ashby",
         "token": "vanta",
         "ok": "2026-10-04",
-        "n": 84,
+        "n": 83,
         "nz": "2026-10-04"
       },
       "Startup: Replit": {
@@ -34374,7 +34374,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-10-04",
-        "n": 171,
+        "n": 169,
         "nz": "2026-10-04"
       },
       "Startup: Harvey": {
@@ -35852,5 +35852,10 @@
   "rss::f3c66464d5ec8cf1": {
     "title": "Durlston Partners",
     "url": "https://www.reddit.com/r/quant/comments/1wursjg/durlston_partners/"
+  },
+  "https://primient.wd1.myworkdayjobs.com/en-us/external_careers/job/schaumburg-il/ai-analyst-intern---summer-2027_jreq7056": {
+    "title": "AI Analyst Intern - Summer 2027",
+    "url": "https://primient.wd1.myworkdayjobs.com/en-US/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056",
+    "sig": "primient|ai analyst intern"
   }
 }
