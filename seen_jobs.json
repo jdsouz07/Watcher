@@ -11445,7 +11445,8 @@
   },
   "https://finastra.wd3.myworkdayjobs.com/en-us/finc/job/atlanta/ai-engineer-intern--summer-2027-_req0826_0038079": {
     "title": "AI Engineer Intern (Summer 2027)",
-    "url": "https://finastra.wd3.myworkdayjobs.com/en-US/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079"
+    "url": "https://finastra.wd3.myworkdayjobs.com/en-US/FINC/job/Atlanta/AI-Engineer-Intern--Summer-2027-_REQ0826_0038079",
+    "sig": "finastra|ai engineer intern"
   },
   "https://interdigital.wd5.myworkdayjobs.com/en-us/interdigital_intern/job/melville-ny/intern--wifi---wireless-researcher_req25-1051": {
     "title": "Intern, WIFI - Wireless Researcher",
@@ -13184,9 +13185,9 @@
     "url": "https://fanniemae.wd1.myworkdayjobs.com/en-US/FannieMaeCareers/job/Washington-DC/Campus---Treasury---Capital-Markets-Program-Intern--Quantitative-Research-Track-_JR2872"
   },
   "https://job-boards.greenhouse.io/bti36021/jobs/8155152": {
-    "title": "Software Engineering Intern",
+    "title": "Software Engineer Intern",
     "url": "https://job-boards.greenhouse.io/bti36021/jobs/8155152",
-    "sig": "bti36021|software engineering intern"
+    "sig": "bti360|software engineer intern"
   },
   "https://job-boards.greenhouse.io/compeerfinancial/jobs/5409874008": {
     "title": "Data Analytics Intern",
@@ -19382,8 +19383,8 @@
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125"
   },
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-us/careers/job/plantation-fl/dsp--digital-signal-processing--software-engineering-intern---summer-2027_r68734": {
-    "title": "DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
+    "title": "DSP - Digital Signal Processing Software Engineering Intern - Summer 2027",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
     "sig": "motorolasolutions|dsp digital signal processing software engineering intern"
   },
   "https://intactfc.wd3.myworkdayjobs.com/en-us/intactfc/job/hong-kong-science-park-hk/ai-developer-i--hk---winter-2027_r155622-1": {
@@ -21101,28 +21102,33 @@
     "sig": "parsons|cno development intern coop"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/backend-software-engineer-intern--undergraduate-_r22593": {
-    "title": "Fullstack Software Engineer Intern - Undergraduate",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593"
+    "title": "Fullstack Software Engineer Intern (Undergraduate)",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
+    "sig": "wexinc|fullstack software engineer intern undergraduate"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/devops---backend-software-engineer-intern--undergraduate-_r22584": {
     "title": "DevOps & Backend Software Engineer Intern - Undergraduate",
     "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/software-engineer-intern---ai---cloud--graduate-master-s-_r22546": {
-    "title": "Software Engineer Intern - AI & Cloud - Graduate/Master’s",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546"
+    "title": "Software Engineer Intern – AI & Cloud (Graduate/Master’s)",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
+    "sig": "wexinc|software engineer intern ai cloud graduate master s"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/backend-software-engineer-intern---java---ai--master-s-_r22547": {
-    "title": "Backend Software Engineer Intern - Java & AI - Master’s",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547"
+    "title": "Backend Software Engineer Intern - Java & AI (Master’s)",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
+    "sig": "wexinc|backend software engineer intern java ai master s"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/backend-software-engineer-intern---c--java---ai-workflows--undergraduate-_r22586": {
-    "title": "Backend Software Engineer Intern - C#/Java & AI Workflows - Undergraduate",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586"
+    "title": "Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate)",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
+    "sig": "wexinc|backend software engineer intern c# java ai workflows undergraduate"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/backend-software-engineer-intern---c---cloud-security---ai--undergraduate-_r22589": {
-    "title": "Backend Software Engineer Intern - C# - Cloud Security & AI - Undergraduate",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"
+    "title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
+    "sig": "wexinc|backend software engineer intern c# cloud security ai undergraduate"
   },
   "https://clarios.wd5.myworkdayjobs.com/en-us/clarioscareers/job/united-states-wisconsin-milwaukee/people-analytics---ai-intern--summer-2027-_wd50216": {
     "title": "People Analytics & AI Intern (Summer 2027)",
@@ -21446,16 +21452,19 @@
     "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Formal-Methods-Researcher-Graduate-Intern_R016552"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/data---ai-intern--graduate-master-s-_r22551": {
-    "title": "Data & AI Intern",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551"
+    "title": "Data & AI Intern (Graduate/Master’s)",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551",
+    "sig": "wexinc|data ai intern graduate master s"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/devops---ai-engineering-intern--undergraduate-_r23056": {
-    "title": "DevOps & AI Engineering Intern - Undergraduate",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056"
+    "title": "DevOps & AI Engineering Intern (Undergraduate)",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
+    "sig": "wexinc|devops ai engineering intern undergraduate"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/ai---data-platform-engineering-intern--undergraduate-_r23055": {
     "title": "AI & Data Platform Engineering Intern (Undergraduate)",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
+    "sig": "wexinc|ai data platform engineering intern undergraduate"
   },
   "https://labcorp.wd1.myworkdayjobs.com/en-us/external/job/durham-nc/intern---software-developer_2632330": {
     "title": "Intern - Software Developer",
@@ -23631,9 +23640,9 @@
     "sig": "rocketlab|security analyst intern"
   },
   "https://job-boards.greenhouse.io/nanopathinc/jobs/4605529005": {
-    "title": "Diagnostics Development Co-op (Jan '27 Start)",
+    "title": "Diagnostics Development Engineering Co-op (Jan '27 Start)",
     "url": "https://job-boards.greenhouse.io/nanopathinc/jobs/4605529005",
-    "sig": "nanopathinc|diagnostics development coop jan 27 start"
+    "sig": "nanopathinc|diagnostics development engineering coop jan 27 start"
   },
   "https://job-boards.greenhouse.io/nanopathinc/jobs/4605514005": {
     "title": "Research Associate Co-op (Jan '27 Start)",
@@ -24399,9 +24408,9 @@
     "sig": "rjet|data analytics intern"
   },
   "https://fis.wd5.myworkdayjobs.com/en-us/searchjobs/job/us-fl-jax-347/intern--software-engineer--fis-university-program_jr0309512": {
-    "title": "Software Engineering Intern Pipeline",
+    "title": "Intern - Software Engineer - FIS University Program",
     "url": "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-FL-JAX-347/Intern--Software-Engineer--FIS-University-Program_JR0309512",
-    "sig": "fis|software engineering intern pipeline"
+    "sig": "fis|intern software engineer fis university program"
   },
   "https://fis.wd5.myworkdayjobs.com/en-us/searchjobs/job/us-fl-jax-347/intern--data-analytics-and-ai--fis-university-program_jr0309690": {
     "title": "Data Analytics & AI Intern Pipeline",
@@ -25574,9 +25583,9 @@
     "sig": "autozone|data science intern"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-in-ft-wayne-150a--1010-production-rd--bldg-150a/software-engineering-intern--summer-2027-_01875725": {
-    "title": "Software Engineering Intern (Summer 2027)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01875725",
-    "sig": "rtx|software engineering intern"
+    "title": "Software Engineering Intern - Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering-Intern--Summer-2027-_01875725",
+    "sig": "raytheon|software engineering intern"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-tx-richardson-461--3200-e-renner-rd--renner-bldg-461/systems-engineering-intern----integrated-platforms--onsite-_01875874": {
     "title": "Systems Engineering Intern  – Integrated Platforms (Onsite)",
@@ -25698,7 +25707,8 @@
   },
   "https://tysonfoods.wd5.myworkdayjobs.com/en-us/tsn/job/corporate---springdale-arkansas/research-and-development-year-round-intern_r0480075-2": {
     "title": "Research and Development Year Round Intern",
-    "url": "https://tysonfoods.wd5.myworkdayjobs.com/en-US/TSN/job/Corporate---Springdale-Arkansas/Research-and-Development-Year-Round-Intern_R0480075-2"
+    "url": "https://tysonfoods.wd5.myworkdayjobs.com/en-US/TSN/job/Corporate---Springdale-Arkansas/Research-and-Development-Year-Round-Intern_R0480075-2",
+    "sig": "tysonfoods|research and development year round intern"
   },
   "https://commercebank.wd1.myworkdayjobs.com/en-us/commercejobs/job/mo---kansas-city-downtownplaza---kansas-city---kc-downtown-trust-building-922-walnut-64106/intern-eabi---data-science-summer-2027_38483": {
     "title": "Intern - Data Science (Summer 2027)",
@@ -29584,7 +29594,8 @@
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-fl-melbourne-307--1100-w-hibiscus-blvd--bldg-307/systems-engineering-intern---cns-onsite_01876809": {
     "title": "Systems Engineering Intern - CNS-Onsite",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern---CNS-Onsite_01876809"
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-307--1100-W-Hibiscus-Blvd--BLDG-307/Systems-Engineering-Intern---CNS-Onsite_01876809",
+    "sig": "rtx|systems engineering intern cns onsite"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-fl-melbourne-307--1100-w-hibiscus-blvd--bldg-307/systems-engineering-intern--weather-radar_01876489": {
     "title": "Systems Engineering Intern, Weather Radar",
@@ -29814,11 +29825,13 @@
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-fl-melbourne-313--1344-s-babcock-st--bldg-313/systems-engineer-intern--onsite_01876452": {
     "title": "Systems Engineer Intern- Onsite",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Systems-Engineer-Intern--Onsite_01876452"
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-MELBOURNE-313--1344-S-Babcock-St--BLDG-313/Systems-Engineer-Intern--Onsite_01876452",
+    "sig": "rtx|systems engineer intern onsite"
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-arizona-chandler/xmlname-2027-systems-engineering-intern---chandler-az_r10253325": {
     "title": "2027 Systems Engineering Intern - Chandler AZ",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325"
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/XMLNAME-2027-Systems-Engineering-Intern---Chandler-AZ_R10253325",
+    "sig": "northropgrumman|systems engineering intern chandler az"
   },
   "https://gevernova.wd5.myworkdayjobs.com/en-us/vernova_externalsite/job/bellevue/ge-vernova---machine-learning-software-intern---summer-2027_r5050656-1": {
     "title": "GE Vernova - Machine Learning Software Intern - Summer 2027",
@@ -30830,7 +30843,8 @@
   },
   "https://accenture.wd103.myworkdayjobs.com/en-us/accenturecareers/job/warsaw/python-developer-internship-program--she-he-they-_r00360653": {
     "title": "Python Developer Internship Program (She/He/They)",
-    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Python-Developer-Internship-Program--She-He-They-_R00360653"
+    "url": "https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Warsaw/Python-Developer-Internship-Program--She-He-They-_R00360653",
+    "sig": "accenture|python developer intern program she he they"
   },
   "https://gilead.wd1.myworkdayjobs.com/en-us/gileadcareers/job/united-states---california---foster-city/intern---pdm---formulation---process-development_r0054764": {
     "title": "Intern - PDM - Formulation & Process Development",
@@ -30881,9 +30895,9 @@
     "sig": "rtx|systems engineering coop boeing platforms displays"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-in-ft-wayne-150a--1010-production-rd--bldg-150a/software-engineering--intern--summer-2027-_01878986": {
-    "title": "Software Engineering Intern - Summer 2027",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986",
-    "sig": "raytheon|software engineering intern"
+    "title": "Software Engineering  Intern (Summer 2027)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Software-Engineering--Intern--Summer-2027-_01878986",
+    "sig": "rtx|software engineering intern"
   },
   "https://vanderlande.wd3.myworkdayjobs.com/en-us/careers/job/veghel-netherlands/graduation--java-performance-optimization-in-microservices_jr38257": {
     "title": "Internship: Java Performance Optimization in Microservices",
@@ -32018,7 +32032,7 @@
         "ats": "greenhouse",
         "token": "blackedgecapital",
         "ok": "2026-10-05",
-        "n": 6,
+        "n": 5,
         "nz": "2026-10-05"
       },
       "Akuna Capital": {
@@ -32050,7 +32064,7 @@
         "ats": "greenhouse",
         "token": "optiverprivate",
         "ok": "2026-10-05",
-        "n": 10,
+        "n": 9,
         "nz": "2026-10-05"
       },
       "Walleye (Quantic)": {
@@ -32116,7 +32130,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-10-05",
-        "n": 377,
+        "n": 374,
         "nz": "2026-10-05"
       },
       "OpenAI": {
@@ -32124,7 +32138,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-05",
-        "n": 828,
+        "n": 829,
         "nz": "2026-10-05"
       },
       "Anthropic": {
@@ -32132,7 +32146,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-05",
-        "n": 639,
+        "n": 637,
         "nz": "2026-10-05"
       },
       "Databricks": {
@@ -32140,7 +32154,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-10-05",
-        "n": 886,
+        "n": 891,
         "nz": "2026-10-05"
       },
       "Page: Microsoft Careers": {
@@ -32163,7 +32177,7 @@
         "ats": "lever",
         "token": "palantir",
         "ok": "2026-10-05",
-        "n": 319,
+        "n": 316,
         "nz": "2026-10-05"
       },
       "Shield AI": {
@@ -32171,7 +32185,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-10-05",
-        "n": 596,
+        "n": 595,
         "nz": "2026-10-05"
       },
       "Page: Lockheed Martin (search)": {
@@ -32227,14 +32241,14 @@
         "ats": "greenhouse",
         "token": "imc",
         "ok": "2026-10-05",
-        "n": 168,
+        "n": 170,
         "nz": "2026-10-05"
       },
       "AUTO-DISCOVER (all boards found in trackers)": {
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-05",
-        "n": 111087,
+        "n": 111104,
         "nz": "2026-10-05"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32268,14 +32282,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-05",
-        "n": 2041,
+        "n": 2030,
         "nz": "2026-10-05"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
         "since": "2026-10-01",
         "ats": "nuft",
         "ok": "2026-10-05",
-        "n": 120,
+        "n": 119,
         "nz": "2026-10-05"
       },
       "Startup: YC events": {
@@ -32340,7 +32354,7 @@
         "ats": "greenhouse",
         "token": "aqr",
         "ok": "2026-10-05",
-        "n": 51,
+        "n": 52,
         "nz": "2026-10-05"
       },
       "Quant: Belvedere Trading": {
@@ -32364,7 +32378,7 @@
         "ats": "greenhouse",
         "token": "drweng",
         "ok": "2026-10-05",
-        "n": 170,
+        "n": 169,
         "nz": "2026-10-05"
       },
       "Quant: DV Trading": {
@@ -32420,7 +32434,7 @@
         "ats": "greenhouse",
         "token": "janestreet",
         "ok": "2026-10-05",
-        "n": 230,
+        "n": 231,
         "nz": "2026-10-05"
       },
       "Quant: Jump Trading": {
@@ -32428,7 +32442,7 @@
         "ats": "greenhouse",
         "token": "jumptrading",
         "ok": "2026-10-05",
-        "n": 111,
+        "n": 109,
         "nz": "2026-10-05"
       },
       "Quant: Mako Trading": {
@@ -32444,7 +32458,7 @@
         "ats": "greenhouse",
         "token": "mangroup",
         "ok": "2026-10-05",
-        "n": 57,
+        "n": 56,
         "nz": "2026-10-05"
       },
       "Quant: Marshall Wace": {
@@ -32490,7 +32504,7 @@
         "ats": "greenhouse",
         "token": "quberesearchandtechnologies",
         "ok": "2026-10-05",
-        "n": 201,
+        "n": 197,
         "nz": "2026-10-05"
       },
       "Quant: Schonfeld": {
@@ -32498,7 +32512,7 @@
         "ats": "greenhouse",
         "token": "schonfeld",
         "ok": "2026-10-05",
-        "n": 72,
+        "n": 71,
         "nz": "2026-10-05"
       },
       "Quant: Squarepoint": {
@@ -32506,7 +32520,7 @@
         "ats": "greenhouse",
         "token": "squarepointcapital",
         "ok": "2026-10-05",
-        "n": 90,
+        "n": 88,
         "nz": "2026-10-05"
       },
       "Quant: Tower Research": {
@@ -32792,7 +32806,7 @@
         "ats": "greenhouse",
         "token": "robinhood",
         "ok": "2026-10-05",
-        "n": 162,
+        "n": 163,
         "nz": "2026-10-05"
       },
       "Quant/Tech: Scale AI": {
@@ -32800,7 +32814,7 @@
         "ats": "greenhouse",
         "token": "scaleai",
         "ok": "2026-10-05",
-        "n": 192,
+        "n": 191,
         "nz": "2026-10-05"
       },
       "Quant/Tech: Anyscale": {
@@ -32824,7 +32838,7 @@
         "ats": "ashby",
         "token": "cohere",
         "ok": "2026-10-05",
-        "n": 137,
+        "n": 134,
         "nz": "2026-10-05"
       },
       "Startup: Sierra": {
@@ -32840,7 +32854,7 @@
         "ats": "ashby",
         "token": "notion",
         "ok": "2026-10-05",
-        "n": 136,
+        "n": 135,
         "nz": "2026-10-05"
       },
       "Startup: Vercel": {
@@ -33020,7 +33034,7 @@
         "ats": "workable",
         "token": "capula-investment-management-ltd",
         "ok": "2026-10-05",
-        "n": 10,
+        "n": 11,
         "nz": "2026-10-05"
       },
       "Quant: BlueCrest Capital Management": {
@@ -33028,7 +33042,7 @@
         "ats": "greenhouse",
         "token": "bluecrestcapitalmanagement",
         "ok": "2026-10-05",
-        "n": 8,
+        "n": 7,
         "nz": "2026-10-05"
       },
       "Quant: Capital Fund Management (CFM)": {
@@ -33114,7 +33128,7 @@
         "ats": "greenhouse",
         "token": "aurosglobal",
         "ok": "2026-10-05",
-        "n": 5,
+        "n": 4,
         "nz": "2026-10-05"
       },
       "Quant: Talos": {
@@ -33170,7 +33184,7 @@
         "ats": "greenhouse",
         "token": "engineersgate",
         "ok": "2026-10-05",
-        "n": 9,
+        "n": 10,
         "nz": "2026-10-05"
       },
       "Quant: Capstone Investment Advisors": {
@@ -33178,7 +33192,7 @@
         "ats": "greenhouse",
         "token": "capstoneinvestmentadvisors",
         "ok": "2026-10-05",
-        "n": 14,
+        "n": 15,
         "nz": "2026-10-05"
       },
       "Quant: Graham Capital Management": {
@@ -33194,7 +33208,7 @@
         "ats": "greenhouse",
         "token": "quantbot-technologies",
         "ok": "2026-10-05",
-        "n": 8,
+        "n": 7,
         "nz": "2026-10-05"
       },
       "Quant: TGS Management": {
@@ -33217,7 +33231,7 @@
         "ats": "greenhouse",
         "token": "engelhart",
         "ok": "2026-10-05",
-        "n": 6,
+        "n": 5,
         "nz": "2026-10-05"
       },
       "Quant: Gridmatic": {
@@ -33296,7 +33310,7 @@
         "ats": "greenhouse",
         "token": "trillium",
         "ok": "2026-10-05",
-        "n": 10,
+        "n": 9,
         "nz": "2026-10-05"
       },
       "Quant: Laurion Capital Management": {
@@ -33382,7 +33396,7 @@
         "ats": "greenhouse",
         "token": "alpaca",
         "ok": "2026-10-05",
-        "n": 71,
+        "n": 70,
         "nz": "2026-10-05"
       },
       "Quant: Trumid": {
@@ -34294,7 +34308,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-10-05",
-        "n": 406,
+        "n": 409,
         "nz": "2026-10-05"
       },
       "Cyber: Datadog": {
@@ -34302,7 +34316,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-10-05",
-        "n": 442,
+        "n": 441,
         "nz": "2026-10-05"
       },
       "Startup: Figma": {
@@ -34310,7 +34324,7 @@
         "ats": "greenhouse",
         "token": "figma",
         "ok": "2026-10-05",
-        "n": 162,
+        "n": 161,
         "nz": "2026-10-05"
       },
       "Startup: Discord": {
@@ -34326,7 +34340,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-05",
-        "n": 717,
+        "n": 716,
         "nz": "2026-10-05"
       },
       "Startup: Mercury": {
@@ -34349,7 +34363,7 @@
         "ats": "ashby",
         "token": "vanta",
         "ok": "2026-10-05",
-        "n": 83,
+        "n": 84,
         "nz": "2026-10-05"
       },
       "Startup: Replit": {
@@ -34365,7 +34379,7 @@
         "ats": "ashby",
         "token": "perplexity",
         "ok": "2026-10-05",
-        "n": 127,
+        "n": 129,
         "nz": "2026-10-05"
       },
       "Startup: ElevenLabs": {
@@ -34381,7 +34395,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-10-05",
-        "n": 326,
+        "n": 324,
         "nz": "2026-10-05"
       },
       "Startup: Glean": {
@@ -34426,7 +34440,7 @@
         "ats": "ashby",
         "token": "supabase",
         "ok": "2026-10-05",
-        "n": 48,
+        "n": 49,
         "nz": "2026-10-05"
       },
       "Startup: Clerk": {
@@ -34503,7 +34517,7 @@
         "ats": "ashby",
         "token": "decagon",
         "ok": "2026-10-05",
-        "n": 147,
+        "n": 146,
         "nz": "2026-10-05"
       },
       "Startup: Applied Intuition": {
@@ -35323,8 +35337,8 @@
     "sig": "generalmotors|intern software engineer av ai platform"
   },
   "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---software-verification-engineer--av-ai-platform_jr-202621697": {
-    "title": "2027 Summer Intern – Software Verification Engineer, AV/AI Platform",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697",
+    "title": "2027 Summer Intern - Software Verification Engineer - AV/AI Platform",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697",
     "sig": "generalmotors|intern software verification engineer av ai platform"
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/data-science-co-op--nlp---genai-_r29251": {
@@ -35647,7 +35661,7 @@
   "https://jobs.smartrecruiters.com/nbcuniversal3/744000153371465": {
     "title": "Data Analytics Intern",
     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153371465",
-    "sig": "nbcuniversal3|data analytics intern"
+    "sig": "nbcuniversal|data analytics intern"
   },
   "https://apply.workable.com/j/ceff400d40": {
     "title": "Product Development Associate (January - May) 2027 Engineering Co-op",
@@ -35692,7 +35706,7 @@
   "https://jobs.smartrecruiters.com/nbcuniversal3/744000153373639": {
     "title": "Audience Insights & Analytics Intern",
     "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153373639",
-    "sig": "nbcuniversal3|audience insights analytics intern"
+    "sig": "dreamworksanimation|audience insights analytics intern"
   },
   "https://jobs.smartrecruiters.com/nbcuniversal3/744000153372699": {
     "title": "Scripted Development Intern",
@@ -35901,5 +35915,205 @@
     "title": "IT Developer Analyst Intern",
     "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/GBR---London---London-Moorgate-WeWork/Student-Placement---IT-Developer-Analyst_R418573",
     "sig": "merck|it developer analyst intern"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-ignite-internships--software-engineering_jr2026958": {
+    "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+    "sig": "nvidia|nvidia ignite intern software engineering"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-ignite-internships--hardware-engineering_jr2027047": {
+    "title": "NVIDIA 2027 Ignite Internships: Hardware Engineering",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Hardware-Engineering_JR2027047",
+    "sig": "nvidia|nvidia ignite intern hardware engineering"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/switzerland-zurich/ai-compiler-formal-verification-intern_jr2027025": {
+    "title": "AI Compiler Formal Verification Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/AI-Compiler-Formal-Verification-Intern_JR2027025",
+    "sig": "nvidia|ai compiler formal verification intern"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/ai-agent-development-engineer--rdss-intern-_jr2026971": {
+    "title": "AI Agent Development Engineer (RDSS Intern)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/AI-Agent-Development-Engineer--RDSS-Intern-_JR2026971",
+    "sig": "nvidia|ai agent development engineer rdss intern"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/system-software-engineer---embedded-and-automotive--rdss-intern-_jr2026965": {
+    "title": "System Software Engineer - Embedded and Automotive (RDSS Intern)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Software-Engineer---Embedded-and-Automotive--RDSS-Intern-_JR2026965",
+    "sig": "nvidia|system software engineer embedded and automotive rdss intern"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer---dft-cad-tools--rdss-intern-_jr2026878-1": {
+    "title": "Software Engineer – DFT CAD Tools (RDSS Intern)",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1",
+    "sig": "nvidia|software engineer dft cad tools rdss intern"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000153516331": {
+    "title": "Mandatory Internship Automotive Networking Innovation and Software-Defined Vehicle Technologies",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153516331",
+    "sig": "boschgroup|mandatory intern automotive networking innovation and software defined vehicle technologies"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000153500999": {
+    "title": "Internship Agentic AI for Automated Code Generation in Safety-Critical Embedded Software",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000153500999",
+    "sig": "boschgroup|intern agentic ai for automated code generation in safety critical embedded software"
+  },
+  "https://caci.wd1.myworkdayjobs.com/en-us/external/job/oklahoma-city-ok-us/software-development-intern---summer-2027_333085": {
+    "title": "Software Development Intern - Summer 2027",
+    "url": "https://caci.wd1.myworkdayjobs.com/en-US/external/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085",
+    "sig": "caci|software development intern"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---ai---hardware-analytics--adpt_jr-202621756": {
+    "title": "2027 Summer Intern – AI & Hardware Analytics, ADPT",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
+    "sig": "generalmotors|intern ai hardware analytics adpt"
+  },
+  "https://autodesk.wd1.myworkdayjobs.com/en-us/uni/job/singapore-sgp/intern--software-development-engineer--aec-autocad-backend-_26wd101365": {
+    "title": "Intern, Software Development Engineer [AEC-AutoCAD Backend]",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Singapore-SGP/Intern--Software-Development-Engineer--AEC-AutoCAD-Backend-_26WD101365",
+    "sig": "autodesk|intern software development engineer aec autocad backend"
+  },
+  "https://autodesk.wd1.myworkdayjobs.com/en-us/uni/job/singapore-sgp/intern--devops-engineer--aec-connected-infrastructure-engineering-_26wd101363": {
+    "title": "Intern, DevOps Engineer [AEC-Connected Infrastructure Engineering]",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Singapore-SGP/Intern--DevOps-Engineer--AEC-Connected-Infrastructure-Engineering-_26WD101363",
+    "sig": "autodesk|intern devops engineer aec connected infrastructure engineering"
+  },
+  "https://autodesk.wd1.myworkdayjobs.com/en-us/uni/job/singapore-sgp/intern--software-engineer-in-test--aec-autocad-engineering-_26wd101362": {
+    "title": "Intern, Software Engineer in Test [AEC Autocad Engineering]",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Singapore-SGP/Intern--Software-Engineer-in-Test--AEC-Autocad-Engineering-_26WD101362",
+    "sig": "autodesk|intern software engineer in test aec autocad engineering"
+  },
+  "https://philips.wd3.myworkdayjobs.com/en-us/jobs-and-careers/job/drachten/internship--validation-of-hair-cutting-models_592536": {
+    "title": "Internship: Validation of Hair-Cutting Models",
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Drachten/Internship--Validation-of-Hair-Cutting-Models_592536",
+    "sig": "philips|intern validation of hair cutting models"
+  },
+  "https://marvell.wd1.myworkdayjobs.com/en-us/marvellcareers2/job/santa-clara-ca/hardware-engineer-intern--bs---summer-2027_2604975": {
+    "title": "Hardware Engineer Intern, BS - Summer 2027",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Hardware-Engineer-Intern--BS---Summer-2027_2604975",
+    "sig": "marvell|hardware engineer intern bs"
+  },
+  "https://unilever.wd3.myworkdayjobs.com/en-us/unilever_experienced_professionals/job/rotterdam---hofplein-19/internship--27--customer-development_r-1189152": {
+    "title": "Internship '27: Customer Development",
+    "url": "https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27--Customer-Development_R-1189152",
+    "sig": "unilever|intern 27 customer development"
+  },
+  "https://unilever.wd3.myworkdayjobs.com/en-us/unilever_experienced_professionals/job/rotterdam---hofplein-19/internship--27-----customer-development---category---account-management_r-1189150": {
+    "title": "Internship '27:  - Customer Development - Category & Account Management",
+    "url": "https://unilever.wd3.myworkdayjobs.com/en-US/Unilever_Experienced_Professionals/job/Rotterdam---Hofplein-19/Internship--27-----Customer-Development---Category---Account-Management_R-1189150",
+    "sig": "unilever|intern 27 customer development category account management"
+  },
+  "https://micron.wd1.myworkdayjobs.com/en-us/external/job/boise-id---main-site/intern---ssd-architecture-modeling_jr113803": {
+    "title": "Intern - SSD Architecture Modeling",
+    "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Boise-ID---Main-Site/Intern---SSD-Architecture-Modeling_JR113803",
+    "sig": "micron|intern ssd architecture modeling"
+  },
+  "https://capitalone.wd12.myworkdayjobs.com/en-us/capital_one/job/toronto-on/intern--data-scientist---summer-2027_r1002165-1": {
+    "title": "Intern, Data Scientist - Summer 2027",
+    "url": "https://capitalone.wd12.myworkdayjobs.com/en-US/Capital_One/job/Toronto-ON/Intern--Data-Scientist---Summer-2027_R1002165-1",
+    "sig": "capitalone|intern data scientist"
+  },
+  "https://rbc.wd3.myworkdayjobs.com/en-us/rbcglobal1/job/toronto-ontario-canada/xmlname-2027-winter---grm--ai-developer-intern---innovation---ai-center-of-excellence--4-months-_r-0000188001": {
+    "title": "2027 Winter – GRM, AI Developer Intern - Innovation & AI Center of Excellence (4 Months)",
+    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Developer-Intern---Innovation---AI-Center-of-Excellence--4-Months-_R-0000188001",
+    "sig": "rbc|grm ai developer intern innovation ai center of excellence 4 months"
+  },
+  "https://rbc.wd3.myworkdayjobs.com/en-us/rbcglobal1/job/toronto-ontario-canada/xmlname-2027-winter---grm--ai-business-analyst-intern---innovation---ai-centre-of-excellence--4-months-_r-0000188000": {
+    "title": "2027 Winter – GRM, AI Business Analyst Intern – Innovation & AI Centre of Excellence (4 Months)",
+    "url": "https://rbc.wd3.myworkdayjobs.com/en-US/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--AI-Business-Analyst-Intern---Innovation---AI-Centre-of-Excellence--4-Months-_R-0000188000",
+    "sig": "rbc|grm ai business analyst intern innovation ai centre of excellence 4 months"
+  },
+  "https://rrhs.wd5.myworkdayjobs.com/en-us/rrh/job/riedman-campus/rit-co-op--vulnerability-management_req_243184": {
+    "title": "RIT Co-op: Vulnerability Management",
+    "url": "https://rrhs.wd5.myworkdayjobs.com/en-US/RRH/job/Riedman-Campus/RIT-Co-op--Vulnerability-Management_REQ_243184",
+    "sig": "rrhs|rit coop vulnerability management"
+  },
+  "https://valeo.wd3.myworkdayjobs.com/en-us/valeo_jobs/job/chennai/intern---software_req2026070899": {
+    "title": "Intern - Software",
+    "url": "https://valeo.wd3.myworkdayjobs.com/en-US/valeo_jobs/job/Chennai/Intern---Software_REQ2026070899",
+    "sig": "valeo|intern software"
+  },
+  "https://ag.wd3.myworkdayjobs.com/en-us/airbus/job/madrid-area/flight-software-engineer-intern--space-systems-airbus-crisa_jr10446862": {
+    "title": "Flight Software Engineer Intern, Space Systems Airbus Crisa",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Madrid-Area/Flight-Software-Engineer-Intern--Space-Systems-Airbus-Crisa_JR10446862",
+    "sig": "ag|flight software engineer intern space systems airbus crisa"
+  },
+  "https://jobs.smartrecruiters.com/nbcuniversal3/744000153466215": {
+    "title": "Scripted Development Intern",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153466215",
+    "sig": "nbcuniversal3|scripted development intern"
+  },
+  "https://jobs.smartrecruiters.com/nbcuniversal3/744000153459110": {
+    "title": "Data Analytics Intern",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153459110",
+    "sig": "nbcuniversal3|data analytics intern"
+  },
+  "https://jobs.smartrecruiters.com/nbcuniversal3/744000153442839": {
+    "title": "Audience Insights & Analytics Intern",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000153442839",
+    "sig": "nbcuniversal3|audience insights analytics intern"
+  },
+  "https://baird.wd1.myworkdayjobs.com/en-us/careers/job/wi-milwaukee/internship---hr---talent-development--year-round-_r20261114-1": {
+    "title": "Internship – HR – Talent Development (Year-Round)",
+    "url": "https://baird.wd1.myworkdayjobs.com/en-US/careers/job/WI-Milwaukee/Internship---HR---Talent-Development--Year-Round-_R20261114-1",
+    "sig": "baird|intern hr talent development year round"
+  },
+  "https://job-boards.greenhouse.io/wppmedia/jobs/5443361008": {
+    "title": "Intern, Content Analytics",
+    "url": "https://job-boards.greenhouse.io/wppmedia/jobs/5443361008",
+    "sig": "wppmedia|intern content analytics"
+  },
+  "https://tysonfoods.wd5.myworkdayjobs.com/en-us/tsn/job/corporate---springdale-arkansas/research-and-development-summer-intern-2027_r0482561-2": {
+    "title": "Research and Development Summer Intern 2027",
+    "url": "https://tysonfoods.wd5.myworkdayjobs.com/en-US/TSN/job/Corporate---Springdale-Arkansas/Research-and-Development-Summer-Intern-2027_R0482561-2",
+    "sig": "tysonfoods|research and development intern"
+  },
+  "https://ing.wd3.myworkdayjobs.com/en-us/icsgblcor/job/hbp-amsterdam---haarlerbergpark/power-platform-intern_req-10121923": {
+    "title": "Power Platform Intern",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/HBP-Amsterdam---Haarlerbergpark/Power-Platform-Intern_REQ-10121923",
+    "sig": "ing|power platform intern"
+  },
+  "https://hcsc.wd1.myworkdayjobs.com/en-us/hcsc_external/job/il---chicago/early-careers---automation-programmer-intern_r0059484": {
+    "title": "Early Careers - Automation Programmer Intern",
+    "url": "https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Automation-Programmer-Intern_R0059484",
+    "sig": "hcsc|early careers automation programmer intern"
+  },
+  "https://www.hubspot.com/careers/jobs/7283239?gh_jid=7283239": {
+    "title": "HubSpot Software Engineer Intern - Co-op Placement & Industrial Placement Program",
+    "url": "https://www.hubspot.com/careers/jobs/7283239?gh_jid=7283239",
+    "sig": "hubspot|hubspot software engineer intern coop placement industrial placement program"
+  },
+  "https://www.hubspot.com/careers/jobs/7283237?gh_jid=7283237": {
+    "title": "HubSpot Software Engineer Intern - Co-op Placement & Industrial Placement Program - UK",
+    "url": "https://www.hubspot.com/careers/jobs/7283237?gh_jid=7283237",
+    "sig": "hubspot|hubspot software engineer intern coop placement industrial placement program uk"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-ignite-internships--software-engineering_jr2026958": {
+    "title": "Software Engineer Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+    "sig": "nvidia|software engineer intern"
+  },
+  "https://quantumsignalai.applytojob.com/apply/mwrhqd8hn9/software-engineering-intern-tools-and-prototypes": {
+    "title": "Software Engineer Intern - Tools and Prototypes",
+    "url": "https://quantumsignalai.applytojob.com/apply/MWrhQD8Hn9/Software-Engineering-Intern-Tools-And-Prototypes",
+    "sig": "quantumsignalai|software engineer intern tools and prototypes"
+  },
+  "https://americas-cookmedical.icims.com/jobs/19412/job?mobile=true&needsredirect=false": {
+    "title": "Statistics & Data Science Intern",
+    "url": "https://americas-cookmedical.icims.com/jobs/19412/job?mobile=true&needsRedirect=false",
+    "sig": "cook|statistics data science intern"
+  },
+  "https://autodesk.wd1.myworkdayjobs.com/ext/job/boston-ma-usa/phd-researcher--multimodal-ai-for-human-experience_26wd101433-1": {
+    "title": "Research Intern - Multimodal AI for Human Experience",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433-1",
+    "sig": "autodesk|research intern multimodal ai for human experience"
+  },
+  "https://autodesk.wd1.myworkdayjobs.com/uni/job/boston-ma-usa/phd-researcher--multimodal-ai-for-human-experience_26wd101433": {
+    "title": "Multimodal AI for Human Experience Intern",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/uni/job/Boston-MA-USA/PhD-Researcher--Multimodal-AI-for-Human-Experience_26WD101433",
+    "sig": "autodesk|multimodal ai for human experience intern"
+  },
+  "https://motorolasolutions.wd5.myworkdayjobs.com/careers/job/chicago-il/android-applications-developer-intern---summer-2027_r69313": {
+    "title": "Android Applications Developer Intern",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313",
+    "sig": "motorola|android applications developer intern"
   }
 }
