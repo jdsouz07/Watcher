@@ -266,7 +266,7 @@
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--systems-software-engineering_jr2023492": {
     "title": "NVIDIA 2027 Internships: Systems Software Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
     "sig": "nvidia|nvidia intern systems software engineering"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--autonomous-vehicles-and-robotics_jr2023496": {
@@ -281,7 +281,7 @@
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--software-engineering_jr2023495": {
     "title": "NVIDIA 2027 Internships: Software Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
     "sig": "nvidia|nvidia intern software engineering"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning_jr2023497-1": {
@@ -955,12 +955,12 @@
   },
   "https://trimble.wd1.myworkdayjobs.com/en-us/trimblecareers/job/us---co-westminster/software-engineering-intern_r57676": {
     "title": "Software Engineering Intern",
-    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
     "sig": "trimble|software engineering intern"
   },
   "https://trimble.wd1.myworkdayjobs.com/en-us/trimblecareers/job/us---co-westminster/hardware-software-testing-intern_r57677-1": {
     "title": "Hardware/Software Testing Intern",
-    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
     "sig": "trimble|hardware software testing intern"
   },
   "https://cadence.wd1.myworkdayjobs.com/en-us/external_careers/job/san-jose/software-intern_r53282-1": {
@@ -1657,8 +1657,8 @@
   },
   "https://selinc.wd1.myworkdayjobs.com/en-us/sel/job/idaho---boise/software-engineering-intern---power-systems_2026-22933": {
     "title": "Software Engineering Intern - Power Systems",
-    "url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Idaho---Boise/Software-Engineering-Intern---Power-Systems_2026-22933",
-    "sig": "selinc|software engineering intern power systems"
+    "url": "https://selinc.wd1.myworkdayjobs.com/en-US/sel/job/Idaho---Boise/Software-Engineering-Intern---Power-Systems_2026-22933",
+    "sig": "sel|software engineering intern power systems"
   },
   "https://abb.wd3.myworkdayjobs.com/en-us/external_career_page/job/usa-nc-cary/market-research---analysis-intern---summer-2027_jr00045583": {
     "title": "Market Research & Analysis Intern - Summer 2027",
@@ -2066,14 +2066,14 @@
     "sig": "oldmissioncapital|software engineer intern program june start"
   },
   "https://flir.wd1.myworkdayjobs.com/en-us/flircareers/job/us---huntsville-al/nhrc-software-engineering-internship--summer-2027-_req36193": {
-    "title": "NHRC Software Engineering Internship (Summer 2027)",
+    "title": "NHRC Software Engineering Internship - Summer 2027",
     "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
-    "sig": "flir|nhrc software engineering intern"
+    "sig": "teledyne|nhrc software engineering intern"
   },
   "https://flir.wd1.myworkdayjobs.com/en-us/flircareers/job/us---huntsville-al/eadsim-software-engineering-intern--summer-2027-_req36667": {
-    "title": "EADSIM Software Engineering Intern (Summer 2027)",
+    "title": "EADSIM Software Engineering Intern - Summer 2027",
     "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667",
-    "sig": "flir|eadsim software engineering intern"
+    "sig": "teledyne|eadsim software engineering intern"
   },
   "https://www.tower-research.com/open-positions/?gh_jid=8143756": {
     "title": "Intern - AI/ML",
@@ -2117,7 +2117,8 @@
   },
   "https://medtronic.wd1.myworkdayjobs.com/en-us/medtroniccareers/job/fridley-minnesota-united-states-of-america/software-engineering-intern---summer-2027_r73630-1": {
     "title": "Software Engineering Intern - Summer 2027",
-    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1"
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/medtroniccareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineering-Intern---Summer-2027_R73630-1",
+    "sig": "medtronic|software engineering intern"
   },
   "https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849": {
     "title": "Software Engineer - 2027 Interns",
@@ -2527,9 +2528,9 @@
     "sig": "simon|intern data engineering data analytics information sciences computer science majors"
   },
   "https://simon.wd1.myworkdayjobs.com/en-us/simon/job/indianapolis-in/intern---front-end-developer--computer-science--web-development--or-information-sciences-majors-_r13975": {
-    "title": "Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors)",
-    "url": "https://simon.wd1.myworkdayjobs.com/en-US/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975",
-    "sig": "simon|intern front end developer computer science web development or information sciences majors"
+    "title": "Intern - Front End Developer - Computer Science - Web Development - or Information Sciences Majors",
+    "url": "https://simon.wd1.myworkdayjobs.com/en-US/simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975",
+    "sig": "simonproperty|intern front end developer computer science web development or information sciences majors"
   },
   "https://cibc.wd3.myworkdayjobs.com/en-us/search/job/chicago-il/xmlname-2027-summer-intern---software-engineering_2618322-1": {
     "title": "2027 Summer Intern - Software Engineering",
@@ -2575,9 +2576,9 @@
     "sig": "cna|technology intern program data analytics"
   },
   "https://cna.wd1.myworkdayjobs.com/en-us/cna_careers/job/chicago-il-usa/technology-internship-program--software-engineering-_r-8107": {
-    "title": "Technology Internship Program (Software Engineering)",
-    "url": "https://cna.wd1.myworkdayjobs.com/en-US/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107",
-    "sig": "cna|technology intern program software engineering"
+    "title": "Technology Internship Program - Software Engineering",
+    "url": "https://cna.wd1.myworkdayjobs.com/en-US/cna_careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107",
+    "sig": "cnainsurance|technology intern program software engineering"
   },
   "https://job-boards.greenhouse.io/eulerity/jobs/4709040006": {
     "title": "Backend Developer Intern",
@@ -2634,7 +2635,7 @@
     "sig": "alcon|commercial leadership development program cldp mba intern"
   },
   "https://alcon.wd5.myworkdayjobs.com/en-us/careers_alcon/job/fort-worth-texas/xmlname-2027-summer-software--data---ai-engineering-interns_r-2026-49480": {
-    "title": "2027 Summer Software, Data & AI Engineering Interns",
+    "title": "2027 Summer Software - Data & AI Engineering Interns",
     "url": "https://alcon.wd5.myworkdayjobs.com/en-US/careers_alcon/job/Fort-Worth-Texas/XMLNAME-2027-Summer-Software--Data---AI-Engineering-Interns_R-2026-49480",
     "sig": "alcon|software data ai engineering interns"
   },
@@ -2645,7 +2646,7 @@
   },
   "https://momentive.wd1.myworkdayjobs.com/en-us/mc/job/us-ny-niskayuna/summer-2027-intern---software-development_r9756": {
     "title": "Summer 2027 Intern - Software Development",
-    "url": "https://momentive.wd1.myworkdayjobs.com/en-US/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
+    "url": "https://momentive.wd1.myworkdayjobs.com/en-US/mc/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
     "sig": "momentive|intern software development"
   },
   "https://momentive.wd1.myworkdayjobs.com/en-us/mc/job/us-ny-waterford/summer-2027-intern---hardcoats-application-development_r9762": {
@@ -2661,7 +2662,7 @@
   "https://premierinc.wd1.myworkdayjobs.com/en-us/external_professional/job/charlotte-nc/software-engineer-intern_r0008480": {
     "title": "Software Engineer Intern",
     "url": "https://premierinc.wd1.myworkdayjobs.com/en-US/external_professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480",
-    "sig": "premierinc|software engineer intern"
+    "sig": "premier|software engineer intern"
   },
   "https://premierinc.wd1.myworkdayjobs.com/en-us/external_professional/job/charlotte-nc/data-science-intern_r0008481": {
     "title": "Data Science Intern",
@@ -2674,9 +2675,9 @@
     "sig": "snc|systems security engineering intern"
   },
   "https://snc.wd1.myworkdayjobs.com/en-us/snc_external_career_site/job/folsom-ca/software-engineering-intern--summer-2027-_r0030761-1": {
-    "title": "Software Engineering Intern (Summer 2027)",
+    "title": "Software Engineering Intern - Summer 2027",
     "url": "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1",
-    "sig": "snc|software engineering intern"
+    "sig": "sierranevada|software engineering intern"
   },
   "https://snc.wd1.myworkdayjobs.com/en-us/snc_external_career_site/job/southern-pines-nc/software-engineering-intern--summer-2027-_r0030759": {
     "title": "Software Engineering Intern (Summer 2027)",
@@ -2684,9 +2685,9 @@
     "sig": "snc|software engineering intern"
   },
   "https://snc.wd1.myworkdayjobs.com/en-us/snc_external_career_site/job/sparks-nv/software-engineering-intern--summer-2027-_r0030760": {
-    "title": "Software Engineering Intern (Summer 2027)",
+    "title": "Software Engineering Intern - Summer 2027",
     "url": "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760",
-    "sig": "snc|software engineering intern"
+    "sig": "sierranevada|software engineering intern"
   },
   "https://snc.wd1.myworkdayjobs.com/en-us/snc_external_career_site/job/dayton-oh/software-engineering-intern--summer-2027-_r0030754": {
     "title": "Software Engineering Intern (Summer 2027)",
@@ -2694,9 +2695,9 @@
     "sig": "snc|software engineering intern"
   },
   "https://snc.wd1.myworkdayjobs.com/en-us/snc_external_career_site/job/lone-tree-co/software-engineering-intern--summer-2027-_r0030757": {
-    "title": "Software Engineering Intern (Summer 2027)",
+    "title": "Software Engineering Intern - Summer 2027",
     "url": "https://snc.wd1.myworkdayjobs.com/en-US/snc_external_career_site/job/Lone-Tree-CO/Software-Engineering-Intern--Summer-2027-_R0030757",
-    "sig": "snc|software engineering intern"
+    "sig": "sierranevada|software engineering intern"
   },
   "https://snc.wd1.myworkdayjobs.com/en-us/snc_external_career_site/job/plano-tx/software-engineering-intern--summer-2027-_r0030758": {
     "title": "Software Engineering Intern (Summer 2027)",
@@ -2874,8 +2875,8 @@
   },
   "https://aoins.wd5.myworkdayjobs.com/en-us/autoowners/job/lansing-mi/business-intelligence-developer-internship---summer-2027_r_14417": {
     "title": "Business Intelligence Developer Internship - Summer 2027",
-    "url": "https://aoins.wd5.myworkdayjobs.com/en-US/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417",
-    "sig": "aoins|business intelligence developer intern"
+    "url": "https://aoins.wd5.myworkdayjobs.com/en-US/autoowners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417",
+    "sig": "autoownersinsurance|business intelligence developer intern"
   },
   "https://clearwateranalytics.wd1.myworkdayjobs.com/en-us/clearwater_analytics_careers/job/office---seattle/gen-ai-intern_r12193": {
     "title": "Gen AI Intern",
@@ -2906,9 +2907,9 @@
     "sig": "draftkings|data science intern referral"
   },
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/simi-valley-ca/summer-2027-software-engineering-intern_8611": {
-    "title": "Summer 2027 Software Engineering Intern",
+    "title": "Software Engineer Intern",
     "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Software-Engineering-Intern_8611",
-    "sig": "avav|software engineering intern"
+    "sig": "aerovironment|software engineer intern"
   },
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/simi-valley-ca/summer-2027-gnc---autonomy-intern_8610": {
     "title": "Summer 2027 GNC / Autonomy Intern",
@@ -2916,9 +2917,9 @@
     "sig": "avav|gnc autonomy intern"
   },
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/minneapolis-mn/summer-2027-machine-learning-intern_8389": {
-    "title": "Summer 2027 Machine Learning Intern",
+    "title": "Machine Learning Intern",
     "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Minneapolis-MN/Summer-2027-Machine-Learning-Intern_8389",
-    "sig": "avav|machine learning intern"
+    "sig": "aerovironment|machine learning intern"
   },
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/simi-valley-ca/summer-2027-embedded-software-engineering-intern_8388": {
     "title": "Summer 2027 Embedded Software Engineering Intern",
@@ -2937,12 +2938,12 @@
   },
   "https://mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/usa-ga-atlanta/software-engineer-intern---summer-2027_jr0153235": {
     "title": "Software Engineer Intern - Summer 2027",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235",
+    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/external_careers/job/USA-GA-Atlanta/Software-Engineer-Intern---Summer-2027_JR0153235",
     "sig": "mckesson|software engineer intern"
   },
   "https://mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/usa-tx-irving/software-development-intern---summer-2027_jr0152635": {
     "title": "Software Development Intern - Summer 2027",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635",
+    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/external_careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635",
     "sig": "mckesson|software development intern"
   },
   "https://mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/usa-co-longmont/software-engineer-intern---summer-2027_jr0152469": {
@@ -2951,7 +2952,7 @@
   },
   "https://mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/usa-co-longmont/software-installation---it-support-intern---summer-2027_jr0152304": {
     "title": "Software Installation & IT Support Intern - Summer 2027",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304",
+    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/external_careers/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304",
     "sig": "mckesson|software installation it support intern"
   },
   "https://mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/usa-tx-remote/health-systems-optimization-intern---summer-2027_jr0152892": {
@@ -3009,22 +3010,22 @@
   },
   "https://stryker.wd1.myworkdayjobs.com/en-us/strykercareers/job/san-jose-california/summer-2027-internship---software-engineering---california_r572624": {
     "title": "Summer 2027 Internship - Software Engineering - California",
-    "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624",
+    "url": "https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/San-Jose-California/Summer-2027-Internship---Software-Engineering---California_R572624",
     "sig": "stryker|intern software engineering california"
   },
   "https://stryker.wd1.myworkdayjobs.com/en-us/strykercareers/job/fort-lauderdale-florida/summer-2027-internship---software-engineering---florida_r572629-1": {
     "title": "Summer 2027 Internship - Software Engineering - Florida",
-    "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
+    "url": "https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
     "sig": "stryker|intern software engineering florida"
   },
   "https://stryker.wd1.myworkdayjobs.com/en-us/strykercareers/job/portage-michigan/summer-2027-internship---software-engineering---michigan_r572632-1": {
     "title": "Summer 2027 Internship - Software Engineering - Michigan",
-    "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1",
+    "url": "https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1",
     "sig": "stryker|intern software engineering michigan"
   },
   "https://stryker.wd1.myworkdayjobs.com/en-us/strykercareers/job/fort-wayne-indiana/summer-2027-internship---software-engineering---indiana_r572631": {
     "title": "Summer 2027 Internship - Software Engineering - Indiana",
-    "url": "https://stryker.wd1.myworkdayjobs.com/en-US/StrykerCareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
+    "url": "https://stryker.wd1.myworkdayjobs.com/en-US/strykercareers/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
     "sig": "stryker|intern software engineering indiana"
   },
   "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004": {
@@ -3057,7 +3058,7 @@
   },
   "https://newrez.wd1.myworkdayjobs.com/en-us/nrz/job/tx-coppell/xmlname-2027-summer-internship---software-developer_r10390": {
     "title": "2027 Summer Internship - Software Developer",
-    "url": "https://newrez.wd1.myworkdayjobs.com/en-US/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390",
+    "url": "https://newrez.wd1.myworkdayjobs.com/en-US/nrz/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390",
     "sig": "newrez|intern software developer"
   },
   "https://plexus.wd504.myworkdayjobs.com/en-us/plexus_careers/job/guadalajara-mexico/intern---manufacturing--automation---c--_r040240": {
@@ -3175,9 +3176,9 @@
     "sig": "bah|university games systems engineer intern rome ny"
   },
   "https://bah.wd1.myworkdayjobs.com/en-us/bah_jobs/job/huntsville-al/university---2027-summer-games-software-developer-intern---huntsville--al_r0248394": {
-    "title": "University - 2027 Summer Games Software Developer Intern - Huntsville, AL",
+    "title": "University - 2027 Summer Games Software Developer Intern - Huntsville - AL",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394",
-    "sig": "bah|university games software developer intern huntsville al"
+    "sig": "boozallen|university games software developer intern huntsville al"
   },
   "https://bah.wd1.myworkdayjobs.com/en-us/bah_jobs/job/honolulu-hi/university---2027-summer-games--data-scientist-intern---honolulu--hi_r0248406": {
     "title": "University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI",
@@ -3354,13 +3355,13 @@
   },
   "https://igsenergy.wd1.myworkdayjobs.com/en-us/igs/job/ohio-remote/software-engineer-intern_r6263": {
     "title": "Software Engineer Intern",
-    "url": "https://igsenergy.wd1.myworkdayjobs.com/en-US/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263",
+    "url": "https://igsenergy.wd1.myworkdayjobs.com/en-US/igs/job/Ohio-Remote/Software-Engineer-Intern_R6263",
     "sig": "igsenergy|software engineer intern"
   },
   "https://sbdinc.wd1.myworkdayjobs.com/en-us/stanley_black_decker_career_site/job/towson-md-united-states/embedded-engineering-summer-intern-2027_req-1000052019": {
     "title": "Embedded Engineering Summer Intern 2027",
-    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
-    "sig": "sbdinc|embedded engineering intern"
+    "url": "https://sbdinc.wd1.myworkdayjobs.com/en-US/stanley_black_decker_career_site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
+    "sig": "stanleyblackdecker|embedded engineering intern"
   },
   "https://rockwellautomation.wd1.myworkdayjobs.com/en-us/external_rockwell_automation/job/medellin-antioquia-colombia/intern-developer_r26-7072": {
     "title": "Intern Developer",
@@ -3539,9 +3540,9 @@
     "sig": "brunswick|mercury marine advanced manufacturing operations analytics engineering coop"
   },
   "https://brunswick.wd1.myworkdayjobs.com/en-us/search/job/fond-du-lac-wi/mercury-marine--power-bi-ops-analytics-co-op_jr-051236": {
-    "title": "Mercury Marine: Power BI/Ops Analytics Co-op",
+    "title": "Power BI/Ops Analytics Co-op",
     "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Power-BI-Ops-Analytics-Co-op_JR-051236",
-    "sig": "brunswick|mercury marine power bi ops analytics coop"
+    "sig": "brunswick|power bi ops analytics coop"
   },
   "https://nike.wd1.myworkdayjobs.com/en-us/nke/job/beaverton-oregon/nike--inc-apparel-development--technical-design--undergraduate-internship_r-91227": {
     "title": "NIKE, Inc. Apparel Development, Technical Design, Undergraduate Internship",
@@ -3831,7 +3832,7 @@
   "https://dmainc.wd5.myworkdayjobs.com/en-us/dma/job/fort-wayne-in/software-development-intern---summer-2027_req636": {
     "title": "Software Development Intern - Summer 2027",
     "url": "https://dmainc.wd5.myworkdayjobs.com/en-US/dma/job/Fort-Wayne-IN/Software-Development-Intern---Summer-2027_REQ636",
-    "sig": "dmainc|software development intern"
+    "sig": "dma|software development intern"
   },
   "https://jobs.ashbyhq.com/terranova/a8e5a8d2-4af3-4736-b66e-e0804447f7a0": {
     "title": "Software Engineering Intern",
@@ -3988,9 +3989,9 @@
     "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609"
   },
   "https://thehartford.wd5.myworkdayjobs.com/en-us/careers_external/job/hartford-ct/tech---data-program-summer-2027---software-engineer-intern--hartford-_r2626105-1": {
-    "title": "Tech & Data Program Summer 2027 - Software Engineer Intern (Hartford)",
-    "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
-    "sig": "thehartford|tech data program software engineer intern hartford"
+    "title": "Tech & Data Program Summer 2027 - Software Engineer Intern - Hartford",
+    "url": "https://thehartford.wd5.myworkdayjobs.com/en-US/careers_external/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1",
+    "sig": "hartford|tech data program software engineer intern hartford"
   },
   "https://thehartford.wd5.myworkdayjobs.com/en-us/careers_external/job/columbus-oh/tech---data-program-summer-2027---data-engineer-intern--columbus-_r2626610": {
     "title": "Tech & Data Program Summer 2027 - Data Engineer Intern (Columbus)",
@@ -4072,7 +4073,7 @@
   },
   "https://chevron.wd5.myworkdayjobs.com/en-us/university/job/houston-texas-united-states-of-america/xmlname-2026-2027-information-technology---software-engineer---intern_r000072398-1": {
     "title": "2026-2027 Information Technology - Software Engineer - Intern",
-    "url": "https://chevron.wd5.myworkdayjobs.com/en-US/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1",
+    "url": "https://chevron.wd5.myworkdayjobs.com/en-US/university/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1",
     "sig": "chevron|information technology software engineer intern"
   },
   "https://jobs.ashbyhq.com/windborne-systems/75c5c65c-8179-4ca0-9659-39bf0f8f7b8b": {
@@ -4099,7 +4100,7 @@
     "sig": "pimco|intern trading analyst us"
   },
   "https://pimco.wd1.myworkdayjobs.com/en-us/pimco-careers/job/austin-tx-usa/xmlname-2027-summer-intern---technology-analyst--software-engineering_r106745": {
-    "title": "2027 Summer Intern - Technology Analyst, Software Engineering",
+    "title": "2027 Summer Intern - Technology Analyst - Software Engineering",
     "url": "https://pimco.wd1.myworkdayjobs.com/en-US/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
     "sig": "pimco|intern technology analyst software engineering"
   },
@@ -4137,9 +4138,9 @@
     "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4286512009"
   },
   "https://manh.wd5.myworkdayjobs.com/en-us/campus/job/us---home-office/ai-developer-co-op--boston--ma-_16931": {
-    "title": "A.I. Developer Co-Op (Boston, MA)",
+    "title": "A.I. Developer Co-Op - Boston - MA",
     "url": "https://manh.wd5.myworkdayjobs.com/en-US/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931",
-    "sig": "manh|a i developer coop boston ma"
+    "sig": "manhattanassociates|a i developer coop boston ma"
   },
   "https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f": {
     "title": "Software Engineering Intern (Summer 2027)",
@@ -4176,7 +4177,7 @@
   },
   "https://conagrabrands.wd1.myworkdayjobs.com/en-us/careers_us/job/omaha-nebraska/software-development-internship---summer-2027_req-039787": {
     "title": "Software Development Internship - Summer 2027",
-    "url": "https://conagrabrands.wd1.myworkdayjobs.com/en-US/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787",
+    "url": "https://conagrabrands.wd1.myworkdayjobs.com/en-US/careers_us/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787",
     "sig": "conagrabrands|software development intern"
   },
   "https://conagrabrands.wd1.myworkdayjobs.com/en-us/careers_us/job/omaha-nebraska/analytics-internship---summer-2027_req-039790": {
@@ -5843,7 +5844,7 @@
   },
   "https://mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/usa-co-longmont/software-engineer-intern---summer-2027_jr0152742": {
     "title": "Software Engineer Intern - Summer 2027",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
+    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/external_careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
     "sig": "mckesson|software engineer intern"
   },
   "https://uscampus-pepsico.icims.com/jobs/466510/2027-summer-intern%3a-technology-software-development-%26-engineering/job": {
@@ -9004,8 +9005,8 @@
     "sig": "boeing|boeing engineering technology innovation graduate researcher program computational fluid dynamics intern"
   },
   "https://boeing.wd1.myworkdayjobs.com/en-us/external_careers/job/usa---tukwila-wa/boeing-engineering---technology-innovation-graduate-researcher-program--software-engineering-artificial-intelligence-intern_jr2026523687": {
-    "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program, Software Engineering Artificial Intelligence Intern",
-    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687",
+    "title": "Boeing Engineering & Technology Innovation Graduate Researcher Program - Software Engineering Artificial Intelligence Intern",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687",
     "sig": "boeing|boeing engineering technology innovation graduate researcher program software engineering artificial intelligence intern"
   },
   "https://boeing.wd1.myworkdayjobs.com/en-us/external_careers/job/usa---hazelwood-mo/boeing-engineering---technology-innovation-graduate-researcher-program--computational-fluid-dynamics--cfd--intern_jr2026523768": {
@@ -9235,13 +9236,13 @@
   },
   "https://aoins.wd5.myworkdayjobs.com/en-us/autoowners/job/lansing-mi/it-document-automation-developer-internship---summer-2027_r_14471": {
     "title": "IT Document Automation Developer Internship - Summer 2027",
-    "url": "https://aoins.wd5.myworkdayjobs.com/en-US/AutoOwners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471",
-    "sig": "aoins|it document automation developer intern"
+    "url": "https://aoins.wd5.myworkdayjobs.com/en-US/autoowners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471",
+    "sig": "autoownersinsurance|it document automation developer intern"
   },
   "https://aoins.wd5.myworkdayjobs.com/en-us/autoowners/job/lansing-mi/intelligent-automation-developer-internship---summer-2027_r_14474": {
     "title": "Intelligent Automation Developer Internship - Summer 2027",
-    "url": "https://aoins.wd5.myworkdayjobs.com/en-US/AutoOwners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474",
-    "sig": "aoins|intelligent automation developer intern"
+    "url": "https://aoins.wd5.myworkdayjobs.com/en-US/autoowners/job/Lansing-MI/Intelligent-Automation-Developer-Internship---Summer-2027_R_14474",
+    "sig": "autoownersinsurance|intelligent automation developer intern"
   },
   "https://medline.wd5.myworkdayjobs.com/en-us/medline/job/northbrook-illinois/rpa---agentic-ai-software-technologies-intern---summer-2027_r2617378": {
     "title": "RPA & Agentic AI Software Technologies Intern - Summer 2027",
@@ -10326,8 +10327,8 @@
   },
   "https://cboe.wd1.myworkdayjobs.com/en-us/external_career_cboe/job/chicago-il/software-engineer-intern_r-4654": {
     "title": "Software Engineer Intern",
-    "url": "https://cboe.wd1.myworkdayjobs.com/en-US/External_Career_CBOE/job/Chicago-IL/Software-Engineer-Intern_R-4654",
-    "sig": "cboe|software engineer intern"
+    "url": "https://cboe.wd1.myworkdayjobs.com/en-US/external_career_cboe/job/Chicago-IL/Software-Engineer-Intern_R-4654",
+    "sig": "cboeglobalmarkets|software engineer intern"
   },
   "https://chrobinson.wd5.myworkdayjobs.com/en-us/chrobinson/job/eden-prairie-mn-united-states-of-america/security-internship-2027_r49322": {
     "title": "Cyber Security Internship 2027",
@@ -10336,7 +10337,7 @@
   },
   "https://chrobinson.wd5.myworkdayjobs.com/en-us/chrobinson/job/eden-prairie-mn-united-states-of-america/software-engineering-internship-2027_r49323": {
     "title": "Software Engineering Internship 2027",
-    "url": "https://chrobinson.wd5.myworkdayjobs.com/en-US/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
+    "url": "https://chrobinson.wd5.myworkdayjobs.com/en-US/chrobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
     "sig": "chrobinson|software engineering intern"
   },
   "https://dimensional.wd5.myworkdayjobs.com/en-us/dfa_careers/job/austin/internship-in-technology---software-engineer_2026-9022": {
@@ -10439,7 +10440,7 @@
   },
   "https://equifax.wd5.myworkdayjobs.com/en-us/ur_external/job/usa---missouri---st-louis---lackland/site-reliability-engineer-intern_j00178674": {
     "title": "Site Reliability Engineer Intern",
-    "url": "https://equifax.wd5.myworkdayjobs.com/en-US/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674",
+    "url": "https://equifax.wd5.myworkdayjobs.com/en-US/ur_external/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674",
     "sig": "equifax|site reliability engineer intern"
   },
   "https://equifax.wd5.myworkdayjobs.com/en-us/ur_external/job/usa---georgia---alpharetta---30005/data-analytics-intern_j00178975-1": {
@@ -11106,13 +11107,13 @@
   },
   "https://spgi.wd5.myworkdayjobs.com/en-us/spgi_careers/job/cambridge-ma/software-engineer---summer-intern-2027_331717-2": {
     "title": "Software Engineer - Summer Intern 2027",
-    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2",
-    "sig": "spgi|software engineer intern"
+    "url": "https://spgi.wd5.myworkdayjobs.com/en-US/spgi_careers/job/Cambridge-MA/Software-Engineer---Summer-Intern-2027_331717-2",
+    "sig": "spglobal|software engineer intern"
   },
   "https://spgi.wd5.myworkdayjobs.com/en-us/spgi_careers/job/cambridge-ma/machine-learning-engineer---summer-intern-2027_331714-1": {
-    "title": "Machine Learning Engineer - Summer Intern 2027",
+    "title": "Machine Learning Engineer Intern",
     "url": "https://spgi.wd5.myworkdayjobs.com/en-US/SPGI_Careers/job/Cambridge-MA/Machine-Learning-Engineer---Summer-Intern-2027_331714-1",
-    "sig": "spgi|machine learning engineer intern"
+    "sig": "spglobal|machine learning engineer intern"
   },
   "https://draftkings.wd1.myworkdayjobs.com/en-us/campus_career_portal/job/boston-ma/data-science-intern--summer-2027-_jr14958": {
     "title": "Data Science Intern (Summer 2027)",
@@ -13271,7 +13272,7 @@
     "sig": "cigna|the cigna group s technology development program ai engineering track intern"
   },
   "https://cigna.wd5.myworkdayjobs.com/en-us/cignacareers/job/st-louis-mo/the-cigna-group-s-technology-development-program----software-engineering-track-summer-internship_26009527": {
-    "title": "The Cigna Group's Technology Development Program  - Software Engineering Track Summer Internship",
+    "title": "The Cigna Group's Technology Development Program - Software Engineering Track Summer Internship",
     "url": "https://cigna.wd5.myworkdayjobs.com/en-US/cignacareers/job/St-Louis-MO/The-Cigna-Group-s-Technology-Development-Program----Software-Engineering-Track-Summer-Internship_26009527",
     "sig": "cigna|the cigna group s technology development program software engineering track intern"
   },
@@ -13672,12 +13673,12 @@
     "sig": "walmart|mba intern finance leadership development program fldp"
   },
   "https://meijer.wd5.myworkdayjobs.com/en-us/meijer/job/grand-rapids-mi/store-analytics-intern--summer-2027_r000698651": {
-    "title": "Store Analytics Intern- Summer 2027",
+    "title": "Store Analytics Intern",
     "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Store-Analytics-Intern--Summer-2027_R000698651",
     "sig": "meijer|store analytics intern"
   },
   "https://meijer.wd5.myworkdayjobs.com/en-us/meijer/job/grand-rapids-mi/data-science-intern---summer-2027_r000699579": {
-    "title": "Data Science Intern - Summer 2027",
+    "title": "Data Science Intern",
     "url": "https://meijer.wd5.myworkdayjobs.com/en-US/Meijer/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579",
     "sig": "meijer|data science intern"
   },
@@ -15335,9 +15336,9 @@
     "sig": "tiktok|data engineer intern data platform global live"
   },
   "https://nxp.wd3.myworkdayjobs.com/en-us/careers/job/glasgow/intern-ai-and-software-engineer---automotive-mpus_r-10065882-1": {
-    "title": "Intern AI and Software Engineer - Automotive MPUs",
+    "title": "AI and Software Engineer Intern - Automotive MPUs",
     "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1",
-    "sig": "nxp|intern ai and software engineer automotive mpus"
+    "sig": "nxpsemiconductors|ai and software engineer intern automotive mpus"
   },
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011796": {
     "title": "AI Engineer Intern - Enterprise Technology Services",
@@ -18817,8 +18818,8 @@
   },
   "https://ttc.wd1.myworkdayjobs.com/en-us/toro_external_careers/job/perry-ok/hardware-and-software-engineering-intern---ditch-witch_jr17183": {
     "title": "Hardware and Software Engineering Intern - Ditch Witch",
-    "url": "https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183",
-    "sig": "ttc|hardware and software engineering intern ditch witch"
+    "url": "https://ttc.wd1.myworkdayjobs.com/en-US/toro_external_careers/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183",
+    "sig": "toro|hardware and software engineering intern ditch witch"
   },
   "https://thomsonreuters.wd5.myworkdayjobs.com/en-us/external_career_site/job/united-states-of-america-rochester-new-york/software-engineer-co-op_jreq203587": {
     "title": "Software Engineer Co-Op",
@@ -18880,14 +18881,14 @@
     "sig": "avav|systems engineering intern"
   },
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/centreville-va/software-engineering-intern_8593": {
-    "title": "Software Engineering Intern",
+    "title": "Software Engineer Intern",
     "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Centreville-VA/Software-Engineering-Intern_8593",
-    "sig": "avav|software engineering intern"
+    "sig": "aerovironment|software engineer intern"
   },
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/melbourne-fl/software-engineering-intern_8613": {
-    "title": "Software Engineering Intern",
+    "title": "Software Engineer Intern",
     "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Melbourne-FL/Software-Engineering-Intern_8613",
-    "sig": "avav|software engineering intern"
+    "sig": "aerovironment|software engineer intern"
   },
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/moorpark-ca/summer-2027-systems-engineering-test-intern_8552": {
     "title": "Summer 2027 Systems Engineering/Test Intern",
@@ -18996,7 +18997,7 @@
     "sig": "walmart|intern software engineer ii"
   },
   "https://jobs.ashbyhq.com/swarmaero/7b82c290-036e-4444-8407-e7f6ce583c52": {
-    "title": "Embedded Software Intern (Summer 2027)",
+    "title": "Embedded Software Intern - Summer 2027",
     "url": "https://jobs.ashbyhq.com/swarmaero/7b82c290-036e-4444-8407-e7f6ce583c52",
     "sig": "swarmaero|embedded software intern"
   },
@@ -19012,7 +19013,7 @@
   "https://abglobal.wd1.myworkdayjobs.com/en-us/abcampuscareers/job/nashville-tennessee/software-development-summer-intern_r0019771": {
     "title": "Software Development Summer Intern",
     "url": "https://abglobal.wd1.myworkdayjobs.com/en-US/abcampuscareers/job/Nashville-Tennessee/Software-Development-Summer-Intern_R0019771",
-    "sig": "abglobal|software development intern"
+    "sig": "alliancebernstein|software development intern"
   },
   "https://abglobal.wd1.myworkdayjobs.com/en-us/abcampuscareers/job/nashville-tennessee/infrastructure-engineering-summer-intern_r0019749": {
     "title": "Infrastructure Engineering Summer Intern",
@@ -19174,9 +19175,9 @@
     "sig": "brevanhoward|execution research intern systematic execution research"
   },
   "https://albemarle.wd5.myworkdayjobs.com/en-us/ketjenexternal/job/houston-texas-united-states-of-america/ketjen-summer-2027-data-science-internship_req-31411": {
-    "title": "Ketjen Summer 2027 Data Science Internship",
+    "title": "Data Science Intern",
     "url": "https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411",
-    "sig": "albemarle|ketjen data science intern"
+    "sig": "ketjen|data science intern"
   },
   "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-182--1100-cimmie-ave-ne--bldg-182/software-engineering-co-op--spring-summer-2027-_01871551": {
     "title": "Software Engineering Co-op",
@@ -19525,9 +19526,9 @@
     "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725"
   },
   "https://amgen.wd1.myworkdayjobs.com/en-us/careers/job/united-states---remote/undergrad-intern---software-engineer---amgen-s-technology---medical-organizations--summer-2027-_r-255719": {
-    "title": "Undergrad Intern – Software Engineer – Technology, AI & Data (Summer 2027)",
+    "title": "Undergrad Intern - Software Engineer - Amgen’s Technology & Medical Organizations - Summer 2027",
     "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719",
-    "sig": "amgen|undergrad intern software engineer technology ai data"
+    "sig": "amgen|undergrad intern software engineer amgen s technology medical organizations"
   },
   "https://amgen.wd1.myworkdayjobs.com/en-us/careers/job/united-states---remote/grad-intern---data-scientist---amgen-s-technology---medical-organizations--summer-2027-_r-255722": {
     "title": "Grad Intern – Data Scientist – Technology, AI & Data (Summer 2027)",
@@ -19861,9 +19862,9 @@
     "sig": "amgen|grad intern machine learning engineer technology ai data"
   },
   "https://amgen.wd1.myworkdayjobs.com/en-us/careers/job/united-states---remote/grad-intern---software-engineer---amgen-s-technology---medical-organizations--summer-2027-_r-255745": {
-    "title": "Grad Intern – Software Engineer – Technology, AI & Data (Summer 2027)",
+    "title": "Grad Intern - Software Engineer - Amgen’s Technology & Medical Organizations - Summer 2027",
     "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745",
-    "sig": "amgen|grad intern software engineer technology ai data"
+    "sig": "amgen|grad intern software engineer amgen s technology medical organizations"
   },
   "https://jobs.smartrecruiters.com/solidigm/744000149105209": {
     "title": "2027 Undergraduate Software Development Engineering Internships – Mexico",
@@ -20271,9 +20272,9 @@
     "sig": "microsoft|software engineering intern ctj ts"
   },
   "https://bah.wd1.myworkdayjobs.com/en-us/bah_jobs/job/fayetteville-nc/university---summer-2027--software-engineer-intern_r0249225": {
-    "title": "University - Summer 2027, Software Engineer Intern",
+    "title": "University - Summer 2027 - Software Engineer Intern",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/Fayetteville-NC/University---Summer-2027--Software-Engineer-Intern_R0249225",
-    "sig": "bah|university software engineer intern"
+    "sig": "boozallen|university software engineer intern"
   },
   "https://career-schwab.icims.com/jobs/126228/2027-technology-intern---software-engineering/job": {
     "title": "2027 Technology Intern - Software Engineering",
@@ -20303,8 +20304,8 @@
   },
   "https://ttc.wd1.myworkdayjobs.com/en-us/toro_external_careers/job/bloomington-mn/embedded-software-engineering-intern---the-toro-company_jr17114": {
     "title": "Embedded Software Engineering Intern - The Toro Company",
-    "url": "https://ttc.wd1.myworkdayjobs.com/en-US/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114",
-    "sig": "ttc|embedded software engineering intern the toro company"
+    "url": "https://ttc.wd1.myworkdayjobs.com/en-US/toro_external_careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114",
+    "sig": "toro|embedded software engineering intern the toro company"
   },
   "https://careersus-shure.icims.com/jobs/4975/cloud-devops-engineer-intern/job": {
     "title": "Cloud DevOps Engineer Intern",
@@ -20347,9 +20348,9 @@
     "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CO-SCHRIEVER-AFB-CUST--720-Irwin-Ave--SCHRIEVER-AFB-External-Site/Intern-Systems-Engineer---Onsite-_01867818-1"
   },
   "https://autostore.wd3.myworkdayjobs.com/en-us/autostore/job/atlanta-ga-usa/co-op---software-engineering_jr102692": {
-    "title": "Co-Op/Intern - Software Engineering",
+    "title": "Co-Op - Software Engineering",
     "url": "https://autostore.wd3.myworkdayjobs.com/en-US/autostore/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692",
-    "sig": "autostore|coop intern software engineering"
+    "sig": "autostore|coop software engineering"
   },
   "pw::https://www.math.vt.edu/::#358a8bb12b24183e": {
     "title": "Page changed - check Competition: Virginia Tech Regional Math Contest (may mean applications opened)",
@@ -20908,9 +20909,9 @@
     "sig": "basepower|software engineering intern"
   },
   "https://coreandmain.wd1.myworkdayjobs.com/en-us/coreandmain/job/saint-louis-mo-63146/intern---data-engineering----corp_45804": {
-    "title": "Intern - AI Intern - Copilot-  Onsite - St. Louis",
+    "title": "Data Engineering Intern",
     "url": "https://coreandmain.wd1.myworkdayjobs.com/en-US/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804",
-    "sig": "coreandmain|intern ai intern copilot onsite st louis"
+    "sig": "coremain|data engineering intern"
   },
   "https://jobs.ashbyhq.com/bedrock-robotics/c9c08251-6a42-4f9c-be4d-2621995cc8f9": {
     "title": "2027 Internship Hardware Engineer, Machine Integration & Test",
@@ -21135,33 +21136,33 @@
     "sig": "parsons|cno development intern coop"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/backend-software-engineer-intern--undergraduate-_r22593": {
-    "title": "Fullstack Software Engineer Intern (Undergraduate)",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
-    "sig": "wexinc|fullstack software engineer intern undergraduate"
+    "title": "Fullstack Software Engineer Intern - Undergraduate",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
+    "sig": "wex|fullstack software engineer intern undergraduate"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/devops---backend-software-engineer-intern--undergraduate-_r22584": {
     "title": "DevOps & Backend Software Engineer Intern - Undergraduate",
     "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/software-engineer-intern---ai---cloud--graduate-master-s-_r22546": {
-    "title": "Software Engineer Intern – AI & Cloud (Graduate/Master’s)",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
-    "sig": "wexinc|software engineer intern ai cloud graduate master s"
+    "title": "Software Engineer Intern - AI & Cloud - Graduate/Master’s",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
+    "sig": "wex|software engineer intern ai cloud graduate master s"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/backend-software-engineer-intern---java---ai--master-s-_r22547": {
-    "title": "Backend Software Engineer Intern - Java & AI (Master’s)",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
-    "sig": "wexinc|backend software engineer intern java ai master s"
+    "title": "Backend Software Engineer Intern - Java & AI - Master’s",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
+    "sig": "wex|backend software engineer intern java ai master s"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/backend-software-engineer-intern---c--java---ai-workflows--undergraduate-_r22586": {
-    "title": "Backend Software Engineer Intern - C#/Java & AI Workflows (Undergraduate)",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
-    "sig": "wexinc|backend software engineer intern c# java ai workflows undergraduate"
+    "title": "Backend Software Engineer Intern - C#/Java & AI Workflows - Undergraduate",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
+    "sig": "wex|backend software engineer intern c# java ai workflows undergraduate"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/backend-software-engineer-intern---c---cloud-security---ai--undergraduate-_r22589": {
-    "title": "Backend Software Engineer Intern - C#, Cloud Security & AI (Undergraduate)",
+    "title": "Backend Software Engineer Intern - Cloud Security & AI - Undergraduate",
     "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589",
-    "sig": "wexinc|backend software engineer intern c# cloud security ai undergraduate"
+    "sig": "wex|backend software engineer intern cloud security ai undergraduate"
   },
   "https://clarios.wd5.myworkdayjobs.com/en-us/clarioscareers/job/united-states-wisconsin-milwaukee/people-analytics---ai-intern--summer-2027-_wd50216": {
     "title": "People Analytics & AI Intern (Summer 2027)",
@@ -21485,19 +21486,19 @@
     "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Formal-Methods-Researcher-Graduate-Intern_R016552"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/data---ai-intern--graduate-master-s-_r22551": {
-    "title": "Data & AI Intern (Graduate/Master’s)",
+    "title": "Data & AI Intern",
     "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551",
-    "sig": "wexinc|data ai intern graduate master s"
+    "sig": "wex|data ai intern"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/devops---ai-engineering-intern--undergraduate-_r23056": {
-    "title": "DevOps & AI Engineering Intern (Undergraduate)",
-    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
-    "sig": "wexinc|devops ai engineering intern undergraduate"
+    "title": "DevOps & AI Engineering Intern - Undergraduate",
+    "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/wexinc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
+    "sig": "wex|devops ai engineering intern undergraduate"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/ai---data-platform-engineering-intern--undergraduate-_r23055": {
-    "title": "AI & Data Platform Engineering Intern (Undergraduate)",
+    "title": "AI & Data Platform Engineering Intern - Undergraduate",
     "url": "https://wexinc.wd5.myworkdayjobs.com/en-US/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
-    "sig": "wexinc|ai data platform engineering intern undergraduate"
+    "sig": "wex|ai data platform engineering intern undergraduate"
   },
   "https://labcorp.wd1.myworkdayjobs.com/en-us/external/job/durham-nc/intern---software-developer_2632330": {
     "title": "Intern - Software Developer",
@@ -21954,7 +21955,7 @@
   },
   "https://analogdevices.wd1.myworkdayjobs.com/en-us/external/job/us-ma-wilmington/embedded-software-engineer-intern_r266132": {
     "title": "Embedded Software Engineer Intern",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132",
     "sig": "analogdevices|embedded software engineer intern"
   },
   "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008": {
@@ -21991,9 +21992,9 @@
     "sig": "inmar|information security intern"
   },
   "https://inmar.wd1.myworkdayjobs.com/en-us/inmarcareers/job/headquarters-winston-salem-nc/software-engineering-internships--summer-2027_jy2627638": {
-    "title": "Software Engineering Internships, Summer 2027",
+    "title": "Software Engineering Internships - Summer 2027",
     "url": "https://inmar.wd1.myworkdayjobs.com/en-US/inmarcareers/job/Headquarters-Winston-Salem-NC/Software-Engineering-Internships--Summer-2027_JY2627638",
-    "sig": "inmar|software engineering intern"
+    "sig": "inmarintelligence|software engineering intern"
   },
   "https://intelcomgroup.wd3.myworkdayjobs.com/en-us/intelcom/job/canada-quebec-montreal/back-end-developer-intern---mobile-application_jr111747": {
     "title": "Back-end Developer Intern - Mobile Application",
@@ -22288,7 +22289,7 @@
   "https://tihinsurance.wd1.myworkdayjobs.com/en-us/crc_careers/job/dallas-tx---12377-merit-dr/internship---software-engineering_r0000003172": {
     "title": "Internship - Software Engineering",
     "url": "https://tihinsurance.wd1.myworkdayjobs.com/en-US/crc_careers/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172",
-    "sig": "tihinsurance|intern software engineering"
+    "sig": "crc|intern software engineering"
   },
   "https://apply.careers.microsoft.com/careers/job/1970393556962891": {
     "title": "AI Software Engineering Intern",
@@ -22534,8 +22535,8 @@
   },
   "https://q2ebanking.wd5.myworkdayjobs.com/en-us/q2/job/austin-texas/xmlname-2027-summer-internship---software-engineer_req-12794": {
     "title": "2027 Summer Internship - Software Engineer",
-    "url": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794",
-    "sig": "q2ebanking|intern software engineer"
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794",
+    "sig": "q2|intern software engineer"
   },
   "https://q2ebanking.wd5.myworkdayjobs.com/en-us/q2/job/austin-texas/xmlname-2027-summer-internship---data-science_req-12796": {
     "title": "2027 Summer Internship - Data Science",
@@ -23312,7 +23313,7 @@
   },
   "https://kbr.wd5.myworkdayjobs.com/en-us/kbr_careers/job/sioux-falls-south-dakota/image-processing-software-engineer-intern_r2130067": {
     "title": "Image Processing Software Engineer Intern",
-    "url": "https://kbr.wd5.myworkdayjobs.com/en-US/KBR_Careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067",
+    "url": "https://kbr.wd5.myworkdayjobs.com/en-US/kbr_careers/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067",
     "sig": "kbr|image processing software engineer intern"
   },
   "https://kbr.wd5.myworkdayjobs.com/en-us/kbr_careers/job/sioux-falls-south-dakota/data-processing-systems-engineer-intern_r2130060": {
@@ -23483,9 +23484,9 @@
     "sig": "javelinglobalcommodities|intern software engineering"
   },
   "https://wf.wd1.myworkdayjobs.com/en-us/wellsfargojobs/job/charlotte-nc/xmlname-2027-technology-summer-internship---early-careers--software-engineering-_r-574285": {
-    "title": "2027 Technology Summer Internship – Early Careers (Software Engineering)",
+    "title": "2027 Technology Summer Internship - Early Careers - Software Engineering",
     "url": "https://wf.wd1.myworkdayjobs.com/en-US/wellsfargojobs/job/CHARLOTTE-NC/XMLNAME-2027-Technology-Summer-Internship---Early-Careers--Software-Engineering-_R-574285",
-    "sig": "wf|technology intern early careers software engineering"
+    "sig": "wellsfargo|technology intern early careers software engineering"
   },
   "https://wf.wd1.myworkdayjobs.com/en-us/wellsfargojobs/job/san-francisco-ca/xmlname-2027-technology-summer-internship---early-careers--software-engineering---california-_r-574294": {
     "title": "2027 Technology Summer Internship - Early Careers - Software Engineering - California",
@@ -24027,8 +24028,8 @@
     "sig": "sharkninjaoperatingllc|product development design consumer insights intern opportunities"
   },
   "https://marvell.wd1.myworkdayjobs.com/en-us/marvellcareers2/job/burlington-vt/sram-software-engineer-intern--bs---summer-2027_2603760": {
-    "title": "SRAM Software Engineer Intern, BS - Summer 2027",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
+    "title": "SRAM Software Engineer Intern - BS - Summer 2027",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
     "sig": "marvell|sram software engineer intern bs"
   },
   "https://roche.wd3.myworkdayjobs.com/en-us/roche-ext/job/budapest/web---social-media-intern_202609-123539-2": {
@@ -24097,7 +24098,7 @@
   "https://theocc.wd5.myworkdayjobs.com/en-us/careers/job/chicago---125-s-franklin/year-round-intern---cloud-engineering_req-4839": {
     "title": "Year-Round Intern - Cloud Engineering",
     "url": "https://theocc.wd5.myworkdayjobs.com/en-US/careers/job/Chicago---125-S-Franklin/Year-Round-Intern---Cloud-Engineering_REQ-4839",
-    "sig": "theocc|year round intern cloud engineering"
+    "sig": "occ|year round intern cloud engineering"
   },
   "https://theocc.wd5.myworkdayjobs.com/en-us/careers/job/dallas-tx/year-round-intern---application-security_req-4838": {
     "title": "Year-Round Intern - Application Security",
@@ -24193,7 +24194,7 @@
     "sig": "rothesaygraduates|intern programme trading and asset origination"
   },
   "https://axcelis.wd1.myworkdayjobs.com/en-us/axcelis/job/beverly-ma/co-op---manufacturing-software-development-_12019": {
-    "title": "Co-Op, (Manufacturing Software Development)",
+    "title": "Co-Op - Manufacturing Software Development",
     "url": "https://axcelis.wd1.myworkdayjobs.com/en-US/axcelis/job/Beverly-MA/Co-Op---Manufacturing-Software-Development-_12019",
     "sig": "axcelis|coop manufacturing software development"
   },
@@ -24459,7 +24460,7 @@
     "url": "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-FL-JAX-347/Intern--Risk-and-Cybersecurity--FIS-University-Program_JR0309680"
   },
   "https://churchdwight.wd1.myworkdayjobs.com/en-us/chdcareers/job/usa-ewing-nj/ai-developer-co-op---graduate-program--9-months-_r2026-15686": {
-    "title": "AI Developer Co-op - Graduate Program (9 Months)",
+    "title": "AI Developer Co-op - Graduate Program - 9 Months",
     "url": "https://churchdwight.wd1.myworkdayjobs.com/en-US/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686",
     "sig": "churchdwight|ai developer coop graduate program 9 months"
   },
@@ -24625,14 +24626,14 @@
     "sig": "guardianlife|guardian intern corporate finance risk investment reporting data analytics"
   },
   "https://ntst.wd1.myworkdayjobs.com/en-us/careers/job/overland-park-ks/software-engineer-intern--summer-2027-internship-_r015667": {
-    "title": "Software Engineer Intern (Summer 2027 Internship)",
+    "title": "Software Engineer Intern - Summer 2027 Internship",
     "url": "https://ntst.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
-    "sig": "ntst|software engineer intern intern"
+    "sig": "netsmart|software engineer intern intern"
   },
   "https://ntst.wd1.myworkdayjobs.com/en-us/careers/job/overland-park-ks/cloud-engineer-future---summer-2027-internship-_r015668": {
-    "title": "Cloud Engineer Future  (Summer 2027 Internship)",
+    "title": "Cloud Engineer Future - Summer 2027 Internship",
     "url": "https://ntst.wd1.myworkdayjobs.com/en-US/careers/job/Overland-Park-KS/Cloud-Engineer-Future---Summer-2027-Internship-_R015668",
-    "sig": "ntst|cloud engineer future intern"
+    "sig": "netsmart|cloud engineer future intern"
   },
   "https://ntst.wd1.myworkdayjobs.com/en-us/careers/job/overland-park-ks/security-analyst-future--summer-2027-internship-_r015669": {
     "title": "Security Analyst Future (Summer 2027 Internship)",
@@ -24789,7 +24790,7 @@
   "https://cmegroup.wd1.myworkdayjobs.com/en-us/cme_careers/job/chicago---20-s-wacker/software-engineering-internship---summer-2027_34821": {
     "title": "Software Engineering Internship - Summer 2027",
     "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821",
-    "sig": "cmegroup|software engineering intern"
+    "sig": "cme|software engineering intern"
   },
   "https://jj.wd5.myworkdayjobs.com/en-us/jj/job/danvers-massachusetts-united-states-of-america/advanced-clinical-research-co-op_r-100368-1": {
     "title": "Advanced Clinical Research Co-op",
@@ -25198,12 +25199,12 @@
     "url": "https://jobs.smartrecruiters.com/RRSGroup/744000150509779"
   },
   "https://priceline.wd1.myworkdayjobs.com/en-us/priceline-collegehiring/job/new-york/software-engineering---full-stack--northeastern-co-op-_r5822": {
-    "title": "Software Engineering - Full Stack (Northeastern Co-op)",
+    "title": "Software Engineering - Full Stack - Northeastern Co-op",
     "url": "https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Full-Stack--Northeastern-Co-op-_R5822",
     "sig": "priceline|software engineering full stack northeastern coop"
   },
   "https://priceline.wd1.myworkdayjobs.com/en-us/priceline-collegehiring/job/new-york/software-engineering---web-javascript--northeastern-co-op-_r5818": {
-    "title": "Software Engineering - Web/Javascript (Northeastern Co-op)",
+    "title": "Software Engineering - Web/Javascript - Northeastern Co-op",
     "url": "https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Web-Javascript--Northeastern-Co-op-_R5818",
     "sig": "priceline|software engineering web javascript northeastern coop"
   },
@@ -25658,7 +25659,7 @@
   },
   "https://leidos.wd5.myworkdayjobs.com/en-us/external/job/tucson-az/jr-software-engineer-intern_r-00192184": {
     "title": "Jr. Software Engineer Intern",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Tucson-AZ/Jr-Software-Engineer-Intern_R-00192184",
     "sig": "leidos|software engineer intern"
   },
   "https://cae.wd3.myworkdayjobs.com/en-us/career/job/montreal-st-laurent/tax-intern---tax-technology---ai-enablement_123617": {
@@ -25910,8 +25911,8 @@
   },
   "https://bcbsks.wd1.myworkdayjobs.com/en-us/external/job/topeka/application-developer---intern_r2026355": {
     "title": "Application Developer - Intern",
-    "url": "https://bcbsks.wd1.myworkdayjobs.com/en-US/External/job/Topeka/Application-Developer---Intern_R2026355",
-    "sig": "bcbsks|application developer intern"
+    "url": "https://bcbsks.wd1.myworkdayjobs.com/en-US/external/job/Topeka/Application-Developer---Intern_R2026355",
+    "sig": "bluecrossandblueshieldofkansas|application developer intern"
   },
   "https://wattswater.wd5.myworkdayjobs.com/en-us/intern-external/job/north-andover-ma/talent-development-intern--summer-2027_10017568": {
     "title": "Talent Development Intern, Summer 2027",
@@ -26003,12 +26004,12 @@
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/simi-valley-ca/software-engineering-intern_8813": {
     "title": "Software Engineering Intern",
     "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Software-Engineering-Intern_8813",
-    "sig": "avav|software engineering intern"
+    "sig": "aerovironment|software engineering intern"
   },
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/moorpark-ca/summer-2027-autonomy---robotics-engineering-intern_8551": {
-    "title": "Summer 2027 Autonomy & Robotics Engineering Intern",
+    "title": "Autonomy & Robotics Engineer Intern",
     "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551",
-    "sig": "avav|autonomy robotics engineering intern"
+    "sig": "aerovironment|autonomy robotics engineer intern"
   },
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/moorpark-ca/guidance--navigation--and-controls-engineering-intern_8625": {
     "title": "Guidance, Navigation, and Controls Engineering Intern",
@@ -26540,8 +26541,8 @@
     "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586"
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/us-california-palo-alto/site-reliability-engineer--sre--intern---ai-infrastructure_r108158-1": {
-    "title": "Site Reliability Engineer (SRE) Intern — AI Infrastructure",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1",
+    "title": "Site Reliability Engineer - SRE Intern — AI Infrastructure",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1",
     "sig": "tencent|site reliability engineer sre intern ai infrastructure"
   },
   "https://caci.wd1.myworkdayjobs.com/en-us/external/job/sterling-va-us/software-engineering-intern---summer-2027_332386": {
@@ -26638,8 +26639,8 @@
   },
   "https://emcins.wd5.myworkdayjobs.com/en-us/emc_careers/job/iowa/intern---software-engineering_r6557-1": {
     "title": "Intern - Software Engineering",
-    "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Intern---Software-Engineering_R6557-1",
-    "sig": "emcins|intern software engineering"
+    "url": "https://emcins.wd5.myworkdayjobs.com/en-US/emc_careers/job/Iowa/Intern---Software-Engineering_R6557-1",
+    "sig": "emc|intern software engineering"
   },
   "https://fhlbc.wd1.myworkdayjobs.com/en-us/search/job/chicago/summer-internship---finance-transformation---systems_r2600460": {
     "title": "Summer Internship - Finance Transformation & Systems",
@@ -26741,7 +26742,7 @@
     "url": "https://jobs.smartrecruiters.com/AECOM2/744000151115989"
   },
   "https://allegion.wd5.myworkdayjobs.com/en-us/careers/job/carmel-in/summer-intern---software-operations-engineer_jr37722-1": {
-    "title": "Summer Intern – Software Operations Engineer",
+    "title": "Summer Intern - Software Operations Engineer",
     "url": "https://allegion.wd5.myworkdayjobs.com/en-US/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1",
     "sig": "allegion|intern software operations engineer"
   },
@@ -27158,9 +27159,9 @@
     "sig": "marvell|security verification validation engineer intern bs"
   },
   "https://nb.wd1.myworkdayjobs.com/en-us/nbcareers/job/new-york-ny/quantitative-2027-summer-intern_r0012643": {
-    "title": "Quantitative 2027 Summer Intern",
+    "title": "Quantitative Analyst Intern",
     "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
-    "sig": "nb|quantitative intern"
+    "sig": "neubergerberman|quantitative analyst intern"
   },
   "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/richmond-va/federal-reserve-summer-2027-research-business-survey-internship_r-0000033218": {
     "title": "Federal Reserve Summer 2027 Research Business Survey Internship",
@@ -27217,8 +27218,8 @@
   },
   "https://lthc.wd1.myworkdayjobs.com/en-us/excellusbcbscareers/job/rochester/college-intern---summer-2027---software-testing-and-automation_jr104024-2": {
     "title": "College Intern - Summer 2027 - Software Testing and Automation",
-    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Software-Testing-and-Automation_JR104024-2",
-    "sig": "lthc|college intern software testing and automation"
+    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/excellusbcbscareers/job/Rochester/College-Intern---Summer-2027---Software-Testing-and-Automation_JR104024-2",
+    "sig": "excellusbcbs|college intern software testing and automation"
   },
   "https://lthc.wd1.myworkdayjobs.com/en-us/excellusbcbscareers/job/rochester/college-intern---summer-2027---cyber-defense_jr104027-2": {
     "title": "College Intern - Summer 2027 - Cyber Defense",
@@ -27231,14 +27232,14 @@
     "sig": "excellusbcbs|college intern data governance ai governance"
   },
   "https://lthc.wd1.myworkdayjobs.com/en-us/excellusbcbscareers/job/rochester/college-intern---summer-2027---digital-analytics_jr104050-2": {
-    "title": "College Intern - Summer 2027 - Digital Analytics",
+    "title": "College Intern - Digital Analytics",
     "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Digital-Analytics_JR104050-2",
-    "sig": "lthc|college intern digital analytics"
+    "sig": "excellusbcbs|college intern digital analytics"
   },
   "https://lthc.wd1.myworkdayjobs.com/en-us/excellusbcbscareers/job/rochester/college-intern---summer-2027---mobile-software-engineering-team_jr104025-3": {
     "title": "College Intern - Summer 2027 - Mobile Software Engineering Team",
-    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3",
-    "sig": "lthc|college intern mobile software engineering team"
+    "url": "https://lthc.wd1.myworkdayjobs.com/en-US/excellusbcbscareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3",
+    "sig": "excellusbcbs|college intern mobile software engineering team"
   },
   "https://lthc.wd1.myworkdayjobs.com/en-us/excellusbcbscareers/job/rochester/college-intern---summer-2027---healthcare-statistical-analytics_jr104054-1": {
     "title": "College Intern - Summer 2027 - Healthcare Statistical Analytics",
@@ -27246,9 +27247,9 @@
     "sig": "lthc|college intern healthcare statistical analytics"
   },
   "https://lthc.wd1.myworkdayjobs.com/en-us/excellusbcbscareers/job/rochester/college-intern---summer-2027---research-insights_jr104048-2": {
-    "title": "College Intern - Summer 2027 - Research Insights",
+    "title": "College Intern - Research Insights",
     "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Research-Insights_JR104048-2",
-    "sig": "lthc|college intern research insights"
+    "sig": "excellusbcbs|college intern research insights"
   },
   "https://lthc.wd1.myworkdayjobs.com/en-us/excellusbcbscareers/job/rochester/college-intern---summer-2027---healthcare-analytics_jr104059-2": {
     "title": "College Intern - Summer 2027 - Healthcare Analytics",
@@ -27412,7 +27413,7 @@
     "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/External_Rockwell_Automation/job/Waterloo-Ontario-Canada/Co-op--Robotics-Integration-and-Development--OTTO-by-Rockwell-Automation-_R26-6721-1"
   },
   "https://insulet.wd5.myworkdayjobs.com/en-us/insuletcareers/job/san-diego-california/intern--devops-engineer--june-august-2027--onsite-_req-2026-18202": {
-    "title": "Intern, DevOps Engineer: June-August 2027 (Onsite)",
+    "title": "Intern - DevOps Engineer: June-August 2027 - Onsite",
     "url": "https://insulet.wd5.myworkdayjobs.com/en-US/insuletcareers/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202",
     "sig": "insulet|intern devops engineer june august onsite"
   },
@@ -27452,8 +27453,8 @@
     "sig": "sonos|software engineering coop cloud"
   },
   "https://sonos.wd1.myworkdayjobs.com/en-us/sonos/job/boston-ma/software-engineering-co-op--signal-processing-_r2821-2": {
-    "title": "Software Engineering Co-op (Signal Processing)",
-    "url": "https://sonos.wd1.myworkdayjobs.com/en-US/Sonos/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2",
+    "title": "Software Engineering Co-op - Signal Processing",
+    "url": "https://sonos.wd1.myworkdayjobs.com/en-US/sonos/job/Boston-MA/Software-Engineering-Co-op--Signal-Processing-_R2821-2",
     "sig": "sonos|software engineering coop signal processing"
   },
   "https://jobs.smartrecruiters.com/continental/744000151462349": {
@@ -27544,8 +27545,8 @@
     "sig": "kla|algorithm engineering intern ai computer vision software engineering"
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/ur/job/milpitas-ca/software-engineering-intern--c----unix-_2641325": {
-    "title": "Software Engineering Intern (C++, Unix)",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325",
+    "title": "Software Engineering Intern - C++ - Unix",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325",
     "sig": "kla|software engineering intern c++ unix"
   },
   "https://careers.withwaymo.com/jobs?gh_jid=8221198": {
@@ -27566,7 +27567,7 @@
   },
   "https://cadence.wd1.myworkdayjobs.com/en-us/external_careers/job/austin/graduate-student-intern---software-engineering_r56405-2": {
     "title": "Graduate Student Intern - Software Engineering",
-    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/External_Careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-2",
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/external_careers/job/AUSTIN/Graduate-Student-Intern---Software-Engineering_R56405-2",
     "sig": "cadence|graduate student intern software engineering"
   },
   "https://insulet.wd5.myworkdayjobs.com/en-us/insuletcareers/job/acton-massachusetts/co-op--devops-engineer--january---june-2027--hybrid-_req-2026-18027": {
@@ -27995,8 +27996,8 @@
     "sig": "aero|space vehicle and ground systems graduate intern"
   },
   "https://ciena.wd5.myworkdayjobs.com/en-us/careers/job/atlanta/wavelogic-software-intern--summer-2027-_r031695": {
-    "title": "WaveLogic Software Intern (Summer 2027)",
-    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Atlanta/WaveLogic-Software-Intern--Summer-2027-_R031695",
+    "title": "WaveLogic Software Intern - Summer 2027",
+    "url": "https://ciena.wd5.myworkdayjobs.com/en-US/careers/job/Atlanta/WaveLogic-Software-Intern--Summer-2027-_R031695",
     "sig": "ciena|wavelogic software intern"
   },
   "https://ferrovial.wd3.myworkdayjobs.com/en-us/ferrovial_career_site/job/madrid/ai-program-internship_jr19467": {
@@ -28088,7 +28089,7 @@
   },
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-us/careers/job/plantation-fl/software-engineering-intern---summer-2027_r69136": {
     "title": "Software Engineering Intern - Summer 2027",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136",
     "sig": "motorolasolutions|software engineering intern"
   },
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-us/careers/job/cork-ireland/software-engineering-internship_r66949-1": {
@@ -28308,14 +28309,14 @@
     "sig": "americancentury|sustainable research intern"
   },
   "https://irhythmtech.wd5.myworkdayjobs.com/en-us/irhythm/job/san-francisco-ca/firmware-quality-assurance-engineer-co-op-intern-full-time-january-juneengineer_jr1791": {
-    "title": "Firmware Quality Assurance Engineer Co-Op Intern Full Time January-June",
+    "title": "Firmware Quality Assurance Engineer Co-Op Intern Full Time January-JuneEngineer",
     "url": "https://irhythmtech.wd5.myworkdayjobs.com/en-US/irhythm/job/San-Francisco-CA/Firmware-Quality-Assurance-Engineer-Co-Op-Intern-Full-Time-January-JuneEngineer_JR1791",
-    "sig": "irhythmtech|firmware quality assurance engineer coop intern full time january june"
+    "sig": "irhythm|firmware quality assurance engineer coop intern full time january juneengineer"
   },
   "https://irhythmtech.wd5.myworkdayjobs.com/en-us/irhythm/job/san-francisco-ca/embedded-sdet-co-op-full-time-intern-january-june-2027_jr1758": {
     "title": "Embedded SDET Co-Op Full Time Intern January-June 2027",
     "url": "https://irhythmtech.wd5.myworkdayjobs.com/en-US/irhythm/job/San-Francisco-CA/Embedded-SDET-Co-Op-Full-Time-Intern-January-June-2027_JR1758",
-    "sig": "irhythmtech|embedded sdet coop full time intern january june"
+    "sig": "irhythm|embedded sdet coop full time intern january june"
   },
   "https://ancestry.wd501.myworkdayjobs.com/en-us/careers/job/remote/machine-learning-engineer--co-op_r003377": {
     "title": "Machine Learning Engineer, Co-op",
@@ -28986,13 +28987,13 @@
   },
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-us/careers/job/greater-chicago-area/software-engineer-intern---summer-2027_r68679": {
     "title": "Software Engineer Intern - Summer 2027",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Greater-Chicago-Area/Software-Engineer-Intern---Summer-2027_R68679",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Greater-Chicago-Area/Software-Engineer-Intern---Summer-2027_R68679",
     "sig": "motorolasolutions|software engineer intern"
   },
   "https://selinc.wd1.myworkdayjobs.com/en-us/sel/job/idaho---boise/software-engineer-intern_2026-23076": {
     "title": "Software Engineer Intern",
-    "url": "https://selinc.wd1.myworkdayjobs.com/en-US/SEL/job/Idaho---Boise/Software-Engineer-Intern_2026-23076",
-    "sig": "selinc|software engineer intern"
+    "url": "https://selinc.wd1.myworkdayjobs.com/en-US/sel/job/Idaho---Boise/Software-Engineer-Intern_2026-23076",
+    "sig": "sel|software engineer intern"
   },
   "https://aero.wd5.myworkdayjobs.com/en-us/external/job/el-segundo-ca/xmlname-2027-cloud-solutions-engineer---site-reliability-grad-intern_r016715": {
     "title": "2027 Cloud Solutions Engineer / Site Reliability Grad Intern",
@@ -29044,14 +29045,14 @@
     "sig": "elkay|it business systems intern"
   },
   "https://elkay.wd1.myworkdayjobs.com/en-us/elkay_external/job/milwaukee-wi/embedded-hardware-intern--summer-2027-_req-020151": {
-    "title": "Embedded Hardware Intern (Summer 2027)",
-    "url": "https://elkay.wd1.myworkdayjobs.com/en-US/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151",
-    "sig": "elkay|embedded hardware intern"
+    "title": "Embedded Hardware Intern - Summer 2027",
+    "url": "https://elkay.wd1.myworkdayjobs.com/en-US/elkay_external/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151",
+    "sig": "zurnelkaywatersolutions|embedded hardware intern"
   },
   "https://elkay.wd1.myworkdayjobs.com/en-us/elkay_external/job/milwaukee-wi/embedded-firmware-intern--summer-2027-_req-020150-1": {
-    "title": "Embedded Firmware Intern (Summer 2027)",
-    "url": "https://elkay.wd1.myworkdayjobs.com/en-US/Elkay_External/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1",
-    "sig": "elkay|embedded firmware intern"
+    "title": "Embedded Firmware Intern - Summer 2027",
+    "url": "https://elkay.wd1.myworkdayjobs.com/en-US/elkay_external/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1",
+    "sig": "zurnelkaywatersolutions|embedded firmware intern"
   },
   "https://elkay.wd1.myworkdayjobs.com/en-us/elkay_external/job/milwaukee-wi/it-infrastructure-intern--summer-2027-_req-020160": {
     "title": "IT Infrastructure & AI Enablement Intern (Summer 2027)",
@@ -29084,8 +29085,8 @@
   },
   "https://americancentury.wd5.myworkdayjobs.com/en-us/americancenturyinvestments/job/kansas-city-missouri/software-developer-intern_r0005749-1": {
     "title": "Software Developer Intern",
-    "url": "https://americancentury.wd5.myworkdayjobs.com/en-US/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1",
-    "sig": "americancentury|software developer intern"
+    "url": "https://americancentury.wd5.myworkdayjobs.com/en-US/americancenturyinvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1",
+    "sig": "americancenturyinvestments|software developer intern"
   },
   "https://americancentury.wd5.myworkdayjobs.com/en-us/americancenturyinvestments/job/kansas-city-missouri/infrastructure-automation-engineer-intern_r0005750": {
     "title": "Infrastructure Automation Engineer Intern",
@@ -29265,11 +29266,11 @@
   },
   "https://pacificlife.wd1.myworkdayjobs.com/en-us/pacificlifecareers/job/newport-beach-ca-700/summer-2027-software-engineering-internship_r17826": {
     "title": "Summer 2027 Software Engineering Internship",
-    "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Software-Engineering-Internship_R17826",
+    "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/pacificlifecareers/job/Newport-Beach-CA-700/Summer-2027-Software-Engineering-Internship_R17826",
     "sig": "pacificlife|software engineering intern"
   },
   "https://pacificlife.wd1.myworkdayjobs.com/en-us/pacificlifecareers/job/newport-beach-ca-700/summer-2027-data-engineering-internship_r17828": {
-    "title": "Summer 2027 Data Engineering Internship",
+    "title": "Data Engineering Intern",
     "url": "https://pacificlife.wd1.myworkdayjobs.com/en-US/PacificLifeCareers/job/Newport-Beach-CA-700/Summer-2027-Data-Engineering-Internship_R17828",
     "sig": "pacificlife|data engineering intern"
   },
@@ -30365,8 +30366,8 @@
   },
   "https://q2ebanking.wd5.myworkdayjobs.com/en-us/q2/job/cary-north-carolina/xmlname-2027-summer-internship---software-engineer_req-12798": {
     "title": "2027 Summer Internship - Software Engineer",
-    "url": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/Q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798",
-    "sig": "q2ebanking|intern software engineer"
+    "url": "https://q2ebanking.wd5.myworkdayjobs.com/en-US/q2/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798",
+    "sig": "q2|intern software engineer"
   },
   "https://q2ebanking.wd5.myworkdayjobs.com/en-us/q2/job/cary-north-carolina/xmlname-2027-summer-internship---data-science_req-12799": {
     "title": "2027 Summer Internship - Data Science",
@@ -30594,7 +30595,7 @@
     "sig": "hrblock|software engineering intern s"
   },
   "https://philips.wd3.myworkdayjobs.com/en-us/jobs-and-careers/job/bothell-washington-united-states/intern---embedded-systems-test-automation-engineer---bothell--wa---summer-2027_592074": {
-    "title": "Intern – Embedded Systems Test Automation Engineer – Bothell, WA – Summer 2027",
+    "title": "Intern - Embedded Systems Test Automation Engineer - Bothell - WA - Summer 2027",
     "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Embedded-Systems-Test-Automation-Engineer---Bothell--WA---Summer-2027_592074",
     "sig": "philips|intern embedded systems test automation engineer bothell wa"
   },
@@ -30610,7 +30611,8 @@
   },
   "https://gdit.wd5.myworkdayjobs.com/en-us/gdit_earlytalent/job/usa-la-bossier-city/gdit-summer-internship-program---summer-2027-ai-ml-software-development-and-engineering-internship_rq229141": {
     "title": "GDIT Summer Internship Program - Summer 2027 AI/ML Software Development and Engineering Internship",
-    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229141"
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229141",
+    "sig": "gdit|gdit intern program ai ml software development and engineering intern"
   },
   "https://q2ebanking.wd5.myworkdayjobs.com/q2/job/cary-north-carolina/xmlname-2027-summer-internship---software-engineer_req-12798": {
     "title": "Software Engineer Intern",
@@ -30715,12 +30717,12 @@
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/sunrise-fl/software-engineering-intern_8797": {
     "title": "Software Engineering Intern",
     "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Sunrise-FL/Software-Engineering-Intern_8797",
-    "sig": "avav|software engineering intern"
+    "sig": "aerovironment|software engineering intern"
   },
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/leesburg-va/titan-sv-software-engineer-intern_8901": {
     "title": "Titan-SV Software Engineer Intern",
     "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Leesburg-VA/Titan-SV-Software-Engineer-Intern_8901",
-    "sig": "avav|titan sv software engineer intern"
+    "sig": "aerovironment|titan sv software engineer intern"
   },
   "https://chamberlain.wd1.myworkdayjobs.com/en-us/chamberlain_group/job/oak-brook-il/engineer-1--firmware--intern-conversion-_jr31660": {
     "title": "Engineer 1 - Firmware - Intern Conversion",
@@ -31203,8 +31205,8 @@
     "sig": "uva|network engineering intern student wage"
   },
   "https://marvell.wd1.myworkdayjobs.com/en-us/marvellcareers2/job/santa-clara-ca/firmware-engineer-intern--bs---summer-2027_2604461-1": {
-    "title": "Firmware Engineer Intern, BS - Summer 2027",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1",
+    "title": "Firmware Engineer Intern - BS - Summer 2027",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--BS---Summer-2027_2604461-1",
     "sig": "marvell|firmware engineer intern bs"
   },
   "https://marvell.wd1.myworkdayjobs.com/en-us/marvellcareers2/job/santa-clara-ca/product-engineer-intern--bs---summer-2027_2603839": {
@@ -31320,8 +31322,8 @@
     "url": "https://kla.wd1.myworkdayjobs.com/search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1"
   },
   "https://leidos.wd5.myworkdayjobs.com/en-us/external/job/huntsville-al/embedded-design-engineering-intern---firmware_r-00193574": {
-    "title": "Embedded Design Engineering Intern – Firmware",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574",
+    "title": "Embedded Design Engineering Intern - Firmware",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574",
     "sig": "leidos|embedded design engineering intern firmware"
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/mechatronics-systems-engineering-internship_2641532-1": {
@@ -31720,9 +31722,9 @@
     "sig": "accorcorpo|intern ai for delivery"
   },
   "https://mfs.wd1.myworkdayjobs.com/en-us/mfs-careers/job/boston/summer-2027-software-engineer-intern--june---august-_mfs-231985": {
-    "title": "Summer 2027 Software Engineer Intern (June - August)",
+    "title": "Software Engineer Intern",
     "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231985",
-    "sig": "mfs|software engineer intern june august"
+    "sig": "mfs|software engineer intern"
   },
   "https://jobs.smartrecruiters.com/solidigm/744000152981999": {
     "title": "NAND Development Business Operations Intern",
@@ -31884,8 +31886,8 @@
     "sig": "philips|intern systems test engineering new kensington pa"
   },
   "https://marvell.wd1.myworkdayjobs.com/en-us/marvellcareers2/job/santa-clara-ca/firmware-engineer-intern--ms---summer-2027_2604513-1": {
-    "title": "Firmware Engineer Intern, MS - Summer 2027",
-    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1",
+    "title": "Firmware Engineer Intern - MS - Summer 2027",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/marvellcareers2/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1",
     "sig": "marvell|firmware engineer intern ms"
   },
   "https://radiancetech.wd12.myworkdayjobs.com/en-us/radiance_external/job/dayton-office/software-engineer-intern-spring-summer-2027_hr102443": {
@@ -31909,9 +31911,9 @@
     "sig": "point72|micro intern research technology developer iap"
   },
   "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/cleveland-oh/research-intern---2027_r-0000033640": {
-    "title": "Research Intern - 2027",
+    "title": "Research Intern",
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/Research-Intern---2027_R-0000033640",
-    "sig": "rb|research intern"
+    "sig": "federalreservesystem|research intern"
   },
   "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/cleveland-oh/community-development-intern---2027_r-0000033641": {
     "title": "Community Development Intern - 2027",
@@ -31920,13 +31922,13 @@
   },
   "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/chicago-il/summer-2027-intern-cloud-engineering_r-0000033614": {
     "title": "Summer 2027 Intern-Cloud Engineering",
-    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Cloud-Engineering_R-0000033614",
-    "sig": "rb|intern cloud engineering"
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/frs/job/Chicago-IL/Summer-2027-Intern-Cloud-Engineering_R-0000033614",
+    "sig": "federalreserve|intern cloud engineering"
   },
   "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/cleveland-oh/scs---advanced-analytics-intern---2027_r-0000033622": {
-    "title": "SCS - Advanced Analytics Intern - 2027",
+    "title": "Advanced Analytics Intern",
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Advanced-Analytics-Intern---2027_R-0000033622",
-    "sig": "rb|scs advanced analytics intern"
+    "sig": "federalreservesystem|advanced analytics intern"
   },
   "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/cleveland-oh/ts---application-security-intern---2027_r-0000033625": {
     "title": "TS - Application Security Intern - 2027",
@@ -31939,9 +31941,9 @@
     "sig": "rb|intern economic research chicago"
   },
   "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/cleveland-oh/scs---statistics-and-analysis-intern---2027_r-0000033645": {
-    "title": "SCS - Statistics and Analysis Intern - 2027",
+    "title": "Statistics and Analysis Intern",
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Cleveland-OH/SCS---Statistics-and-Analysis-Intern---2027_R-0000033645",
-    "sig": "rb|scs statistics and analysis intern"
+    "sig": "federalreservesystem|statistics and analysis intern"
   },
   "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/chicago-il/summer-2027-intern-networking-and-computer-engineering_r-0000033610": {
     "title": "Summer 2027 Intern-Networking and Computer Engineering",
@@ -31954,8 +31956,8 @@
     "sig": "rb|intern cybersecurity and information security"
   },
   "https://mfs.wd1.myworkdayjobs.com/en-us/mfs-careers/job/boston/summer-2027-software-engineer-intern--june---august-_mfs-231984": {
-    "title": "Summer 2027 Software Data Intern (June - August)",
-    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231984",
+    "title": "Summer 2027 Software Data Intern - June - August",
+    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/mfs-careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231984",
     "sig": "mfs|software data intern june august"
   },
   "https://geaerospace.wd5.myworkdayjobs.com/en-us/ge_externalsite/job/queretaro/security-intern_r5040750": {
@@ -31980,7 +31982,7 @@
   },
   "https://costar.wd1.myworkdayjobs.com/en-us/costar_campus/job/sunnyvale-us/embedded-software-engineering-intern_r39950": {
     "title": "Embedded Software Engineering Intern",
-    "url": "https://costar.wd1.myworkdayjobs.com/en-US/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950",
+    "url": "https://costar.wd1.myworkdayjobs.com/en-US/costar_campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950",
     "sig": "costar|embedded software engineering intern"
   },
   "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4955279101": {
@@ -32154,28 +32156,36 @@
         "ats": "workday",
         "ok": "2026-10-10",
         "n": 4,
-        "nz": "2026-10-10"
+        "nz": "2026-10-10",
+        "err": "Expecting value: line 1 column 1 (char 0)",
+        "ef": "2026-10-10"
       },
       "NVIDIA": {
         "since": "2026-10-01",
         "ats": "workday",
         "ok": "2026-10-10",
         "n": 500,
-        "nz": "2026-10-10"
+        "nz": "2026-10-10",
+        "err": "Expecting value: line 1 column 1 (char 0)",
+        "ef": "2026-10-10"
       },
       "RTX (Raytheon)": {
         "since": "2026-10-01",
         "ats": "workday",
         "ok": "2026-10-10",
         "n": 500,
-        "nz": "2026-10-10"
+        "nz": "2026-10-10",
+        "err": "Expecting value: line 1 column 1 (char 0)",
+        "ef": "2026-10-10"
       },
       "Northrop Grumman": {
         "since": "2026-10-01",
         "ats": "workday",
         "ok": "2026-10-10",
         "n": 500,
-        "nz": "2026-10-10"
+        "nz": "2026-10-10",
+        "err": "Expecting value: line 1 column 1 (char 0)",
+        "ef": "2026-10-10"
       },
       "Amazon (AWS / Robotics / all)": {
         "since": "2026-10-01",
@@ -32197,7 +32207,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-10",
-        "n": 644,
+        "n": 645,
         "nz": "2026-10-10"
       },
       "Databricks": {
@@ -32220,7 +32230,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-10",
-        "n": 2493,
+        "n": 2491,
         "nz": "2026-10-10"
       },
       "Palantir": {
@@ -32236,7 +32246,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-10-10",
-        "n": 597,
+        "n": 615,
         "nz": "2026-10-10"
       },
       "Page: Lockheed Martin (search)": {
@@ -32299,7 +32309,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-10",
-        "n": 112444,
+        "n": 74396,
         "nz": "2026-10-10"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32333,14 +32343,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-10",
-        "n": 2142,
+        "n": 2138,
         "nz": "2026-10-10"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
         "since": "2026-10-01",
         "ats": "nuft",
         "ok": "2026-10-10",
-        "n": 119,
+        "n": 117,
         "nz": "2026-10-10"
       },
       "Startup: YC events": {
@@ -32866,7 +32876,7 @@
         "ats": "greenhouse",
         "token": "scaleai",
         "ok": "2026-10-10",
-        "n": 182,
+        "n": 183,
         "nz": "2026-10-10"
       },
       "Quant/Tech: Anyscale": {
@@ -34034,7 +34044,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-10",
         "n": 1,
-        "nz": "2026-10-10"
+        "nz": "2026-10-10",
+        "err": "HTTPSConnectionPool(host='www.tradition.com', port=443): Read timed out. (read timeout=15)",
+        "ef": "2026-10-10"
       },
       "Quant SPA: Proof Trading": {
         "since": "2026-10-01",
@@ -34445,7 +34457,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-10-10",
-        "n": 351,
+        "n": 350,
         "nz": "2026-10-10"
       },
       "Startup: Glean": {
@@ -34638,7 +34650,7 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/ur/job/milpitas-ca/software-engineering-intern_2641581": {
     "title": "Software Engineering Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineering-Intern_2641581",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/ur/job/Milpitas-CA/Software-Engineering-Intern_2641581",
     "sig": "kla|software engineering intern"
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/ur/job/milpitas-ca/product-development-engineering-intern_2641562": {
@@ -34732,9 +34744,9 @@
     "sig": "northropgrumman|software engineer intern"
   },
   "https://mfs.wd1.myworkdayjobs.com/en-us/mfs-careers/job/boston/summer-2027-software-engineer-intern--june---august-_mfs-231983": {
-    "title": "Software Engineer Intern",
-    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/MFS-Careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231983",
-    "sig": "mfs|software engineer intern"
+    "title": "Summer 2027 Software Engineer Intern - June - August",
+    "url": "https://mfs.wd1.myworkdayjobs.com/en-US/mfs-careers/job/Boston/Summer-2027-Software-Engineer-Intern--June---August-_MFS-231983",
+    "sig": "mfs|software engineer intern june august"
   },
   "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/houston-tx/ai---automation-development-intern_jr102458": {
     "title": "AI & Automation Development Intern",
@@ -35222,8 +35234,8 @@
     "sig": "elevancehealth|data analytics undergraduate intern"
   },
   "https://nelnet.wd1.myworkdayjobs.com/en-us/mynelnet/job/lincoln-ne/intern---it-software-engineer-net--summer-2027-_r23198": {
-    "title": "Intern - IT Software Engineer .NET (Summer 2027)",
-    "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/MyNelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198",
+    "title": "Intern - IT Software Engineer .NET - Summer 2027",
+    "url": "https://nelnet.wd1.myworkdayjobs.com/en-US/mynelnet/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198",
     "sig": "nelnet|intern it software engineer net"
   },
   "https://caci.wd1.myworkdayjobs.com/en-us/external/job/austin-tx-us/software-engineer-intern---summer-2027_333037": {
@@ -35382,8 +35394,8 @@
     "sig": "allegion|intern hardware engineering"
   },
   "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/gm-automation---sunnyvale---gm-automation---sunnyvale/xmlname-2027-summer-intern---software-engineer--av-ai-platform_jr-202621696": {
-    "title": "2027 Summer Intern – Software Engineer, AV/AI Platform",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
+    "title": "2027 Summer Intern - Software Engineer - AV/AI Platform",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/GM-Automation---Sunnyvale---GM-Automation---Sunnyvale/XMLNAME-2027-Summer-Intern---Software-Engineer--AV-AI-Platform_JR-202621696",
     "sig": "generalmotors|intern software engineer av ai platform"
   },
   "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---software-verification-engineer--av-ai-platform_jr-202621697": {
@@ -35397,9 +35409,9 @@
     "sig": "boseallaboutme|data science coop nlp genai"
   },
   "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/dallas-tx/xmlname-2027-intern---statistics_r-0000033575": {
-    "title": "2027 Intern - Statistics",
+    "title": "Statistics Intern",
     "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Dallas-TX/XMLNAME-2027-Intern---Statistics_R-0000033575",
-    "sig": "rb|intern statistics"
+    "sig": "federalreservesystem|statistics intern"
   },
   "https://cboe.wd1.myworkdayjobs.com/en-us/external_career_cboe/job/chicago-il/quant---data-analytics-intern_r-4708": {
     "title": "Quant & Data Analytics Intern",
@@ -35968,7 +35980,7 @@
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-ignite-internships--software-engineering_jr2026958": {
     "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
     "sig": "nvidia|nvidia ignite intern software engineering"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-ignite-internships--hardware-engineering_jr2027047": {
@@ -36217,8 +36229,8 @@
     "sig": "generalmotors|intern ai ml engineer mapping"
   },
   "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern--adas-software-engineer--adpt_jr-202621820": {
-    "title": "2027 Summer Intern- ADAS Software Engineer, ADPT",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
+    "title": "2027 Summer Intern- ADAS Software Engineer - ADPT",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
     "sig": "generalmotors|intern adas software engineer adpt"
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/en-us/external/job/usa---texas---austin/finance-project-management-analyst-intern--summer-2027-_jr-2604486": {
@@ -36671,7 +36683,7 @@
     "sig": "jll|project and development services intern"
   },
   "https://amgen.wd1.myworkdayjobs.com/en-us/careers/job/us---puerto-rico---juncos/undergrad-co-op---interactive-developer---immersive-course-programmer-for-manufacturing_r-256886": {
-    "title": "Undergrad Co-op – Interactive Developer / Immersive Course Programmer for Manufacturing",
+    "title": "Undergrad Co-op - Interactive Developer / Immersive Course Programmer for Manufacturing",
     "url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886",
     "sig": "amgen|undergrad coop interactive developer immersive course programmer for manufacturing"
   },
@@ -37018,7 +37030,7 @@
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/germantown-md/hypersonic-rf-software-engineering-intern_8993": {
     "title": "Hypersonic RF Software Engineering Intern",
     "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Germantown-MD/Hypersonic-RF-Software-Engineering-Intern_8993",
-    "sig": "avav|hypersonic rf software engineering intern"
+    "sig": "aerovironment|hypersonic rf software engineering intern"
   },
   "https://rockwellautomation.wd1.myworkdayjobs.com/en-us/external-rockwell-automation-early-careers/job/mequon-wisconsin-united-states/intern--firmware-and-software-test-development_r26-7568": {
     "title": "Intern, Firmware and Software Test Development",
@@ -37256,9 +37268,9 @@
     "sig": "kla|plm bi analytics intern"
   },
   "https://ffive.wd5.myworkdayjobs.com/en-us/f5jobs/job/seattle/software-development-engineer-intern--seattle--wa-_rp1039073": {
-    "title": "Software Development Engineer Intern (Seattle, WA)",
+    "title": "Software Development Engineer Intern - Seattle - WA",
     "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/Seattle/Software-Development-Engineer-Intern--Seattle--WA-_RP1039073",
-    "sig": "ffive|software development engineer intern seattle wa"
+    "sig": "f5|software development engineer intern seattle wa"
   },
   "https://job-boards.greenhouse.io/drwuniversityjobs/jobs/8259714": {
     "title": "Quantitative Trading Analyst Intern - IAP Winternship",
@@ -37416,9 +37428,9 @@
     "sig": "sigmacomputing|software engineering intern"
   },
   "https://ffive.wd5.myworkdayjobs.com/en-us/f5jobs/job/san-jose/software-development-engineer-intern--san-jose--ca-_rp1039076": {
-    "title": "Software Development Engineer Intern (San Jose, CA)",
+    "title": "Software Development Engineer Intern - San Jose - CA",
     "url": "https://ffive.wd5.myworkdayjobs.com/en-US/f5jobs/job/San-Jose/Software-Development-Engineer-Intern--San-Jose--CA-_RP1039076",
-    "sig": "ffive|software development engineer intern san jose ca"
+    "sig": "f5|software development engineer intern san jose ca"
   },
   "https://wgl.wd5.myworkdayjobs.com/en-us/altagas/job/calgary-ab/xmlname-2027-data-analytics---altagas---2027-process-automation-co-op-student_r7321-1": {
     "title": "2027 Data Analytics & AltaGas - 2027 Process Automation Co-op Student",
@@ -37592,12 +37604,12 @@
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-virginia-chantilly/xmlname-2027-software-developer-intern--chantilly-va_r10254863-1": {
     "title": "2027 Software Developer Intern- Chantilly VA",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
     "sig": "northropgrumman|software developer intern chantilly va"
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-software-engineering-intern---roy-ut_r10254852": {
     "title": "2027 Software Engineering Intern - Roy UT",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852",
     "sig": "northropgrumman|software engineering intern roy ut"
   },
   "https://www.amazon.jobs/en/jobs/10568017/2027-software-dev-engineer-intern-netherlands": {
@@ -37927,9 +37939,9 @@
     "sig": "flir|stagiaire en conception de logiciels pour stations de validation 3d intern 3d validation station software designer"
   },
   "https://alliance.wd3.myworkdayjobs.com/en-us/nissanjobs/job/canton-mississippi---united-states-of-america/systems-engineer-intern---summer-2027---canton--ms_r00214882": {
-    "title": "Systems Engineer Intern - Summer 2027 - Canton, MS",
+    "title": "Systems Engineer Intern - Summer 2027",
     "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Canton-Mississippi---United-States-of-America/Systems-Engineer-Intern---Summer-2027---Canton--MS_R00214882",
-    "sig": "alliance|systems engineer intern canton ms"
+    "sig": "nissanglobal|systems engineer intern"
   },
   "https://alliance.wd3.myworkdayjobs.com/en-us/nissanjobs/job/franklin-tennessee---united-states-of-america/sap-platform-intern--finance-purchasing----summer-2027---franklin--tn_r00214217": {
     "title": "SAP Platform Intern (Finance/Purchasing) - Summer 2027 - Franklin, TN",
@@ -37938,7 +37950,7 @@
   },
   "https://mckesson.wd3.myworkdayjobs.com/en-us/external_careers/job/usa-tx-irving/software-engineering-intern---summer-2027_jr0155382": {
     "title": "Software Engineering Intern - Summer 2027",
-    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/External_Careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382",
+    "url": "https://mckesson.wd3.myworkdayjobs.com/en-US/external_careers/job/USA-TX-Irving/Software-Engineering-Intern---Summer-2027_JR0155382",
     "sig": "mckesson|software engineering intern"
   },
   "https://centene.wd5.myworkdayjobs.com/en-us/centene_external/job/remote-mo/ai-enablement-intern--undergraduate---summer-2027-_1662038": {
@@ -38208,7 +38220,7 @@
   },
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-us/careers/job/westminster-co/software-engineer---summer-2027-internship_r68997": {
     "title": "Software Engineer - Summer 2027 Internship",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997",
     "sig": "motorolasolutions|software engineer intern"
   },
   "https://jobs.smartrecruiters.com/boschgroup/744000154354759": {
@@ -38253,8 +38265,8 @@
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/software-development-intern_jr5647": {
     "title": "Software Development Intern",
-    "url": "https://axos.wd5.myworkdayjobs.com/en-US/Axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647",
-    "sig": "axos|software development intern"
+    "url": "https://axos.wd5.myworkdayjobs.com/en-US/axos/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647",
+    "sig": "axosbank|software development intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ai-engineer-intern_jr5658": {
     "title": "AI Engineer Intern",
@@ -38317,8 +38329,8 @@
     "sig": "northropgrumman|engineer intern mcclellan ca"
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-california-mcclellan/xmlname-2027-software-engineer-intern---mcclellan-ca_r10255207": {
-    "title": "2027 Software Engineer Intern – McClellan CA",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
+    "title": "2027 Software Engineer Intern - McClellan CA",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
     "sig": "northropgrumman|software engineer intern mcclellan ca"
   },
   "https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship": {
@@ -38342,8 +38354,8 @@
     "sig": "globalhr|data analytics reporting intern"
   },
   "https://leidos.wd5.myworkdayjobs.com/en-us/external/job/atlantic-city-nj/systems--integration-and-software-engineer-intern_r-00194152": {
-    "title": "Systems, Integration and Software Engineer Intern",
-    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/External/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
+    "title": "Systems - Integration and Software Engineer Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/en-US/external/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
     "sig": "leidos|systems integration and software engineer intern"
   },
   "https://jobs.smartrecruiters.com/boschgroup/744000154478885": {
@@ -38478,7 +38490,7 @@
   },
   "https://badgermeter.wd5.myworkdayjobs.com/en-us/us_careersite/job/us----ca---escondido-facility/software-engineering-intern_4645": {
     "title": "Software Engineering Intern",
-    "url": "https://badgermeter.wd5.myworkdayjobs.com/en-US/US_CareerSite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645",
+    "url": "https://badgermeter.wd5.myworkdayjobs.com/en-US/us_careersite/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645",
     "sig": "badgermeter|software engineering intern"
   },
   "https://job-boards.eu.greenhouse.io/cambridgeconsultantslimited/jobs/4971704101": {
@@ -38502,24 +38514,24 @@
     "sig": "rtx|software engineering intern"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-va-sterling-291--22640-davis-dr--davis/software-engineering-intern--summer-2027-_01877890": {
-    "title": "Software Engineering Intern (Summer 2027)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890",
-    "sig": "rtx|software engineering intern"
+    "title": "Software Engineering Intern - Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01877890",
+    "sig": "raytheon|software engineering intern"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-fl-st-petersburg-381bd--7401-22nd-ave-n--bldg-d/software-engineering-intern--summer-2027-_01874928": {
-    "title": "Software Engineering Intern (Summer 2027)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874928",
-    "sig": "rtx|software engineering intern"
+    "title": "Software Engineering Intern - Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-ST-PETERSBURG-381BD--7401-22nd-Ave-N--BLDG-D/Software-Engineering-Intern--Summer-2027-_01874928",
+    "sig": "raytheon|software engineering intern"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-ca-anaheim-406--160-n-riverview-dr--bldg-406-ste-150/software-engineering-intern--summer-2027-_01880755": {
-    "title": "Software Engineering Intern (Summer 2027)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineering-Intern--Summer-2027-_01880755",
-    "sig": "rtx|software engineering intern"
+    "title": "Software Engineering Intern - Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-CA-ANAHEIM-406--160-N-Riverview-Dr--BLDG-406-Ste-150/Software-Engineering-Intern--Summer-2027-_01880755",
+    "sig": "raytheon|software engineering intern"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-131--5450-c-ave-ne--bldg-131/software-engineering-co-op--spring-summer-2027-_01878369": {
-    "title": "Software Engineering Co-op (Spring/Summer 2027)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01878369",
-    "sig": "rtx|software engineering coop"
+    "title": "Software Engineering Co-op - Spring/Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01878369",
+    "sig": "raytheon|software engineering coop"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-ma-marlborough-ma2--1001-boston-post-rd--bldg-2/systems-engineering-intern--summer-2027-_01881158": {
     "title": "Systems Engineering Intern (Summer 2027)",
@@ -38582,14 +38594,14 @@
     "sig": "my7elevenhr|ai engineer intern"
   },
   "https://bah.wd1.myworkdayjobs.com/en-us/bah_jobs/job/mclean-va/university--applied-ai-software-development-intern_r0251314": {
-    "title": "University, Applied AI Software Development Intern",
+    "title": "University - Applied AI Software Development Intern",
     "url": "https://bah.wd1.myworkdayjobs.com/en-US/bah_jobs/job/McLean-VA/University--Applied-AI-Software-Development-Intern_R0251314",
-    "sig": "bah|university applied ai software development intern"
+    "sig": "boozallen|university applied ai software development intern"
   },
   "https://avav.wd1.myworkdayjobs.com/en-us/avav/job/simi-valley-ca/summer-2027-autonomy---robotics-engineering-intern_8556": {
-    "title": "Summer 2027 Autonomy & Robotics Engineering Intern",
+    "title": "Autonomy & Robotics Engineer Intern",
     "url": "https://avav.wd1.myworkdayjobs.com/en-US/avav/job/Simi-Valley-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8556",
-    "sig": "avav|autonomy robotics engineering intern"
+    "sig": "aerovironment|autonomy robotics engineer intern"
   },
   "https://dow.wd1.myworkdayjobs.com/en-us/externalcareers/job/midland-mi-usa/xmlname-2026-2027-campus-internship---leadership-development-program--mba-_r2068990": {
     "title": "2026-2027 Campus Internship - Leadership Development Program (MBA)",
@@ -38627,9 +38639,9 @@
     "sig": "nvidia|research intern spatial intelligence"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-md-annapolis-junction-339--306-sentinel-dr--339-bldg/software-engineering-intern--summer-2027-_01880895": {
-    "title": "Software Engineering Intern (Summer 2027)",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895",
-    "sig": "rtx|software engineering intern"
+    "title": "Software Engineering Intern - Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-MD-ANNAPOLIS-JUNCTION-339--306-Sentinel-Dr--339-BLDG/Software-Engineering-Intern--Summer-2027-_01880895",
+    "sig": "raytheon|software engineering intern"
   },
   "https://roche.wd3.myworkdayjobs.com/en-us/roche-ext/job/sant-cugat-del-valls/workforce-optimization---strategies--data-science--intern_202610-125516": {
     "title": "Workforce Optimization / Strategies (Data Science) Intern",
@@ -39162,9 +39174,9 @@
     "sig": "jj|tds proteins development material sciences coop"
   },
   "https://alliance.wd3.myworkdayjobs.com/en-us/nissanjobs/job/franklin-tennessee---united-states-of-america/ea---cloud-intern---summer-2027---franklin--tn_r00214214": {
-    "title": "EA & Cloud Intern - Summer 2027 - Franklin, TN",
+    "title": "EA & Cloud Intern",
     "url": "https://alliance.wd3.myworkdayjobs.com/en-US/nissanjobs/job/Franklin-Tennessee---United-States-of-America/EA---Cloud-Intern---Summer-2027---Franklin--TN_R00214214",
-    "sig": "alliance|ea cloud intern franklin tn"
+    "sig": "nissanglobal|ea cloud intern"
   },
   "https://alliance.wd3.myworkdayjobs.com/en-us/nissanjobs/job/franklin-tennessee---united-states-of-america/corporate-security-intern---summer-2027---franklin--tn_r00214220": {
     "title": "Corporate Security Intern - Summer 2027 - Franklin, TN",
@@ -39450,5 +39462,150 @@
     "title": "Firmware Engineer Intern (Summer 2027) ",
     "url": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003",
     "sig": "zipline|firmware engineer intern"
+  },
+  "https://jobs.ashbyhq.com/clera/f211c31e-d92a-468e-9da1-3f8f27f0e05b": {
+    "title": "Computer Vision & Robotics Intern",
+    "url": "https://jobs.ashbyhq.com/clera/f211c31e-d92a-468e-9da1-3f8f27f0e05b",
+    "sig": "clera|computer vision robotics intern"
+  },
+  "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b": {
+    "title": "Hardware Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/meter/a5f1e4c3-2930-4933-ab38-8f600486494b",
+    "sig": "meter|hardware engineering intern"
+  },
+  "https://hp.wd5.myworkdayjobs.com/en-us/externalcareersite/job/austin-texas-united-states-of-america/software-product-management-intern_uni4516-1": {
+    "title": "Software Product Management Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Austin-Texas-United-States-of-America/Software-Product-Management-Intern_UNI4516-1",
+    "sig": "hp|software product management intern"
+  },
+  "https://rockwellautomation.wd1.myworkdayjobs.com/en-us/external_rockwell_automation/job/mequon-wisconsin-united-states/intern--firmware-and-software-test-development_r26-7568-1": {
+    "title": "Intern - Firmware and Software Test Development",
+    "url": "https://rockwellautomation.wd1.myworkdayjobs.com/en-US/external_rockwell_automation/job/Mequon-Wisconsin-United-States/Intern--Firmware-and-Software-Test-Development_R26-7568-1",
+    "sig": "rockwellautomation|intern firmware and software test development"
+  },
+  "https://motorolasolutions.wd5.myworkdayjobs.com/en-us/careers/job/chicago-il/android-applications-developer-intern---summer-2027_r69313": {
+    "title": "Android Applications Developer Intern - Summer 2027",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313",
+    "sig": "motorolasolutions|android applications developer intern"
+  },
+  "https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/market-research---analysis-intern---summer-2027_jr00045583": {
+    "title": "Market Research & Analysis Intern",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/Market-Research---Analysis-Intern---Summer-2027_JR00045583",
+    "sig": "abb|market research analysis intern"
+  },
+  "https://primient.wd1.myworkdayjobs.com/external_careers/job/schaumburg-il/ai-analyst-intern---summer-2027_jreq7056": {
+    "title": "AI Analyst Intern",
+    "url": "https://primient.wd1.myworkdayjobs.com/External_Careers/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056",
+    "sig": "primient|ai analyst intern"
+  },
+  "https://jainglobal.wd5.myworkdayjobs.com/externalsite/job/new-york-new-york/quant-research-intern--systematic-trading_jr100603-1": {
+    "title": "Quant Research Intern - Systematic Trading",
+    "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Research-Intern--Systematic-Trading_JR100603-1",
+    "sig": "jainglobal|quant research intern systematic trading"
+  },
+  "https://jainglobal.wd5.myworkdayjobs.com/externalsite/job/new-york-new-york/data-engineer-intern_jr100605-1": {
+    "title": "Data Engineer Intern",
+    "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1",
+    "sig": "jainglobal|data engineer intern"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---ai---hardware-analytics--adpt_jr-202621756": {
+    "title": "Summer Intern - AI & Hardware Analytics - Adpt",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---AI---Hardware-Analytics--ADPT_JR-202621756",
+    "sig": "generalmotors|intern ai hardware analytics adpt"
+  },
+  "https://leidos.wd5.myworkdayjobs.com/external/job/arlington-va/systems-engineer-intern_r-00193940": {
+    "title": "Systems Engineer Intern",
+    "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Arlington-VA/Systems-Engineer-Intern_R-00193940",
+    "sig": "leidos|systems engineer intern"
+  },
+  "https://abb.wd3.myworkdayjobs.com/external_career_page/job/usa-nc-cary/ai-engineering--erp-intern--summer-2027_jr00048711": {
+    "title": "AI Engineering ERP Intern",
+    "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711",
+    "sig": "abb|ai engineering erp intern"
+  },
+  "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/milwaukee-wi-corporate/enterprise-sustainability---impact-intern---modeling---analytics--summer-2027_jr-46171": {
+    "title": "Enterprise Sustainability & Impact Intern - Modeling & Analytics",
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/corporate-careers/job/Milwaukee-WI-Corporate/Enterprise-Sustainability---Impact-Intern---Modeling---Analytics--Summer-2027_JR-46171",
+    "sig": "northwesternmutual|enterprise sustainability impact intern modeling analytics"
+  },
+  "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/pittsburgh-pa-15222-fap-5th-avenue-place/summer-2027-market-analytics-graduate-intern_j285906": {
+    "title": "Market Analytics Graduate Intern",
+    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Market-Analytics-Graduate-Intern_J285906",
+    "sig": "highmarkhealth|market analytics graduate intern"
+  },
+  "https://jainglobal.wd5.myworkdayjobs.com/externalsite/job/new-york-new-york/quant-modelling-intern_jr100616": {
+    "title": "Quant Modelling Intern",
+    "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Quant-Modelling-Intern_JR100616",
+    "sig": "jainglobal|quant modelling intern"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-ny-remote/ai-engineering-intern--summer-2027-_01880596": {
+    "title": "AI Engineering Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-NY-REMOTE/AI-Engineering-Intern--Summer-2027-_01880596",
+    "sig": "rtx|ai engineering intern"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/research-intern--spatial-intelligence---summer-2027_jr2027305": {
+    "title": "Research Intern - Spatial Intelligence",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--Spatial-Intelligence---Summer-2027_JR2027305",
+    "sig": "nvidia|research intern spatial intelligence"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/uk-cambridge/cpu-compiler-intern---2027_jr2027251": {
+    "title": "CPU Compiler Intern",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/UK-Cambridge/CPU-Compiler-Intern---2027_JR2027251",
+    "sig": "nvidia|cpu compiler intern"
+  },
+  "https://wawa.wd1.myworkdayjobs.com/careers/job/wawa---wawa-inc---corporate-office/information-technology-development-internship_jr122392": {
+    "title": "Information Technology Development Intern",
+    "url": "https://wawa.wd1.myworkdayjobs.com/careers/job/WAWA---Wawa-Inc---Corporate-Office/Information-Technology-Development-Internship_JR122392",
+    "sig": "wawa|information technology development intern"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/research-intern--world-models-and-synthetic-data-for-autonomous-driving---summer-2027_jr2026839-1": {
+    "title": "Research Intern - World Models and Synthetic Data for Autonomous Driving",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Intern--World-Models-and-Synthetic-Data-for-Autonomous-Driving---Summer-2027_JR2026839-1",
+    "sig": "nvidia|research intern world models and synthetic data for autonomous driving"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-ca/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-summer-intern--onboard-autonomy--embodied-ai_jr-202622135": {
+    "title": "Summer Intern - Onboard Autonomy - Embodied AI",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135",
+    "sig": "generalmotors|intern onboard autonomy embodied ai"
+  },
+  "https://itron.wd5.myworkdayjobs.com/early_careers/job/united-states-of-america-washington-liberty-lake/intern---people-analytics--summer-2027-_jr103033": {
+    "title": "People Analytics Intern",
+    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---People-Analytics--Summer-2027-_JR103033",
+    "sig": "itron|people analytics intern"
+  },
+  "https://itron.wd5.myworkdayjobs.com/itron/job/united-states-of-america-texas-austin/intern---hr-ai-data-science--summer-2027-_jr103034-1": {
+    "title": "HR AI Data Science Intern",
+    "url": "https://itron.wd5.myworkdayjobs.com/Itron/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034-1",
+    "sig": "itron|hr ai data science intern"
+  },
+  "https://workday.wd5.myworkdayjobs.com/workday_early_career/job/canada-bc-vancouver/machine-learning-engineer-intern_jr-0110806": {
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/Canada-BC-Vancouver/Machine-Learning-Engineer-Intern_JR-0110806",
+    "sig": "workday|machine learning engineer intern"
+  },
+  "https://workday.wd5.myworkdayjobs.com/workday_early_career/job/usa-ca-pleasanton/machine-learning-engineer-intern_jr-0110812": {
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
+    "sig": "workday|machine learning engineer intern"
+  },
+  "https://workday.wd5.myworkdayjobs.com/workday_early_career/job/usa-ca-pleasanton/software-application-development-engineer-intern_jr-0110811": {
+    "title": "Software Application Development Engineer Intern",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811",
+    "sig": "workday|software application development engineer intern"
+  },
+  "https://workday.wd5.myworkdayjobs.com/workday_early_career/job/usa-ca-pleasanton/software-development-engineer-intern_jr-0110810": {
+    "title": "Software Engineer Intern",
+    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
+    "sig": "workday|software engineer intern"
+  },
+  "https://careers.withwaymo.com/jobs?gh_jid=8257006": {
+    "title": "Summer Intern - Research - Post Training",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8257006",
+    "sig": "waymo|intern research post training"
+  },
+  "https://careers.withwaymo.com/jobs?gh_jid=8258070": {
+    "title": "Research Intern - AV Planning",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8258070",
+    "sig": "waymo|research intern av planning"
   }
 }
