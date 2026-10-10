@@ -22293,7 +22293,8 @@
   },
   "https://apply.careers.microsoft.com/careers/job/1970393556962891": {
     "title": "AI Software Engineering Intern",
-    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891"
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393556962891",
+    "sig": "microsoft|ai software engineering intern"
   },
   "https://jobs.ashbyhq.com/superhuman%20platform%20inc/e6b917b1-325a-47d0-b267-b279b0efdad0": {
     "title": "Software Engineering Intern - Summer 2027",
@@ -32238,7 +32239,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-10-10",
-        "n": 614,
+        "n": 616,
         "nz": "2026-10-10"
       },
       "Page: Lockheed Martin (search)": {
@@ -32301,7 +32302,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-10",
-        "n": 112576,
+        "n": 112663,
         "nz": "2026-10-10"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32321,7 +32322,7 @@
         "since": "2026-10-01",
         "ats": "github_md",
         "ok": "2026-10-10",
-        "n": 770,
+        "n": 769,
         "nz": "2026-10-10"
       },
       "Tracker: vanshb03 Summer2027": {
@@ -32335,7 +32336,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-10",
-        "n": 2135,
+        "n": 2115,
         "nz": "2026-10-10"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32868,7 +32869,7 @@
         "ats": "greenhouse",
         "token": "scaleai",
         "ok": "2026-10-10",
-        "n": 183,
+        "n": 182,
         "nz": "2026-10-10"
       },
       "Quant/Tech: Anyscale": {
@@ -33647,7 +33648,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-10",
         "n": 1,
-        "nz": "2026-10-10"
+        "nz": "2026-10-10",
+        "err": "403 Client Error: Forbidden for url: https://www.swissquant.com/careers/",
+        "ef": "2026-10-10"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
@@ -33668,7 +33671,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-10",
         "n": 1,
-        "nz": "2026-10-10"
+        "nz": "2026-10-10",
+        "err": "403 Client Error: Forbidden for url: https://www.deepbluecap.com/careers/",
+        "ef": "2026-10-10"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33785,7 +33790,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-10",
         "n": 1,
-        "nz": "2026-10-10"
+        "nz": "2026-10-10",
+        "err": "403 Client Error: Forbidden for url: https://www.qube-rt.com/careers",
+        "ef": "2026-10-10"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34105,9 +34112,7 @@
         "ats": "pagewatch",
         "ok": "2026-10-10",
         "n": 1,
-        "nz": "2026-10-10",
-        "err": "403 Client Error: Forbidden for url: https://researchaffiliates.com",
-        "ef": "2026-10-10"
+        "nz": "2026-10-10"
       },
       "Quant SPA: Los Angeles Capital Management": {
         "since": "2026-10-01",
@@ -34197,9 +34202,7 @@
         "ats": "pagewatch",
         "ok": "2026-10-10",
         "n": 1,
-        "nz": "2026-10-10",
-        "err": "404 Client Error: Not Found for url: https://jobs.kaiko.ai/",
-        "ef": "2026-10-10"
+        "nz": "2026-10-10"
       },
       "Quant SPA: Exegy": {
         "since": "2026-10-01",
@@ -34330,7 +34333,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-10",
         "n": 1,
-        "nz": "2026-10-10"
+        "nz": "2026-10-10",
+        "err": "403 Client Error: Forbidden for url: https://tsimagine.com/careers/",
+        "ef": "2026-10-10"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
@@ -34527,7 +34532,7 @@
         "ats": "greenhouse",
         "token": "tailscale",
         "ok": "2026-10-10",
-        "n": 61,
+        "n": 63,
         "nz": "2026-10-10"
       },
       "Startup: Rippling": {
@@ -39453,7 +39458,7 @@
     "sig": "globalfoundries|software engineer intern"
   },
   "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003": {
-    "title": "Firmware Engineer Intern (Summer 2027) ",
+    "title": "Firmware Engineer Intern - Summer 2027",
     "url": "https://www.zipline.com/open-roles/8020865003?gh_jid=8020865003",
     "sig": "zipline|firmware engineer intern"
   },
@@ -39656,5 +39661,80 @@
     "title": "Software Application Development Engineer Intern",
     "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday_Early_Career/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811",
     "sig": "workday|software application development engineer intern"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/en-us/cmu/job/pittsburgh-pa/malware-analysis-intern---summer-2027_2025185": {
+    "title": "Malware Analysis Intern - Summer 2027",
+    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Malware-Analysis-Intern---Summer-2027_2025185",
+    "sig": "cmu|malware analysis intern"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/en-us/cmu/job/pittsburgh-pa/ai-security-research-intern---summer-2027_2025199": {
+    "title": "AI Security Research Intern – Summer 2027",
+    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/AI-Security-Research-Intern---Summer-2027_2025199",
+    "sig": "cmu|ai security research intern"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/en-us/cmu/job/pittsburgh-pa/ai-security-software-engineer-intern---summer-2027_2025200": {
+    "title": "AI Security Software Engineer Intern – Summer 2027",
+    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200",
+    "sig": "cmu|ai security software engineer intern"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/en-us/cmu/job/pittsburgh-pa/ai-security-research-intern---sept-2026---may-2027-_2025068-1": {
+    "title": "AI Security Research Intern  (Sept 2026 - May 2027)",
+    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/AI-Security-Research-Intern---Sept-2026---May-2027-_2025068-1",
+    "sig": "cmu|ai security research intern sept may"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/en-us/cmu/job/pittsburgh-pa/ai-security-research-intern----september-2026---may-2027-_2025067-1": {
+    "title": "AI Security Research Intern - (September 2026 – May 2027)",
+    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/AI-Security-Research-Intern----September-2026---May-2027-_2025067-1",
+    "sig": "cmu|ai security research intern september may"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/en-us/cmu/job/pittsburgh-pa/research-intern--assistive-agents---school-of-computer-science---lti_2025157": {
+    "title": "Research Intern, Assistive Agents - School of Computer Science - LTI",
+    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Research-Intern--Assistive-Agents---School-of-Computer-Science---LTI_2025157",
+    "sig": "cmu|research intern assistive agents school of computer science lti"
+  },
+  "https://genesys.wd1.myworkdayjobs.com/en-us/genesys/job/brest-france/software-engineer-intern_jr112584": {
+    "title": "Software Engineer Intern",
+    "url": "https://genesys.wd1.myworkdayjobs.com/en-US/genesys/job/Brest-France/Software-Engineer-Intern_JR112584",
+    "sig": "genesys|software engineer intern"
+  },
+  "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006": {
+    "title": "Software Product Management Intern",
+    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719520006",
+    "sig": "sagesure|software product management intern"
+  },
+  "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719536006": {
+    "title": "Software Engineer Intern",
+    "url": "https://www.sagesure.com/careers/current-job-openings/?gh_jid=4719536006",
+    "sig": "sagesure|software engineer intern"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/en-us/sei/job/pittsburgh-pa/ai-security-software-engineer-intern---summer-2027_2025200-1": {
+    "title": "AI Security Software Engineer Intern - Summer 2027",
+    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/AI-Security-Software-Engineer-Intern---Summer-2027_2025200-1",
+    "sig": "carnegiemellonuniversity|ai security software engineer intern"
+  },
+  "https://uscareers-docusign.icims.com/jobs/30499/software-engineer-intern/job": {
+    "title": "Software Engineer Intern",
+    "url": "https://uscareers-docusign.icims.com/jobs/30499/software-engineer-intern/job",
+    "sig": "docusign|software engineer intern"
+  },
+  "https://uscareers-docusign.icims.com/jobs/30497/software-engineer-intern/job": {
+    "title": "Software Engineer Intern",
+    "url": "https://uscareers-docusign.icims.com/jobs/30497/software-engineer-intern/job",
+    "sig": "docusign|software engineer intern"
+  },
+  "https://us-erac.icims.com/jobs/569085/intern---software-analyst-%28efm-it%29%2c-summer-2027/job": {
+    "title": "Intern - Software Analyst - EFM IT - Summer 2027",
+    "url": "https://us-erac.icims.com/jobs/569085/intern---software-analyst-%28efm-it%29%2c-summer-2027/job",
+    "sig": "enterprise|intern software analyst efm it"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-fl-melbourne-312--795-w-nasa-blvd--bldg-312/software-engineering-intern--summer-2027-_01876467": {
+    "title": "Software Engineering Intern - Summer 2027",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876467",
+    "sig": "raytheon|software engineering intern"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/us-fl-melbourne-312--795-w-nasa-blvd--bldg-312/software-engineering-intern--summer-2027-_01876918": {
+    "title": "Software Engineer Intern",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-FL-MELBOURNE-312--795-W-Nasa-Blvd--BLDG-312/Software-Engineering-Intern--Summer-2027-_01876918",
+    "sig": "rtx|software engineer intern"
   }
 }
