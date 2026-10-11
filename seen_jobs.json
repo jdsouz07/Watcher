@@ -32302,7 +32302,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-11",
-        "n": 112289,
+        "n": 112229,
         "nz": "2026-10-11"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32336,14 +32336,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-11",
-        "n": 2119,
+        "n": 2108,
         "nz": "2026-10-11"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
         "since": "2026-10-01",
         "ats": "nuft",
         "ok": "2026-10-11",
-        "n": 119,
+        "n": 120,
         "nz": "2026-10-11"
       },
       "Startup: YC events": {
@@ -33027,7 +33027,7 @@
         "ats": "greenhouse",
         "token": "sevenresearch",
         "ok": "2026-10-11",
-        "n": 8,
+        "n": 9,
         "nz": "2026-10-11"
       },
       "Quant: Bracebridge Capital": {
@@ -34401,7 +34401,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-11",
-        "n": 728,
+        "n": 729,
         "nz": "2026-10-11"
       },
       "Startup: Mercury": {
@@ -38328,8 +38328,8 @@
     "sig": "northropgrumman|engineer intern mcclellan ca"
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-california-mcclellan/xmlname-2027-software-engineer-intern---mcclellan-ca_r10255207": {
-    "title": "2027 Software Engineer Intern – McClellan CA",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
+    "title": "2027 Software Engineer Intern - McClellan CA",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
     "sig": "northropgrumman|software engineer intern mcclellan ca"
   },
   "https://www.amazon.jobs/en/jobs/10573018/physical-security-specialist-intern-2027-internship": {
