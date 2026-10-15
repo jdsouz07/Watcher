@@ -23310,8 +23310,8 @@
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-az-tucson-805--1151-e-hermans-rd--bldg-805/software-engineer-intern_01874282": {
     "title": "Software Engineer Intern",
-    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/rec_rtx_ext_gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282",
-    "sig": "raytheon|software engineer intern"
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-AZ-TUCSON-805--1151-E-Hermans-Rd--BLDG-805/Software-Engineer-Intern_01874282",
+    "sig": "rtx|software engineer intern"
   },
   "https://ciena.wd5.myworkdayjobs.com/en-us/careers/job/ottawa/ai---automation-intern---gcn-services-business-operations_r031664": {
     "title": "AI & Automation Intern - GCN Services Business Operations",
@@ -24210,7 +24210,7 @@
     "sig": "rothesaygraduates|intern programme trading and asset origination"
   },
   "https://axcelis.wd1.myworkdayjobs.com/en-us/axcelis/job/beverly-ma/co-op---manufacturing-software-development-_12019": {
-    "title": "Co-Op - Manufacturing Software Development",
+    "title": "Co-Op, (Manufacturing Software Development)",
     "url": "https://axcelis.wd1.myworkdayjobs.com/en-US/axcelis/job/Beverly-MA/Co-Op---Manufacturing-Software-Development-_12019",
     "sig": "axcelis|coop manufacturing software development"
   },
@@ -24808,7 +24808,7 @@
   "https://cmegroup.wd1.myworkdayjobs.com/en-us/cme_careers/job/chicago---20-s-wacker/software-engineering-internship---summer-2027_34821": {
     "title": "Software Engineering Internship - Summer 2027",
     "url": "https://cmegroup.wd1.myworkdayjobs.com/en-US/cme_careers/job/Chicago---20-S-Wacker/Software-Engineering-Internship---Summer-2027_34821",
-    "sig": "cmegroup|software engineering intern"
+    "sig": "cme|software engineering intern"
   },
   "https://jj.wd5.myworkdayjobs.com/en-us/jj/job/danvers-massachusetts-united-states-of-america/advanced-clinical-research-co-op_r-100368-1": {
     "title": "Advanced Clinical Research Co-op",
@@ -32209,7 +32209,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-10-15",
-        "n": 431,
+        "n": 433,
         "nz": "2026-10-15"
       },
       "OpenAI": {
@@ -32217,7 +32217,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-15",
-        "n": 804,
+        "n": 802,
         "nz": "2026-10-15"
       },
       "Anthropic": {
@@ -32225,7 +32225,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-15",
-        "n": 647,
+        "n": 649,
         "nz": "2026-10-15"
       },
       "Databricks": {
@@ -32233,7 +32233,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-10-15",
-        "n": 896,
+        "n": 895,
         "nz": "2026-10-15"
       },
       "Page: Microsoft Careers": {
@@ -32248,7 +32248,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-15",
-        "n": 2527,
+        "n": 2522,
         "nz": "2026-10-15"
       },
       "Palantir": {
@@ -32256,7 +32256,7 @@
         "ats": "lever",
         "token": "palantir",
         "ok": "2026-10-15",
-        "n": 315,
+        "n": 312,
         "nz": "2026-10-15"
       },
       "Shield AI": {
@@ -32312,7 +32312,7 @@
         "ats": "greenhouse",
         "token": "flowtraders",
         "ok": "2026-10-15",
-        "n": 48,
+        "n": 47,
         "nz": "2026-10-15"
       },
       "IMC Trading": {
@@ -32327,7 +32327,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-15",
-        "n": 113858,
+        "n": 113572,
         "nz": "2026-10-15"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32361,7 +32361,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-15",
-        "n": 2183,
+        "n": 2164,
         "nz": "2026-10-15"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32441,7 +32441,7 @@
         "ats": "lever",
         "token": "belvederetrading",
         "ok": "2026-10-15",
-        "n": 21,
+        "n": 20,
         "nz": "2026-10-15"
       },
       "Quant: Chicago Trading (CTC)": {
@@ -32457,7 +32457,7 @@
         "ats": "greenhouse",
         "token": "drweng",
         "ok": "2026-10-15",
-        "n": 167,
+        "n": 165,
         "nz": "2026-10-15"
       },
       "Quant: DV Trading": {
@@ -32465,7 +32465,7 @@
         "ats": "greenhouse",
         "token": "dvtrading",
         "ok": "2026-10-15",
-        "n": 71,
+        "n": 72,
         "nz": "2026-10-15"
       },
       "Quant: ExodusPoint": {
@@ -32521,7 +32521,7 @@
         "ats": "greenhouse",
         "token": "jumptrading",
         "ok": "2026-10-15",
-        "n": 102,
+        "n": 101,
         "nz": "2026-10-15"
       },
       "Quant: Mako Trading": {
@@ -32576,7 +32576,7 @@
         "ats": "greenhouse",
         "token": "point72",
         "ok": "2026-10-15",
-        "n": 222,
+        "n": 221,
         "nz": "2026-10-15"
       },
       "Quant: Qube RT": {
@@ -32584,7 +32584,7 @@
         "ats": "greenhouse",
         "token": "quberesearchandtechnologies",
         "ok": "2026-10-15",
-        "n": 197,
+        "n": 196,
         "nz": "2026-10-15"
       },
       "Quant: Schonfeld": {
@@ -32592,7 +32592,7 @@
         "ats": "greenhouse",
         "token": "schonfeld",
         "ok": "2026-10-15",
-        "n": 66,
+        "n": 69,
         "nz": "2026-10-15"
       },
       "Quant: Squarepoint": {
@@ -32839,7 +32839,7 @@
         "ats": "greenhouse",
         "token": "galaxydigitalservices",
         "ok": "2026-10-15",
-        "n": 39,
+        "n": 40,
         "nz": "2026-10-15"
       },
       "Quant/Tech: B2C2": {
@@ -32870,7 +32870,7 @@
         "ats": "ashby",
         "token": "ramp",
         "ok": "2026-10-15",
-        "n": 162,
+        "n": 165,
         "nz": "2026-10-15"
       },
       "Quant/Tech: Modal Labs": {
@@ -32878,7 +32878,7 @@
         "ats": "ashby",
         "token": "modal",
         "ok": "2026-10-15",
-        "n": 42,
+        "n": 43,
         "nz": "2026-10-15"
       },
       "Startup: Robinhood": {
@@ -32886,7 +32886,7 @@
         "ats": "greenhouse",
         "token": "robinhood",
         "ok": "2026-10-15",
-        "n": 151,
+        "n": 152,
         "nz": "2026-10-15"
       },
       "Quant/Tech: Scale AI": {
@@ -32894,7 +32894,7 @@
         "ats": "greenhouse",
         "token": "scaleai",
         "ok": "2026-10-15",
-        "n": 181,
+        "n": 180,
         "nz": "2026-10-15"
       },
       "Quant/Tech: Anyscale": {
@@ -32918,7 +32918,7 @@
         "ats": "ashby",
         "token": "cohere",
         "ok": "2026-10-15",
-        "n": 116,
+        "n": 117,
         "nz": "2026-10-15"
       },
       "Startup: Sierra": {
@@ -32926,7 +32926,7 @@
         "ats": "ashby",
         "token": "sierra",
         "ok": "2026-10-15",
-        "n": 187,
+        "n": 186,
         "nz": "2026-10-15"
       },
       "Startup: Notion": {
@@ -32996,7 +32996,7 @@
         "ats": "greenhouse",
         "token": "gelbergroup",
         "ok": "2026-10-15",
-        "n": 13,
+        "n": 14,
         "nz": "2026-10-15"
       },
       "Quant: Radix Trading": {
@@ -33028,7 +33028,7 @@
         "ats": "greenhouse",
         "token": "mavensecuritiesholdingltd",
         "ok": "2026-10-15",
-        "n": 41,
+        "n": 40,
         "nz": "2026-10-15"
       },
       "Quant: Eagle Seven": {
@@ -33280,7 +33280,7 @@
         "ats": "greenhouse",
         "token": "grahamcapitalmanagement",
         "ok": "2026-10-15",
-        "n": 11,
+        "n": 10,
         "nz": "2026-10-15"
       },
       "Quant: Quantbot Technologies": {
@@ -33374,7 +33374,7 @@
         "ats": "lever",
         "token": "kpler",
         "ok": "2026-10-15",
-        "n": 97,
+        "n": 98,
         "nz": "2026-10-15"
       },
       "Quant: Onyx Capital Group": {
@@ -33452,7 +33452,7 @@
         "ats": "greenhouse",
         "token": "iex",
         "ok": "2026-10-15",
-        "n": 10,
+        "n": 11,
         "nz": "2026-10-15"
       },
       "Quant: MEMX": {
@@ -33468,7 +33468,7 @@
         "ats": "greenhouse",
         "token": "drivewealth",
         "ok": "2026-10-15",
-        "n": 18,
+        "n": 19,
         "nz": "2026-10-15"
       },
       "Quant: Alpaca": {
@@ -33500,7 +33500,7 @@
         "ats": "greenhouse",
         "token": "picoquantitativetrading",
         "ok": "2026-10-15",
-        "n": 53,
+        "n": 48,
         "nz": "2026-10-15"
       },
       "Quant: OneChronos": {
@@ -34394,7 +34394,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-10-15",
-        "n": 441,
+        "n": 440,
         "nz": "2026-10-15"
       },
       "Cyber: Datadog": {
@@ -34402,7 +34402,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-10-15",
-        "n": 434,
+        "n": 439,
         "nz": "2026-10-15"
       },
       "Startup: Figma": {
@@ -34426,7 +34426,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-15",
-        "n": 726,
+        "n": 727,
         "nz": "2026-10-15"
       },
       "Startup: Mercury": {
@@ -34449,7 +34449,7 @@
         "ats": "ashby",
         "token": "vanta",
         "ok": "2026-10-15",
-        "n": 81,
+        "n": 82,
         "nz": "2026-10-15"
       },
       "Startup: Replit": {
@@ -34557,7 +34557,7 @@
         "ats": "greenhouse",
         "token": "tailscale",
         "ok": "2026-10-15",
-        "n": 60,
+        "n": 62,
         "nz": "2026-10-15"
       },
       "Startup: Rippling": {
@@ -34618,7 +34618,7 @@
         "ats": "greenhouse",
         "token": "flyzipline",
         "ok": "2026-10-15",
-        "n": 349,
+        "n": 351,
         "nz": "2026-10-15"
       },
       "Startup: Physical Intelligence": {
@@ -36554,7 +36554,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "sig": "cloudflare|software engineer intern"
+    "sig": "cybercloudflare|software engineer intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
     "title": "UX Design Research Intern",
@@ -36694,7 +36694,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sig": "cybercloudflare|software engineer intern"
+    "sig": "cloudflare|software engineer intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--data-center-compute-software-tools--rdss-intern-_jr2025645": {
     "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
@@ -41785,9 +41785,9 @@
     "sig": "centene|cloud security incident response analyst intern undergraduate"
   },
   "https://jobs.smartrecruiters.com/aecom2/744000155565444": {
-    "title": "Engineering/Data Analytics Intern – Hiring Event with AECOM – Atlanta, GA",
+    "title": "Engineering/Data Analytics Intern",
     "url": "https://jobs.smartrecruiters.com/AECOM2/744000155565444",
-    "sig": "aecom2|engineering data analytics intern hiring event with aecom atlanta ga"
+    "sig": "aecom|engineering data analytics intern"
   },
   "https://jobs.smartrecruiters.com/aecom2/744000155557909": {
     "title": "Design Engineering Intern - Networking Event with AECOM – Raleigh, NC",
@@ -42549,5 +42549,145 @@
     "title": "Researcher Intern - Coreai",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557027387",
     "sig": "microsoft|researcher intern coreai"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/germany-remote/relational-foundation-model-intern--modern-data-stack---2027_jr2027829": {
+    "title": "Relational Foundation Model Intern, Modern Data Stack – 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Germany-Remote/Relational-Foundation-Model-Intern--Modern-Data-Stack---2027_JR2027829",
+    "sig": "nvidia|relational foundation model intern modern data stack"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/switzerland-zurich/developer-technology-engineering-intern---compute-performance_jr2027949": {
+    "title": "Developer Technology Engineering Intern - Compute Performance",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Developer-Technology-Engineering-Intern---Compute-Performance_JR2027949",
+    "sig": "nvidia|developer technology engineering intern compute performance"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-130--5350-c-ave-ne--bldg-130/software-engineering-co-op--spring-summer-2027-_01881996": {
+    "title": "Software Engineering Co-op (Spring/Summer 2027)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01881996",
+    "sig": "rtx|software engineering coop"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-va-sterling-291--22640-davis-dr--davis/software-engineering-intern--summer-2027-_01882317": {
+    "title": "Software Engineering Intern (Summer 2027)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-VA-STERLING-291--22640-Davis-Dr--DAVIS/Software-Engineering-Intern--Summer-2027-_01882317",
+    "sig": "rtx|software engineering intern"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000155744089": {
+    "title": "HR Intern - Systems, Data & Administration",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155744089",
+    "sig": "boschgroup|hr intern systems data administration"
+  },
+  "https://expedia.wd108.myworkdayjobs.com/en-us/private/job/uk---london/software-development-engineering-intern---june-2027---london_r-110551": {
+    "title": "Software Development Engineering Intern - 2027 - London",
+    "url": "https://expedia.wd108.myworkdayjobs.com/en-US/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551",
+    "sig": "expedia|software development engineering intern london"
+  },
+  "https://expedia.wd108.myworkdayjobs.com/en-us/private/job/uk---london/mobile-engineering-intern---2027---london_r-110545": {
+    "title": "Mobile Engineering Intern - 2027 - London",
+    "url": "https://expedia.wd108.myworkdayjobs.com/en-US/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545",
+    "sig": "expedia|mobile engineering intern london"
+  },
+  "https://mars.wd3.myworkdayjobs.com/en-us/external/job/usa-illinois-chicago/summer-2027-mars-snacking-research-and-development-internship_r165509-1": {
+    "title": "Summer 2027 Mars Snacking Research and Development Internship",
+    "url": "https://mars.wd3.myworkdayjobs.com/en-US/external/job/USA-Illinois-Chicago/Summer-2027-Mars-Snacking-Research-and-Development-Internship_R165509-1",
+    "sig": "mars|mars snacking research and development intern"
+  },
+  "https://hp.wd5.myworkdayjobs.com/en-us/exteu-ac-careersite/job/bristol-bristol-city-of-united-kingdom/cryptography-intern_uni3784-1": {
+    "title": "Cryptography Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Bristol-Bristol-City-of-United-Kingdom/Cryptography-Intern_UNI3784-1",
+    "sig": "hp|cryptography intern"
+  },
+  "https://boeing.wd1.myworkdayjobs.com/en-us/external_careers/job/pol---gdansk-poland/intern-software-engineer_jr2026492187-1": {
+    "title": "Intern Software Engineer",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/POL---Gdansk-Poland/Intern-Software-Engineer_JR2026492187-1",
+    "sig": "boeing|intern software engineer"
+  },
+  "https://boeing.wd1.myworkdayjobs.com/en-us/external_careers/job/can---richmond-canada/data-science-intern_jr2026526159-1": {
+    "title": "Data Science Intern",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Data-Science-Intern_JR2026526159-1",
+    "sig": "boeing|data science intern"
+  },
+  "https://boeing.wd1.myworkdayjobs.com/en-us/external_careers/job/can---richmond-canada/analytics-business-operations-intern--government-services-_jr2026526163-1": {
+    "title": "Analytics Business Operations Intern (Government Services)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Analytics-Business-Operations-Intern--Government-Services-_JR2026526163-1",
+    "sig": "boeing|analytics business operations intern government services"
+  },
+  "https://boeing.wd1.myworkdayjobs.com/en-us/external_careers/job/can---richmond-canada/analytics-business-operations-intern--commercial-services-_jr2026526157-1": {
+    "title": "Analytics Business Operations Intern (Commercial Services)",
+    "url": "https://boeing.wd1.myworkdayjobs.com/en-US/EXTERNAL_CAREERS/job/CAN---Richmond-Canada/Analytics-Business-Operations-Intern--Commercial-Services-_JR2026526157-1",
+    "sig": "boeing|analytics business operations intern commercial services"
+  },
+  "https://msd.wd5.myworkdayjobs.com/en-us/searchjobs/job/usa---pennsylvania---west-point/xmlname-2027-future-talent-program---computer-scientist---agentic---augmented-authoring-systems---co-op_r412857": {
+    "title": "2027 Future Talent Program - Computer Scientist - Agentic & Augmented Authoring Systems - Co-op",
+    "url": "https://msd.wd5.myworkdayjobs.com/en-US/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Computer-Scientist---Agentic---Augmented-Authoring-Systems---Co-op_R412857",
+    "sig": "msd|future talent program computer scientist agentic augmented authoring systems coop"
+  },
+  "https://nxp.wd3.myworkdayjobs.com/en-us/careers/job/eindhoven/ai---future-of-hr-research-intern_r-10067318": {
+    "title": "AI & Future of HR Research Intern",
+    "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Eindhoven/AI---Future-of-HR-Research-Intern_R-10067318",
+    "sig": "nxp|ai future of hr research intern"
+  },
+  "https://northwesternmutual.wd5.myworkdayjobs.com/en-us/corporate-careers/job/milwaukee-wi-corporate/underwriting-research-intern--summer-2027_jr-46209": {
+    "title": "Underwriting Research Intern, Summer 2027",
+    "url": "https://northwesternmutual.wd5.myworkdayjobs.com/en-US/corporate-careers/job/Milwaukee-WI-Corporate/Underwriting-Research-Intern--Summer-2027_JR-46209",
+    "sig": "northwesternmutual|underwriting research intern"
+  },
+  "https://gdit.wd5.myworkdayjobs.com/en-us/gdit_earlytalent/job/usa-va-falls-church/summer-2027-software-development-internship_rq228406-1": {
+    "title": "Summer 2027 Software Development Internship",
+    "url": "https://gdit.wd5.myworkdayjobs.com/en-US/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1",
+    "sig": "gdit|software development intern"
+  },
+  "https://phinia.wd5.myworkdayjobs.com/en-us/phinia_careers/job/auburn-hills-phinia-whq---michigan---usa/financial-systems-intern---year-round_r2026-0778": {
+    "title": "Financial Systems Intern - Year Round",
+    "url": "https://phinia.wd5.myworkdayjobs.com/en-US/PHINIA_Careers/job/Auburn-Hills-PHINIA-WHQ---Michigan---USA/Financial-Systems-Intern---Year-Round_R2026-0778",
+    "sig": "phinia|financial systems intern year round"
+  },
+  "https://ag.wd3.myworkdayjobs.com/en-us/airbus/job/gdansk/intern-system-integration-developer_jr10451063": {
+    "title": "Intern System Integration Developer",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Gdansk/Intern-System-Integration-Developer_JR10451063",
+    "sig": "ag|intern system integration developer"
+  },
+  "https://medtronic.wd1.myworkdayjobs.com/en-us/redeploymentmedtroniccareers/job/istanbul-istanbul-trkiye/data-analytics-intern_r78960": {
+    "title": "Data Analytics Intern",
+    "url": "https://medtronic.wd1.myworkdayjobs.com/en-US/redeploymentmedtroniccareers/job/Istanbul-Istanbul-Trkiye/Data-Analytics-Intern_R78960",
+    "sig": "medtronic|data analytics intern"
+  },
+  "https://jobs.smartrecruiters.com/renesaselectronics/744000155769614": {
+    "title": "Application Engineering Intern, Sensor Systems",
+    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000155769614",
+    "sig": "renesaselectronics|application engineering intern sensor systems"
+  },
+  "https://emcins.wd5.myworkdayjobs.com/en-us/emc_careers/job/iowa/cybersecurity-intern_r6590": {
+    "title": "Cybersecurity Intern",
+    "url": "https://emcins.wd5.myworkdayjobs.com/en-US/EMC_Careers/job/Iowa/Cybersecurity-Intern_R6590",
+    "sig": "emcins|cybersecurity intern"
+  },
+  "https://spscommerce.wd108.myworkdayjobs.com/en-us/sps/job/ca-on-brampton-office/software-engineer-intern_r-001353": {
+    "title": "Software Engineer Intern",
+    "url": "https://spscommerce.wd108.myworkdayjobs.com/en-US/SPS/job/CA-ON-Brampton-Office/Software-Engineer-Intern_R-001353",
+    "sig": "spscommerce|software engineer intern"
+  },
+  "https://prologis.wd5.myworkdayjobs.com/en-us/prologis_external_careers/job/austin-texas/development-intern_r6847": {
+    "title": "Development Intern",
+    "url": "https://prologis.wd5.myworkdayjobs.com/en-US/Prologis_External_Careers/job/Austin-Texas/Development-Intern_R6847",
+    "sig": "prologis|development intern"
+  },
+  "https://jobs.smartrecruiters.com/sia/744000155735429": {
+    "title": "Final year Internship - CIO, Data & AI Advisory",
+    "url": "https://jobs.smartrecruiters.com/Sia/744000155735429",
+    "sig": "sia|final year intern cio data ai advisory"
+  },
+  "https://expedia.wd108.myworkdayjobs.com/private/job/uk---london/applied-science-intern---masters---2027---london_r-110540": {
+    "title": "Applied Science Intern",
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Applied-Science-Intern---Masters---2027---London_R-110540",
+    "sig": "expedia|applied science intern"
+  },
+  "https://expedia.wd108.myworkdayjobs.com/private/job/uk---london/software-development-engineering-intern---june-2027---london_r-110551": {
+    "title": "Software Development Engineer Intern",
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Software-Development-Engineering-Intern---June-2027---London_R-110551",
+    "sig": "expedia|software development engineer intern"
+  },
+  "https://expedia.wd108.myworkdayjobs.com/private/job/uk---london/mobile-engineering-intern---2027---london_r-110545": {
+    "title": "Mobile Engineer Intern",
+    "url": "https://expedia.wd108.myworkdayjobs.com/private/job/UK---London/Mobile-Engineering-Intern---2027---London_R-110545",
+    "sig": "expedia|mobile engineer intern"
   }
 }
