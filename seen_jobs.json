@@ -24209,7 +24209,7 @@
     "sig": "rothesaygraduates|intern programme trading and asset origination"
   },
   "https://axcelis.wd1.myworkdayjobs.com/en-us/axcelis/job/beverly-ma/co-op---manufacturing-software-development-_12019": {
-    "title": "Co-Op, (Manufacturing Software Development)",
+    "title": "Co-Op - Manufacturing Software Development",
     "url": "https://axcelis.wd1.myworkdayjobs.com/en-US/axcelis/job/Beverly-MA/Co-Op---Manufacturing-Software-Development-_12019",
     "sig": "axcelis|coop manufacturing software development"
   },
@@ -32208,7 +32208,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-10-15",
-        "n": 429,
+        "n": 430,
         "nz": "2026-10-15"
       },
       "OpenAI": {
@@ -32216,7 +32216,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-15",
-        "n": 805,
+        "n": 804,
         "nz": "2026-10-15"
       },
       "Anthropic": {
@@ -32224,7 +32224,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-15",
-        "n": 650,
+        "n": 647,
         "nz": "2026-10-15"
       },
       "Databricks": {
@@ -32232,7 +32232,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-10-15",
-        "n": 893,
+        "n": 891,
         "nz": "2026-10-15"
       },
       "Page: Microsoft Careers": {
@@ -32247,7 +32247,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-15",
-        "n": 2522,
+        "n": 2527,
         "nz": "2026-10-15"
       },
       "Palantir": {
@@ -32326,7 +32326,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-15",
-        "n": 113642,
+        "n": 113761,
         "nz": "2026-10-15"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32360,7 +32360,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-15",
-        "n": 2179,
+        "n": 2172,
         "nz": "2026-10-15"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32416,7 +32416,7 @@
         "since": "2026-10-01",
         "ats": "github_md",
         "ok": "2026-10-15",
-        "n": 106,
+        "n": 134,
         "nz": "2026-10-15"
       },
       "Quant: 3Red Partners": {
@@ -32504,7 +32504,7 @@
         "ats": "greenhouse",
         "token": "grasshopperasia",
         "ok": "2026-10-15",
-        "n": 7,
+        "n": 6,
         "nz": "2026-10-15"
       },
       "Quant: Jane Street": {
@@ -32575,7 +32575,7 @@
         "ats": "greenhouse",
         "token": "point72",
         "ok": "2026-10-15",
-        "n": 226,
+        "n": 224,
         "nz": "2026-10-15"
       },
       "Quant: Qube RT": {
@@ -32869,7 +32869,7 @@
         "ats": "ashby",
         "token": "ramp",
         "ok": "2026-10-15",
-        "n": 161,
+        "n": 162,
         "nz": "2026-10-15"
       },
       "Quant/Tech: Modal Labs": {
@@ -33451,7 +33451,7 @@
         "ats": "greenhouse",
         "token": "iex",
         "ok": "2026-10-15",
-        "n": 9,
+        "n": 10,
         "nz": "2026-10-15"
       },
       "Quant: MEMX": {
@@ -33475,7 +33475,7 @@
         "ats": "greenhouse",
         "token": "alpaca",
         "ok": "2026-10-15",
-        "n": 75,
+        "n": 74,
         "nz": "2026-10-15"
       },
       "Quant: Trumid": {
@@ -33670,11 +33670,9 @@
       "Quant SPA: swissQuant Group": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-14",
+        "ok": "2026-10-15",
         "n": 1,
-        "nz": "2026-10-14",
-        "err": "403 Client Error: Forbidden for url: https://www.swissquant.com/careers/",
-        "ef": "2026-10-15"
+        "nz": "2026-10-15"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
@@ -33693,11 +33691,9 @@
       "Quant SPA: Deep Blue Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-14",
+        "ok": "2026-10-15",
         "n": 1,
-        "nz": "2026-10-14",
-        "err": "403 Client Error: Forbidden for url: https://www.deepbluecap.com/careers/",
-        "ef": "2026-10-15"
+        "nz": "2026-10-15"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33812,11 +33808,9 @@
       "Quant SPA: Qube Research & Technologies": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-14",
+        "ok": "2026-10-15",
         "n": 1,
-        "nz": "2026-10-14",
-        "err": "403 Client Error: Forbidden for url: https://www.qube-rt.com/careers",
-        "ef": "2026-10-15"
+        "nz": "2026-10-15"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34355,11 +34349,9 @@
       "Quant SPA: TS Imagine": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-14",
+        "ok": "2026-10-15",
         "n": 1,
-        "nz": "2026-10-14",
-        "err": "403 Client Error: Forbidden for url: https://tsimagine.com/careers/",
-        "ef": "2026-10-15"
+        "nz": "2026-10-15"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
@@ -34393,7 +34385,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-10-15",
-        "n": 444,
+        "n": 445,
         "nz": "2026-10-15"
       },
       "Cyber: Datadog": {
@@ -34401,7 +34393,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-10-15",
-        "n": 437,
+        "n": 435,
         "nz": "2026-10-15"
       },
       "Startup: Figma": {
@@ -34425,7 +34417,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-15",
-        "n": 727,
+        "n": 728,
         "nz": "2026-10-15"
       },
       "Startup: Mercury": {
@@ -34456,7 +34448,7 @@
         "ats": "ashby",
         "token": "replit",
         "ok": "2026-10-15",
-        "n": 68,
+        "n": 66,
         "nz": "2026-10-15"
       },
       "Startup: Perplexity": {
@@ -34480,7 +34472,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-10-15",
-        "n": 347,
+        "n": 344,
         "nz": "2026-10-15"
       },
       "Startup: Glean": {
@@ -34496,7 +34488,7 @@
         "ats": "ashby",
         "token": "baseten",
         "ok": "2026-10-15",
-        "n": 105,
+        "n": 106,
         "nz": "2026-10-15"
       },
       "Startup: Cerebras": {
@@ -34594,7 +34586,7 @@
         "ats": "ashby",
         "token": "cognition",
         "ok": "2026-10-15",
-        "n": 103,
+        "n": 102,
         "nz": "2026-10-15"
       },
       "Startup: Decagon": {
@@ -34625,7 +34617,7 @@
         "ats": "ashby",
         "token": "physicalintelligence",
         "ok": "2026-10-15",
-        "n": 40,
+        "n": 41,
         "nz": "2026-10-15"
       },
       "Startup: Figure AI": {
@@ -41459,9 +41451,9 @@
     "sig": "avav|finance systems intern"
   },
   "https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704": {
-    "title": "Robotics Research Intern, Embodied AI (Spring or Summer 2027)",
+    "title": "Robotics Research Intern, Embodied AI (Spring & Summer 2027)",
     "url": "https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704",
-    "sig": "fieldai|robotics research intern embodied ai or"
+    "sig": "fieldai|robotics research intern embodied ai"
   },
   "https://denver.wd1.myworkdayjobs.com/en-us/ccd-denver-denvergov-csc_jobs-civil_service_jobs-police_jobs-fire_jobs/job/denver-international-airport/college-intern---small-business-learning---development---culture---strategy---airport-access---business-opportunity---denver-international-airport_r0083270": {
     "title": "COLLEGE Intern – Small Business Learning & Development - Culture & Strategy – Airport Access & Business Opportunity – Denver International Airport",
@@ -42393,5 +42385,90 @@
     "title": "Software Engineer Intern",
     "url": "https://icf.wd5.myworkdayjobs.com/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522",
     "sig": "icfinternational|software engineer intern"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-in-ft-wayne-150a--1010-production-rd--bldg-150a/summer-2027-rf-systems-engineer-intern---onsite_01880963": {
+    "title": "Summer 2027 RF Systems Engineer Intern - Onsite",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IN-FT-WAYNE-150A--1010-Production-Rd--BLDG-150A/Summer-2027-RF-Systems-Engineer-Intern---Onsite_01880963",
+    "sig": "rtx|rf systems engineer intern onsite"
+  },
+  "https://www.amazon.jobs/en/jobs/10579407/control-engineer-intern-aws-data-center-controls-deployment-services-team": {
+    "title": "Control Engineer Intern, AWS Data Center Controls Deployment & Services team",
+    "url": "https://www.amazon.jobs/en/jobs/10579407/control-engineer-intern-aws-data-center-controls-deployment-services-team",
+    "sig": "amazon|control engineer intern aws data center controls deployment services team"
+  },
+  "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking": {
+    "title": "Network Development Engineer Intern, Core Networking",
+    "url": "https://www.amazon.jobs/en/jobs/3201714/network-development-engineer-intern-core-networking",
+    "sig": "amazon|network development engineer intern core networking"
+  },
+  "https://marvell.wd1.myworkdayjobs.com/en-us/marvellcareers2/job/hyderabad/solutions-intern---systems-modeling--fpga-_2604240": {
+    "title": "Solutions Intern - Systems Modeling (FPGA)",
+    "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Hyderabad/Solutions-Intern---Systems-Modeling--FPGA-_2604240",
+    "sig": "marvell|solutions intern systems modeling fpga"
+  },
+  "https://interac.wd3.myworkdayjobs.com/en-us/interac/job/toronto/information-security-intern_req-2385": {
+    "title": "Information Security Intern",
+    "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Information-Security-Intern_REQ-2385",
+    "sig": "interac|information security intern"
+  },
+  "https://interac.wd3.myworkdayjobs.com/en-us/interac/job/toronto/cloud-operations-intern_req-2391": {
+    "title": "Cloud Operations Intern",
+    "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Cloud-Operations-Intern_REQ-2391",
+    "sig": "interac|cloud operations intern"
+  },
+  "https://interac.wd3.myworkdayjobs.com/en-us/interac/job/toronto/software-tester-intern_req-2398": {
+    "title": "Software Tester Intern",
+    "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Software-Tester-Intern_REQ-2398",
+    "sig": "interac|software tester intern"
+  },
+  "https://interac.wd3.myworkdayjobs.com/en-us/interac/job/toronto/network-affairs-intern_req-2403": {
+    "title": "Network Affairs Intern",
+    "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Network-Affairs-Intern_REQ-2403",
+    "sig": "interac|network affairs intern"
+  },
+  "https://interac.wd3.myworkdayjobs.com/en-us/interac/job/toronto/business-systems---ai-intern_req-2393": {
+    "title": "Business Systems & AI Intern",
+    "url": "https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Business-Systems---AI-Intern_REQ-2393",
+    "sig": "interac|business systems ai intern"
+  },
+  "https://jobs.smartrecruiters.com/continental/744000155656759": {
+    "title": "IT Internship - IT Infrastructure",
+    "url": "https://jobs.smartrecruiters.com/Continental/744000155656759",
+    "sig": "continental|it intern it infrastructure"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---machine-learning-for-automation_jr-202621724": {
+    "title": "2027 Summer Intern - Research and Development - Machine Learning for Automation",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Machine-Learning-for-Automation_JR-202621724",
+    "sig": "generalmotors|intern research and development machine learning for automation"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---computational-materials-science--continuum-scales-and-materials-discovery_jr-202621642": {
+    "title": "2027 Summer Intern - Research and Development - Computational Materials Science: Continuum Scales and Materials Discovery",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Computational-Materials-Science--Continuum-Scales-and-Materials-Discovery_JR-202621642",
+    "sig": "generalmotors|intern research and development computational materials science continuum scales and materials discovery"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/summer-2027-intern---research-and-development---smart-manufacturing-systems_jr-202621657": {
+    "title": "Summer 2027 Intern - Research and Development - Smart Manufacturing Systems",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Summer-2027-Intern---Research-and-Development---Smart-Manufacturing-Systems_JR-202621657",
+    "sig": "generalmotors|intern research and development smart manufacturing systems"
+  },
+  "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7": {
+    "title": "Software Engineering Intern, Full Stack",
+    "url": "https://jobs.ashbyhq.com/tessera-labs/892bb150-8c98-47f4-a8b6-93633ecb2ea7",
+    "sig": "tesseralabs|software engineering intern full stack"
+  },
+  "https://ing.wd3.myworkdayjobs.com/en-us/icsgblcor/job/singapore/intern--global-research_req-10123253": {
+    "title": "Intern, Global Research",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/Singapore/Intern--Global-Research_REQ-10123253",
+    "sig": "ing|intern global research"
+  },
+  "https://jobs.lever.co/atomcomputing/f17f16bc-d448-4a24-8449-281d660fdbfc": {
+    "title": "Research Intern",
+    "url": "https://jobs.lever.co/atomcomputing/f17f16bc-d448-4a24-8449-281d660fdbfc",
+    "sig": "atomcomputing|research intern"
+  },
+  "https://jobs.smartrecruiters.com/grab/744000155667539": {
+    "title": "Intern, People Scientist (Research)",
+    "url": "https://jobs.smartrecruiters.com/Grab/744000155667539",
+    "sig": "grab|intern people scientist research"
   }
 }
