@@ -2308,8 +2308,9 @@
     "sig": "gilead|intern development clinical operations"
   },
   "https://gilead.wd1.myworkdayjobs.com/en-us/gileadcareers/job/united-states---california---foster-city/intern---research---inflammation-biology_r0054617": {
-    "title": "Intern - Research - Inflammation Biology",
-    "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation-Biology_R0054617"
+    "title": "Intern - Research - Inflammation Biology - AI",
+    "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation-Biology_R0054617",
+    "sig": "gilead|intern research inflammation biology ai"
   },
   "https://gilead.wd1.myworkdayjobs.com/en-us/gileadcareers/job/united-states---california---foster-city/intern---research---clinical-virology_r0054783": {
     "title": "Intern - Research - Clinical Virology",
@@ -2331,8 +2332,9 @@
     "sig": "gilead|intern research data sciences ai"
   },
   "https://gilead.wd1.myworkdayjobs.com/en-us/gileadcareers/job/united-states---california---foster-city/intern---research---protein-therapeutics_r0054512": {
-    "title": "Intern - Research - Protein Therapeutics",
-    "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics_R0054512"
+    "title": "Intern - Research - Protein Therapeutics - AI",
+    "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics_R0054512",
+    "sig": "gilead|intern research protein therapeutics ai"
   },
   "https://gilead.wd1.myworkdayjobs.com/en-us/gileadcareers/job/united-states---california---foster-city/intern---development---regulatory-affairs_r0054618": {
     "title": "Intern - Development - Regulatory Affairs",
@@ -19362,7 +19364,8 @@
   },
   "https://zeissgroup.wd3.myworkdayjobs.com/en-us/external/job/jena/praktikum-im-bereich-people---organizational-development---segment-medizintechnik--m-w-x-_jr_1052109": {
     "title": "Internship in People & Organizational Development | Segment: Medical Technology (m/f/x)",
-    "url": "https://zeissgroup.wd3.myworkdayjobs.com/en-US/External/job/Jena/Praktikum-im-Bereich-People---Organizational-Development---Segment-Medizintechnik--m-w-x-_JR_1052109"
+    "url": "https://zeissgroup.wd3.myworkdayjobs.com/en-US/External/job/Jena/Praktikum-im-Bereich-People---Organizational-Development---Segment-Medizintechnik--m-w-x-_JR_1052109",
+    "sig": "zeissgroup|intern in people organizational development segment medical technology m f x"
   },
   "https://jobs.smartrecruiters.com/aristanetworks/744000149023238": {
     "title": "Network Engineer - Test (Intern) ",
@@ -29806,7 +29809,8 @@
   },
   "https://ing.wd3.myworkdayjobs.com/en-us/icsgblcor/job/milan/machine-learning-engineer-intern_req-10122304": {
     "title": "Machine Learning Engineer Intern",
-    "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/MILAN/Machine-Learning-Engineer-Intern_REQ-10122304"
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/MILAN/Machine-Learning-Engineer-Intern_REQ-10122304",
+    "sig": "ing|machine learning engineer intern"
   },
   "https://nike.wd1.myworkdayjobs.com/en-us/nke/job/laakdal-belgium/nike--inc-internship-supply-chain-intelligence_r-92335": {
     "title": "Nike, Inc. Internship Data Analytics",
@@ -32214,7 +32218,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-10-16",
-        "n": 433,
+        "n": 434,
         "nz": "2026-10-16"
       },
       "OpenAI": {
@@ -32222,7 +32226,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-16",
-        "n": 802,
+        "n": 801,
         "nz": "2026-10-16"
       },
       "Anthropic": {
@@ -32261,7 +32265,7 @@
         "ats": "lever",
         "token": "palantir",
         "ok": "2026-10-16",
-        "n": 310,
+        "n": 309,
         "nz": "2026-10-16"
       },
       "Shield AI": {
@@ -32269,7 +32273,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-10-16",
-        "n": 619,
+        "n": 618,
         "nz": "2026-10-16"
       },
       "Page: Lockheed Martin (search)": {
@@ -32332,7 +32336,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-16",
-        "n": 113991,
+        "n": 113783,
         "nz": "2026-10-16"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32366,7 +32370,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-16",
-        "n": 2175,
+        "n": 2181,
         "nz": "2026-10-16"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32581,7 +32585,7 @@
         "ats": "greenhouse",
         "token": "point72",
         "ok": "2026-10-16",
-        "n": 221,
+        "n": 220,
         "nz": "2026-10-16"
       },
       "Quant: Qube RT": {
@@ -33483,7 +33487,7 @@
         "ats": "greenhouse",
         "token": "alpaca",
         "ok": "2026-10-16",
-        "n": 75,
+        "n": 73,
         "nz": "2026-10-16"
       },
       "Quant: Trumid": {
@@ -34232,11 +34236,9 @@
       "Quant SPA: Kaiko": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-15",
+        "ok": "2026-10-16",
         "n": 1,
-        "nz": "2026-10-15",
-        "err": "404 Client Error: Not Found for url: https://jobs.kaiko.ai/",
-        "ef": "2026-10-16"
+        "nz": "2026-10-16"
       },
       "Quant SPA: Exegy": {
         "since": "2026-10-01",
@@ -34403,7 +34405,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-10-16",
-        "n": 439,
+        "n": 436,
         "nz": "2026-10-16"
       },
       "Cyber: Datadog": {
@@ -34411,7 +34413,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-10-16",
-        "n": 439,
+        "n": 437,
         "nz": "2026-10-16"
       },
       "Startup: Figma": {
@@ -34435,7 +34437,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-16",
-        "n": 725,
+        "n": 726,
         "nz": "2026-10-16"
       },
       "Startup: Mercury": {
@@ -34482,7 +34484,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-10-16",
-        "n": 153,
+        "n": 150,
         "nz": "2026-10-16"
       },
       "Startup: Harvey": {
@@ -34498,7 +34500,7 @@
         "ats": "greenhouse",
         "token": "gleanwork",
         "ok": "2026-10-16",
-        "n": 135,
+        "n": 134,
         "nz": "2026-10-16"
       },
       "Startup: Baseten": {
@@ -36563,7 +36565,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "sig": "cloudflare|software engineer intern"
+    "sig": "cybercloudflare|software engineer intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
     "title": "UX Design Research Intern",
@@ -36703,7 +36705,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sig": "cybercloudflare|software engineer intern"
+    "sig": "cloudflare|software engineer intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--data-center-compute-software-tools--rdss-intern-_jr2025645": {
     "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
@@ -41081,7 +41083,7 @@
   "https://mdtkangaroo.wd108.myworkdayjobs.com/en-us/minimedcareers/job/northridge-california-united-states-of-america/software-engineering-intern-summer-2027_r-801814-1": {
     "title": "Software Engineering Intern Summer 2027",
     "url": "https://mdtkangaroo.wd108.myworkdayjobs.com/en-US/minimedcareers/job/Northridge-California-United-States-of-America/Software-Engineering-Intern-Summer-2027_R-801814-1",
-    "sig": "mdtkangaroo|software engineering intern"
+    "sig": "minimed|software engineering intern"
   },
   "https://mdtkangaroo.wd108.myworkdayjobs.com/en-us/minimedcareers/job/usa-ga-johns-creek/graduate-ai-engineer-intern-summer-2027_r-801926": {
     "title": "Graduate AI Engineer Intern Summer 2027  (Atlanta, Georgia)",
@@ -41109,9 +41111,9 @@
     "sig": "doctolib|software engineer intern fullstack x f m amsterdam"
   },
   "https://job-boards.greenhouse.io/doctolib/jobs/8007923003": {
-    "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin",
+    "title": "Software Engineer Intern - Fullstack (x/f/m) - Berlin - March 2027",
     "url": "https://job-boards.greenhouse.io/doctolib/jobs/8007923003",
-    "sig": "doctolib|software engineer intern fullstack x f m berlin"
+    "sig": "doctolib|software engineer intern fullstack x f m berlin march"
   },
   "https://job-boards.greenhouse.io/doctolib/jobs/8000653003": {
     "title": "Software Engineer Intern - Fullstack (x/f/m) - Milano",
@@ -42993,5 +42995,115 @@
     "title": "Software Engineer Intern - Recommendation Performance Efficiency",
     "url": "https://lifeattiktok.com/search/7673636206961641781",
     "sig": "tiktok|software engineer intern recommendation performance efficiency"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/poland-warsaw/developer-tools-devops-engineering-intern---2027_jr2027826": {
+    "title": "Developer Tools DevOps Engineering Intern - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Poland-Warsaw/Developer-Tools-DevOps-Engineering-Intern---2027_JR2027826",
+    "sig": "nvidia|developer tools devops engineering intern"
+  },
+  "https://abb.wd3.myworkdayjobs.com/en-us/external_career_page/job/usa-nc-cary/ai-engineering--business-systems-intern--summer-2027_jr00048714": {
+    "title": "AI Engineering, Business Systems Intern- Summer 2027",
+    "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-NC-Cary/AI-Engineering--Business-Systems-Intern--Summer-2027_JR00048714",
+    "sig": "abb|ai engineering business systems intern"
+  },
+  "https://relx.wd3.myworkdayjobs.com/en-us/relx/job/germany---karlsruhe/intern-data-engineering_r119275-1": {
+    "title": "Intern Data Engineering",
+    "url": "https://relx.wd3.myworkdayjobs.com/en-US/relx/job/Germany---Karlsruhe/Intern-Data-Engineering_R119275-1",
+    "sig": "relx|intern data engineering"
+  },
+  "https://job-boards.greenhouse.io/togetherai/jobs/5238469007": {
+    "title": "Hardware Security Engineer Intern (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/togetherai/jobs/5238469007",
+    "sig": "togetherai|hardware security engineer intern"
+  },
+  "https://xcelenergy.wd1.myworkdayjobs.com/en-us/external/job/denver-co-80205/residential-energy-product-strategy-intern--co_jr115817-1": {
+    "title": "Energy Product Analytics Intern- CO",
+    "url": "https://xcelenergy.wd1.myworkdayjobs.com/en-US/External/job/Denver-CO-80205/Residential-Energy-Product-Strategy-Intern--CO_JR115817-1",
+    "sig": "xcelenergy|energy product analytics intern co"
+  },
+  "https://xcelenergy.wd1.myworkdayjobs.com/en-us/external/job/denver-co-80205/program--capability---process-development-intern_jr116631-1": {
+    "title": "Program, Capability & Process Development Intern",
+    "url": "https://xcelenergy.wd1.myworkdayjobs.com/en-US/External/job/Denver-CO-80205/Program--Capability---Process-Development-Intern_JR116631-1",
+    "sig": "xcelenergy|program capability process development intern"
+  },
+  "https://xcelenergy.wd1.myworkdayjobs.com/en-us/external/job/earth-tx-79031/performance-optimization-reliability-engineer-intern--tx_jr115824-2": {
+    "title": "Performance Optimization Reliability Engineer Intern- TX",
+    "url": "https://xcelenergy.wd1.myworkdayjobs.com/en-US/External/job/Earth-TX-79031/Performance-Optimization-Reliability-Engineer-Intern--TX_JR115824-2",
+    "sig": "xcelenergy|performance optimization reliability engineer intern tx"
+  },
+  "https://xcelenergy.wd1.myworkdayjobs.com/en-us/external/job/denver-co-80205/distribution-modeling-and-analytics-intern--co_jr115829-1": {
+    "title": "Distribution Modeling and Analytics Intern- CO",
+    "url": "https://xcelenergy.wd1.myworkdayjobs.com/en-US/External/job/Denver-CO-80205/Distribution-Modeling-and-Analytics-Intern--CO_JR115829-1",
+    "sig": "xcelenergy|distribution modeling and analytics intern co"
+  },
+  "https://xcelenergy.wd1.myworkdayjobs.com/en-us/external/job/minneapolis-mn-55401/generation-development-engineering-intern--mn--co_jr116620": {
+    "title": "Generation Development Engineering Intern- MN, CO",
+    "url": "https://xcelenergy.wd1.myworkdayjobs.com/en-US/External/job/Minneapolis-MN-55401/Generation-Development-Engineering-Intern--MN--CO_JR116620",
+    "sig": "xcelenergy|generation development engineering intern mn co"
+  },
+  "https://xcelenergy.wd1.myworkdayjobs.com/en-us/external/job/denver-co-80205/load-research---energy-and-demand-forecasting-intern_jr116604-1": {
+    "title": "Load Research & Energy and Demand Forecasting Intern",
+    "url": "https://xcelenergy.wd1.myworkdayjobs.com/en-US/External/job/Denver-CO-80205/Load-Research---Energy-and-Demand-Forecasting-Intern_JR116604-1",
+    "sig": "xcelenergy|load research energy and demand forecasting intern"
+  },
+  "https://ag.wd3.myworkdayjobs.com/en-us/airbus/job/toulouse-area/atr---internship-2027---mpd-products-development_jr10446221": {
+    "title": "ATR - Internship 2027 - MPD products development",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/ATR---Internship-2027---MPD-products-development_JR10446221",
+    "sig": "ag|atr intern mpd products development"
+  },
+  "https://ag.wd3.myworkdayjobs.com/en-us/airbus/job/toulouse-area/atr--internship-2027---automatic-generator-of-aircraft-performance-database_jr10450467": {
+    "title": "ATR- Internship 2027 - Automatic Generator of Aircraft Performance Database",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/ATR--Internship-2027---Automatic-Generator-of-Aircraft-Performance-Database_JR10450467",
+    "sig": "ag|atr intern automatic generator of aircraft performance database"
+  },
+  "https://ag.wd3.myworkdayjobs.com/en-us/airbus/job/toulouse-area/atr--internship-2027---ia-assistant-for-avionics-systems-designer_jr10450466": {
+    "title": "ATR- Internship 2027 - IA Assistant for Avionics systems designer",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/ATR--Internship-2027---IA-Assistant-for-Avionics-systems-designer_JR10450466",
+    "sig": "ag|atr intern ia assistant for avionics systems designer"
+  },
+  "https://ag.wd3.myworkdayjobs.com/en-us/airbus/job/toulouse-area/atr---internship-2027----infra-ia-et-deploiement-de-llm_jr10450491": {
+    "title": "ATR – Internship 2027  - infra IA et deploiement de LLM",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/ATR---Internship-2027----infra-IA-et-deploiement-de-LLM_JR10450491",
+    "sig": "ag|atr intern infra ia et deploiement de llm"
+  },
+  "https://ag.wd3.myworkdayjobs.com/en-us/airbus/job/toulouse-area/atr---internship-2027-----cybersecurity-cti_jr10450775": {
+    "title": "ATR – Internship 2027  -  Cybersecurity CTI",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/ATR---Internship-2027-----Cybersecurity-CTI_JR10450775",
+    "sig": "ag|atr intern cybersecurity cti"
+  },
+  "https://ag.wd3.myworkdayjobs.com/en-us/airbus/job/toulouse-area/atr---internship--geospatial-data-science--f-m-_jr10448360": {
+    "title": "ATR - Internship- Geospatial Data Science (F/M)",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/ATR---Internship--Geospatial-Data-Science--F-M-_JR10448360",
+    "sig": "ag|atr intern geospatial data science f m"
+  },
+  "https://gilead.wd1.myworkdayjobs.com/en-us/gileadcareers/job/united-states---california---foster-city/intern---research---drug-metabolism---ai_r0055519": {
+    "title": "Intern - Research - Drug Metabolism - AI",
+    "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Drug-Metabolism---AI_R0055519",
+    "sig": "gilead|intern research drug metabolism ai"
+  },
+  "https://gilead.wd1.myworkdayjobs.com/en-us/gileadcareers/job/united-states---california---foster-city/intern---research---strategy--innovation---portfolio_r0054502": {
+    "title": "Intern - Research - Strategy, Innovation & Portfolio - AI",
+    "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502",
+    "sig": "gilead|intern research strategy innovation portfolio ai"
+  },
+  "https://gilead.wd1.myworkdayjobs.com/en-us/gileadcareers/job/united-states---california---foster-city/intern---research---discovery-sciences-and-technologies---ai_r0055527": {
+    "title": "Intern - Research - Discovery Sciences and Technologies - AI",
+    "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Discovery-Sciences-and-Technologies---AI_R0055527",
+    "sig": "gilead|intern research discovery sciences and technologies ai"
+  },
+  "https://gilead.wd1.myworkdayjobs.com/en-us/gileadcareers/job/united-states---california---foster-city/intern---research---protein-therapeutics--computational-biologics-engineering_r0054739": {
+    "title": "Intern - Research - Protein Therapeutics, Computational Biologics Engineering - AI",
+    "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739",
+    "sig": "gilead|intern research protein therapeutics computational biologics engineering ai"
+  },
+  "https://gilead.wd1.myworkdayjobs.com/en-us/gileadcareers/job/united-states---california---foster-city/intern---research---medicinal-chemistry--structural-biology---chemistry---ai_r0055565": {
+    "title": "Intern - Research - Medicinal Chemistry/ Structural Biology & Chemistry - AI",
+    "url": "https://gilead.wd1.myworkdayjobs.com/en-US/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Medicinal-Chemistry--Structural-Biology---Chemistry---AI_R0055565",
+    "sig": "gilead|intern research medicinal chemistry structural biology chemistry ai"
+  },
+  "https://jobs.smartrecruiters.com/grab/744000155926216": {
+    "title": "Intern, Software Engineer",
+    "url": "https://jobs.smartrecruiters.com/Grab/744000155926216",
+    "sig": "grab|intern software engineer"
   }
 }
