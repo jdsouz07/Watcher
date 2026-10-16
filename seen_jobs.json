@@ -2145,8 +2145,8 @@
     "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164"
   },
   "https://cox.wd1.myworkdayjobs.com/en-us/cox_external_career_site_1/job/atlanta-ga/software-engineering-intern---summer-2027--atlanta--ga-_r202682166": {
-    "title": "Software Engineering Intern - Summer 2027 - Atlanta - GA",
-    "url": "https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166",
+    "title": "Software Engineering Intern - Summer 2027 (Atlanta, GA)",
+    "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166",
     "sig": "cox|software engineering intern atlanta ga"
   },
   "https://cox.wd1.myworkdayjobs.com/en-us/cox_external_career_site_1/job/burlington-vt/software-engineering-intern---summer-2027--burlington--vt-_r202682172-1": {
@@ -26568,8 +26568,8 @@
     "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/MSB-Singapore/Intern---Facilities-Sustainability-AI_JR112586"
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/us-california-palo-alto/site-reliability-engineer--sre--intern---ai-infrastructure_r108158-1": {
-    "title": "Site Reliability Engineer (SRE) Intern — AI Infrastructure",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1",
+    "title": "Site Reliability Engineer - SRE Intern — AI Infrastructure",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Site-Reliability-Engineer--SRE--Intern---AI-Infrastructure_R108158-1",
     "sig": "tencent|site reliability engineer sre intern ai infrastructure"
   },
   "https://caci.wd1.myworkdayjobs.com/en-us/external/job/sterling-va-us/software-engineering-intern---summer-2027_332386": {
@@ -32144,7 +32144,7 @@
         "ats": "greenhouse",
         "token": "optiverus",
         "ok": "2026-10-16",
-        "n": 162,
+        "n": 163,
         "nz": "2026-10-16"
       },
       "Optiver (Campus)": {
@@ -32218,7 +32218,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-10-16",
-        "n": 434,
+        "n": 443,
         "nz": "2026-10-16"
       },
       "OpenAI": {
@@ -32226,7 +32226,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-16",
-        "n": 801,
+        "n": 802,
         "nz": "2026-10-16"
       },
       "Anthropic": {
@@ -32234,7 +32234,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-16",
-        "n": 654,
+        "n": 652,
         "nz": "2026-10-16"
       },
       "Databricks": {
@@ -32314,7 +32314,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-16",
         "n": 1,
-        "nz": "2026-10-16"
+        "nz": "2026-10-16",
+        "err": "HTTPSConnectionPool(host='careers.gatech.edu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(h",
+        "ef": "2026-10-16"
       },
       "Flow Traders": {
         "since": "2026-10-01",
@@ -32336,7 +32338,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-16",
-        "n": 113783,
+        "n": 113327,
         "nz": "2026-10-16"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32370,7 +32372,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-16",
-        "n": 2181,
+        "n": 2141,
         "nz": "2026-10-16"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32546,7 +32548,7 @@
         "ats": "greenhouse",
         "token": "mangroup",
         "ok": "2026-10-16",
-        "n": 56,
+        "n": 57,
         "nz": "2026-10-16"
       },
       "Quant: Marshall Wace": {
@@ -32585,7 +32587,7 @@
         "ats": "greenhouse",
         "token": "point72",
         "ok": "2026-10-16",
-        "n": 220,
+        "n": 222,
         "nz": "2026-10-16"
       },
       "Quant: Qube RT": {
@@ -32593,7 +32595,7 @@
         "ats": "greenhouse",
         "token": "quberesearchandtechnologies",
         "ok": "2026-10-16",
-        "n": 196,
+        "n": 195,
         "nz": "2026-10-16"
       },
       "Quant: Schonfeld": {
@@ -32903,7 +32905,7 @@
         "ats": "greenhouse",
         "token": "scaleai",
         "ok": "2026-10-16",
-        "n": 179,
+        "n": 181,
         "nz": "2026-10-16"
       },
       "Quant/Tech: Anyscale": {
@@ -33385,7 +33387,7 @@
         "ats": "lever",
         "token": "kpler",
         "ok": "2026-10-16",
-        "n": 99,
+        "n": 97,
         "nz": "2026-10-16"
       },
       "Quant: Onyx Capital Group": {
@@ -33511,7 +33513,7 @@
         "ats": "greenhouse",
         "token": "picoquantitativetrading",
         "ok": "2026-10-16",
-        "n": 50,
+        "n": 48,
         "nz": "2026-10-16"
       },
       "Quant: OneChronos": {
@@ -33685,7 +33687,7 @@
         "ok": "2026-10-15",
         "n": 1,
         "nz": "2026-10-15",
-        "err": "403 Client Error: Forbidden for url: https://www.swissquant.com/careers/",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
         "ef": "2026-10-15"
       },
       "Quant SPA: All Options": {
@@ -33708,7 +33710,7 @@
         "ok": "2026-10-15",
         "n": 1,
         "nz": "2026-10-15",
-        "err": "403 Client Error: Forbidden for url: https://www.deepbluecap.com/careers/",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
         "ef": "2026-10-15"
       },
       "Quant SPA: Nyenburgh": {
@@ -33827,7 +33829,7 @@
         "ok": "2026-10-15",
         "n": 1,
         "nz": "2026-10-15",
-        "err": "403 Client Error: Forbidden for url: https://www.qube-rt.com/careers",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
         "ef": "2026-10-15"
       },
       "Quant SPA: DC Energy": {
@@ -34370,7 +34372,7 @@
         "ok": "2026-10-15",
         "n": 1,
         "nz": "2026-10-15",
-        "err": "403 Client Error: Forbidden for url: https://tsimagine.com/careers/",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
         "ef": "2026-10-15"
       },
       "Quant SPA: FlexTrade Systems": {
@@ -34405,7 +34407,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-10-16",
-        "n": 436,
+        "n": 437,
         "nz": "2026-10-16"
       },
       "Cyber: Datadog": {
@@ -34413,7 +34415,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-10-16",
-        "n": 437,
+        "n": 434,
         "nz": "2026-10-16"
       },
       "Startup: Figma": {
@@ -34421,7 +34423,7 @@
         "ats": "greenhouse",
         "token": "figma",
         "ok": "2026-10-16",
-        "n": 142,
+        "n": 143,
         "nz": "2026-10-16"
       },
       "Startup: Discord": {
@@ -34437,7 +34439,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-16",
-        "n": 726,
+        "n": 730,
         "nz": "2026-10-16"
       },
       "Startup: Mercury": {
@@ -34460,7 +34462,7 @@
         "ats": "ashby",
         "token": "vanta",
         "ok": "2026-10-16",
-        "n": 84,
+        "n": 86,
         "nz": "2026-10-16"
       },
       "Startup: Replit": {
@@ -34484,7 +34486,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-10-16",
-        "n": 150,
+        "n": 149,
         "nz": "2026-10-16"
       },
       "Startup: Harvey": {
@@ -34537,7 +34539,7 @@
         "ats": "ashby",
         "token": "supabase",
         "ok": "2026-10-16",
-        "n": 54,
+        "n": 53,
         "nz": "2026-10-16"
       },
       "Startup: Clerk": {
@@ -34568,7 +34570,7 @@
         "ats": "greenhouse",
         "token": "tailscale",
         "ok": "2026-10-16",
-        "n": 62,
+        "n": 59,
         "nz": "2026-10-16"
       },
       "Startup: Rippling": {
@@ -36565,7 +36567,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "sig": "cybercloudflare|software engineer intern"
+    "sig": "cloudflare|software engineer intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
     "title": "UX Design Research Intern",
@@ -36705,7 +36707,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sig": "cloudflare|software engineer intern"
+    "sig": "cybercloudflare|software engineer intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--data-center-compute-software-tools--rdss-intern-_jr2025645": {
     "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
@@ -41671,9 +41673,9 @@
     "sig": "tencent|llm agent research intern"
   },
   "https://parsons.wd5.myworkdayjobs.com/en-us/search/job/us---al-huntsville/software-engineering-intern--summer-2027-_r187299": {
-    "title": "Software Engineering Intern (Summer 2027)",
+    "title": "Software Engineer Intern",
     "url": "https://parsons.wd5.myworkdayjobs.com/en-US/search/job/US---AL-Huntsville/Software-Engineering-Intern--Summer-2027-_R187299",
-    "sig": "parsons|software engineering intern"
+    "sig": "parsons|software engineer intern"
   },
   "https://accenture.wd103.myworkdayjobs.com/en-us/accenturecareers/job/roma/cybersecurity-internship_r00364331": {
     "title": "Cybersecurity Internship",
@@ -43105,5 +43107,65 @@
     "title": "Intern, Software Engineer",
     "url": "https://jobs.smartrecruiters.com/Grab/744000155926216",
     "sig": "grab|intern software engineer"
+  },
+  "https://jj.wd5.myworkdayjobs.com/en-us/jj/job/cambridge-massachusetts-united-states-of-america/summer-intern--digital-signal--imaging-ai_r-103933": {
+    "title": "Summer intern, Digital Signal/ Imaging AI",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Cambridge-Massachusetts-United-States-of-America/Summer-intern--Digital-Signal--Imaging-AI_R-103933",
+    "sig": "jj|intern digital signal imaging ai"
+  },
+  "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/singapore-capitasky/interactive-vision-model-research-intern_r108277": {
+    "title": "Interactive Vision Model Research Intern",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/Singapore-CapitaSky/Interactive-Vision-Model-Research-Intern_R108277",
+    "sig": "tencent|interactive vision model research intern"
+  },
+  "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/singapore-capitasky/large-language-models-research-intern_r108263-1": {
+    "title": "Large Language Models Research Intern",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/Singapore-CapitaSky/Large-Language-Models-Research-Intern_R108263-1",
+    "sig": "tencent|large language models research intern"
+  },
+  "https://jobs.smartrecruiters.com/eurofins/744000155963509": {
+    "title": "Internship in Data Visualization and Interactive Analytics- Sensory & Consumer Research",
+    "url": "https://jobs.smartrecruiters.com/Eurofins/744000155963509",
+    "sig": "eurofins|intern in data visualization and interactive analytics sensory consumer research"
+  },
+  "https://jobs.smartrecruiters.com/eurofins/744000155963050": {
+    "title": "Internship in Data Visualization and Interactive Analytics- Sensory & Consumer Research",
+    "url": "https://jobs.smartrecruiters.com/Eurofins/744000155963050",
+    "sig": "eurofins|intern in data visualization and interactive analytics sensory consumer research"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000155976242": {
+    "title": "Internship in Modeling and Simulation of Heat Pump Systems",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000155976242",
+    "sig": "boschgroup|intern in modeling and simulation of heat pump systems"
+  },
+  "https://icf.wd5.myworkdayjobs.com/en-us/icfexternal_career_site/job/reston-va/xmlname-2027-summer-intern--cloud-engineer--aws-azure---reston--va-_r2603554": {
+    "title": "2027 Summer Intern, Cloud Engineer (AWS/Azure) (Reston, VA)",
+    "url": "https://icf.wd5.myworkdayjobs.com/en-US/icfexternal_career_site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Cloud-Engineer--AWS-Azure---Reston--VA-_R2603554",
+    "sig": "icf|intern cloud engineer aws azure reston va"
+  },
+  "https://ag.wd3.myworkdayjobs.com/en-us/airbus/job/toulouse-area/atr---internship-2027---ai-and-structural-in--service-repairs_jr10450722": {
+    "title": "ATR – Internship 2027 – AI and structural in -service repairs",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Toulouse-Area/ATR---Internship-2027---AI-and-structural-in--service-repairs_JR10450722",
+    "sig": "ag|atr intern ai and structural in service repairs"
+  },
+  "https://fortrea.wd1.myworkdayjobs.com/en-us/fortrea/job/oeiras/clinical-research-intern---portugal_266202-1": {
+    "title": "Clinical Research Intern - Portugal",
+    "url": "https://fortrea.wd1.myworkdayjobs.com/en-US/Fortrea/job/Oeiras/Clinical-Research-Intern---Portugal_266202-1",
+    "sig": "fortrea|clinical research intern portugal"
+  },
+  "https://ing.wd3.myworkdayjobs.com/en-us/icsgblcor/job/act-amsterdam---acanthus/internship-software-engineer_req-10119555": {
+    "title": "INTERNSHIP SOFTWARE ENGINEER",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/ACT-Amsterdam---Acanthus/INTERNSHIP-SOFTWARE-ENGINEER_REQ-10119555",
+    "sig": "ing|intern software engineer"
+  },
+  "https://aba.wd1.myworkdayjobs.com/en-us/aba/job/us-dc-main-office/intern--banking-policy-and-economic-research_r625": {
+    "title": "Intern, Banking Policy and Economic Research",
+    "url": "https://aba.wd1.myworkdayjobs.com/en-US/aba/job/US-DC-Main-Office/Intern--Banking-Policy-and-Economic-Research_R625",
+    "sig": "aba|intern banking policy and economic research"
+  },
+  "https://jobs.ea.com/en_us/careers/jobdetail/software-engineering-intern/216240": {
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineering-Intern/216240",
+    "sig": "electronicarts|software engineer intern"
   }
 }
