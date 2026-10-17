@@ -32350,7 +32350,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-17",
-        "n": 113966,
+        "n": 113892,
         "nz": "2026-10-17"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32384,7 +32384,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-17",
-        "n": 2144,
+        "n": 2136,
         "nz": "2026-10-17"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32810,7 +32810,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-17",
         "n": 1,
-        "nz": "2026-10-17"
+        "nz": "2026-10-17",
+        "err": "404 Client Error: Not Found for url: https://www.headlandstech.com/careers/",
+        "ef": "2026-10-17"
       },
       "Quant SPA: Cumberland (DRW)": {
         "since": "2026-10-01",
@@ -32909,7 +32911,7 @@
         "ats": "greenhouse",
         "token": "robinhood",
         "ok": "2026-10-17",
-        "n": 153,
+        "n": 152,
         "nz": "2026-10-17"
       },
       "Quant/Tech: Scale AI": {
@@ -34514,7 +34516,7 @@
         "ats": "greenhouse",
         "token": "gleanwork",
         "ok": "2026-10-17",
-        "n": 136,
+        "n": 134,
         "nz": "2026-10-17"
       },
       "Startup: Baseten": {
@@ -43883,5 +43885,10 @@
     "title": "Software Engineering Intern",
     "url": "https://physicalreasoning.ai/join/software-engineering-intern/",
     "sig": "physicalreasoning|software engineering intern"
+  },
+  "https://job-boards.greenhouse.io/eulerity/jobs/4722871006": {
+    "title": "AI Intern - Office of CEO & Head of Product",
+    "url": "https://job-boards.greenhouse.io/eulerity/jobs/4722871006",
+    "sig": "eulerity|ai intern office of ceo head of product"
   }
 }
