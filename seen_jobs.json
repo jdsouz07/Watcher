@@ -2864,7 +2864,7 @@
   },
   "https://alliedsolutions.wd501.myworkdayjobs.com/en-us/allied_external/job/carmel-in/software-delivery-management-intern_r-011086": {
     "title": "Software Delivery Management Intern",
-    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/en-US/allied_external/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086",
+    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/en-US/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086",
     "sig": "alliedsolutions|software delivery management intern"
   },
   "https://alliedsolutions.wd501.myworkdayjobs.com/en-us/allied_external/job/st-paul-mn/field-learning---development-intern_r-011079": {
@@ -3681,8 +3681,8 @@
     "sig": "morsecorpcoop|security compliance coop"
   },
   "https://ancestry.wd501.myworkdayjobs.com/en-us/careers/job/draper-utah/software-engineer---observability--co-op_r003434": {
-    "title": "Software Engineer - Observability - Co-op",
-    "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
+    "title": "Software Engineer – Observability, Co-op",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "sig": "ancestry|software engineer observability coop"
   },
   "https://ancestry.wd501.myworkdayjobs.com/en-us/careers/job/remote/applied-ai-science-co-op---embedding-models-and-personalization_r003442": {
@@ -23360,7 +23360,7 @@
   },
   "https://graco.wd501.myworkdayjobs.com/en-us/graco_careers/job/dayton-minnesota-usa-french-lake/software-engineer-intern_r0023556": {
     "title": "Software Engineer Intern",
-    "url": "https://graco.wd501.myworkdayjobs.com/en-US/graco_careers/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556",
+    "url": "https://graco.wd501.myworkdayjobs.com/en-US/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556",
     "sig": "graco|software engineer intern"
   },
   "https://aspentech.wd5.myworkdayjobs.com/en-us/aspentech/job/medina-minnesota/software-development-intern---digital-grid-management---summer-2027_r9456": {
@@ -25595,9 +25595,9 @@
     "sig": "wexinc|software engineering intern"
   },
   "https://nordsonhcm.wd501.myworkdayjobs.com/en-us/nordsoncareers/job/usa---texas---allen/intern---manufacturing-electronics---software-engineering_req52925": {
-    "title": "Intern - Manufacturing Electronics / Software Engineering",
+    "title": "Intern – Manufacturing Electronics / Software Engineering",
     "url": "https://nordsonhcm.wd501.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925",
-    "sig": "nordson|intern manufacturing electronics software engineering"
+    "sig": "nordsonhcm|intern manufacturing electronics software engineering"
   },
   "https://jobs.smartrecruiters.com/nbcuniversal3/744000150587019": {
     "title": "Legal Intern - Universal Networks",
@@ -32021,12 +32021,12 @@
   "https://nordsonhcm.wd501.myworkdayjobs.com/en-us/nordsoncareers/job/usa---minnesota---minneapolis---5900-golden-hills-drive/software-intern_req52945": {
     "title": "Software Intern",
     "url": "https://nordsonhcm.wd501.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Software-Intern_REQ52945",
-    "sig": "nordson|software intern"
+    "sig": "nordsonhcm|software intern"
   },
   "https://nordsonhcm.wd501.myworkdayjobs.com/en-us/nordsoncareers/job/usa---rhode-island---east-providence/intern--software-engineering-_req53006": {
-    "title": "Intern - Software Engineering",
+    "title": "Intern (Software Engineering)",
     "url": "https://nordsonhcm.wd501.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Software-Engineering-_REQ53006",
-    "sig": "nordson|intern software engineering"
+    "sig": "nordsonhcm|intern software engineering"
   },
   "https://costar.wd1.myworkdayjobs.com/en-us/costar_campus/job/sunnyvale-us/embedded-software-engineering-intern_r39950": {
     "title": "Embedded Software Engineering Intern",
@@ -32239,7 +32239,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-17",
-        "n": 815,
+        "n": 814,
         "nz": "2026-10-17"
       },
       "Anthropic": {
@@ -32247,7 +32247,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-17",
-        "n": 656,
+        "n": 655,
         "nz": "2026-10-17"
       },
       "Databricks": {
@@ -32349,7 +32349,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-17",
-        "n": 112778,
+        "n": 113560,
         "nz": "2026-10-17"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32383,7 +32383,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-17",
-        "n": 2132,
+        "n": 2153,
         "nz": "2026-10-17"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -33697,7 +33697,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-17",
         "n": 1,
-        "nz": "2026-10-17"
+        "nz": "2026-10-17",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-17"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
@@ -33718,7 +33720,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-17",
         "n": 1,
-        "nz": "2026-10-17"
+        "nz": "2026-10-17",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-17"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33835,7 +33839,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-17",
         "n": 1,
-        "nz": "2026-10-17"
+        "nz": "2026-10-17",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-17"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34245,7 +34251,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-17",
         "n": 1,
-        "nz": "2026-10-17"
+        "nz": "2026-10-17",
+        "err": "404 Client Error: Not Found for url: https://jobs.kaiko.ai/",
+        "ef": "2026-10-17"
       },
       "Quant SPA: Exegy": {
         "since": "2026-10-01",
@@ -34376,7 +34384,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-17",
         "n": 1,
-        "nz": "2026-10-17"
+        "nz": "2026-10-17",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-17"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
@@ -34442,7 +34452,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-17",
-        "n": 731,
+        "n": 732,
         "nz": "2026-10-17"
       },
       "Startup: Mercury": {
@@ -38490,7 +38500,7 @@
   },
   "https://modmed.wd501.myworkdayjobs.com/en-us/modmed12/job/boca-raton-fl/software-engineering-intern_r5148": {
     "title": "Software Engineering Intern",
-    "url": "https://modmed.wd501.myworkdayjobs.com/en-US/modmed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148",
+    "url": "https://modmed.wd501.myworkdayjobs.com/en-US/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148",
     "sig": "modmed|software engineering intern"
   },
   "https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604": {
