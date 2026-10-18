@@ -955,12 +955,12 @@
   },
   "https://trimble.wd1.myworkdayjobs.com/en-us/trimblecareers/job/us---co-westminster/software-engineering-intern_r57676": {
     "title": "Software Engineering Intern",
-    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
     "sig": "trimble|software engineering intern"
   },
   "https://trimble.wd1.myworkdayjobs.com/en-us/trimblecareers/job/us---co-westminster/hardware-software-testing-intern_r57677-1": {
     "title": "Hardware/Software Testing Intern",
-    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
     "sig": "trimble|hardware software testing intern"
   },
   "https://cadence.wd1.myworkdayjobs.com/en-us/external_careers/job/san-jose/software-intern_r53282-1": {
@@ -32232,7 +32232,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-10-18",
-        "n": 444,
+        "n": 443,
         "nz": "2026-10-18"
       },
       "OpenAI": {
@@ -32350,7 +32350,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-18",
-        "n": 113735,
+        "n": 113289,
         "nz": "2026-10-18"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32384,7 +32384,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-18",
-        "n": 2115,
+        "n": 2130,
         "nz": "2026-10-18"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -34453,7 +34453,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-18",
-        "n": 732,
+        "n": 731,
         "nz": "2026-10-18"
       },
       "Startup: Mercury": {
@@ -36031,7 +36031,7 @@
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-ignite-internships--software-engineering_jr2026958": {
     "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
     "sig": "nvidia|nvidia ignite intern software engineering"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-ignite-internships--hardware-engineering_jr2027047": {
@@ -43909,5 +43909,10 @@
     "title": "Software Engineer Placement Intern",
     "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282",
     "sig": "leonardo|software engineer placement intern"
+  },
+  "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/gb---newcastle/summer-placement-software-engineer_r0033874": {
+    "title": "Software Engineer Intern",
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Newcastle/Summer-Placement-Software-Engineer_R0033874",
+    "sig": "leonardo|software engineer intern"
   }
 }
