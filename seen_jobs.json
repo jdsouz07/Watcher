@@ -32248,7 +32248,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-18",
-        "n": 655,
+        "n": 656,
         "nz": "2026-10-18"
       },
       "Databricks": {
@@ -32350,7 +32350,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-18",
-        "n": 113289,
+        "n": 113195,
         "nz": "2026-10-18"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32384,7 +32384,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-18",
-        "n": 2130,
+        "n": 2129,
         "nz": "2026-10-18"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -33217,7 +33217,7 @@
         "ats": "greenhouse",
         "token": "falconx",
         "ok": "2026-10-18",
-        "n": 19,
+        "n": 18,
         "nz": "2026-10-18"
       },
       "Quant: Anchorage Digital": {
