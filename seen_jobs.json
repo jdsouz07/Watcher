@@ -32240,7 +32240,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-18",
-        "n": 814,
+        "n": 813,
         "nz": "2026-10-18"
       },
       "Anthropic": {
@@ -32287,7 +32287,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-10-18",
-        "n": 633,
+        "n": 641,
         "nz": "2026-10-18"
       },
       "Page: Lockheed Martin (search)": {
@@ -32350,7 +32350,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-18",
-        "n": 113805,
+        "n": 113735,
         "nz": "2026-10-18"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32384,7 +32384,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-18",
-        "n": 2136,
+        "n": 2115,
         "nz": "2026-10-18"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -43899,5 +43899,15 @@
   "health::2026-W42": {
     "title": "health report checked",
     "url": ""
+  },
+  "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/gb---edinburgh/summer-placement-software-engineer_r0033869-1": {
+    "title": "Software Engineer Intern",
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Edinburgh/Summer-Placement-Software-Engineer_R0033869-1",
+    "sig": "leonardo|software engineer intern"
+  },
+  "https://leonardocompany.wd3.myworkdayjobs.com/leonardocareersite/job/gb---basildon/summer-placement-software-engineer_r0034282": {
+    "title": "Software Engineer Placement Intern",
+    "url": "https://leonardocompany.wd3.myworkdayjobs.com/LeonardoCareerSite/job/GB---Basildon/Summer-Placement-Software-Engineer_R0034282",
+    "sig": "leonardo|software engineer placement intern"
   }
 }
