@@ -32271,7 +32271,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-18",
-        "n": 2536,
+        "n": 2535,
         "nz": "2026-10-18"
       },
       "Palantir": {
@@ -32350,7 +32350,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-18",
-        "n": 113195,
+        "n": 112835,
         "nz": "2026-10-18"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32384,7 +32384,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-18",
-        "n": 2129,
+        "n": 2113,
         "nz": "2026-10-18"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -33402,7 +33402,9 @@
         "token": "kpler",
         "ok": "2026-10-18",
         "n": 99,
-        "nz": "2026-10-18"
+        "nz": "2026-10-18",
+        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
+        "ef": "2026-10-18"
       },
       "Quant: Onyx Capital Group": {
         "since": "2026-10-01",
@@ -33432,7 +33434,7 @@
         "ats": "greenhouse",
         "token": "clearstreet",
         "ok": "2026-10-18",
-        "n": 42,
+        "n": 45,
         "nz": "2026-10-18"
       },
       "Quant: Chimera Securities": {
@@ -34421,7 +34423,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-10-18",
-        "n": 435,
+        "n": 433,
         "nz": "2026-10-18"
       },
       "Cyber: Datadog": {
@@ -36031,7 +36033,7 @@
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-ignite-internships--software-engineering_jr2026958": {
     "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
     "sig": "nvidia|nvidia ignite intern software engineering"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-ignite-internships--hardware-engineering_jr2027047": {
@@ -36581,7 +36583,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "sig": "cybercloudflare|software engineer intern"
+    "sig": "cloudflare|software engineer intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
     "title": "UX Design Research Intern",
@@ -36721,7 +36723,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sig": "cloudflare|software engineer intern"
+    "sig": "cybercloudflare|software engineer intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--data-center-compute-software-tools--rdss-intern-_jr2025645": {
     "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
@@ -43986,5 +43988,10 @@
   "rss::c6e75b900ef76bd4": {
     "title": "Quant Roles from the perspective of a math enthusiast",
     "url": "https://www.reddit.com/r/quant/comments/1x53d26/quant_roles_from_the_perspective_of_a_math/"
+  },
+  "https://hntb.wd5.myworkdayjobs.com/en-us/hntb_careers/job/austin-tx/intern---ai-business-process-developer--summer-2027-_r-31865-1": {
+    "title": "Intern - AI Business Process Developer - Summer 2027",
+    "url": "https://hntb.wd5.myworkdayjobs.com/en-US/hntb_careers/job/Austin-TX/Intern---AI-Business-Process-Developer--Summer-2027-_R-31865-1",
+    "sig": "hntb|intern ai business process developer"
   }
 }
