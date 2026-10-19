@@ -32159,7 +32159,7 @@
         "ats": "greenhouse",
         "token": "optiverus",
         "ok": "2026-10-19",
-        "n": 165,
+        "n": 168,
         "nz": "2026-10-19"
       },
       "Optiver (Campus)": {
@@ -32233,7 +32233,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-10-19",
-        "n": 443,
+        "n": 442,
         "nz": "2026-10-19"
       },
       "OpenAI": {
@@ -32249,7 +32249,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-19",
-        "n": 657,
+        "n": 659,
         "nz": "2026-10-19"
       },
       "Databricks": {
@@ -32272,7 +32272,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-19",
-        "n": 2532,
+        "n": 2533,
         "nz": "2026-10-19"
       },
       "Palantir": {
@@ -32288,7 +32288,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-10-19",
-        "n": 641,
+        "n": 645,
         "nz": "2026-10-19"
       },
       "Page: Lockheed Martin (search)": {
@@ -32336,7 +32336,7 @@
         "ats": "greenhouse",
         "token": "flowtraders",
         "ok": "2026-10-19",
-        "n": 47,
+        "n": 45,
         "nz": "2026-10-19"
       },
       "IMC Trading": {
@@ -32351,7 +32351,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-19",
-        "n": 112341,
+        "n": 110842,
         "nz": "2026-10-19"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32385,7 +32385,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-19",
-        "n": 2128,
+        "n": 2122,
         "nz": "2026-10-19"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32481,7 +32481,7 @@
         "ats": "greenhouse",
         "token": "drweng",
         "ok": "2026-10-19",
-        "n": 166,
+        "n": 167,
         "nz": "2026-10-19"
       },
       "Quant: DV Trading": {
@@ -32537,7 +32537,7 @@
         "ats": "greenhouse",
         "token": "janestreet",
         "ok": "2026-10-19",
-        "n": 222,
+        "n": 221,
         "nz": "2026-10-19"
       },
       "Quant: Jump Trading": {
@@ -32561,7 +32561,7 @@
         "ats": "greenhouse",
         "token": "mangroup",
         "ok": "2026-10-19",
-        "n": 57,
+        "n": 58,
         "nz": "2026-10-19"
       },
       "Quant: Marshall Wace": {
@@ -32600,7 +32600,7 @@
         "ats": "greenhouse",
         "token": "point72",
         "ok": "2026-10-19",
-        "n": 221,
+        "n": 216,
         "nz": "2026-10-19"
       },
       "Quant: Qube RT": {
@@ -32608,7 +32608,7 @@
         "ats": "greenhouse",
         "token": "quberesearchandtechnologies",
         "ok": "2026-10-19",
-        "n": 199,
+        "n": 201,
         "nz": "2026-10-19"
       },
       "Quant: Schonfeld": {
@@ -32624,7 +32624,7 @@
         "ats": "greenhouse",
         "token": "squarepointcapital",
         "ok": "2026-10-19",
-        "n": 92,
+        "n": 91,
         "nz": "2026-10-19"
       },
       "Quant: Tower Research": {
@@ -33148,7 +33148,7 @@
         "ats": "greenhouse",
         "token": "bluecrestcapitalmanagement",
         "ok": "2026-10-19",
-        "n": 6,
+        "n": 7,
         "nz": "2026-10-19"
       },
       "Quant: Capital Fund Management (CFM)": {
@@ -33179,7 +33179,7 @@
         "ats": "lever",
         "token": "wintermute-trading",
         "ok": "2026-10-19",
-        "n": 18,
+        "n": 19,
         "nz": "2026-10-19"
       },
       "Quant: GSR": {
@@ -33701,7 +33701,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-19",
         "n": 1,
-        "nz": "2026-10-19"
+        "nz": "2026-10-19",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-19"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
@@ -33722,7 +33724,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-19",
         "n": 1,
-        "nz": "2026-10-19"
+        "nz": "2026-10-19",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-19"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33839,7 +33843,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-19",
         "n": 1,
-        "nz": "2026-10-19"
+        "nz": "2026-10-19",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-19"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34380,7 +34386,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-19",
         "n": 1,
-        "nz": "2026-10-19"
+        "nz": "2026-10-19",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-19"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
@@ -34422,7 +34430,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-10-19",
-        "n": 433,
+        "n": 434,
         "nz": "2026-10-19"
       },
       "Startup: Figma": {
@@ -34430,7 +34438,7 @@
         "ats": "greenhouse",
         "token": "figma",
         "ok": "2026-10-19",
-        "n": 139,
+        "n": 140,
         "nz": "2026-10-19"
       },
       "Startup: Discord": {
@@ -34446,7 +34454,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-19",
-        "n": 729,
+        "n": 725,
         "nz": "2026-10-19"
       },
       "Startup: Mercury": {
@@ -34493,7 +34501,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-10-19",
-        "n": 152,
+        "n": 155,
         "nz": "2026-10-19"
       },
       "Startup: Harvey": {
@@ -34501,7 +34509,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-10-19",
-        "n": 344,
+        "n": 343,
         "nz": "2026-10-19"
       },
       "Startup: Glean": {
@@ -36024,7 +36032,7 @@
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-ignite-internships--software-engineering_jr2026958": {
     "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
     "sig": "nvidia|nvidia ignite intern software engineering"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-ignite-internships--hardware-engineering_jr2027047": {
@@ -44088,5 +44096,140 @@
     "title": "Intern, Infrastructure (Summer 2027)",
     "url": "https://imcoinvest.wd3.myworkdayjobs.com/en-US/IMCO/job/Toronto---16-York-St/Intern--Infrastructure--Summer-2027-_R26-154",
     "sig": "imcoinvest|intern infrastructure"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/china-shanghai/ai-developer-intern---interconnect-hardware-frontend--2027_jr2027468": {
+    "title": "AI Developer Intern — Interconnect Hardware Frontend, 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/AI-Developer-Intern---Interconnect-Hardware-Frontend--2027_JR2027468",
+    "sig": "nvidia|ai developer intern interconnect hardware frontend"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/china-shanghai/software-engineer-intern--robotics---2027_jr2027630": {
+    "title": "Software Engineer Intern, Robotics - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/Software-Engineer-Intern--Robotics---2027_JR2027630",
+    "sig": "nvidia|software engineer intern robotics"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/china-shanghai/asic-top-floorplan-intern--2027_jr2027469": {
+    "title": "ASIC TOP Floorplan Intern, 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-TOP-Floorplan-Intern--2027_JR2027469",
+    "sig": "nvidia|asic top floorplan intern"
+  },
+  "https://analogdevices.wd1.myworkdayjobs.com/en-us/external/job/romania-cluj-napoca-decembrie/embedded-software-engineering-intern_r267119-1": {
+    "title": "Embedded Software Engineering Intern",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/Romania-Cluj-Napoca-Decembrie/Embedded-Software-Engineering-Intern_R267119-1",
+    "sig": "analogdevices|embedded software engineering intern"
+  },
+  "https://analogdevices.wd1.myworkdayjobs.com/en-us/external/job/united-kingdom-newbury/analog-mixed-signal-design-intern_r267108": {
+    "title": "Analog/Mixed Signal Design Intern",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/United-Kingdom-Newbury/Analog-Mixed-Signal-Design-Intern_R267108",
+    "sig": "analogdevices|analog mixed signal design intern"
+  },
+  "https://rrhs.wd5.myworkdayjobs.com/en-us/rrh/job/riedman---remote/rit-co-op_req_244351-1": {
+    "title": "RIT Co-op: Security Engineering",
+    "url": "https://rrhs.wd5.myworkdayjobs.com/en-US/RRH/job/Riedman---Remote/RIT-Co-op_REQ_244351-1",
+    "sig": "rrhs|rit coop security engineering"
+  },
+  "https://cadence.wd1.myworkdayjobs.com/en-us/univ_careers/job/valbonne-sophia/intern-mixed-signal-ip_r56280": {
+    "title": "Intern Mixed Signal IP",
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/Univ_Careers/job/VALBONNE-Sophia/Intern-Mixed-Signal-IP_R56280",
+    "sig": "cadence|intern mixed signal ip"
+  },
+  "https://kiongroup.wd3.myworkdayjobs.com/en-us/kiongroup/job/hamburg-germany/student-intern-robotics-and-control_jr-0095377-1": {
+    "title": "Student Intern Robotics and Control",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Hamburg-Germany/Student-Intern-Robotics-and-Control_JR-0095377-1",
+    "sig": "kiongroup|student intern robotics and control"
+  },
+  "https://hp.wd5.myworkdayjobs.com/en-us/exteu-ac-careersite/job/sant-cugat-del-valles-barcelona-spain/data-quality-systems-intern_uni4155": {
+    "title": "Data Quality Systems Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Quality-Systems-Intern_UNI4155",
+    "sig": "hp|data quality systems intern"
+  },
+  "https://hp.wd5.myworkdayjobs.com/en-us/exteu-ac-careersite/job/sant-cugat-del-valles-barcelona-spain/data-analytics---automation-intern_uni4151-1": {
+    "title": "Data Analytics & Automation Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/EXTEU-AC-CareerSite/job/Sant-Cugat-del-Valles-Barcelona-Spain/Data-Analytics---Automation-Intern_UNI4151-1",
+    "sig": "hp|data analytics automation intern"
+  },
+  "https://slihrms.wd3.myworkdayjobs.com/en-us/careers/job/atkinsralis---corporate-office-bangalore/data-science-intern_r-165210": {
+    "title": "Data Science Intern",
+    "url": "https://slihrms.wd3.myworkdayjobs.com/en-US/careers/job/AtkinsRalis---Corporate-Office-Bangalore/Data-Science-Intern_R-165210",
+    "sig": "slihrms|data science intern"
+  },
+  "https://philips.wd3.myworkdayjobs.com/en-us/jobs-and-careers/job/shanghai/it-ai-solution-analyst-intern_593976-1": {
+    "title": "IT AI Solution Analyst Intern",
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Shanghai/IT-AI-Solution-Analyst-Intern_593976-1",
+    "sig": "philips|it ai solution analyst intern"
+  },
+  "https://autodesk.wd1.myworkdayjobs.com/en-us/ext/job/birmingham-gbr/intern--software-engineer_26wd101472-1": {
+    "title": "Intern, Software Engineer",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Birmingham-GBR/Intern--Software-Engineer_26WD101472-1",
+    "sig": "autodesk|intern software engineer"
+  },
+  "https://autodesk.wd1.myworkdayjobs.com/en-us/ext/job/united-kingdom---remote/intern--research---context-and-knowledge-systems-for-ai_26wd101097-2": {
+    "title": "Intern, Research - Context and Knowledge Systems for AI",
+    "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/United-Kingdom---Remote/Intern--Research---Context-and-Knowledge-Systems-for-AI_26WD101097-2",
+    "sig": "autodesk|intern research context and knowledge systems for ai"
+  },
+  "https://jobs.smartrecruiters.com/experian/744000156270156": {
+    "title": "AI Developer Intern",
+    "url": "https://jobs.smartrecruiters.com/Experian/744000156270156",
+    "sig": "experian|ai developer intern"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-us/external_experienced/job/basel/xmlname-2027-intern--software-engineer_r173015": {
+    "title": "2027 Intern- Software Engineer",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Basel/XMLNAME-2027-Intern--Software-Engineer_R173015",
+    "sig": "adobe|intern software engineer"
+  },
+  "https://adobe.wd5.myworkdayjobs.com/en-us/external_experienced/job/bucharest/xmlname-2027-intern--software-engineer_r173018": {
+    "title": "2027 Intern- Software Engineer",
+    "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018",
+    "sig": "adobe|intern software engineer"
+  },
+  "https://sanofi.wd3.myworkdayjobs.com/en-us/sanoficareers/job/beijing/cv-t---commercial-intern---_r2874516": {
+    "title": "CV&T - Commercial Intern - 济南",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Beijing/CV-T---Commercial-Intern---_R2874516",
+    "sig": "sanofi|cv t commercial intern"
+  },
+  "https://mmc.wd1.myworkdayjobs.com/en-us/mmc/job/gurugram---good-earth/ai-engineer-intern_r_365556": {
+    "title": "AI Engineer Intern",
+    "url": "https://mmc.wd1.myworkdayjobs.com/en-US/mmc/job/Gurugram---Good-Earth/AI-Engineer-Intern_R_365556",
+    "sig": "mmc|ai engineer intern"
+  },
+  "https://visa.wd5.myworkdayjobs.com/en-us/visa/job/gb---london-united-kingdom/vca-intern--ids-_ref086121w-1": {
+    "title": "Data Science Intern",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/GB---London-United-Kingdom/VCA-Intern--IDS-_REF086121W-1",
+    "sig": "visa|data science intern"
+  },
+  "https://ing.wd3.myworkdayjobs.com/en-us/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---3_req-10123437": {
+    "title": "Cybersecurity Intern - 3",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---3_REQ-10123437",
+    "sig": "ing|cybersecurity intern 3"
+  },
+  "https://ing.wd3.myworkdayjobs.com/en-us/icsgblcor/job/bruxelles-avenue-marnix-ing/cybersecurity-intern---2_req-10123439": {
+    "title": "Cybersecurity Intern - 2",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Cybersecurity-Intern---2_REQ-10123439",
+    "sig": "ing|cybersecurity intern 2"
+  },
+  "https://ing.wd3.myworkdayjobs.com/en-us/icsgblcor/job/bruxelles-avenue-marnix-ing/contingent-worker_req-10123442": {
+    "title": "Cybersecurity Intern - 1",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/Bruxelles-Avenue-Marnix-ING/Contingent-Worker_REQ-10123442",
+    "sig": "ing|cybersecurity intern 1"
+  },
+  "https://jobs.smartrecruiters.com/paconsulting/744000156271319": {
+    "title": "2027 Summer Internship - Digital (Digital Trust & Cyber Security) - London",
+    "url": "https://jobs.smartrecruiters.com/PAConsulting/744000156271319",
+    "sig": "paconsulting|intern digital digital trust cyber security london"
+  },
+  "https://jobs.smartrecruiters.com/sia/744000156257339": {
+    "title": "Final year internship - DevOps / Platform Engineer",
+    "url": "https://jobs.smartrecruiters.com/Sia/744000156257339",
+    "sig": "sia|final year intern devops platform engineer"
+  },
+  "https://jj.wd5.myworkdayjobs.com/jj/job/cincinnati-ohio-united-states-of-america/quality-data-science-co-op---summer-2027_r-103629": {
+    "title": "Quality Data Science Co-op",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629",
+    "sig": "johnsonjohnson|quality data science coop"
+  },
+  "https://jobs.zs.com/jobs/68243?icims=1": {
+    "title": "Decision Analytics Associate Intern",
+    "url": "https://jobs.zs.com/jobs/68243?icims=1",
+    "sig": "zs|decision analytics associate intern"
   }
 }
