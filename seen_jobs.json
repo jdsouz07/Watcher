@@ -32159,7 +32159,7 @@
         "ats": "greenhouse",
         "token": "wehrtyou",
         "ok": "2026-10-20",
-        "n": 86,
+        "n": 87,
         "nz": "2026-10-20"
       },
       "Optiver (US)": {
@@ -32241,7 +32241,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-10-20",
-        "n": 443,
+        "n": 440,
         "nz": "2026-10-20"
       },
       "OpenAI": {
@@ -32249,7 +32249,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-20",
-        "n": 808,
+        "n": 806,
         "nz": "2026-10-20"
       },
       "Anthropic": {
@@ -32257,7 +32257,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-20",
-        "n": 667,
+        "n": 666,
         "nz": "2026-10-20"
       },
       "Databricks": {
@@ -32280,7 +32280,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-20",
-        "n": 2529,
+        "n": 2526,
         "nz": "2026-10-20"
       },
       "Palantir": {
@@ -32337,7 +32337,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-20",
         "n": 1,
-        "nz": "2026-10-20"
+        "nz": "2026-10-20",
+        "err": "HTTPSConnectionPool(host='careers.gatech.edu', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(h",
+        "ef": "2026-10-20"
       },
       "Flow Traders": {
         "since": "2026-10-01",
@@ -32359,7 +32361,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-20",
-        "n": 112865,
+        "n": 112342,
         "nz": "2026-10-20"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32393,7 +32395,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-20",
-        "n": 2157,
+        "n": 2147,
         "nz": "2026-10-20"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32569,7 +32571,7 @@
         "ats": "greenhouse",
         "token": "mangroup",
         "ok": "2026-10-20",
-        "n": 58,
+        "n": 56,
         "nz": "2026-10-20"
       },
       "Quant: Marshall Wace": {
@@ -32640,7 +32642,7 @@
         "ats": "greenhouse",
         "token": "towerresearchcapital",
         "ok": "2026-10-20",
-        "n": 97,
+        "n": 98,
         "nz": "2026-10-20"
       },
       "Quant: Vatic Labs": {
@@ -32873,7 +32875,7 @@
         "ats": "greenhouse",
         "token": "galaxydigitalservices",
         "ok": "2026-10-20",
-        "n": 42,
+        "n": 43,
         "nz": "2026-10-20"
       },
       "Quant/Tech: B2C2": {
@@ -32928,7 +32930,7 @@
         "ats": "greenhouse",
         "token": "scaleai",
         "ok": "2026-10-20",
-        "n": 182,
+        "n": 183,
         "nz": "2026-10-20"
       },
       "Quant/Tech: Anyscale": {
@@ -32976,7 +32978,7 @@
         "ats": "greenhouse",
         "token": "vercel",
         "ok": "2026-10-20",
-        "n": 93,
+        "n": 94,
         "nz": "2026-10-20"
       },
       "Firm SPA: Goldman Sachs": {
@@ -33148,7 +33150,7 @@
         "ats": "workable",
         "token": "capula-investment-management-ltd",
         "ok": "2026-10-20",
-        "n": 15,
+        "n": 16,
         "nz": "2026-10-20"
       },
       "Quant: BlueCrest Capital Management": {
@@ -34430,7 +34432,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-10-20",
-        "n": 436,
+        "n": 437,
         "nz": "2026-10-20"
       },
       "Cyber: Datadog": {
@@ -34438,7 +34440,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-10-20",
-        "n": 431,
+        "n": 432,
         "nz": "2026-10-20"
       },
       "Startup: Figma": {
@@ -34462,7 +34464,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-20",
-        "n": 724,
+        "n": 728,
         "nz": "2026-10-20"
       },
       "Startup: Mercury": {
@@ -34654,7 +34656,7 @@
         "ats": "greenhouse",
         "token": "flyzipline",
         "ok": "2026-10-20",
-        "n": 344,
+        "n": 348,
         "nz": "2026-10-20"
       },
       "Startup: Physical Intelligence": {
@@ -34775,8 +34777,8 @@
   },
   "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/chicago-il/summer-2027-intern-computer-science-and-software-engineering_r-0000033637": {
     "title": "Summer 2027 Intern-Computer Science and Software Engineering",
-    "url": "https://rb.wd5.myworkdayjobs.com/en-US/frs/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637",
-    "sig": "federalreserve|intern computer science and software engineering"
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637",
+    "sig": "rb|intern computer science and software engineering"
   },
   "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/chicago-il/summer-2027-intern--phd-data-science-or-computer-science_r-0000033634": {
     "title": "Data Science Intern",
@@ -43796,9 +43798,9 @@
     "sig": "snapchat|generative media research intern"
   },
   "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---defense-lab-modeling-and-simulation_jr-202621729": {
-    "title": "Research and Development Intern, Defense Lab Modeling and Simulation",
+    "title": "2027 Summer Intern - Research and Development - Defense Lab Modeling and Simulation",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Modeling-and-Simulation_JR-202621729",
-    "sig": "generalmotors|research and development intern defense lab modeling and simulation"
+    "sig": "generalmotors|intern research and development defense lab modeling and simulation"
   },
   "https://hpe.wd5.myworkdayjobs.com/en-us/jobsathpe/job/all-tennessee-united-states-of-america/hpc-ai-system-admin-hw-sw-service-engineer-intern_1213404": {
     "title": "HPC/AI System Admin HW/SW Service Engineer Intern",
@@ -43866,9 +43868,9 @@
     "sig": "generalmotors|ai ml engineer intern capacity performance engineering autonomous vehicles"
   },
   "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/sunnyvale-california-united-states-of-america/xmlname-2027-intern---ai-ml-engineer--autonomous-vehicle-ml-infrastructure_jr-202622410": {
-    "title": "AI/ML Engineer Intern, Autonomous Vehicle ML Infrastructure",
+    "title": "2027 Intern - AI/ML Engineer, Autonomous Vehicle ML Infrastructure",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Intern---AI-ML-Engineer--Autonomous-Vehicle-ML-Infrastructure_JR-202622410",
-    "sig": "generalmotors|ai ml engineer intern autonomous vehicle ml infrastructure"
+    "sig": "generalmotors|intern ai ml engineer autonomous vehicle ml infrastructure"
   },
   "https://intel.wd1.myworkdayjobs.com/en-us/external/job/canada-toronto/compiler-engineering-intern_jr0287934": {
     "title": "Compiler Engineering Intern",
@@ -44769,5 +44771,80 @@
     "title": "R&D Software Engineer Intern",
     "url": "https://bostonscientific.eightfold.ai/careers/job/563602813563514",
     "sig": "bostonscientific|r d software engineer intern"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-tx-richardson-c17--1717-cityline-dr--cityline-c17/software-engineer-co-op--remote-_01883545": {
+    "title": "Software Engineer Co-op (Remote)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineer-Co-op--Remote-_01883545",
+    "sig": "rtx|software engineer coop remote"
+  },
+  "https://motorolasolutions.wd5.myworkdayjobs.com/en-us/careers/job/ho-chi-minh-vietnam/software-engineer-intern_r69883": {
+    "title": "Software Engineer Intern",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Ho-Chi-Minh-Vietnam/Software-Engineer-Intern_R69883",
+    "sig": "motorolasolutions|software engineer intern"
+  },
+  "https://cadence.wd1.myworkdayjobs.com/en-us/univ_careers/job/valbonne-sophia/intern--ai-for-silicon-test-data-analytics---failure-analysis_r56810": {
+    "title": "Intern: AI for Silicon Test Data Analytics & Failure Analysis",
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/Univ_Careers/job/VALBONNE-Sophia/Intern--AI-for-Silicon-Test-Data-Analytics---Failure-Analysis_R56810",
+    "sig": "cadence|intern ai for silicon test data analytics failure analysis"
+  },
+  "https://cadence.wd1.myworkdayjobs.com/en-us/univ_careers/job/valbonne-sophia/intern--ai-for-smarter-ate-test-development---debug_r56811": {
+    "title": "Intern: AI for Smarter ATE Test Development & Debug",
+    "url": "https://cadence.wd1.myworkdayjobs.com/en-US/Univ_Careers/job/VALBONNE-Sophia/Intern--AI-for-Smarter-ATE-Test-Development---Debug_R56811",
+    "sig": "cadence|intern ai for smarter ate test development debug"
+  },
+  "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/united-kingdom-london/generative-ai-research-intern_r108261-1": {
+    "title": "Generative AI Research Intern",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/United-Kingdom-London/Generative-AI-Research-Intern_R108261-1",
+    "sig": "tencent|generative ai research intern"
+  },
+  "https://nvent.wd5.myworkdayjobs.com/en-us/nvent/job/prejmer-ro/business-intelligence---data-analytics-intern--1-year_r23586": {
+    "title": "Business Intelligence & Data Analytics Intern- 1 year",
+    "url": "https://nvent.wd5.myworkdayjobs.com/en-US/nVent/job/Prejmer-RO/Business-Intelligence---Data-Analytics-Intern--1-year_R23586",
+    "sig": "nvent|business intelligence data analytics intern 1 year"
+  },
+  "https://vanderlande.wd3.myworkdayjobs.com/en-us/careers/job/veghel-netherlands/internship--building-the-tax-department-of-the-future--automated-indirect-tax---global-vat-analytics_jr38388": {
+    "title": "Internship: Building the tax department of the future, automated indirect tax & global VAT analytics",
+    "url": "https://vanderlande.wd3.myworkdayjobs.com/en-US/careers/job/Veghel-Netherlands/Internship--Building-the-tax-department-of-the-future--automated-indirect-tax---global-VAT-analytics_JR38388",
+    "sig": "vanderlande|intern building the tax department of the future automated indirect tax global vat analytics"
+  },
+  "https://heinz.wd1.myworkdayjobs.com/en-us/kraftheinz_careers_ur/job/nijmegen/process-development-and-design-intern_r-107780-2": {
+    "title": "Process Development and Design Intern",
+    "url": "https://heinz.wd1.myworkdayjobs.com/en-US/KraftHeinz_Careers_UR/job/Nijmegen/Process-Development-and-Design-Intern_R-107780-2",
+    "sig": "heinz|process development and design intern"
+  },
+  "https://ing.wd3.myworkdayjobs.com/en-us/icsgblcor/job/singapore/intern--rates-trading_req-10123517": {
+    "title": "Intern, Rates Trading",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/Singapore/Intern--Rates-Trading_REQ-10123517",
+    "sig": "ing|intern rates trading"
+  },
+  "https://verizon.wd12.myworkdayjobs.com/en-us/verizon-careers/job/basking-ridge-new-jersey/basking-ridge--nj--v-teamer-for-a-day--verizon-consumer-group--call-routing-optimization-engineering-summer-2027-internship_r-1102394": {
+    "title": "Basking Ridge, NJ: V Teamer for a Day: Verizon Consumer Group: Call Routing Optimization Engineering Summer 2027 Internship",
+    "url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394",
+    "sig": "verizon|basking ridge nj v teamer for a day verizon consumer group call routing optimization engineering intern"
+  },
+  "https://verizon.wd12.myworkdayjobs.com/en-us/verizon-careers/job/basking-ridge-new-jersey/basking-ridge--nj--vteamer-for-a-day--verizon-consumer-group--data-science-summer-2027-internship_r-1102417": {
+    "title": "Basking Ridge, NJ: VTeamer for a Day: Verizon Consumer Group: Data Science Summer 2027 Internship",
+    "url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417",
+    "sig": "verizon|basking ridge nj vteamer for a day verizon consumer group data science intern"
+  },
+  "https://verizon.wd12.myworkdayjobs.com/en-us/verizon-careers/job/basking-ridge-new-jersey/verizon-consumer-group--call-routing-optimization-engineering-summer-2027-internship_r-1102398": {
+    "title": "Verizon Consumer Group: Call Routing Optimization Engineering Summer 2027 Internship",
+    "url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102398",
+    "sig": "verizon|verizon consumer group call routing optimization engineering intern"
+  },
+  "https://verizon.wd12.myworkdayjobs.com/en-us/verizon-careers/job/basking-ridge-new-jersey/verizon-consumer-group--data-science-summer-2027-internship_r-1102419": {
+    "title": "Verizon Consumer Group: Data Science Summer 2027 Internship",
+    "url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419",
+    "sig": "verizon|verizon consumer group data science intern"
+  },
+  "https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply": {
+    "title": "PHY Software Engineer Intern",
+    "url": "https://jobs.lever.co/parallelwireless/d30be600-d1cd-4579-9875-ac70c72a4426/apply",
+    "sig": "parallelwireless|phy software engineer intern"
+  },
+  "https://jpmc.fa.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/210801790": {
+    "title": "Machine Learning Summer Associate Intern - NLP",
+    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210801790",
+    "sig": "jpmorganchase|machine learning associate intern nlp"
   }
 }
