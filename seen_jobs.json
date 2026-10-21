@@ -7344,14 +7344,14 @@
     "url": "https://job-boards.greenhouse.io/engelhart/jobs/8164557"
   },
   "https://www.trlm.com/apply/5076067007?gh_jid=5076067007": {
-    "title": "Summer 2027 Equity Trader Internship",
+    "title": "Equity Trader Intern",
     "url": "https://www.trlm.com/apply/5076067007?gh_jid=5076067007",
-    "sig": "quanttrilliumtrading|equity trader intern"
+    "sig": "trillium|equity trader intern"
   },
   "https://www.trlm.com/apply/5076017007?gh_jid=5076017007": {
-    "title": "Summer 2027 Equity Trader Internship",
+    "title": "Equity Trader Intern",
     "url": "https://www.trlm.com/apply/5076017007?gh_jid=5076017007",
-    "sig": "quanttrilliumtrading|equity trader intern"
+    "sig": "trillium|equity trader intern"
   },
   "https://www.trlm.com/apply/5076003007?gh_jid=5076003007": {
     "title": "Summer 2027 Equity Trader Internship",
@@ -19996,7 +19996,7 @@
   "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911": {
     "title": "Summer 2027 Internship - Computational and Software Engineering",
     "url": "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911",
-    "sig": "xcimer|intern computational and software engineering"
+    "sig": "xcimerenergy|intern computational and software engineering"
   },
   "https://career-schwab.icims.com/jobs/126227/job?mobile=true&needsredirect=false": {
     "title": "Data Engineering Intern - Data Engineering",
@@ -28691,12 +28691,12 @@
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/us-california-palo-alto/cloud-media-services-intern_r107794": {
     "title": "Cloud Media Services Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R107794",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R107794",
     "sig": "tencent|cloud media services intern"
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/us-california-palo-alto/cloud-media-services-intern_r108186": {
     "title": "Cloud Media Services Intern",
-    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/tencent_careers/job/US-California-Palo-Alto/Cloud-Media-Services-Intern_R108186",
     "sig": "tencent|cloud media services intern"
   },
   "https://gehc.wd5.myworkdayjobs.com/en-us/gehc_externalsite/job/oh05-01-beachwood-science-park-drive/software-engineering-intern---workflow-platform_r4046886-1": {
@@ -32248,7 +32248,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-10-21",
-        "n": 444,
+        "n": 442,
         "nz": "2026-10-21"
       },
       "OpenAI": {
@@ -32264,7 +32264,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-21",
-        "n": 675,
+        "n": 676,
         "nz": "2026-10-21"
       },
       "Databricks": {
@@ -32287,7 +32287,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-21",
-        "n": 2529,
+        "n": 2528,
         "nz": "2026-10-21"
       },
       "Palantir": {
@@ -32303,7 +32303,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-10-21",
-        "n": 656,
+        "n": 654,
         "nz": "2026-10-21"
       },
       "Page: Lockheed Martin (search)": {
@@ -32351,7 +32351,7 @@
         "ats": "greenhouse",
         "token": "flowtraders",
         "ok": "2026-10-21",
-        "n": 44,
+        "n": 46,
         "nz": "2026-10-21"
       },
       "IMC Trading": {
@@ -32366,7 +32366,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-21",
-        "n": 113090,
+        "n": 112762,
         "nz": "2026-10-21"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32552,7 +32552,7 @@
         "ats": "greenhouse",
         "token": "janestreet",
         "ok": "2026-10-21",
-        "n": 222,
+        "n": 223,
         "nz": "2026-10-21"
       },
       "Quant: Jump Trading": {
@@ -32615,7 +32615,7 @@
         "ats": "greenhouse",
         "token": "point72",
         "ok": "2026-10-21",
-        "n": 215,
+        "n": 216,
         "nz": "2026-10-21"
       },
       "Quant: Qube RT": {
@@ -32959,7 +32959,7 @@
         "ats": "ashby",
         "token": "cohere",
         "ok": "2026-10-21",
-        "n": 116,
+        "n": 115,
         "nz": "2026-10-21"
       },
       "Startup: Sierra": {
@@ -33069,7 +33069,7 @@
         "ats": "greenhouse",
         "token": "mavensecuritiesholdingltd",
         "ok": "2026-10-21",
-        "n": 39,
+        "n": 38,
         "nz": "2026-10-21"
       },
       "Quant: Eagle Seven": {
@@ -33240,11 +33240,9 @@
         "since": "2026-10-01",
         "ats": "lever",
         "token": "anchorage",
-        "ok": "2026-10-20",
+        "ok": "2026-10-21",
         "n": 24,
-        "nz": "2026-10-20",
-        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
-        "ef": "2026-10-21"
+        "nz": "2026-10-21"
       },
       "Quant: Auros": {
         "since": "2026-10-01",
@@ -33339,7 +33337,9 @@
         "ats": "lever",
         "token": "tgsmc",
         "ok": "2026-10-21",
-        "n": 0
+        "n": 0,
+        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
+        "ef": "2026-10-21"
       },
       "Quant: Voleon Group": {
         "since": "2026-10-01",
@@ -33561,7 +33561,7 @@
         "ats": "workable",
         "token": "bestex-research",
         "ok": "2026-10-21",
-        "n": 14,
+        "n": 13,
         "nz": "2026-10-21"
       },
       "Quant SPA: XR Trading": {
@@ -34439,7 +34439,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-10-21",
-        "n": 439,
+        "n": 440,
         "nz": "2026-10-21"
       },
       "Cyber: Datadog": {
@@ -34510,7 +34510,7 @@
         "ats": "ashby",
         "token": "perplexity",
         "ok": "2026-10-21",
-        "n": 133,
+        "n": 134,
         "nz": "2026-10-21"
       },
       "Startup: ElevenLabs": {
@@ -34526,7 +34526,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-10-21",
-        "n": 344,
+        "n": 346,
         "nz": "2026-10-21"
       },
       "Startup: Glean": {
@@ -36599,7 +36599,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "sig": "cloudflare|software engineer intern"
+    "sig": "cybercloudflare|software engineer intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
     "title": "UX Design Research Intern",
@@ -36739,7 +36739,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sig": "cybercloudflare|software engineer intern"
+    "sig": "cloudflare|software engineer intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--data-center-compute-software-tools--rdss-intern-_jr2025645": {
     "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
@@ -38788,7 +38788,7 @@
     "sig": "viget|product web designer intern"
   },
   "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2": {
-    "title": "Software Developer Intern - 2027",
+    "title": "Software Developer Intern (2027)",
     "url": "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2",
     "sig": "viget|software developer intern"
   },
@@ -40172,7 +40172,7 @@
     "sig": "rfsmart|software developer intern"
   },
   "https://job-boards.greenhouse.io/rfsmart/jobs/5427723008": {
-    "title": "Software Support Engineer Internship (RFS for NetSuite) -Summer 2027",
+    "title": "Software Support Engineer Internship - RFS for NetSuite -Summer 2027",
     "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5427723008",
     "sig": "rfsmart|software support engineer intern rfs for netsuite"
   },
@@ -44825,14 +44825,14 @@
     "sig": "ing|intern rates trading"
   },
   "https://verizon.wd12.myworkdayjobs.com/en-us/verizon-careers/job/basking-ridge-new-jersey/basking-ridge--nj--v-teamer-for-a-day--verizon-consumer-group--call-routing-optimization-engineering-summer-2027-internship_r-1102394": {
-    "title": "Basking Ridge, NJ: V Teamer for a Day: Verizon Consumer Group: Call Routing Optimization Engineering Summer 2027 Internship",
+    "title": "Call Routing Optimization Engineering Intern, Verizon Consumer Group",
     "url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--V-Teamer-for-a-Day--Verizon-Consumer-Group--Call-Routing-Optimization-Engineering-Summer-2027-Internship_R-1102394",
-    "sig": "verizon|basking ridge nj v teamer for a day verizon consumer group call routing optimization engineering intern"
+    "sig": "verizoncommunications|call routing optimization engineering intern verizon consumer group"
   },
   "https://verizon.wd12.myworkdayjobs.com/en-us/verizon-careers/job/basking-ridge-new-jersey/basking-ridge--nj--vteamer-for-a-day--verizon-consumer-group--data-science-summer-2027-internship_r-1102417": {
-    "title": "Basking Ridge, NJ: VTeamer for a Day: Verizon Consumer Group: Data Science Summer 2027 Internship",
+    "title": "Data Science Intern, Verizon Consumer Group",
     "url": "https://verizon.wd12.myworkdayjobs.com/en-US/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417",
-    "sig": "verizon|basking ridge nj vteamer for a day verizon consumer group data science intern"
+    "sig": "verizoncommunications|data science intern verizon consumer group"
   },
   "https://verizon.wd12.myworkdayjobs.com/en-us/verizon-careers/job/basking-ridge-new-jersey/verizon-consumer-group--call-routing-optimization-engineering-summer-2027-internship_r-1102398": {
     "title": "Verizon Consumer Group: Call Routing Optimization Engineering Summer 2027 Internship",
@@ -45663,5 +45663,75 @@
     "title": "Data Science Intern",
     "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1",
     "sig": "toyota|data science intern"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/systems-software-intern--aerial-phy--summer-2027_jr2026530": {
+    "title": "Systems Software Intern, Aerial PHY- Summer 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
+    "sig": "nvidia|systems software intern aerial phy"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/applied-research-intern--integrated-sensing-and-communications--isac--nvidia-aerial---summer-2027_jr2028027": {
+    "title": "Applied Research Intern, Integrated Sensing and Communications (ISAC)-NVIDIA Aerial - Summer 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027",
+    "sig": "nvidia|applied research intern integrated sensing and communications isac nvidia aerial"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/uk-bristol/software-intern---embedded-systems-2027_jr2028274-1": {
+    "title": "Software Intern - Embedded Systems 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/UK-Bristol/Software-Intern---Embedded-Systems-2027_JR2028274-1",
+    "sig": "nvidia|software intern embedded systems"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-ca-el-segundo-e04--2006-e-el-segundo-blvd--bldg-e04/xmlname-2027-summer-intern---systems-engineering---onsite_01881121": {
+    "title": "2027 Summer Intern - Systems Engineering - Onsite",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-CA-EL-SEGUNDO-E04--2006-E-El-Segundo-Blvd--BLDG-E04/XMLNAME-2027-Summer-Intern---Systems-Engineering---Onsite_01881121",
+    "sig": "rtx|intern systems engineering onsite"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000156585075": {
+    "title": "Calibration Process Optimization Intern (8 months/40 hours per week)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000156585075",
+    "sig": "boschgroup|calibration process optimization intern 8 months 40 hours per week"
+  },
+  "https://amat.wd1.myworkdayjobs.com/en-us/external/job/singaporesgp/technology-development-engineer---hybrid-bonding---advanced-packaging--internship-_r2626900": {
+    "title": "Technology Development Engineer – Hybrid Bonding & Advanced Packaging (Internship)",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/Technology-Development-Engineer---Hybrid-Bonding---Advanced-Packaging--Internship-_R2626900",
+    "sig": "amat|technology development engineer hybrid bonding advanced packaging intern"
+  },
+  "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/united-kingdom-london/llm---agent-research-intern_r108285": {
+    "title": "LLM & Agent Research Intern",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/United-Kingdom-London/LLM---Agent-Research-Intern_R108285",
+    "sig": "tencent|llm agent research intern"
+  },
+  "https://smithnephew.wd5.myworkdayjobs.com/en-us/external/job/us---austin-artemis-tx/co-op--research---development_r92959": {
+    "title": "Co-op  Research & Development",
+    "url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/US---Austin-Artemis-TX/Co-op--Research---Development_R92959",
+    "sig": "smithnephew|coop research development"
+  },
+  "https://smithnephew.wd5.myworkdayjobs.com/en-us/external/job/andover-ma/intern-systems-engineering_r92955-1": {
+    "title": "Intern Systems Engineering",
+    "url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-Systems-Engineering_R92955-1",
+    "sig": "smithnephew|intern systems engineering"
+  },
+  "https://smithnephew.wd5.myworkdayjobs.com/en-us/external/job/andover-ma/co-op-systems-engineering_r92954": {
+    "title": "Co-Op Systems Engineering",
+    "url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Co-Op-Systems-Engineering_R92954",
+    "sig": "smithnephew|coop systems engineering"
+  },
+  "https://smithnephew.wd5.myworkdayjobs.com/en-us/external/job/andover-ma/intern-embedded-software-engineering_r92952": {
+    "title": "Intern Embedded Software Engineering",
+    "url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952",
+    "sig": "smithnephew|intern embedded software engineering"
+  },
+  "https://smithnephew.wd5.myworkdayjobs.com/en-us/external/job/andover-ma/intern-agentic-ai-software-engineering_r92953": {
+    "title": "Intern Agentic AI Software Engineering",
+    "url": "https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953",
+    "sig": "smithnephew|intern agentic ai software engineering"
+  },
+  "https://mlse.wd3.myworkdayjobs.com/en-us/mlse/job/toronto-ontario/business-strategy---product-management--ai--intern_jr0000887-2": {
+    "title": "Business Strategy & Product Management (AI) Intern",
+    "url": "https://mlse.wd3.myworkdayjobs.com/en-US/MLSE/job/Toronto-Ontario/Business-Strategy---Product-Management--AI--Intern_JR0000887-2",
+    "sig": "mlse|business strategy product management ai intern"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/nvidiaexternalcareersite/job/us-ca-santa-clara/applied-research-intern--integrated-sensing-and-communications--isac--nvidia-aerial---summer-2027_jr2028027": {
+    "title": "Applied Research Intern - Integrated Sensing and Communications",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Research-Intern--Integrated-Sensing-and-Communications--ISAC--NVIDIA-Aerial---Summer-2027_JR2028027",
+    "sig": "nvidia|applied research intern integrated sensing and communications"
   }
 }
