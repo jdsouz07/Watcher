@@ -955,12 +955,12 @@
   },
   "https://trimble.wd1.myworkdayjobs.com/en-us/trimblecareers/job/us---co-westminster/software-engineering-intern_r57676": {
     "title": "Software Engineering Intern",
-    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Software-Engineering-Intern_R57676",
     "sig": "trimble|software engineering intern"
   },
   "https://trimble.wd1.myworkdayjobs.com/en-us/trimblecareers/job/us---co-westminster/hardware-software-testing-intern_r57677-1": {
     "title": "Hardware/Software Testing Intern",
-    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/US---CO-Westminster/Hardware-Software-Testing-Intern_R57677-1",
     "sig": "trimble|hardware software testing intern"
   },
   "https://cadence.wd1.myworkdayjobs.com/en-us/external_careers/job/san-jose/software-intern_r53282-1": {
@@ -2673,7 +2673,7 @@
   "https://premierinc.wd1.myworkdayjobs.com/en-us/external_professional/job/charlotte-nc/software-engineer-intern_r0008480": {
     "title": "Software Engineer Intern",
     "url": "https://premierinc.wd1.myworkdayjobs.com/en-US/external_professional/job/Charlotte-NC/Software-Engineer-Intern_R0008480",
-    "sig": "premier|software engineer intern"
+    "sig": "premierinc|software engineer intern"
   },
   "https://premierinc.wd1.myworkdayjobs.com/en-us/external_professional/job/charlotte-nc/data-science-intern_r0008481": {
     "title": "Data Science Intern",
@@ -32187,7 +32187,7 @@
         "ats": "greenhouse",
         "token": "optiverus",
         "ok": "2026-10-22",
-        "n": 166,
+        "n": 168,
         "nz": "2026-10-22"
       },
       "Optiver (Campus)": {
@@ -32269,7 +32269,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-22",
-        "n": 815,
+        "n": 812,
         "nz": "2026-10-22"
       },
       "Anthropic": {
@@ -32300,7 +32300,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-22",
-        "n": 2495,
+        "n": 2494,
         "nz": "2026-10-22"
       },
       "Palantir": {
@@ -32316,7 +32316,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-10-22",
-        "n": 659,
+        "n": 660,
         "nz": "2026-10-22"
       },
       "Page: Lockheed Martin (search)": {
@@ -32372,14 +32372,14 @@
         "ats": "greenhouse",
         "token": "imc",
         "ok": "2026-10-22",
-        "n": 172,
+        "n": 170,
         "nz": "2026-10-22"
       },
       "AUTO-DISCOVER (all boards found in trackers)": {
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-22",
-        "n": 112689,
+        "n": 112567,
         "nz": "2026-10-22"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32406,14 +32406,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-22",
-        "n": 520,
+        "n": 516,
         "nz": "2026-10-22"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-22",
-        "n": 2144,
+        "n": 2158,
         "nz": "2026-10-22"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32565,7 +32565,7 @@
         "ats": "greenhouse",
         "token": "janestreet",
         "ok": "2026-10-22",
-        "n": 221,
+        "n": 219,
         "nz": "2026-10-22"
       },
       "Quant: Jump Trading": {
@@ -32573,7 +32573,7 @@
         "ats": "greenhouse",
         "token": "jumptrading",
         "ok": "2026-10-22",
-        "n": 95,
+        "n": 96,
         "nz": "2026-10-22"
       },
       "Quant: Mako Trading": {
@@ -32589,7 +32589,7 @@
         "ats": "greenhouse",
         "token": "mangroup",
         "ok": "2026-10-22",
-        "n": 57,
+        "n": 58,
         "nz": "2026-10-22"
       },
       "Quant: Marshall Wace": {
@@ -32630,7 +32630,7 @@
         "ats": "greenhouse",
         "token": "point72",
         "ok": "2026-10-22",
-        "n": 215,
+        "n": 214,
         "nz": "2026-10-22"
       },
       "Quant: Qube RT": {
@@ -32638,7 +32638,7 @@
         "ats": "greenhouse",
         "token": "quberesearchandtechnologies",
         "ok": "2026-10-22",
-        "n": 200,
+        "n": 194,
         "nz": "2026-10-22"
       },
       "Quant: Schonfeld": {
@@ -32654,7 +32654,7 @@
         "ats": "greenhouse",
         "token": "squarepointcapital",
         "ok": "2026-10-22",
-        "n": 93,
+        "n": 92,
         "nz": "2026-10-22"
       },
       "Quant: Tower Research": {
@@ -32940,7 +32940,7 @@
         "ats": "greenhouse",
         "token": "robinhood",
         "ok": "2026-10-22",
-        "n": 153,
+        "n": 154,
         "nz": "2026-10-22"
       },
       "Quant/Tech: Scale AI": {
@@ -32972,7 +32972,7 @@
         "ats": "ashby",
         "token": "cohere",
         "ok": "2026-10-22",
-        "n": 115,
+        "n": 113,
         "nz": "2026-10-22"
       },
       "Startup: Sierra": {
@@ -32996,7 +32996,7 @@
         "ats": "greenhouse",
         "token": "vercel",
         "ok": "2026-10-22",
-        "n": 95,
+        "n": 94,
         "nz": "2026-10-22"
       },
       "Firm SPA: Goldman Sachs": {
@@ -33729,16 +33729,16 @@
         "ats": "pagewatch",
         "ok": "2026-10-22",
         "n": 1,
-        "nz": "2026-10-22"
+        "nz": "2026-10-22",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-22"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-21",
+        "ok": "2026-10-22",
         "n": 1,
-        "nz": "2026-10-21",
-        "err": "503 Server Error: Service Unavailable for url: https://www.alloptions-international.com/careers/",
-        "ef": "2026-10-21"
+        "nz": "2026-10-22"
       },
       "Quant SPA: WEBB Traders": {
         "since": "2026-10-01",
@@ -33752,7 +33752,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-22",
         "n": 1,
-        "nz": "2026-10-22"
+        "nz": "2026-10-22",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-22"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33869,7 +33871,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-22",
         "n": 1,
-        "nz": "2026-10-22"
+        "nz": "2026-10-22",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-22"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34187,11 +34191,9 @@
       "Quant SPA: Research Affiliates": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-21",
+        "ok": "2026-10-22",
         "n": 1,
-        "nz": "2026-10-21",
-        "err": "403 Client Error: Forbidden for url: https://researchaffiliates.com",
-        "ef": "2026-10-22"
+        "nz": "2026-10-22"
       },
       "Quant SPA: Los Angeles Capital Management": {
         "since": "2026-10-01",
@@ -34412,7 +34414,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-22",
         "n": 1,
-        "nz": "2026-10-22"
+        "nz": "2026-10-22",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-22"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
@@ -34446,7 +34450,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-10-22",
-        "n": 444,
+        "n": 443,
         "nz": "2026-10-22"
       },
       "Cyber: Datadog": {
@@ -34454,7 +34458,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-10-22",
-        "n": 440,
+        "n": 438,
         "nz": "2026-10-22"
       },
       "Startup: Figma": {
@@ -34478,7 +34482,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-22",
-        "n": 728,
+        "n": 726,
         "nz": "2026-10-22"
       },
       "Startup: Mercury": {
@@ -34525,7 +34529,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-10-22",
-        "n": 160,
+        "n": 162,
         "nz": "2026-10-22"
       },
       "Startup: Harvey": {
@@ -34541,7 +34545,7 @@
         "ats": "greenhouse",
         "token": "gleanwork",
         "ok": "2026-10-22",
-        "n": 120,
+        "n": 121,
         "nz": "2026-10-22"
       },
       "Startup: Baseten": {
@@ -36606,7 +36610,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "sig": "cloudflare|software engineer intern"
+    "sig": "cybercloudflare|software engineer intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
     "title": "UX Design Research Intern",
@@ -36746,7 +36750,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sig": "cybercloudflare|software engineer intern"
+    "sig": "cloudflare|software engineer intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--data-center-compute-software-tools--rdss-intern-_jr2025645": {
     "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
@@ -41124,7 +41128,7 @@
   "https://mdtkangaroo.wd108.myworkdayjobs.com/en-us/minimedcareers/job/northridge-california-united-states-of-america/software-engineering-intern-summer-2027_r-801814-1": {
     "title": "Software Engineering Intern Summer 2027",
     "url": "https://mdtkangaroo.wd108.myworkdayjobs.com/en-US/minimedcareers/job/Northridge-California-United-States-of-America/Software-Engineering-Intern-Summer-2027_R-801814-1",
-    "sig": "mdtkangaroo|software engineering intern"
+    "sig": "minimed|software engineering intern"
   },
   "https://mdtkangaroo.wd108.myworkdayjobs.com/en-us/minimedcareers/job/usa-ga-johns-creek/graduate-ai-engineer-intern-summer-2027_r-801926": {
     "title": "Graduate AI Engineer Intern Summer 2027  (Atlanta, Georgia)",
@@ -46591,5 +46595,60 @@
     "title": "Software Engineer Intern",
     "url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5/application?embed=true",
     "sig": "crusoe|software engineer intern"
+  },
+  "https://jobs.smartrecruiters.com/sikaag/744000157078341": {
+    "title": "ESG Digitalization Intern – Software & Data Engineering",
+    "url": "https://jobs.smartrecruiters.com/SikaAG/744000157078341",
+    "sig": "sikaag|esg digitalization intern software data engineering"
+  },
+  "https://jobs.smartrecruiters.com/westerndigital/744000157066549": {
+    "title": "Internship - Software Engineering",
+    "url": "https://jobs.smartrecruiters.com/WesternDigital/744000157066549",
+    "sig": "westerndigital|intern software engineering"
+  },
+  "https://uline.wd1.myworkdayjobs.com/en-us/uline_careers/job/pleasant-prairie-wi/database-administrator-internship---summer-2027_r268538": {
+    "title": "Database Administrator Internship - Summer 2027",
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Database-Administrator-Internship---Summer-2027_R268538",
+    "sig": "uline|database administrator intern"
+  },
+  "https://uline.wd1.myworkdayjobs.com/en-us/uline_careers/job/pleasant-prairie-wi/software-development-internship---summer-2027_r268537": {
+    "title": "Software Development Internship - Summer 2027",
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Software-Development-Internship---Summer-2027_R268537",
+    "sig": "uline|software development intern"
+  },
+  "https://uline.wd1.myworkdayjobs.com/en-us/uline_careers/job/pleasant-prairie-wi/systems-administrator-internship---summer-2027_r268536": {
+    "title": "Systems Administrator Internship - Summer 2027",
+    "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Systems-Administrator-Internship---Summer-2027_R268536",
+    "sig": "uline|systems administrator intern"
+  },
+  "https://aptiv.wd5.myworkdayjobs.com/en-us/aptiv_careers/job/troy-mi---usa/software-development-intern_j000704861": {
+    "title": "Software Development Intern",
+    "url": "https://aptiv.wd5.myworkdayjobs.com/en-US/aptiv_careers/job/Troy-MI---USA/Software-Development-Intern_J000704861",
+    "sig": "aptiv|software development intern"
+  },
+  "https://dxctechnology.wd1.myworkdayjobs.com/en-us/dxcjobs/job/sgp---singapore/servicenow-developer-intern_51592061": {
+    "title": "ServiceNow Developer Intern",
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51592061",
+    "sig": "dxctechnology|servicenow developer intern"
+  },
+  "https://jobs.lever.co/alice-bob/e291b0c7-adb2-4ac7-8f51-59d650be431c": {
+    "title": "Nanofabrication AOI software Intern M/F",
+    "url": "https://jobs.lever.co/alice-bob/e291b0c7-adb2-4ac7-8f51-59d650be431c",
+    "sig": "alicebob|nanofabrication aoi software intern m f"
+  },
+  "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/st-laurent-quebec-canada/software-development-intern--ai-assisted-development--summer-2027------stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-ia--t-2027-_1214294-1": {
+    "title": "Software Development Intern, AI-Assisted Development",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/St-Laurent-Quebec-Canada/Software-Development-Intern--AI-Assisted-Development--Summer-2027------Stagiaire-en-dveloppement-de--logiciel--dveloppement-assist-par-l-IA--t-2027-_1214294-1",
+    "sig": "hewlettpackardenterprise|software development intern ai assisted development"
+  },
+  "https://jobs.keysight.com/jobs/55115?icims=1": {
+    "title": "Software Engineer Intern",
+    "url": "https://jobs.keysight.com/jobs/55115?icims=1",
+    "sig": "keysight|software engineer intern"
+  },
+  "https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true": {
+    "title": "Early Adopter & Product Builder Intern, Creative AI",
+    "url": "https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254/application?embed=true",
+    "sig": "openartai|early adopter product builder intern creative ai"
   }
 }
