@@ -3688,8 +3688,8 @@
     "sig": "morsecorpcoop|security compliance coop"
   },
   "https://ancestry.wd501.myworkdayjobs.com/en-us/careers/job/draper-utah/software-engineer---observability--co-op_r003434": {
-    "title": "Software Engineer – Observability, Co-op",
-    "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
+    "title": "Software Engineer - Observability - Co-op",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "sig": "ancestry|software engineer observability coop"
   },
   "https://ancestry.wd501.myworkdayjobs.com/en-us/careers/job/remote/applied-ai-science-co-op---embedding-models-and-personalization_r003442": {
@@ -25630,9 +25630,9 @@
     "sig": "wexinc|software engineering intern"
   },
   "https://nordsonhcm.wd501.myworkdayjobs.com/en-us/nordsoncareers/job/usa---texas---allen/intern---manufacturing-electronics---software-engineering_req52925": {
-    "title": "Intern – Manufacturing Electronics / Software Engineering",
+    "title": "Intern - Manufacturing Electronics / Software Engineering",
     "url": "https://nordsonhcm.wd501.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925",
-    "sig": "nordsonhcm|intern manufacturing electronics software engineering"
+    "sig": "nordson|intern manufacturing electronics software engineering"
   },
   "https://jobs.smartrecruiters.com/nbcuniversal3/744000150587019": {
     "title": "Legal Intern - Universal Networks",
@@ -32069,12 +32069,12 @@
   "https://nordsonhcm.wd501.myworkdayjobs.com/en-us/nordsoncareers/job/usa---minnesota---minneapolis---5900-golden-hills-drive/software-intern_req52945": {
     "title": "Software Intern",
     "url": "https://nordsonhcm.wd501.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Minnesota---Minneapolis---5900-Golden-Hills-Drive/Software-Intern_REQ52945",
-    "sig": "nordsonhcm|software intern"
+    "sig": "nordson|software intern"
   },
   "https://nordsonhcm.wd501.myworkdayjobs.com/en-us/nordsoncareers/job/usa---rhode-island---east-providence/intern--software-engineering-_req53006": {
-    "title": "Intern (Software Engineering)",
+    "title": "Intern - Software Engineering",
     "url": "https://nordsonhcm.wd501.myworkdayjobs.com/en-US/nordsoncareers/job/USA---Rhode-Island---East-Providence/Intern--Software-Engineering-_REQ53006",
-    "sig": "nordsonhcm|intern software engineering"
+    "sig": "nordson|intern software engineering"
   },
   "https://costar.wd1.myworkdayjobs.com/en-us/costar_campus/job/sunnyvale-us/embedded-software-engineering-intern_r39950": {
     "title": "Embedded Software Engineering Intern",
@@ -32295,7 +32295,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-24",
-        "n": 680,
+        "n": 681,
         "nz": "2026-10-24"
       },
       "Databricks": {
@@ -32318,7 +32318,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-24",
-        "n": 2506,
+        "n": 2508,
         "nz": "2026-10-24"
       },
       "Palantir": {
@@ -32397,7 +32397,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-24",
-        "n": 112774,
+        "n": 111783,
         "nz": "2026-10-24"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32431,7 +32431,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-24",
-        "n": 2169,
+        "n": 2163,
         "nz": "2026-10-24"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -34468,7 +34468,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-10-24",
-        "n": 453,
+        "n": 454,
         "nz": "2026-10-24"
       },
       "Cyber: Datadog": {
@@ -34547,7 +34547,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-10-24",
-        "n": 161,
+        "n": 159,
         "nz": "2026-10-24"
       },
       "Startup: Harvey": {
@@ -36628,7 +36628,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "sig": "cybercloudflare|software engineer intern"
+    "sig": "cloudflare|software engineer intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
     "title": "UX Design Research Intern",
@@ -36768,7 +36768,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sig": "cloudflare|software engineer intern"
+    "sig": "cybercloudflare|software engineer intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--data-center-compute-software-tools--rdss-intern-_jr2025645": {
     "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
@@ -38548,7 +38548,7 @@
   },
   "https://modmed.wd501.myworkdayjobs.com/en-us/modmed12/job/boca-raton-fl/software-engineering-intern_r5148": {
     "title": "Software Engineering Intern",
-    "url": "https://modmed.wd501.myworkdayjobs.com/en-US/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148",
+    "url": "https://modmed.wd501.myworkdayjobs.com/en-US/modmed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148",
     "sig": "modmed|software engineering intern"
   },
   "https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604": {
@@ -44704,8 +44704,8 @@
     "sig": "roguefitness|ai engineer intern"
   },
   "https://zebra.wd501.myworkdayjobs.com/en-us/zebra_careers/job/holtsville-new-york/xmlname-2027-summer-internship--us----software-engineer_jr103625": {
-    "title": "2027 Summer Internship (US) - Software Engineer",
-    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625",
+    "title": "2027 Summer Internship - US - Software Engineer",
+    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625",
     "sig": "zebra|intern us software engineer"
   },
   "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/lone-tree-co/software-engineer-intern---summer-2027--for-snc-summer-2026-interns-only-_r0031098": {
@@ -45181,7 +45181,7 @@
   "https://werner.wd501.myworkdayjobs.com/en-us/werner/job/omaha-ne/it-cloud-engineering-intern_jr23745": {
     "title": "IT Cloud Engineering Intern",
     "url": "https://werner.wd501.myworkdayjobs.com/en-US/werner/job/Omaha-NE/IT-Cloud-Engineering-Intern_JR23745",
-    "sig": "werner|it cloud engineering intern"
+    "sig": "wernerenterprises|it cloud engineering intern"
   },
   "https://werner.wd501.myworkdayjobs.com/en-us/werner/job/omaha-ne/operations-intern---optimization---automation_jr23732": {
     "title": "Operations Intern - Optimization & Automation",
@@ -45790,7 +45790,7 @@
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-software-engineering-intern---roy-ut_r10257053": {
     "title": "2027 Software Engineering Intern - Roy UT",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
     "sig": "northropgrumman|software engineering intern roy ut"
   },
   "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-co-aurora-s75--16800-e-centretech-pkwy--bldg-s75/part-time-systems-engineer-co-op--remote-_01883862": {
@@ -47485,9 +47485,9 @@
     "sig": "boschgroup|paid intern java development f m"
   },
   "https://philips.wd3.myworkdayjobs.com/en-us/jobs-and-careers/job/nashville-tennessee-united-states/intern-customer-experience--health-systems-strategy-and-growth--cambridge--ma-summer-2027_593456": {
-    "title": "Intern-Customer Experience Analyst (Health Systems Strategy and Growth) Nashville, TN-Summer 2027",
+    "title": "Intern-Customer Experience Analytics  (Health Systems Strategy and Growth) Nashville, TN-Summer 2027",
     "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern-Customer-Experience--Health-Systems-Strategy-and-Growth--Cambridge--MA-Summer-2027_593456",
-    "sig": "philips|intern customer experience analyst health systems strategy and growth nashville tn"
+    "sig": "philips|intern customer experience analytics health systems strategy and growth nashville tn"
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/netherlands-amsterdam/sre-intern_r108291": {
     "title": "SRE Intern",
@@ -48228,5 +48228,10 @@
     "title": "Laboratory Automation Systems Intern",
     "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027",
     "sig": "johnsonjohnson|laboratory automation systems intern"
+  },
+  "https://amat.wd1.myworkdayjobs.com/en-us/external/job/gloucesterma/xmlname-2027-summer-electrical-engineer--intern--controls-pcb----bs-or-ms--gloucester--ma-_r2630658": {
+    "title": "2027 Summer Electrical Engineer  Intern (Controls/PCB) - BS or MS (Gloucester, MA)",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/GloucesterMA/XMLNAME-2027-Summer-Electrical-Engineer--Intern--Controls-PCB----BS-or-MS--Gloucester--MA-_R2630658",
+    "sig": "amat|electrical engineer intern controls pcb bs or ms gloucester ma"
   }
 }
