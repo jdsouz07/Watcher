@@ -31799,7 +31799,8 @@
   },
   "https://abb.wd3.myworkdayjobs.com/en-us/external_career_page/job/usa-oh-cleveland/systems-engineering-intern---summer-2027_jr00048328": {
     "title": "Systems Engineering Intern - Summer 2027",
-    "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00048328"
+    "url": "https://abb.wd3.myworkdayjobs.com/en-US/external_career_page/job/USA-OH-Cleveland/Systems-Engineering-Intern---Summer-2027_JR00048328",
+    "sig": "abb|systems engineering intern"
   },
   "https://marvell.wd1.myworkdayjobs.com/en-us/marvellcareers2/job/bangalore/intern--software-qa-engineer_2604244": {
     "title": "Intern, Software QA Engineer Bachelor's Degree",
@@ -32286,7 +32287,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-24",
-        "n": 795,
+        "n": 796,
         "nz": "2026-10-24"
       },
       "Anthropic": {
@@ -32294,7 +32295,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-10-24",
-        "n": 678,
+        "n": 680,
         "nz": "2026-10-24"
       },
       "Databricks": {
@@ -32302,7 +32303,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-10-24",
-        "n": 895,
+        "n": 896,
         "nz": "2026-10-24"
       },
       "Page: Microsoft Careers": {
@@ -32317,7 +32318,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-24",
-        "n": 2505,
+        "n": 2506,
         "nz": "2026-10-24"
       },
       "Palantir": {
@@ -32333,7 +32334,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-10-24",
-        "n": 663,
+        "n": 668,
         "nz": "2026-10-24"
       },
       "Page: Lockheed Martin (search)": {
@@ -32396,7 +32397,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-24",
-        "n": 112198,
+        "n": 112774,
         "nz": "2026-10-24"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32423,14 +32424,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-24",
-        "n": 641,
+        "n": 669,
         "nz": "2026-10-24"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-24",
-        "n": 2153,
+        "n": 2169,
         "nz": "2026-10-24"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -34570,7 +34571,7 @@
         "ats": "ashby",
         "token": "baseten",
         "ok": "2026-10-24",
-        "n": 107,
+        "n": 106,
         "nz": "2026-10-24"
       },
       "Startup: Cerebras": {
@@ -43833,9 +43834,9 @@
     "sig": "snapchat|generative media research intern"
   },
   "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---defense-lab-modeling-and-simulation_jr-202621729": {
-    "title": "Research and Development Intern, Defense Lab Modeling and Simulation",
+    "title": "2027 Summer Intern - Research and Development - Defense Lab Modeling and Simulation",
     "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Defense-Lab-Modeling-and-Simulation_JR-202621729",
-    "sig": "generalmotors|research and development intern defense lab modeling and simulation"
+    "sig": "generalmotors|intern research and development defense lab modeling and simulation"
   },
   "https://hpe.wd5.myworkdayjobs.com/en-us/jobsathpe/job/all-tennessee-united-states-of-america/hpc-ai-system-admin-hw-sw-service-engineer-intern_1213404": {
     "title": "HPC/AI System Admin HW/SW Service Engineer Intern",
@@ -48099,37 +48100,37 @@
     "sig": "telusdigital|software engineering intern coop"
   },
   "https://kla.wd1.myworkdayjobs.com/ur/job/milpitas-ca/software-engineer-intern--c----linux----summer-2027_2641878": {
-    "title": "Software Engineer Intern - C++ - Linux",
+    "title": "Software Engineer Intern, C++, Linux",
     "url": "https://kla.wd1.myworkdayjobs.com/UR/job/Milpitas-CA/Software-Engineer-Intern--C----Linux----Summer-2027_2641878",
     "sig": "kla|software engineer intern c++ linux"
   },
   "https://trimble.wd1.myworkdayjobs.com/en-us/trimblecareers/job/canada---richmond-hill-ontario-applanix/navigation---machine-learning-engineering-intern--16-months-_r57980": {
-    "title": "Navigation & Machine Learning Engineer Intern",
-    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/TrimbleCareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980",
-    "sig": "trimble|navigation machine learning engineer intern"
+    "title": "Navigation & Machine Learning Engineering Intern",
+    "url": "https://trimble.wd1.myworkdayjobs.com/en-US/trimblecareers/job/Canada---Richmond-Hill-Ontario-Applanix/Navigation---Machine-Learning-Engineering-Intern--16-Months-_R57980",
+    "sig": "trimble|navigation machine learning engineering intern"
   },
   "https://citi.wd5.myworkdayjobs.com/2/job/tampa-florida-united-states/technology--application-development--summer-analyst--tampa---usa--2027_261004395": {
-    "title": "Technology Summer Analyst Intern - Application Development",
+    "title": "Technology Analyst Intern, Application Development",
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Tampa-Florida-United-States/Technology--Application-Development--Summer-Analyst--Tampa---USA--2027_261004395",
     "sig": "citi|technology analyst intern application development"
   },
   "https://citi.wd5.myworkdayjobs.com/2/job/irving-texas-united-states/technology--application-development--summer-analyst--irving---usa--2027_261003288": {
-    "title": "Technology Summer Analyst Intern - Application Development",
+    "title": "Technology Analyst Intern, Application Development",
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Irving-Texas-United-States/Technology--Application-Development--Summer-Analyst--Irving---USA--2027_261003288",
     "sig": "citi|technology analyst intern application development"
   },
   "https://citi.wd5.myworkdayjobs.com/2/job/jacksonville-florida-united-states/technology--application-development--summer-analyst--jacksonville---usa--2027_261004418": {
-    "title": "Technology Analyst Intern - Application Development",
+    "title": "Technology Analyst Intern, Application Development",
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jacksonville-Florida-United-States/Technology--Application-Development--Summer-Analyst--Jacksonville---USA--2027_261004418",
     "sig": "citi|technology analyst intern application development"
   },
   "https://citi.wd5.myworkdayjobs.com/2/job/mississauga-ontario-canada/technology--application-development--summer-analyst--mississauga--canada--2027_261003301": {
-    "title": "Technology Analyst Intern - Application Development",
+    "title": "Technology Analyst Intern, Application Development",
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Mississauga-Ontario-Canada/Technology--Application-Development--Summer-Analyst--Mississauga--Canada--2027_261003301",
     "sig": "citi|technology analyst intern application development"
   },
   "https://citi.wd5.myworkdayjobs.com/2/job/jersey-city-new-jersey-united-states/technology--application-development--summer-analyst--new-york-or-new-jersey---usa--2027_261004378": {
-    "title": "Technology Summer Analyst Intern - Application Development",
+    "title": "Technology Analyst Intern, Application Development",
     "url": "https://citi.wd5.myworkdayjobs.com/2/job/Jersey-City-New-Jersey-United-States/Technology--Application-Development--Summer-Analyst--New-York-Or-New-Jersey---USA--2027_261004378",
     "sig": "citi|technology analyst intern application development"
   },
@@ -48147,5 +48148,85 @@
     "title": "R&D Hardware Engineering Intern",
     "url": "https://jobs.keysight.com/jobs/55239?icims=1",
     "sig": "keysight|r d hardware engineering intern"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/singapore-pasir-panjang/research-intern--robotics---2027_jr2028499": {
+    "title": "Research Intern, Robotics - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---2027_JR2028499",
+    "sig": "nvidia|research intern robotics"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/singapore-pasir-panjang/research-intern--robotics---nvidia-research_jr2028498": {
+    "title": "Research Intern, Robotics — NVIDIA Research",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Singapore-Pasir-Panjang/Research-Intern--Robotics---NVIDIA-Research_JR2028498",
+    "sig": "nvidia|research intern robotics nvidia research"
+  },
+  "https://jj.wd5.myworkdayjobs.com/en-us/jj/job/spring-house-pennsylvania-united-states-of-america/laboratory-automation-systems-intern_r-103027": {
+    "title": "Laboratory Automation Systems Intern",
+    "url": "https://jj.wd5.myworkdayjobs.com/en-US/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027",
+    "sig": "jj|laboratory automation systems intern"
+  },
+  "https://asml.wd3.myworkdayjobs.com/en-us/asmlext1/job/san-jose-ca-usa/internship---software-quality-assurance_j-00354563": {
+    "title": "Software Quality Assurance Intern",
+    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Internship---Software-Quality-Assurance_J-00354563",
+    "sig": "asml|software quality assurance intern"
+  },
+  "https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application": {
+    "title": "Software Engineering Co-op",
+    "url": "https://jobs.ashbyhq.com/telus-digital/63b0654a-9849-4d74-bc3f-94b2ccceb2c2/application",
+    "sig": "telusdigital|software engineering coop"
+  },
+  "https://thales.wd3.myworkdayjobs.com/en-us/careers/job/montreal/stagiaire-en-dveloppement-outils---processus-outill_r0343987-1": {
+    "title": "Tools and Process Development Intern",
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Montreal/Stagiaire-en-dveloppement-outils---processus-outill_R0343987-1",
+    "sig": "thales|tools and process development intern"
+  },
+  "https://globalfoundries.wd1.myworkdayjobs.com/external/job/usa---texas---austin/cpu-ip-design---verification-intern---risc-v-processor-development--summer-2027-_jr-2604042": {
+    "title": "CPU IP Design & Verification Intern, RISC-V Processor Development",
+    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Texas---Austin/CPU-IP-Design---Verification-Intern---RISC-V-Processor-Development--Summer-2027-_JR-2604042",
+    "sig": "globalfoundries|cpu ip design verification intern risc v processor development"
+  },
+  "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true": {
+    "title": "Robotics Engineer Intern, Hardware & Software",
+    "url": "https://jobs.ashbyhq.com/tracelabs/dec74a24-a2d5-46d2-b5b9-e7a4e3f29525/application?embed=true",
+    "sig": "tracelabs|robotics engineer intern hardware software"
+  },
+  "https://jobs.keysight.com/jobs/55151?icims=1": {
+    "title": "FPGA Design Intern",
+    "url": "https://jobs.keysight.com/jobs/55151?icims=1",
+    "sig": "keysight|fpga design intern"
+  },
+  "https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586/apply": {
+    "title": "Robotics Software Engineer Intern",
+    "url": "https://jobs.lever.co/multiplylabs/acca98ab-c206-4f71-b7a5-6977e4828586/apply",
+    "sig": "multiplylabs|robotics software engineer intern"
+  },
+  "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmui/candidateexperience/en/sites/nfcu/job/33208": {
+    "title": "Data Analytics Intern",
+    "url": "https://fa-etbx-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/nfcu/job/33208",
+    "sig": "navyfederal|data analytics intern"
+  },
+  "https://siemens.avature.net/en_us/externaljobs/jobdetail/526984": {
+    "title": "Python Backend Developer Intern, Energy Flexibility Platform",
+    "url": "https://siemens.avature.net/en_US/externaljobs/JobDetail/526984",
+    "sig": "siemens|python backend developer intern energy flexibility platform"
+  },
+  "https://apply.careers.microsoft.com/careers/job/1970393557044771": {
+    "title": "Software Engineer Intern, Security & Identity",
+    "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
+    "sig": "microsoft|software engineer intern security identity"
+  },
+  "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99": {
+    "title": "AI Engineer Intern, Fury Team",
+    "url": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99",
+    "sig": "scoutai|ai engineer intern fury team"
+  },
+  "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/spring-texas-united-states-of-america/cybersecurity-engineering-intern_1216080": {
+    "title": "Cybersecurity Engineering Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/jobsathpe/job/Spring-Texas-United-States-of-America/Cybersecurity-Engineering-Intern_1216080",
+    "sig": "hewlettpackardenterprise|cybersecurity engineering intern"
+  },
+  "https://jj.wd5.myworkdayjobs.com/jj/job/spring-house-pennsylvania-united-states-of-america/laboratory-automation-systems-intern_r-103027": {
+    "title": "Laboratory Automation Systems Intern",
+    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Spring-House-Pennsylvania-United-States-of-America/Laboratory-Automation-Systems-Intern_R-103027",
+    "sig": "johnsonjohnson|laboratory automation systems intern"
   }
 }
