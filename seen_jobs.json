@@ -32397,7 +32397,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-24",
-        "n": 112116,
+        "n": 111804,
         "nz": "2026-10-24"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32431,7 +32431,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-24",
-        "n": 2160,
+        "n": 2061,
         "nz": "2026-10-24"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -34951,12 +34951,12 @@
   "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15": {
     "title": "Software Engineer Intern",
     "url": "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15",
-    "sig": "shopback|software engineer intern"
+    "sig": "shopback2|software engineer intern"
   },
   "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98": {
     "title": "Software Engineer Intern",
     "url": "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98",
-    "sig": "shopback|software engineer intern"
+    "sig": "shopback2|software engineer intern"
   },
   "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718/application?embed=true": {
     "title": "Software Engineer Intern",
