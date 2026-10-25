@@ -5462,7 +5462,8 @@
   },
   "https://lifeattiktok.com/search/7675159726676101381": {
     "title": "Software Engineer Intern - Recommendation Infra - Performance Efficiency - 2027 Summer",
-    "url": "https://lifeattiktok.com/search/7675159726676101381"
+    "url": "https://lifeattiktok.com/search/7675159726676101381",
+    "sig": "tiktok|software engineer intern recommendation infra performance efficiency"
   },
   "https://lifeattiktok.com/search/7675129440242010421": {
     "title": "Software Engineer Intern - TikTok Search Data Infra - 2027 Fall",
@@ -32290,7 +32291,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-25",
-        "n": 794,
+        "n": 793,
         "nz": "2026-10-25"
       },
       "Anthropic": {
@@ -32306,7 +32307,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-10-25",
-        "n": 897,
+        "n": 896,
         "nz": "2026-10-25"
       },
       "Page: Microsoft Careers": {
@@ -32321,7 +32322,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-25",
-        "n": 2510,
+        "n": 2511,
         "nz": "2026-10-25"
       },
       "Palantir": {
@@ -32400,7 +32401,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-25",
-        "n": 111682,
+        "n": 111674,
         "nz": "2026-10-25"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32420,7 +32421,7 @@
         "since": "2026-10-01",
         "ats": "github_md",
         "ok": "2026-10-25",
-        "n": 842,
+        "n": 843,
         "nz": "2026-10-25"
       },
       "Tracker: vanshb03 Summer2027": {
@@ -32434,7 +32435,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-25",
-        "n": 2032,
+        "n": 2055,
         "nz": "2026-10-25"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -33555,7 +33556,7 @@
         "ats": "greenhouse",
         "token": "alpaca",
         "ok": "2026-10-25",
-        "n": 69,
+        "n": 70,
         "nz": "2026-10-25"
       },
       "Quant: Trumid": {
@@ -33595,7 +33596,7 @@
         "ats": "workable",
         "token": "bestex-research",
         "ok": "2026-10-25",
-        "n": 14,
+        "n": 15,
         "nz": "2026-10-25"
       },
       "Quant SPA: XR Trading": {
@@ -33752,7 +33753,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-25",
         "n": 1,
-        "nz": "2026-10-25"
+        "nz": "2026-10-25",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-25"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
@@ -33773,7 +33776,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-25",
         "n": 1,
-        "nz": "2026-10-25"
+        "nz": "2026-10-25",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-25"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33890,7 +33895,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-25",
         "n": 1,
-        "nz": "2026-10-25"
+        "nz": "2026-10-25",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-25"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34431,7 +34438,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-25",
         "n": 1,
-        "nz": "2026-10-25"
+        "nz": "2026-10-25",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-25"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
@@ -46562,9 +46571,9 @@
     "sig": "cisco|software engineer intern full stack backend ii"
   },
   "https://apply.careers.microsoft.com/careers/job/1970393557044765": {
-    "title": "Software Engineer Intern, Security & Identity",
+    "title": "Software Engineer: Security & Identity Intern Opportunities for University Students - Cambridge",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557044765",
-    "sig": "microsoft|software engineer intern security identity"
+    "sig": "microsoft|software engineer security identity intern opportunities for university students cambridge"
   },
   "https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/san-jose-california-us/machine-learning-engineer-i--intern----united-states_2026803": {
     "title": "Machine Learning Engineer I Intern",
@@ -47887,9 +47896,9 @@
     "sig": "idemianorthamerica|cloud software engineering intern"
   },
   "https://cvshealth.wd1.myworkdayjobs.com/en-us/cvs_health_careers/job/ny---new-york/innovation---technology-internship--software-engineering--data---intelligence-summer-2027-graduate_r1081128": {
-    "title": "Software Engineering Intern, Data & Intelligence",
-    "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128",
-    "sig": "cvshealth|software engineering intern data intelligence"
+    "title": "Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Graduate",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128",
+    "sig": "cvshealth|innovation technology intern software engineering data intelligence graduate"
   },
   "https://jobs.ashbyhq.com/rivianvw.tech/b142f138-e300-4e84-8aa5-50ed506d288b/application": {
     "title": "Software Engineering Intern, Applications",
@@ -47952,9 +47961,9 @@
     "sig": "proctergamble|consumer analytics insights intern"
   },
   "https://www.mongodb.com/careers/job/?gh_jid=8209134": {
-    "title": "Software Engineer Intern",
+    "title": "2027 - Software Engineering Intern - AMER",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
-    "sig": "mongodb|software engineer intern"
+    "sig": "mongodb|software engineering intern amer"
   },
   "https://citi.wd5.myworkdayjobs.com/2/job/belfast--united-kingdom/technology---application-development--placement-analyst--belfast-2027_261002927": {
     "title": "Technology Placement Analyst Intern - Application Development",
@@ -48207,9 +48216,9 @@
     "sig": "siemens|python backend developer intern energy flexibility platform"
   },
   "https://apply.careers.microsoft.com/careers/job/1970393557044771": {
-    "title": "Software Engineer Intern, Security & Identity",
+    "title": "Software Engineering Intern",
     "url": "https://apply.careers.microsoft.com/careers/job/1970393557044771",
-    "sig": "microsoft|software engineer intern security identity"
+    "sig": "microsoft|software engineering intern"
   },
   "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99": {
     "title": "AI Engineer Intern, Fury Team",
@@ -49929,5 +49938,115 @@
   "rss::2e90c1405afa7517": {
     "title": "Looking to get into mid frequency quant equity - need advice",
     "url": "https://www.reddit.com/r/quant/comments/1xc1xk1/looking_to_get_into_mid_frequency_quant_equity/"
+  },
+  "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4403596009": {
+    "title": "Software Developer Intern",
+    "url": "https://job-boards.greenhouse.io/farmersmutualhailinsurancecompany/jobs/4403596009",
+    "sig": "farmersmutualhailinsurancecompany|software developer intern"
+  },
+  "https://pernodricard.wd3.myworkdayjobs.com/en-us/pernod-ricard/job/paris/internship-data-sciences-intern---paris---march-2027_jr-055342": {
+    "title": "Internship Data Sciences Intern - Paris - March 2027",
+    "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Paris/Internship-Data-Sciences-Intern---Paris---March-2027_JR-055342",
+    "sig": "pernodricard|intern data sciences intern paris march"
+  },
+  "https://pernodricard.wd3.myworkdayjobs.com/en-us/pernod-ricard/job/paris/data-sciences-intern---january-2027---paris_jr-055141-1": {
+    "title": "Data Sciences Intern - January 2027 - Paris",
+    "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Paris/Data-Sciences-Intern---January-2027---Paris_JR-055141-1",
+    "sig": "pernodricard|data sciences intern january paris"
+  },
+  "https://pernodricard.wd3.myworkdayjobs.com/en-us/pernod-ricard/job/paris/data-platform-intern---paris---march-2027_jr-055327-1": {
+    "title": "Data Platform Intern - Paris - March 2027",
+    "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Paris/Data-Platform-Intern---Paris---March-2027_JR-055327-1",
+    "sig": "pernodricard|data platform intern paris march"
+  },
+  "https://pernodricard.wd3.myworkdayjobs.com/en-us/pernod-ricard/job/paris/commercial-development---execution-excellence-intern---january-2027_jr-054682-1": {
+    "title": "Commercial Development & Execution Excellence Intern - January 2027",
+    "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Paris/Commercial-Development---Execution-Excellence-Intern---January-2027_JR-054682-1",
+    "sig": "pernodricard|commercial development execution excellence intern january"
+  },
+  "https://pernodricard.wd3.myworkdayjobs.com/en-us/pernod-ricard/job/paris/machine-learning-engineer-intern---paris---january-2027_jr-055047-1": {
+    "title": "Machine Learning Engineer Intern - Paris - January 2027",
+    "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Paris/Machine-Learning-Engineer-Intern---Paris---January-2027_JR-055047-1",
+    "sig": "pernodricard|machine learning engineer intern paris january"
+  },
+  "https://pernodricard.wd3.myworkdayjobs.com/en-us/pernod-ricard/job/paris/cloud-and-infrastructure-intern---paris---january-2027_jr-055318": {
+    "title": "Cloud and Infrastructure Intern - Paris - January 2027",
+    "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Paris/Cloud-and-Infrastructure-Intern---Paris---January-2027_JR-055318",
+    "sig": "pernodricard|cloud and infrastructure intern paris january"
+  },
+  "https://pernodricard.wd3.myworkdayjobs.com/en-us/pernod-ricard/job/paris/stage-web-analytics---content-insights-intern---paris---janvier-2027_jr-055036-2": {
+    "title": "Stage Web Analytics & Content Insights Intern - Paris - Janvier 2027",
+    "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Paris/Stage-Web-Analytics---Content-Insights-Intern---Paris---Janvier-2027_JR-055036-2",
+    "sig": "pernodricard|stage web analytics content insights intern paris janvier"
+  },
+  "https://pernodricard.wd3.myworkdayjobs.com/en-us/pernod-ricard/job/paris/global-private-client-development-intern---le-cercle---january-2027_jr-054998": {
+    "title": "Global Private Client Development Intern – Le Cercle - January 2027",
+    "url": "https://pernodricard.wd3.myworkdayjobs.com/en-US/pernod-ricard/job/Paris/Global-Private-Client-Development-Intern---Le-Cercle---January-2027_JR-054998",
+    "sig": "pernodricard|global private client development intern le cercle january"
+  },
+  "https://astrolab.pinpointhq.com/en/postings/a32e9426-2a4e-434e-b7fd-a3fd63b1e005": {
+    "title": "Software Engineering Intern",
+    "url": "https://astrolab.pinpointhq.com/en/postings/a32e9426-2a4e-434e-b7fd-a3fd63b1e005",
+    "sig": "astrolab|software engineering intern"
+  },
+  "https://carrier.wd5.myworkdayjobs.com/en-us/jobs/job/can01-carrier-syracuse-6304-carrier-parkway-east-syracuse-ny-13057-usa/software-engineering-intern---summer_30220588": {
+    "title": "Software Engineering Intern - Summer",
+    "url": "https://carrier.wd5.myworkdayjobs.com/en-US/jobs/job/CAN01-Carrier-Syracuse-6304-Carrier-Parkway-East-Syracuse-NY-13057-USA/Software-Engineering-Intern---Summer_30220588",
+    "sig": "carrier|software engineering intern"
+  },
+  "https://cisco.wd5.myworkdayjobs.com/en-us/cisco_careers/job/san-jose-california-us/software-engineer-full-stack---backend-i--co-op----united-states_2026049": {
+    "title": "Software Engineer Full Stack / Backend I - Co-op - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Full-Stack---Backend-I--Co-op----United-States_2026049",
+    "sig": "cisco|software engineer full stack backend i coop united states"
+  },
+  "https://cisco.wd5.myworkdayjobs.com/en-us/cisco_careers/job/san-jose-california-us/software-engineer-embedded-systems-i--co-op----united-states_2029701": {
+    "title": "Software Engineer Embedded Systems I - Co-op - United States",
+    "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Embedded-Systems-I--Co-op----United-States_2029701",
+    "sig": "cisco|software engineer embedded systems i coop united states"
+  },
+  "https://apply.workable.com/coretek-services/j/21d19cc253/": {
+    "title": "AI & Data Automation Developer Co-Op - 2027 Spring Semester",
+    "url": "https://apply.workable.com/coretek-services/j/21D19CC253/",
+    "sig": "coretek|ai data automation developer coop semester"
+  },
+  "https://cvshealth.wd1.myworkdayjobs.com/en-us/cvs_health_careers/job/az---scottsdale/innovation-technology-internship-software-engineering--platform---applications-summer-2027-undergrad_r1081193": {
+    "title": "Innovation & Technology Internship-Software Engineering:Platform & Applications-Summer2027 Undergrad",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/AZ---Scottsdale/Innovation-Technology-Internship-Software-Engineering--Platform---Applications-Summer-2027-Undergrad_R1081193",
+    "sig": "cvshealth|innovation technology intern software engineering platform undergrad"
+  },
+  "https://cvshealth.wd1.myworkdayjobs.com/en-us/cvs_health_careers/job/ny---new-york/innovation---technology-internship--software-engineering--data---intelligence-summer-2027-undergrad_r1081114": {
+    "title": "Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Undergrad",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114",
+    "sig": "cvshealth|innovation technology intern software engineering data intelligence undergrad"
+  },
+  "https://uscareers-docusign.icims.com/jobs/30571/software-developer-intern/job": {
+    "title": "Software Developer Intern",
+    "url": "https://uscareers-docusign.icims.com/jobs/30571/software-developer-intern/job",
+    "sig": "docusign|software developer intern"
+  },
+  "https://thrivent.wd5.myworkdayjobs.com/en-us/privateexternal/job/remote-minnesota/associate-software-engineer---sophomore-intern-summer-2027_req-48457-2": {
+    "title": "Associate Software Engineer - Sophomore Intern Summer 2027",
+    "url": "https://thrivent.wd5.myworkdayjobs.com/en-US/privateexternal/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457-2",
+    "sig": "thrivent|associate software engineer sophomore intern"
+  },
+  "https://thrivent.wd5.myworkdayjobs.com/en-us/privateexternal/job/remote-minnesota/associate-software-engineer---junior-intern-summer-2027_req-48334-2": {
+    "title": "Associate Software Engineer - Junior Intern Summer 2027",
+    "url": "https://thrivent.wd5.myworkdayjobs.com/en-US/privateexternal/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334-2",
+    "sig": "thrivent|associate software engineer junior intern"
+  },
+  "https://cvshealth.wd1.myworkdayjobs.com/en-us/cvs_health_careers/job/az---scottsdale/innovation---technology-internship-software-engineering--platform---applications--summer-2027-grad_r1081216": {
+    "title": "Innovation & Technology Internship - Software Engineering: Platform & Applications -Summer 2027 Grad",
+    "url": "https://cvshealth.wd1.myworkdayjobs.com/en-US/cvs_health_careers/job/AZ---Scottsdale/Innovation---Technology-Internship-Software-Engineering--Platform---Applications--Summer-2027-Grad_R1081216",
+    "sig": "cvshealth|innovation technology intern software engineering platform applications grad"
+  },
+  "https://kiongroup.wd3.myworkdayjobs.com/en-us/kiongroup/job/grand-rapids-mi-united-states/software-analytics-co-op_jr-0096723-1": {
+    "title": "Software Analytics Co-op",
+    "url": "https://kiongroup.wd3.myworkdayjobs.com/en-US/kiongroup/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723-1",
+    "sig": "kion|software analytics coop"
+  },
+  "https://go.vansh.nyc/h0": {
+    "title": "Business Intelligence Developer Intern",
+    "url": "https://go.vansh.nyc/h0",
+    "sig": "autoownersinsurance|business intelligence developer intern"
   }
 }
