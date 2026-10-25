@@ -32307,7 +32307,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-10-25",
-        "n": 896,
+        "n": 894,
         "nz": "2026-10-25"
       },
       "Page: Microsoft Careers": {
@@ -32338,7 +32338,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-10-25",
-        "n": 668,
+        "n": 667,
         "nz": "2026-10-25"
       },
       "Page: Lockheed Martin (search)": {
@@ -32401,7 +32401,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-25",
-        "n": 111674,
+        "n": 110758,
         "nz": "2026-10-25"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32798,7 +32798,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-25",
         "n": 1,
-        "nz": "2026-10-25"
+        "nz": "2026-10-25",
+        "err": "HTTPSConnectionPool(host='group1.com', port=443): Read timed out. (read timeout=15)",
+        "ef": "2026-10-25"
       },
       "Quant SPA: Wolverine Trading": {
         "since": "2026-10-01",
@@ -34506,7 +34508,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-25",
-        "n": 719,
+        "n": 718,
         "nz": "2026-10-25"
       },
       "Startup: Mercury": {
@@ -50048,5 +50050,10 @@
     "title": "Business Intelligence Developer Intern",
     "url": "https://go.vansh.nyc/h0",
     "sig": "autoownersinsurance|business intelligence developer intern"
+  },
+  "https://genpt.wd1.myworkdayjobs.com/en-us/careers/job/atlanta-ga-usa/product-pricing-analytics-intern---summer-2027_r26_0000035663": {
+    "title": "Product Pricing Analytics Intern - Summer 2027",
+    "url": "https://genpt.wd1.myworkdayjobs.com/en-US/Careers/job/Atlanta-GA-USA/Product-Pricing-Analytics-Intern---Summer-2027_R26_0000035663",
+    "sig": "genpt|product pricing analytics intern"
   }
 }
