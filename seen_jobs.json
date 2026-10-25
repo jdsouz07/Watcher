@@ -16272,7 +16272,8 @@
   },
   "https://apply.edisoncareers.com/job/westminster-2027-summer-internship-data-analyticsscienceapplied-math-santa-anawestminsterirvinefullerton-ca-92683-5240/1425175800/?ats=successfactors": {
     "title": "Summer Internship - Data Analytics/Science/Applied Math",
-    "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors"
+    "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors",
+    "sig": "edisoninternational|intern data analytics science applied math"
   },
   "https://apply.edisoncareers.com/job/rosemead-2027-summer-internship-data-analyticsscienceapplied-math-(pomonarosemead)-1-ca-91770/1425208900/?ats=successfactors": {
     "title": "Data Analytics Intern - Data Science/Applied Math",
@@ -32399,7 +32400,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-25",
-        "n": 111585,
+        "n": 111682,
         "nz": "2026-10-25"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32433,7 +32434,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-25",
-        "n": 2029,
+        "n": 2032,
         "nz": "2026-10-25"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32650,7 +32651,7 @@
         "ats": "greenhouse",
         "token": "point72",
         "ok": "2026-10-25",
-        "n": 211,
+        "n": 215,
         "nz": "2026-10-25"
       },
       "Quant: Qube RT": {
@@ -32906,9 +32907,7 @@
         "token": "ambergroup",
         "ok": "2026-10-25",
         "n": 3,
-        "nz": "2026-10-25",
-        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
-        "ef": "2026-10-25"
+        "nz": "2026-10-25"
       },
       "Quant/Tech: Galaxy": {
         "since": "2026-10-01",
@@ -33751,11 +33750,9 @@
       "Quant SPA: swissQuant Group": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-24",
+        "ok": "2026-10-25",
         "n": 1,
-        "nz": "2026-10-24",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-10-25"
+        "nz": "2026-10-25"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
@@ -33774,11 +33771,9 @@
       "Quant SPA: Deep Blue Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-24",
+        "ok": "2026-10-25",
         "n": 1,
-        "nz": "2026-10-24",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-10-25"
+        "nz": "2026-10-25"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33893,11 +33888,9 @@
       "Quant SPA: Qube Research & Technologies": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-23",
+        "ok": "2026-10-25",
         "n": 1,
-        "nz": "2026-10-23",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-10-24"
+        "nz": "2026-10-25"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34436,11 +34429,9 @@
       "Quant SPA: TS Imagine": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-24",
+        "ok": "2026-10-25",
         "n": 1,
-        "nz": "2026-10-24",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-10-25"
+        "nz": "2026-10-25"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
