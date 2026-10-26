@@ -1987,6 +1987,7 @@
     },
     {
       "name": "zapplyjobs research internships tracker",
+      "enabled": false,
       "ats": "github_md",
       "url": "https://raw.githubusercontent.com/zapplyjobs/Research-Internships-for-Undergraduates/main/README.md"
     },
@@ -2093,12 +2094,13 @@
     },
     {
       "name": "Quant: Old Mission",
-      "ats": "greenhouse",
-      "token": "oldmissioncapital",
+      "ats": "ashby",
+      "token": "old-mission-capital",
       "verified": true
     },
     {
       "name": "Quant: Optiver",
+      "enabled": false,
       "ats": "greenhouse",
       "token": "optiver",
       "verified": true
@@ -2159,6 +2161,7 @@
     },
     {
       "name": "Quant: Walleye",
+      "enabled": false,
       "ats": "greenhouse",
       "token": "walleyecapital",
       "verified": true
@@ -2444,7 +2447,7 @@
     {
       "name": "Startup: Apollo",
       "ats": "greenhouse",
-      "token": "apollo",
+      "token": "apolloio",
       "verified": true,
       "lane": "startup"
     },
@@ -2474,8 +2477,8 @@
     },
     {
       "name": "Startup: Kraken",
-      "ats": "lever",
-      "token": "kraken",
+      "ats": "ashby",
+      "token": "kraken.com",
       "verified": true,
       "lane": "startup"
     },
@@ -2880,8 +2883,8 @@
     },
     {
       "name": "Quant: Gridmatic",
-      "ats": "lever",
-      "token": "gridmatic",
+      "ats": "greenhouse",
+      "token": "gridmaticinc",
       "verified": true
     },
     {
@@ -5770,7 +5773,7 @@
     },
     {
       "name": "Startup: Mercury",
-      "ats": "ashby",
+      "ats": "greenhouse",
       "token": "mercury",
       "lane": "startup",
       "verified": true
@@ -5933,6 +5936,7 @@
     },
     {
       "name": "Startup: Deel",
+      "enabled": false,
       "ats": "ashby",
       "token": "deel",
       "lane": "startup",
