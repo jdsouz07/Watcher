@@ -2140,8 +2140,8 @@
     "sig": "cox|software engineering intern draper ut"
   },
   "https://cox.wd1.myworkdayjobs.com/en-us/cox_external_career_site_1/job/austin-tx/software-engineering-intern---summer-2027--austin--tx-_r202682168": {
-    "title": "Software Engineering Intern - Summer 2027 (Austin, TX)",
-    "url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168",
+    "title": "Software Engineering Intern - Summer 2027 - Austin - TX",
+    "url": "https://cox.wd1.myworkdayjobs.com/en-US/cox_external_career_site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168",
     "sig": "cox|software engineering intern austin tx"
   },
   "https://cox.wd1.myworkdayjobs.com/en-us/cox_external_career_site_1/job/atlanta-ga/data-scientist-intern---summer-2027--atlanta--ga-_r202682164": {
@@ -28124,7 +28124,7 @@
     "sig": "cisco|software engineer full stack backend ii intern united states"
   },
   "https://cisco.wd5.myworkdayjobs.com/en-us/cisco_careers/job/san-jose-california-us/software-engineer-data---ai-ii--intern----united-states_2026798": {
-    "title": "Software Engineer Data & AI II (Intern) – United States",
+    "title": "Software Engineer Data & AI II - Intern - United States",
     "url": "https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/San-Jose-California-US/Software-Engineer-Data---AI-II--Intern----United-States_2026798",
     "sig": "cisco|software engineer data ai ii intern united states"
   },
@@ -32193,7 +32193,7 @@
         "ats": "greenhouse",
         "token": "akunacapital",
         "ok": "2026-10-26",
-        "n": 38,
+        "n": 37,
         "nz": "2026-10-26"
       },
       "Hudson River Trading": {
@@ -32240,11 +32240,9 @@
         "since": "2026-10-01",
         "ats": "lever",
         "token": "ansatzcapital",
-        "ok": "2026-10-25",
+        "ok": "2026-10-26",
         "n": 5,
-        "nz": "2026-10-25",
-        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
-        "ef": "2026-10-26"
+        "nz": "2026-10-26"
       },
       "HAP Capital": {
         "since": "2026-10-01",
@@ -32285,7 +32283,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-10-26",
-        "n": 466,
+        "n": 468,
         "nz": "2026-10-26"
       },
       "OpenAI": {
@@ -32293,7 +32291,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-26",
-        "n": 791,
+        "n": 790,
         "nz": "2026-10-26"
       },
       "Anthropic": {
@@ -32309,7 +32307,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-10-26",
-        "n": 895,
+        "n": 891,
         "nz": "2026-10-26"
       },
       "Page: Microsoft Careers": {
@@ -32340,7 +32338,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-10-26",
-        "n": 669,
+        "n": 670,
         "nz": "2026-10-26"
       },
       "Page: Lockheed Martin (search)": {
@@ -32388,7 +32386,7 @@
         "ats": "greenhouse",
         "token": "flowtraders",
         "ok": "2026-10-26",
-        "n": 46,
+        "n": 44,
         "nz": "2026-10-26"
       },
       "IMC Trading": {
@@ -32403,7 +32401,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-26",
-        "n": 110684,
+        "n": 110303,
         "nz": "2026-10-26"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32430,14 +32428,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-26",
-        "n": 602,
+        "n": 600,
         "nz": "2026-10-26"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-26",
-        "n": 2058,
+        "n": 2024,
         "nz": "2026-10-26"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32533,7 +32531,7 @@
         "ats": "greenhouse",
         "token": "drweng",
         "ok": "2026-10-26",
-        "n": 164,
+        "n": 163,
         "nz": "2026-10-26"
       },
       "Quant: DV Trading": {
@@ -32565,7 +32563,7 @@
         "ats": "greenhouse",
         "token": "gsacapital",
         "ok": "2026-10-26",
-        "n": 12,
+        "n": 13,
         "nz": "2026-10-26"
       },
       "Quant: Geneva Trading": {
@@ -32613,7 +32611,7 @@
         "ats": "greenhouse",
         "token": "mangroup",
         "ok": "2026-10-26",
-        "n": 63,
+        "n": 64,
         "nz": "2026-10-26"
       },
       "Quant: Marshall Wace": {
@@ -32662,7 +32660,7 @@
         "ats": "greenhouse",
         "token": "quberesearchandtechnologies",
         "ok": "2026-10-26",
-        "n": 193,
+        "n": 192,
         "nz": "2026-10-26"
       },
       "Quant: Schonfeld": {
@@ -32972,7 +32970,7 @@
         "ats": "greenhouse",
         "token": "scaleai",
         "ok": "2026-10-26",
-        "n": 171,
+        "n": 170,
         "nz": "2026-10-26"
       },
       "Quant/Tech: Anyscale": {
@@ -33004,7 +33002,7 @@
         "ats": "ashby",
         "token": "sierra",
         "ok": "2026-10-26",
-        "n": 210,
+        "n": 211,
         "nz": "2026-10-26"
       },
       "Startup: Notion": {
@@ -33106,7 +33104,7 @@
         "ats": "greenhouse",
         "token": "mavensecuritiesholdingltd",
         "ok": "2026-10-26",
-        "n": 38,
+        "n": 37,
         "nz": "2026-10-26"
       },
       "Quant: Eagle Seven": {
@@ -33241,7 +33239,7 @@
         "ats": "greenhouse",
         "token": "gsrmarkets",
         "ok": "2026-10-26",
-        "n": 6,
+        "n": 5,
         "nz": "2026-10-26"
       },
       "Quant: Maverick Derivatives": {
@@ -33582,7 +33580,7 @@
         "ats": "greenhouse",
         "token": "picoquantitativetrading",
         "ok": "2026-10-26",
-        "n": 46,
+        "n": 43,
         "nz": "2026-10-26"
       },
       "Quant: OneChronos": {
@@ -33755,7 +33753,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-26",
         "n": 1,
-        "nz": "2026-10-26"
+        "nz": "2026-10-26",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-26"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
@@ -33776,7 +33776,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-26",
         "n": 1,
-        "nz": "2026-10-26"
+        "nz": "2026-10-26",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-26"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33893,7 +33895,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-26",
         "n": 1,
-        "nz": "2026-10-26"
+        "nz": "2026-10-26",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-26"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34434,7 +34438,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-26",
         "n": 1,
-        "nz": "2026-10-26"
+        "nz": "2026-10-26",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-26"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
@@ -34484,7 +34490,7 @@
         "ats": "greenhouse",
         "token": "figma",
         "ok": "2026-10-26",
-        "n": 139,
+        "n": 138,
         "nz": "2026-10-26"
       },
       "Startup: Discord": {
@@ -34500,7 +34506,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-26",
-        "n": 719,
+        "n": 720,
         "nz": "2026-10-26"
       },
       "Startup: Mercury": {
@@ -34539,7 +34545,7 @@
         "ats": "ashby",
         "token": "perplexity",
         "ok": "2026-10-26",
-        "n": 132,
+        "n": 131,
         "nz": "2026-10-26"
       },
       "Startup: ElevenLabs": {
@@ -34555,7 +34561,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-10-26",
-        "n": 359,
+        "n": 360,
         "nz": "2026-10-26"
       },
       "Startup: Glean": {
@@ -34563,7 +34569,7 @@
         "ats": "greenhouse",
         "token": "gleanwork",
         "ok": "2026-10-26",
-        "n": 131,
+        "n": 130,
         "nz": "2026-10-26"
       },
       "Startup: Baseten": {
@@ -34600,7 +34606,7 @@
         "ats": "ashby",
         "token": "supabase",
         "ok": "2026-10-26",
-        "n": 61,
+        "n": 62,
         "nz": "2026-10-26"
       },
       "Startup: Clerk": {
@@ -38497,7 +38503,7 @@
     "sig": "philips|intern full stack developer in finance domain"
   },
   "https://moog.wd5.myworkdayjobs.com/en-us/moog_external_career_site/job/mineral-wells-tx/intern--software-engineering_r-26-19965": {
-    "title": "Intern, Software Engineering",
+    "title": "Intern - Software Engineering",
     "url": "https://moog.wd5.myworkdayjobs.com/en-US/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965",
     "sig": "moog|intern software engineering"
   },
@@ -50112,5 +50118,80 @@
     "title": "Data & Analytics Intern",
     "url": "https://fticonsulting.wd108.myworkdayjobs.com/FTIConsultingCareers/job/London-United-Kingdom/XMLNAME-2027-Summer-Internship--Data---Analytics_JR260771",
     "sig": "fticonsulting|data analytics intern"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/switzerland-zurich/genai-algorithms-intern---model-optimization-for-inference_jr2028597": {
+    "title": "GenAI Algorithms Intern – Model Optimization for Inference",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GenAI-Algorithms-Intern---Model-Optimization-for-Inference_JR2028597",
+    "sig": "nvidia|genai algorithms intern model optimization for inference"
+  },
+  "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/france-courbevoie/software-engineering-intern--developer-tools---2027_jr2028209": {
+    "title": "Software Engineering Intern, Developer Tools - 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/France-Courbevoie/Software-Engineering-Intern--Developer-Tools---2027_JR2028209",
+    "sig": "nvidia|software engineering intern developer tools"
+  },
+  "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/united-kingdom-london/games-research-operations-intern_r108306": {
+    "title": "Games Research Operations Intern",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/United-Kingdom-London/Games-Research-Operations-Intern_R108306",
+    "sig": "tencent|games research operations intern"
+  },
+  "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/singapore-capitasky/site-reliability-engineer-intern_r108288": {
+    "title": "Site Reliability Engineer Intern",
+    "url": "https://tencent.wd1.myworkdayjobs.com/en-US/Tencent_Careers/job/Singapore-CapitaSky/Site-Reliability-Engineer-Intern_R108288",
+    "sig": "tencent|site reliability engineer intern"
+  },
+  "https://pwc.wd3.myworkdayjobs.com/en-us/global_campus_careers/job/hanoi/intern--cybersecurity---privacy-services--data-privacy-focus-_769911wd": {
+    "title": "Intern, Cybersecurity & Privacy Services (Data privacy focus)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Hanoi/Intern--Cybersecurity---Privacy-Services--Data-privacy-focus-_769911WD",
+    "sig": "pwc|intern cybersecurity privacy services data privacy focus"
+  },
+  "https://pwc.wd3.myworkdayjobs.com/en-us/global_campus_careers/job/hanoi/intern--cybersecurity--penetration-testing-_769919wd": {
+    "title": "Intern, Cybersecurity (Penetration Testing)",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/Global_Campus_Careers/job/Hanoi/Intern--Cybersecurity--Penetration-Testing-_769919WD",
+    "sig": "pwc|intern cybersecurity penetration testing"
+  },
+  "https://sanofi.wd3.myworkdayjobs.com/en-us/sanoficareers/job/guangzhou/cv-t-commercial-intern-_r2875331": {
+    "title": "CV&T-Commercial Intern-广州",
+    "url": "https://sanofi.wd3.myworkdayjobs.com/en-US/SanofiCareers/job/Guangzhou/CV-T-Commercial-Intern-_R2875331",
+    "sig": "sanofi|cv t commercial intern"
+  },
+  "https://fticonsulting.wd108.myworkdayjobs.com/en-us/fticonsultingcareersprivate/job/singapore-singapore/intern--forensic-accounting_jr261677": {
+    "title": "Intern, Forensic Accounting",
+    "url": "https://fticonsulting.wd108.myworkdayjobs.com/en-US/FTIConsultingCareersPrivate/job/Singapore-Singapore/Intern--Forensic-Accounting_JR261677",
+    "sig": "fticonsulting|intern forensic accounting"
+  },
+  "https://richemont.wd3.myworkdayjobs.com/en-us/richemont/job/galliate-lombardo/product-development-intern_jr135269": {
+    "title": "Product Development Intern",
+    "url": "https://richemont.wd3.myworkdayjobs.com/en-US/richemont/job/GALLIATE-LOMBARDO/Product-Development-Intern_JR135269",
+    "sig": "richemont|product development intern"
+  },
+  "https://ecolab.wd1.myworkdayjobs.com/en-us/ecolab_external/job/che---solothurn---witterswil/hydraulic-modelling-and-simulation-intern-100---m-f-d_r00308918": {
+    "title": "Hydraulic Modelling and Simulation Intern 100% (m/f/d",
+    "url": "https://ecolab.wd1.myworkdayjobs.com/en-US/ecolab_external/job/CHE---Solothurn---Witterswil/Hydraulic-Modelling-and-Simulation-Intern-100---m-f-d_R00308918",
+    "sig": "ecolab|hydraulic modelling and simulation intern 100 m f d"
+  },
+  "https://ecolab.wd1.myworkdayjobs.com/en-us/ecolab_external/job/che---solothurn---witterswil/industrial-scada-application-development-intern-100---m-f-d-_r00308915": {
+    "title": "Industrial SCADA Application Development Intern 100% (m/f/d)",
+    "url": "https://ecolab.wd1.myworkdayjobs.com/en-US/ecolab_external/job/CHE---Solothurn---Witterswil/Industrial-SCADA-Application-Development-Intern-100---m-f-d-_R00308915",
+    "sig": "ecolab|industrial scada application development intern 100 m f d"
+  },
+  "https://ecolab.wd1.myworkdayjobs.com/en-us/ecolab_external/job/che---solothurn---witterswil/plc-application-development-intern-100---m-f-d_r00308919-1": {
+    "title": "PLC Application Development Intern 100% (m/f/d",
+    "url": "https://ecolab.wd1.myworkdayjobs.com/en-US/ecolab_external/job/CHE---Solothurn---Witterswil/PLC-Application-Development-Intern-100---m-f-d_R00308919-1",
+    "sig": "ecolab|plc application development intern 100 m f d"
+  },
+  "https://ingredion.wd1.myworkdayjobs.com/en-us/ingredioncareers/job/singapore/corporate-development---strategy-intern_req-40734": {
+    "title": "Corporate Development & Strategy Intern",
+    "url": "https://ingredion.wd1.myworkdayjobs.com/en-US/IngredionCareers/job/Singapore/Corporate-Development---Strategy-Intern_Req-40734",
+    "sig": "ingredion|corporate development strategy intern"
+  },
+  "https://go.vansh.nyc/bo": {
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://go.vansh.nyc/BO",
+    "sig": "adobe|machine learning engineer intern"
+  },
+  "https://go.vansh.nyc/bt": {
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/BT",
+    "sig": "deltadentalofmissouri|data science intern"
   }
 }
