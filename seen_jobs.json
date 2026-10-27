@@ -32297,7 +32297,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-27",
-        "n": 795,
+        "n": 796,
         "nz": "2026-10-27"
       },
       "Anthropic": {
@@ -32313,7 +32313,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-10-27",
-        "n": 896,
+        "n": 899,
         "nz": "2026-10-27"
       },
       "Page: Microsoft Careers": {
@@ -32328,7 +32328,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-27",
-        "n": 2504,
+        "n": 2505,
         "nz": "2026-10-27"
       },
       "Palantir": {
@@ -32344,7 +32344,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-10-27",
-        "n": 663,
+        "n": 664,
         "nz": "2026-10-27"
       },
       "Page: Lockheed Martin (search)": {
@@ -32407,7 +32407,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-27",
-        "n": 111407,
+        "n": 111375,
         "nz": "2026-10-27"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32434,21 +32434,21 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-27",
-        "n": 1160,
+        "n": 1158,
         "nz": "2026-10-27"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-27",
-        "n": 2069,
+        "n": 2099,
         "nz": "2026-10-27"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
         "since": "2026-10-01",
         "ats": "nuft",
         "ok": "2026-10-27",
-        "n": 124,
+        "n": 123,
         "nz": "2026-10-27"
       },
       "Startup: YC events": {
@@ -32704,7 +32704,7 @@
         "ats": "greenhouse",
         "token": "virtu",
         "ok": "2026-10-27",
-        "n": 47,
+        "n": 46,
         "nz": "2026-10-27"
       },
       "Quant: Voloridge": {
@@ -32904,7 +32904,7 @@
         "ats": "greenhouse",
         "token": "apolloio",
         "ok": "2026-10-27",
-        "n": 53,
+        "n": 54,
         "nz": "2026-10-27"
       },
       "Quant/Tech: Amber Group": {
@@ -34479,7 +34479,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-10-27",
-        "n": 427,
+        "n": 428,
         "nz": "2026-10-27"
       },
       "Startup: Figma": {
@@ -34487,7 +34487,7 @@
         "ats": "greenhouse",
         "token": "figma",
         "ok": "2026-10-27",
-        "n": 140,
+        "n": 141,
         "nz": "2026-10-27"
       },
       "Startup: Discord": {
@@ -34503,7 +34503,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-27",
-        "n": 712,
+        "n": 711,
         "nz": "2026-10-27"
       },
       "Startup: Mercury": {
@@ -34519,7 +34519,7 @@
         "ats": "ashby",
         "token": "linear",
         "ok": "2026-10-27",
-        "n": 33,
+        "n": 32,
         "nz": "2026-10-27"
       },
       "Startup: Vanta": {
@@ -34543,7 +34543,7 @@
         "ats": "ashby",
         "token": "perplexity",
         "ok": "2026-10-27",
-        "n": 131,
+        "n": 132,
         "nz": "2026-10-27"
       },
       "Startup: ElevenLabs": {
@@ -34559,7 +34559,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-10-27",
-        "n": 366,
+        "n": 365,
         "nz": "2026-10-27"
       },
       "Startup: Glean": {
@@ -35476,12 +35476,12 @@
     "sig": "sas|software development and testing intern"
   },
   "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d": {
-    "title": "Software Engineering Intern (Summer 2027)",
+    "title": "Software Engineering Intern - Summer 2027",
     "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d",
     "sig": "harvey|software engineering intern"
   },
   "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7": {
-    "title": "Software Engineering Intern (Summer 2027)",
+    "title": "Software Engineering Intern - Summer 2027",
     "url": "https://jobs.ashbyhq.com/harvey/3a34578d-d42e-45bb-ac5c-0c3357e8cbb7",
     "sig": "harvey|software engineering intern"
   },
@@ -45583,8 +45583,8 @@
     "sig": "boschgroup|data analytics ai support intern"
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/atlanta-georgia/summer-2027-software-engineer---cloud-security-summer-internship_req379190": {
-    "title": "Summer 2027 Software Engineer – Cloud Security Summer Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190",
+    "title": "Summer 2027 Software Engineer - Cloud Security Summer Internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-Software-Engineer---Cloud-Security-Summer-Internship_REQ379190",
     "sig": "tmobile|software engineer cloud security intern"
   },
   "https://jobs.smartrecruiters.com/westerndigital/744000156706399": {
@@ -47174,7 +47174,7 @@
     "sig": "qualcomm|ai and dsp applications engineer intern"
   },
   "https://ngc.wd1.myworkdayjobs.com/northrop_grumman_external_site/job/united-states-virginia-dulles/xmlname-2027-systems-engineering-internship--ai-experience----dulles-va_r10257423": {
-    "title": "Systems Engineering Intern, AI Experience",
+    "title": "Systems Engineering Intern - AI Experience",
     "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
     "sig": "northropgrumman|systems engineering intern ai experience"
   },
@@ -49352,9 +49352,9 @@
     "sig": "aerospace|hardware security engineering intern"
   },
   "https://go.vansh.nyc/dw": {
-    "title": "Software Engineer Intern, Cloud Security",
-    "url": "https://go.vansh.nyc/dw",
-    "sig": "tmobile|software engineer intern cloud security"
+    "title": "Software Engineer Student Intern, Product Engineering",
+    "url": "https://go.vansh.nyc/dW",
+    "sig": "johndeere|software engineer student intern product engineering"
   },
   "https://go.vansh.nyc/dy": {
     "title": "Optical Algorithms and Analytics Engineering Co-op",
@@ -51723,9 +51723,9 @@
     "sig": "highmarkhealth|software engineer engen graduate intern"
   },
   "https://jobs.smartrecruiters.com/wise/744000157817979": {
-    "title": "Software Engineering Intern",
+    "title": "Software Engineer Intern",
     "url": "https://jobs.smartrecruiters.com/Wise/744000157817979",
-    "sig": "wise|software engineering intern"
+    "sig": "wise|software engineer intern"
   },
   "https://hpe.wd5.myworkdayjobs.com/en-us/jobsathpe/job/san-jose-california/ai-ml-developer-intern_1217413": {
     "title": "AI/ML Developer Intern",
@@ -51990,5 +51990,125 @@
     "title": "Predictive Modeling & Data Science Graduate Intern",
     "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Predictive-Modeling---Data-Science-Graduate-Intern_J288333",
     "sig": "highmarkhealth|predictive modeling data science graduate intern"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-112--400-collins-rd-ne--bldg-112/xmlname-2027-summer-intern--systems-engineering---onsite_01881739": {
+    "title": "2027 Summer Intern: Systems Engineering - Onsite",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-112--400-Collins-Rd-NE--BLDG-112/XMLNAME-2027-Summer-Intern--Systems-Engineering---Onsite_01881739",
+    "sig": "rtx|intern systems engineering onsite"
+  },
+  "https://motorolasolutions.wd5.myworkdayjobs.com/en-us/careers/job/penang-malaysia/pricing---analytics-intern_r70031": {
+    "title": "Pricing & Analytics Intern",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Penang-Malaysia/Pricing---Analytics-Intern_R70031",
+    "sig": "motorolasolutions|pricing analytics intern"
+  },
+  "https://visa.wd5.myworkdayjobs.com/en-us/visa/job/us---foster-city-ca/business-strategy-intern--data-and-ai-team---summer-2027_ref089884w-2": {
+    "title": "Business Strategy Intern, Data and AI Team - Summer 2027",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2",
+    "sig": "visa|business strategy intern data and ai team"
+  },
+  "https://visa.wd5.myworkdayjobs.com/en-us/visa/job/us---foster-city-ca/data-science-intern--data-and-ai-team---summer-2027_ref089883w-1": {
+    "title": "Data Science Intern, Data and AI Team – Summer 2027",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1",
+    "sig": "visa|data science intern data and ai team"
+  },
+  "https://visa.wd5.myworkdayjobs.com/en-us/visa/job/us---foster-city-ca/product-management-intern--data-and-ai-team---summer-2027_ref089881w-1": {
+    "title": "Product Management Intern, Data and AI Team - Summer 2027",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1",
+    "sig": "visa|product management intern data and ai team"
+  },
+  "https://visa.wd5.myworkdayjobs.com/en-us/visa/job/us---atlanta-ga/consulting---analytics-intern---summer-2027_ref089900w": {
+    "title": "Consulting & Analytics Intern - Summer 2027",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/Visa/job/US---Atlanta-GA/Consulting---Analytics-Intern---Summer-2027_REF089900W",
+    "sig": "visa|consulting analytics intern"
+  },
+  "https://ing.wd3.myworkdayjobs.com/en-us/icsgblcor/job/singapore/intern--finance-data---analytics_req-10123860": {
+    "title": "Intern, Finance Data & Analytics",
+    "url": "https://ing.wd3.myworkdayjobs.com/en-US/icsgblcor/job/Singapore/Intern--Finance-Data---Analytics_REQ-10123860",
+    "sig": "ing|intern finance data analytics"
+  },
+  "https://job-boards.greenhouse.io/hpiq/jobs/6116396004": {
+    "title": "Electrical Engineering Intern, Hardware (Summer 2027)",
+    "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116396004",
+    "sig": "hpiq|electrical engineering intern hardware"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5": {
+    "title": "Safety & Systems Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/058e3b3a-dd13-4736-84a8-b19d5de2c9f5",
+    "sig": "auroraoperations|safety systems engineering intern"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9": {
+    "title": "Full Stack Intern",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9",
+    "sig": "auroraoperations|full stack intern"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd": {
+    "title": "Simulation Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd",
+    "sig": "auroraoperations|simulation engineering intern"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4": {
+    "title": "Behavior & Planning (ML Research) Intern",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4",
+    "sig": "auroraoperations|behavior planning ml research intern"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c": {
+    "title": "AI Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c",
+    "sig": "auroraoperations|ai engineer intern"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12": {
+    "title": "Core Autonomy Software (C++) Intern",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12",
+    "sig": "auroraoperations|core autonomy software c++ intern"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0": {
+    "title": "Data & ML Platform Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0",
+    "sig": "auroraoperations|data ml platform engineering intern"
+  },
+  "https://go.vansh.nyc/ud": {
+    "title": "R&D Product Systems Intern",
+    "url": "https://go.vansh.nyc/UD",
+    "sig": "sherwinwilliams|r d product systems intern"
+  },
+  "https://go.vansh.nyc/uf": {
+    "title": "Cyber Risk Management Analyst Undergraduate Intern",
+    "url": "https://go.vansh.nyc/UF",
+    "sig": "highmarkhealth|cyber risk management analyst undergraduate intern"
+  },
+  "https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply": {
+    "title": "Research Scientist Intern",
+    "url": "https://jobs.lever.co/saviynt/183188c3-c043-4f91-b3f0-30ec4961f4c7/apply",
+    "sig": "saviynt|research scientist intern"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/688f13a4-2cc4-4f3f-a5b4-0056bc580224/application?embed=true": {
+    "title": "Perception & Mapping Intern",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/688f13a4-2cc4-4f3f-a5b4-0056bc580224/application?embed=true",
+    "sig": "aurorainnovation|perception mapping intern"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true": {
+    "title": "Core Autonomy Software Intern - C++",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/c823b343-ba1f-4ff3-84ce-965ee9952c12/application?embed=true",
+    "sig": "aurorainnovation|core autonomy software intern c++"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true": {
+    "title": "Full Stack Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9/application?embed=true",
+    "sig": "aurorainnovation|full stack engineer intern"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true": {
+    "title": "Behavior and Planning Intern - ML Research",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4/application?embed=true",
+    "sig": "aurorainnovation|behavior and planning intern ml research"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true": {
+    "title": "Simulation Engineering Intern",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/f63bb8e2-9ead-4322-beb9-4bcbdbbe14bd/application?embed=true",
+    "sig": "aurorainnovation|simulation engineering intern"
+  },
+  "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true": {
+    "title": "Data & ML Platform Engineer Intern",
+    "url": "https://jobs.ashbyhq.com/aurora-operations-inc/da4c8e2e-0571-4503-94d9-234da86f83b0/application?embed=true",
+    "sig": "aurorainnovation|data ml platform engineer intern"
   }
 }
