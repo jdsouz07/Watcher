@@ -32342,7 +32342,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-10-31",
-        "n": 2567,
+        "n": 2562,
         "nz": "2026-10-31"
       },
       "Palantir": {
@@ -32350,7 +32350,7 @@
         "ats": "lever",
         "token": "palantir",
         "ok": "2026-10-31",
-        "n": 299,
+        "n": 301,
         "nz": "2026-10-31"
       },
       "Shield AI": {
@@ -32359,9 +32359,7 @@
         "token": "shieldai",
         "ok": "2026-10-31",
         "n": 655,
-        "nz": "2026-10-31",
-        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
-        "ef": "2026-10-31"
+        "nz": "2026-10-31"
       },
       "Page: Lockheed Martin (search)": {
         "since": "2026-10-01",
@@ -32423,7 +32421,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-31",
-        "n": 111423,
+        "n": 110688,
         "nz": "2026-10-31"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32443,14 +32441,14 @@
         "since": "2026-10-01",
         "ats": "github_md",
         "ok": "2026-10-31",
-        "n": 850,
+        "n": 848,
         "nz": "2026-10-31"
       },
       "Tracker: vanshb03 Summer2027": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-31",
-        "n": 1276,
+        "n": 1283,
         "nz": "2026-10-31"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
@@ -32818,9 +32816,7 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31",
-        "err": "HTTPSConnectionPool(host='group1.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(ho",
-        "ef": "2026-10-31"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Wolverine Trading": {
         "since": "2026-10-01",
@@ -32970,7 +32966,7 @@
         "ats": "ashby",
         "token": "ramp",
         "ok": "2026-10-31",
-        "n": 171,
+        "n": 172,
         "nz": "2026-10-31"
       },
       "Quant/Tech: Modal Labs": {
@@ -33478,7 +33474,9 @@
         "token": "kpler",
         "ok": "2026-10-31",
         "n": 103,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
+        "ef": "2026-10-31"
       },
       "Quant: Onyx Capital Group": {
         "since": "2026-10-01",
@@ -33678,18 +33676,14 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31",
-        "err": "403 Client Error: Forbidden for url: https://volanttrading.com/",
-        "ef": "2026-10-31"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Archelon": {
         "since": "2026-10-01",
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31",
-        "err": "403 Client Error: Forbidden for url: https://www.archelon-group.com/",
-        "ef": "2026-10-31"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Bluefin Capital Management": {
         "since": "2026-10-01",
@@ -33752,9 +33746,7 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31",
-        "err": "403 Client Error: Forbidden for url: https://www.fulcrumasset.com/",
-        "ef": "2026-10-31"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Flowdesk": {
         "since": "2026-10-01",
@@ -33780,11 +33772,9 @@
       "Quant SPA: swissQuant Group": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
@@ -33803,11 +33793,9 @@
       "Quant SPA: Deep Blue Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-27",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-27",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-10-27"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33922,11 +33910,9 @@
       "Quant SPA: Qube Research & Technologies": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34007,9 +33993,7 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31",
-        "err": "HTTPSConnectionPool(host='www.bostonenergygroup.com', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HT",
-        "ef": "2026-10-31"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Statar Capital": {
         "since": "2026-10-01",
@@ -34387,9 +34371,7 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31",
-        "err": "403 Client Error: Forbidden for url: https://weareadaptive.com/careers/",
-        "ef": "2026-10-31"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Beacon Platform": {
         "since": "2026-10-01",
@@ -34469,11 +34451,9 @@
       "Quant SPA: TS Imagine": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
@@ -34500,9 +34480,7 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31",
-        "err": "403 Client Error: Forbidden for url: https://www.genevatrading.com/careers-open-positions/",
-        "ef": "2026-10-31"
+        "nz": "2026-10-31"
       },
       "Cyber: Cloudflare": {
         "since": "2026-10-01",
@@ -34541,7 +34519,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-10-31",
-        "n": 746,
+        "n": 745,
         "nz": "2026-10-31"
       },
       "Startup: Mercury": {
@@ -45651,7 +45629,7 @@
     "sig": "paconsulting|intern digital digital trust cyber security london"
   },
   "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3": {
-    "title": "Embedded Software Engineer, 2027 Internship",
+    "title": "Embedded Software Engineer - 2027 Internship",
     "url": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3",
     "sig": "humblerobotics|embedded software engineer intern"
   },
@@ -48082,9 +48060,9 @@
     "sig": "accenture|talent pool buda job fair c# developer intern manufacturing area"
   },
   "https://asml.wd3.myworkdayjobs.com/en-us/asmlext1/job/san-jose-ca-usa/platform-software-engineer-in-test---internship-_j-00354558": {
-    "title": "Internship- Platform Software Engineer In Test",
+    "title": "Platform Software Engineer In Test - Internship",
     "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558",
-    "sig": "asml|intern platform software engineer in test"
+    "sig": "asml|platform software engineer in test intern"
   },
   "https://firstnational.wd12.myworkdayjobs.com/en-us/fnbocareers/job/omaha---fn-tower/summer-2027---web-content---ux-design-intern_r-20261894": {
     "title": "Summer 2027 - Web Content & UX Design Intern (Omaha, NE)",
@@ -54728,14 +54706,14 @@
     "sig": "nintendo|intern software engineer multimedia ntd"
   },
   "https://careers.nintendo.com/?gh_jid=4469762009": {
-    "title": "Intern - Software Engineer - CPU Profiler - NTD",
+    "title": "Software Engineer Intern, CPU Profiler",
     "url": "https://careers.nintendo.com/?gh_jid=4469762009",
-    "sig": "nintendo|intern software engineer cpu profiler ntd"
+    "sig": "nintendo|software engineer intern cpu profiler"
   },
   "https://careers.nintendo.com/?gh_jid=4471972009": {
-    "title": "Intern - Software Engineer - CPU Debugger - NTD",
+    "title": "Software Engineer Intern, CPU Debugger",
     "url": "https://careers.nintendo.com/?gh_jid=4471972009",
-    "sig": "nintendo|intern software engineer cpu debugger ntd"
+    "sig": "nintendo|software engineer intern cpu debugger"
   },
   "https://dtna.wd5.myworkdayjobs.com/en-us/dtna_external/job/portland-or-us/software-release-management-intern_dt-20432": {
     "title": "Software Release Management Intern",
@@ -56259,5 +56237,70 @@
     "title": "Underwriting Data & Analytics Intern",
     "url": "https://careers.axa.com/jobs/25498?icims=1",
     "sig": "axa|underwriting data analytics intern"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/en-us/cmu/job/pittsburgh-pa/agentic-development-intern_2025292": {
+    "title": "Agentic Development Intern",
+    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Agentic-Development-Intern_2025292",
+    "sig": "cmu|agentic development intern"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/en-us/cmu/job/pittsburgh-pa/cyber-range-development-intern_2025291": {
+    "title": "Cyber Range Development Intern",
+    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Cyber-Range-Development-Intern_2025291",
+    "sig": "cmu|cyber range development intern"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/en-us/cmu/job/pittsburgh-pa/full-stack-software-development-intern_2025287-1": {
+    "title": "Full-Stack Software Development Intern",
+    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/cmu/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-1",
+    "sig": "cmu|full stack software development intern"
+  },
+  "https://careers.nintendo.com/?gh_jid=4473550009": {
+    "title": "Intern - Software Engineer - Graphics - NTD",
+    "url": "https://careers.nintendo.com/?gh_jid=4473550009",
+    "sig": "nintendo|intern software engineer graphics ntd"
+  },
+  "https://careers.nintendo.com/?gh_jid=4473568009": {
+    "title": "Intern - Software Engineer - Performance Tools - NTD",
+    "url": "https://careers.nintendo.com/?gh_jid=4473568009",
+    "sig": "nintendo|intern software engineer performance tools ntd"
+  },
+  "https://cmu.wd115.myworkdayjobs.com/en-us/sei/job/pittsburgh-pa/full-stack-software-development-intern_2025287-2": {
+    "title": "Full-Stack Software Development Intern",
+    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2",
+    "sig": "carnegiemellonuniversity|full stack software development intern"
+  },
+  "https://hpe.wd5.myworkdayjobs.com/en-us/jobsathpe/job/sunnyvale-california-united-states-of-america/software-engineering-intern_1214146": {
+    "title": "Software Engineering Intern",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/jobsathpe/job/Sunnyvale-California-United-States-of-America/Software-Engineering-Intern_1214146",
+    "sig": "hewlettpackardenterprise|software engineering intern"
+  },
+  "https://otto-engineering-inc.breezy.hr/p/c0fdaec6842c-embedded-software-intern-communications-summer-2027": {
+    "title": "Embedded Software Intern - Communications - Summer 2027",
+    "url": "https://otto-engineering-inc.breezy.hr/p/c0fdaec6842c-embedded-software-intern-communications-summer-2027",
+    "sig": "ottoengineering|embedded software intern communications"
+  },
+  "https://hp.wd5.myworkdayjobs.com/en-us/externalcareersite/job/san-francisco-california-united-states-of-america/software-engineering-intern---hp-iq_uni4806-1": {
+    "title": "Software Engineering Intern - HP IQ",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1",
+    "sig": "hp|software engineering intern hp iq"
+  },
+  "https://hp.wd5.myworkdayjobs.com/en-us/externalcareersite/job/san-francisco-california-united-states-of-america/software-quality-assurance-intern_uni4802-1": {
+    "title": "Software Quality Assurance Intern",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4802-1",
+    "sig": "hp|software quality assurance intern"
+  },
+  "https://visa.wd5.myworkdayjobs.com/en-us/visa_early_careers/job/us---foster-city-ca/xmlname-2027-sophomore-internship-program---software-engineer-intern--foster-city_ref089919w": {
+    "title": "2027 Sophomore Internship Program - Software Engineer Intern - Foster City",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF089919W",
+    "sig": "visa|sophomore intern program software engineer intern foster city"
+  },
+  "https://visa.wd5.myworkdayjobs.com/en-us/visa_early_careers/job/us---bellevue-wa/xmlname-2027-sophomore-internship-program---software-engineer-intern--bellevue_ref089920w-1": {
+    "title": "2027 Sophomore Internship Program - Software Engineer Intern - Bellevue",
+    "url": "https://visa.wd5.myworkdayjobs.com/en-US/visa_early_careers/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF089920W-1",
+    "sig": "visa|sophomore intern program software engineer intern bellevue"
+  },
+  "https://careers.nintendo.com/?gh_jid=4472002009": {
+    "title": "Software Engineer Intern, DevOps",
+    "url": "https://careers.nintendo.com/?gh_jid=4472002009",
+    "sig": "nintendo|software engineer intern devops"
   }
 }
