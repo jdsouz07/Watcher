@@ -267,7 +267,7 @@
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--systems-software-engineering_jr2023492": {
     "title": "NVIDIA 2027 Internships: Systems Software Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
     "sig": "nvidia|nvidia intern systems software engineering"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--autonomous-vehicles-and-robotics_jr2023496": {
@@ -282,7 +282,7 @@
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--software-engineering_jr2023495": {
     "title": "NVIDIA 2027 Internships: Software Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
     "sig": "nvidia|nvidia intern software engineering"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning_jr2023497-1": {
@@ -21552,7 +21552,8 @@
   },
   "https://aero.wd5.myworkdayjobs.com/en-us/external/job/el-segundo-ca/xmlname-2027-formal-methods-researcher-graduate-intern_r016552": {
     "title": "2027 Formal Methods Researcher Graduate Intern",
-    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Formal-Methods-Researcher-Graduate-Intern_R016552"
+    "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/El-Segundo-CA/XMLNAME-2027-Formal-Methods-Researcher-Graduate-Intern_R016552",
+    "sig": "aero|formal methods researcher graduate intern"
   },
   "https://wexinc.wd5.myworkdayjobs.com/en-us/wexinc/job/us---remote/data---ai-intern--graduate-master-s-_r22551": {
     "title": "Data & AI Intern",
@@ -27086,17 +27087,17 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/shanghai-china/software-engineering-intern_2641426": {
     "title": "Software Engineering Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Shanghai-China/Software-Engineering-Intern_2641426",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Shanghai-China/Software-Engineering-Intern_2641426",
     "sig": "kla|software engineering intern"
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/software-engineering-intern--c----unix-_2641325-1": {
     "title": "Software Engineering Intern (C++, Unix)",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1",
     "sig": "kla|software engineering intern c++ unix"
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/algorithm-engineering-intern--ai--computer-vision---software-engineering-_2641392-2": {
     "title": "Algorithm Engineering Intern (AI, Computer Vision & Software Engineering)",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2",
     "sig": "kla|algorithm engineering intern ai computer vision software engineering"
   },
   "https://jobs.smartrecruiters.com/westerndigital/744000151235109": {
@@ -31258,22 +31259,22 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/software-engineering-intern_2641581-1": {
     "title": "Software Engineering Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern_2641581-1",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern_2641581-1",
     "sig": "kla|software engineering intern"
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/product-development-engineer-intern_2641772-2": {
     "title": "Product Development Engineer Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641772-2",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641772-2",
     "sig": "kla|product development engineer intern"
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/product-development-engineer-intern_2641521-1": {
     "title": "Product Development Engineer Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Product-Development-Engineer-Intern_2641521-1",
     "sig": "kla|product development engineer intern"
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/product-development-engineering-intern_2641562-1": {
     "title": "Product Development Engineering Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Product-Development-Engineering-Intern_2641562-1",
     "sig": "kla|product development engineering intern"
   },
   "https://quickenloans.wd5.myworkdayjobs.com/en-us/rocket_careers/job/detroit-mi/ux-research-intern---summer-2027_r-084610": {
@@ -31444,7 +31445,7 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/mechatronics-systems-engineering-internship_2641532-1": {
     "title": "Mechatronics/Systems Engineering Internship",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1",
     "sig": "kla|mechatronics systems engineering intern"
   },
   "https://sonyglobal.wd1.myworkdayjobs.com/en-us/sonyglobalcareers/job/lysaker/firmware-design---summer-internship_jr-119579-1": {
@@ -32186,73 +32187,73 @@
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "aquaticcapitalmanagement",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 12,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Tudor Investment Group": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "tudorgroup",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 5,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Blackedge Capital": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "blackedgecapital",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 3,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Akuna Capital": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "akunacapital",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 32,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Hudson River Trading": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "wehrtyou",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 85,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Optiver (US)": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "optiverus",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 158,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Optiver (Campus)": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "optiverprivate",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 8,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Walleye (Quantic)": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "walleyecapital-external-students",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "TransMarket Group": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "transmarketgroup",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 17,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Ansatz Capital": {
         "since": "2026-10-01",
@@ -32260,120 +32261,120 @@
         "token": "ansatzcapital",
         "ok": "2026-10-30",
         "n": 5,
-        "nz": "2026-10-30"
+        "nz": "2026-10-30",
+        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
+        "ef": "2026-10-31"
       },
       "HAP Capital": {
         "since": "2026-10-01",
         "ats": "lever",
         "token": "hap-capital",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 0
       },
       "Arrowstreet Capital": {
         "since": "2026-10-01",
         "ats": "workday",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 6,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "NVIDIA": {
         "since": "2026-10-01",
         "ats": "workday",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 500,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "RTX (Raytheon)": {
         "since": "2026-10-01",
         "ats": "workday",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 500,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Northrop Grumman": {
         "since": "2026-10-01",
         "ats": "workday",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 500,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Amazon (AWS / Robotics / all)": {
         "since": "2026-10-01",
         "ats": "amazon",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 466,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "OpenAI": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "openai",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 815,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Anthropic": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "anthropic",
-        "ok": "2026-10-30",
-        "n": 676,
-        "nz": "2026-10-30"
+        "ok": "2026-10-31",
+        "n": 675,
+        "nz": "2026-10-31"
       },
       "Databricks": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "databricks",
-        "ok": "2026-10-30",
-        "n": 902,
-        "nz": "2026-10-30"
+        "ok": "2026-10-31",
+        "n": 901,
+        "nz": "2026-10-31"
       },
       "Page: Microsoft Careers": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Anduril": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "andurilindustries",
-        "ok": "2026-10-30",
-        "n": 2559,
-        "nz": "2026-10-30"
+        "ok": "2026-10-31",
+        "n": 2567,
+        "nz": "2026-10-31"
       },
       "Palantir": {
         "since": "2026-10-01",
         "ats": "lever",
         "token": "palantir",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 299,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Shield AI": {
         "since": "2026-10-01",
         "ats": "lever",
         "token": "shieldai",
-        "ok": "2026-10-30",
-        "n": 654,
-        "nz": "2026-10-30",
-        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
-        "ef": "2026-10-30"
+        "ok": "2026-10-31",
+        "n": 655,
+        "nz": "2026-10-31"
       },
       "Page: Lockheed Martin (search)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Page: L3Harris (new grads & interns)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Page: Leidos careers": {
         "since": "2026-10-01",
@@ -32384,9 +32385,9 @@
       "Page: Booz Allen careers": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Page: General Dynamics Mission Systems": {
         "since": "2026-10-01",
@@ -32397,32 +32398,32 @@
       "Page: GTRI student assistant roles": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Flow Traders": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "flowtraders",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 48,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "IMC Trading": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "imc",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 168,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "AUTO-DISCOVER (all boards found in trackers)": {
         "since": "2026-10-01",
         "ats": "autodiscover",
-        "ok": "2026-10-30",
-        "n": 111855,
-        "nz": "2026-10-30"
+        "ok": "2026-10-31",
+        "n": 111427,
+        "nz": "2026-10-31"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
         "since": "2026-10-01",
@@ -32433,37 +32434,37 @@
       "Tracker: sndsh404 Summer2027 (quant-heavy)": {
         "since": "2026-10-01",
         "ats": "github_md",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 137,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Tracker: speedyapply 2027 SWE (US)": {
         "since": "2026-10-01",
         "ats": "github_md",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 850,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Tracker: vanshb03 Summer2027": {
         "since": "2026-10-01",
         "ats": "github_json",
-        "ok": "2026-10-30",
-        "n": 1275,
-        "nz": "2026-10-30"
+        "ok": "2026-10-31",
+        "n": 1297,
+        "nz": "2026-10-31"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
-        "ok": "2026-10-30",
-        "n": 2154,
-        "nz": "2026-10-30"
+        "ok": "2026-10-31",
+        "n": 2191,
+        "nz": "2026-10-31"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
         "since": "2026-10-01",
         "ats": "nuft",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 124,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: YC events": {
         "since": "2026-10-01",
@@ -32474,17 +32475,17 @@
       "Trackers: underclassmen + research programs (zapplyjobs, JGCL)": {
         "since": "2026-10-01",
         "ats": "github_md",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 5,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Da Vinci Derivatives (Amsterdam quant)": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "davinciderivatives",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 17,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Bessemer Fellows (relaunch detector)": {
         "since": "2026-10-01",
@@ -32497,9 +32498,9 @@
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "kleinerperkinsfellows",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 2,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "zapplyjobs research internships tracker": {
         "since": "2026-10-01",
@@ -32510,135 +32511,135 @@
       "underclassmen opportunities (deadlines)": {
         "since": "2026-10-01",
         "ats": "github_md",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 134,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: 3Red Partners": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "3redpartners",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 7,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: AQR": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "aqr",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 55,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Belvedere Trading": {
         "since": "2026-10-01",
         "ats": "lever",
         "token": "belvederetrading",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 17,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Chicago Trading (CTC)": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "chicagotrading",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 18,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: DRW": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "drweng",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 164,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: DV Trading": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "dvtrading",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 76,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: ExodusPoint": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "exoduspoint",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 3,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Five Rings": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "fiveringsllc",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 17,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: GSA Capital": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "gsacapital",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 12,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Geneva Trading": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "genevatrading",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 11,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Grasshopper": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "grasshopperasia",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 6,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Jane Street": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "janestreet",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 218,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Jump Trading": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "jumptrading",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 96,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Mako Trading": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "mako",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 2,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Man Group": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "mangroup",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 68,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Marshall Wace": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "marshallwace",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 0,
         "nz": "2026-10-28"
       },
@@ -32646,9 +32647,9 @@
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "old-mission-capital",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 38,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Optiver": {
         "since": "2026-10-01",
@@ -32661,73 +32662,73 @@
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "pdtpartners",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 12,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Point72 / Cubist": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "point72",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 206,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Qube RT": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "quberesearchandtechnologies",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 197,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Schonfeld": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "schonfeld",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 70,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Squarepoint": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "squarepointcapital",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 90,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Tower Research": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "towerresearchcapital",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 97,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Vatic Labs": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "vaticlabs",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 7,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Virtu": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "virtu",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 47,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Voloridge": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "voloridgeinvestmentmanagement",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 10,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Walleye": {
         "since": "2026-10-01",
@@ -32740,33 +32741,33 @@
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "weissassetmanagement",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 3,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: WorldQuant": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "worldquant",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 93,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: HRT (talent community)": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "hrttalentcommunity",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 3,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: XTX Markets": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "xtxmarketstechnologies",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 7,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Balyasny": {
         "since": "2026-10-01",
@@ -32807,23 +32808,23 @@
       "Quant SPA: Peak6": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Group One Trading": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Wolverine Trading": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Maven Securities": {
         "since": "2026-10-01",
@@ -32840,16 +32841,16 @@
       "Quant SPA: GTS": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Bridgewater": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Allston Trading": {
         "since": "2026-10-01",
@@ -32866,9 +32867,9 @@
       "Quant SPA: Cboe": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Radix Trading": {
         "since": "2026-10-01",
@@ -32879,174 +32880,174 @@
       "Quant SPA: Headlands Tech": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Cumberland (DRW)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Wintermute": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant/Tech: Simplex Trading": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "simplextrading",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 6,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant/Tech: Winton": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "winton",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 6,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Apollo": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "apolloio",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 53,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant/Tech: Amber Group": {
         "since": "2026-10-01",
         "ats": "lever",
         "token": "ambergroup",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 3,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant/Tech: Galaxy": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "galaxydigitalservices",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 48,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant/Tech: B2C2": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "b2c2",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 4,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant/Tech: Keyrock": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "keyrock",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 12,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Kraken": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "kraken.com",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 87,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Ramp": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "ramp",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 171,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant/Tech: Modal Labs": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "modal",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 43,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Robinhood": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "robinhood",
-        "ok": "2026-10-30",
-        "n": 161,
-        "nz": "2026-10-30"
+        "ok": "2026-10-31",
+        "n": 160,
+        "nz": "2026-10-31"
       },
       "Quant/Tech: Scale AI": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "scaleai",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 170,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant/Tech: Anyscale": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "anyscale",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 22,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Brex": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "brex",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 263,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant/Tech: Cohere": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "cohere",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 122,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Sierra": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "sierra",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 219,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Notion": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "notion",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 148,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Vercel": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "vercel",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 91,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Firm SPA: Goldman Sachs": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Firm SPA: Bloomberg": {
         "since": "2026-10-01",
@@ -33057,9 +33058,9 @@
       "Firm SPA: Capital One": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Firm SPA: BlackRock": {
         "since": "2026-10-01",
@@ -33070,9 +33071,9 @@
       "Firm SPA: Apollo Global": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Firm SPA: RBC Capital Markets": {
         "since": "2026-10-01",
@@ -33083,135 +33084,135 @@
       "Firm SPA: Salesforce Futureforce": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Gelber Group": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "gelbergroup",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 13,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Radix Trading": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "radixuniversity",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 8,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Valkyrie Trading": {
         "since": "2026-10-01",
         "ats": "lever",
         "token": "valkyrietrading",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 6,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Headlands Technologies": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "headlandstechnologiesllc",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 8,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Maven Securities": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "mavensecuritiesholdingltd",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 38,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Eagle Seven": {
         "since": "2026-10-01",
         "ats": "workable",
         "token": "eagle-seven",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 5,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Xantium": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "xantium",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 9,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Seven Research": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "sevenresearch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 13,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Bracebridge Capital": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "bracebridgecapital",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 5,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Numerai": {
         "since": "2026-10-01",
         "ats": "workable",
         "token": "numerai",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 0
       },
       "Quant: Universa": {
         "since": "2026-10-01",
         "ats": "workable",
         "token": "universa",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 0
       },
       "Quant: Tanius Technology": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "tanius",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 8,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: tastytrade (IG US)": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "tastytrade",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 14,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Gelber Group (Handshake board)": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "gelberhandshake",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Quadrature Capital": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "quadraturecapital",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 3,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Capula Investment Management": {
         "since": "2026-10-01",
         "ats": "workable",
         "token": "capula-investment-management-ltd",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 16,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: BlueCrest Capital Management": {
         "since": "2026-10-01",
@@ -33227,204 +33228,204 @@
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "cfm",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 8,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: OxFORD Asset Management": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "oxam",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 0
       },
       "Quant: Smarkets": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "smarkets",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 6,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Wintermute": {
         "since": "2026-10-01",
         "ats": "lever",
         "token": "wintermute-trading",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 20,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: GSR": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "gsrmarkets",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 5,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Maverick Derivatives": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "maverickderivatives",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 2,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Tibra Capital": {
         "since": "2026-10-01",
         "ats": "workable",
         "token": "tibra",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 0
       },
       "Quant: Wincent": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "wincent",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 16,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: FalconX": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "falconx",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 17,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Anchorage Digital": {
         "since": "2026-10-01",
         "ats": "lever",
         "token": "anchorage",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 22,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Auros": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "aurosglobal",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 3,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Talos": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "Talos-Trading",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 21,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Gemini": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "gemini",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 28,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Polymarket": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "polymarket",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 38,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Gauntlet": {
         "since": "2026-10-01",
         "ats": "lever",
         "token": "gauntlet",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 5,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Grayscale Investments": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "grayscaleinvestments",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 7,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Uniswap Labs": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "uniswap",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 9,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Engineers Gate": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "engineersgate",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 10,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Capstone Investment Advisors": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "capstoneinvestmentadvisors",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 14,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Graham Capital Management": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "grahamcapitalmanagement",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 11,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Quantbot Technologies": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "quantbot-technologies",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 6,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: TGS Management": {
         "since": "2026-10-01",
         "ats": "lever",
         "token": "tgsmc",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 0
       },
       "Quant: Voleon Group": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "voleon",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 63,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Engelhart (incl. Trailstone)": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "engelhart",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 3,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Gridmatic": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "gridmaticinc",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 13,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Spearmint Energy": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "spearmintenergy",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 0,
         "nz": "2026-10-26"
       },
@@ -33432,86 +33433,86 @@
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "tyba",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 5,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Habitat Energy": {
         "since": "2026-10-01",
         "ats": "workable",
         "token": "habitat-energy",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 5,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Modo Energy": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "modoenergy",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 8,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Yes Energy": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "yesenergy",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 8,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Amperon": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "amperon",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Kpler": {
         "since": "2026-10-01",
         "ats": "lever",
         "token": "kpler",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 103,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Onyx Capital Group": {
         "since": "2026-10-01",
         "ats": "workable",
         "token": "onyx-capital-group",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 7,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Trillium Trading": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "trillium",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 10,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Laurion Capital Management": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "laurioncapitalmanagement",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 0
       },
       "Quant: Clear Street": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "clearstreet",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 46,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Chimera Securities": {
         "since": "2026-10-01",
         "ats": "workable",
         "token": "chimera-securities-llc",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 0,
         "nz": "2026-10-22"
       },
@@ -33519,104 +33520,104 @@
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "gardacp",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 11,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Symmetry Investments": {
         "since": "2026-10-01",
         "ats": "lever",
         "token": "symmetryinvestments",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 0
       },
       "Quant: Crabel Capital Management": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "crabel",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Databento": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "databento",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 15,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: IEX Group": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "iex",
-        "ok": "2026-10-30",
-        "n": 8,
-        "nz": "2026-10-30"
+        "ok": "2026-10-31",
+        "n": 7,
+        "nz": "2026-10-31"
       },
       "Quant: MEMX": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "memx",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 7,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: DriveWealth": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "drivewealth",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 26,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Alpaca": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "alpaca",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 69,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Trumid": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "trumid",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 6,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: BMLL Technologies": {
         "since": "2026-10-01",
         "ats": "workable",
         "token": "bmlltech",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 2,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: Pico": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "picoquantitativetrading",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 42,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: OneChronos": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "onechronos",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant: BestEx Research": {
         "since": "2026-10-01",
         "ats": "workable",
         "token": "bestex-research",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 15,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: XR Trading": {
         "since": "2026-10-01",
@@ -33627,23 +33628,23 @@
       "Quant SPA: Sumo Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: WH Trading": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Hard Eight Trading": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Prime Trading": {
         "since": "2026-10-01",
@@ -33672,100 +33673,100 @@
       "Quant SPA: Volant Trading": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Archelon": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Bluefin Capital Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Marquette Partners": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Blue Trading Systems": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: G-Research": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Aspect Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Systematica Investments": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Man AHL (Man Group)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: LMR Partners": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Fulcrum Asset Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Flowdesk": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: QuantCube Technology": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Quantica Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: swissQuant Group": {
         "since": "2026-10-01",
@@ -33779,18 +33780,16 @@
       "Quant SPA: All Options": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: WEBB Traders": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30",
-        "err": "HTTPSConnectionPool(host='www.webbtraders.com', port=443): Read timed out. (read timeout=15)",
-        "ef": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Deep Blue Capital": {
         "since": "2026-10-01",
@@ -33810,16 +33809,16 @@
       "Quant SPA: XBTO": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Nonco": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Dexterity Capital": {
         "since": "2026-10-01",
@@ -33830,86 +33829,86 @@
       "Quant SPA: Chaos Labs": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Pantera Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: BlockFills": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Trexquant Investment": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Stevens Capital Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Tradebot Systems": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Verition Fund Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Renaissance Technologies": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Acadian Asset Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: AQR Capital Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Campbell & Company": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Squarepoint Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Qube Research & Technologies": {
         "since": "2026-10-01",
@@ -33923,23 +33922,23 @@
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: e360 Power": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Appian Way Energy Partners": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: SESCO Enterprises": {
         "since": "2026-10-01",
@@ -33950,9 +33949,9 @@
       "Quant SPA: Elmagin Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Mercuria Energy America": {
         "since": "2026-10-01",
@@ -33963,9 +33962,9 @@
       "Quant SPA: Freepoint Commodities": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Hartree Partners": {
         "since": "2026-10-01",
@@ -33976,37 +33975,37 @@
       "Quant SPA: Tenaska (Power Services)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: The Energy Authority": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Boston Energy Trading and Marketing (BETM)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Boston Energy Group": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Statar Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Skylar Capital Management": {
         "since": "2026-10-01",
@@ -34017,23 +34016,23 @@
       "Quant SPA: Saracen Energy": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Twin Eagle Resource Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: InCommodities North America": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: HC Tech (HC Technologies)": {
         "since": "2026-10-01",
@@ -34044,16 +34043,16 @@
       "Quant SPA: XO Energy": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: AEGIS Hedging": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: ACES Power": {
         "since": "2026-10-01",
@@ -34064,23 +34063,23 @@
       "Quant SPA: Nodal Exchange": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: PCI Energy Solutions": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Aurora Energy Research": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Seven Eight Capital": {
         "since": "2026-10-01",
@@ -34091,72 +34090,72 @@
       "Quant SPA: Jain Global": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Hudson Bay Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Saba Capital Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Kepos Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Dark Forest Capital Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Quantitative Brokers": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: SMB Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: T3 Trading Group": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Seven Points Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: First New York (FNY)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Marathon Trading Investment Management": {
         "since": "2026-10-01",
@@ -34167,58 +34166,58 @@
       "Quant SPA: Tradition (Compagnie Financiere Tradition / TFS)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Proof Trading": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Quantitative Investment Management (QIM)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Fort LP": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Freestone Grove Partners": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: PanAgora Asset Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: GMO": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Geode Capital Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Millburn Ridgefield": {
         "since": "2026-10-01",
@@ -34229,93 +34228,93 @@
       "Quant SPA: Welton Investment Partners": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Research Affiliates": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Los Angeles Capital Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Jacobs Levy Equity Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Intech Investment Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Coatue Management": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Quantedge Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Massive (formerly Polygon.io)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: OTC Markets Group": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: MIAX (Miami International Holdings)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: TXSE Group (Texas Stock Exchange)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Apex Fintech Solutions": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: MarketAxess": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Tradeweb": {
         "since": "2026-10-01",
@@ -34326,72 +34325,72 @@
       "Quant SPA: Kaiko": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Exegy": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Options Technology": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Deephaven Data Labs": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: OneMarketData (OneTick)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: oneZero Financial Systems": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: LMAX Group": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Adaptive Financial Consulting": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Beacon Platform": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Trading Technologies": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: CQG": {
         "since": "2026-10-01",
@@ -34402,51 +34401,51 @@
       "Quant SPA: Barchart": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: SpiderRock": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Sterling Trading Tech": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Eventus": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Ridgeline": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: McKay Brothers / Quincy Data": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Connamara Technologies": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Aquis Exchange": {
         "since": "2026-10-01",
@@ -34466,16 +34465,16 @@
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: MayStreet": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Quant SPA: Hudson Fintech": {
         "since": "2026-10-01",
@@ -34486,121 +34485,121 @@
       "Quant SPA: Geneva Trading (open positions)": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Cyber: Cloudflare": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "cloudflare",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 465,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Cyber: Datadog": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "datadog",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 397,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Figma": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "figma",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 140,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Discord": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "discord",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 41,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Stripe": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "stripe",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 746,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Mercury": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "mercury",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 76,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Linear": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "linear",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 31,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Vanta": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "vanta",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 79,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Replit": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "replit",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 34,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Perplexity": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "perplexity",
-        "ok": "2026-10-30",
-        "n": 136,
-        "nz": "2026-10-30"
+        "ok": "2026-10-31",
+        "n": 138,
+        "nz": "2026-10-31"
       },
       "Startup: ElevenLabs": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "elevenlabs",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 149,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Harvey": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "harvey",
-        "ok": "2026-10-30",
-        "n": 387,
-        "nz": "2026-10-30"
+        "ok": "2026-10-31",
+        "n": 381,
+        "nz": "2026-10-31"
       },
       "Startup: Glean": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "gleanwork",
-        "ok": "2026-10-30",
-        "n": 126,
-        "nz": "2026-10-30"
+        "ok": "2026-10-31",
+        "n": 127,
+        "nz": "2026-10-31"
       },
       "Startup: Baseten": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "baseten",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 104,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Cerebras": {
         "since": "2026-10-01",
@@ -34627,25 +34626,25 @@
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "supabase",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 64,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Clerk": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "clerk",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 2,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: PostHog": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "posthog",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 11,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Sentry": {
         "since": "2026-10-01",
@@ -34658,9 +34657,9 @@
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "tailscale",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 58,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Rippling": {
         "since": "2026-10-01",
@@ -34680,33 +34679,33 @@
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "moderntreasury",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 9,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Kalshi": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "kalshi",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 46,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Cognition": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "cognition",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 106,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Decagon": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "decagon",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 133,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Applied Intuition": {
         "since": "2026-10-01",
@@ -34719,25 +34718,25 @@
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "flyzipline",
-        "ok": "2026-10-30",
-        "n": 362,
-        "nz": "2026-10-30"
+        "ok": "2026-10-31",
+        "n": 361,
+        "nz": "2026-10-31"
       },
       "Startup: Physical Intelligence": {
         "since": "2026-10-01",
         "ats": "ashby",
         "token": "physicalintelligence",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 44,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       },
       "Startup: Figure AI": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "figureai",
-        "ok": "2026-10-30",
+        "ok": "2026-10-31",
         "n": 99,
-        "nz": "2026-10-30"
+        "nz": "2026-10-31"
       }
     }
   },
@@ -36656,7 +36655,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "sig": "cloudflare|software engineer intern"
+    "sig": "cybercloudflare|software engineer intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
     "title": "UX Design Research Intern",
@@ -36796,7 +36795,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sig": "cybercloudflare|software engineer intern"
+    "sig": "cloudflare|software engineer intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--data-center-compute-software-tools--rdss-intern-_jr2025645": {
     "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
@@ -37390,7 +37389,7 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/ann-arbor-mi/intern---plm-bi---analytics_2641568-2": {
     "title": "PLM BI & Analytics Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/Intern---PLM-BI---Analytics_2641568-2",
     "sig": "kla|plm bi analytics intern"
   },
   "https://ffive.wd5.myworkdayjobs.com/en-us/f5jobs/job/seattle/software-development-engineer-intern--seattle--wa-_rp1039073": {
@@ -38117,7 +38116,7 @@
   "https://aero.wd5.myworkdayjobs.com/en-us/external/job/chantilly-va/xmlname-2027-embedded-systems---software-engineering-undergrad-intern_r016804": {
     "title": "2027 Embedded Systems / Software Engineering Undergrad Intern",
     "url": "https://aero.wd5.myworkdayjobs.com/en-US/external/job/Chantilly-VA/XMLNAME-2027-Embedded-Systems---Software-Engineering-Undergrad-Intern_R016804",
-    "sig": "aero|embedded systems software engineering undergrad intern"
+    "sig": "aerospace|embedded systems software engineering undergrad intern"
   },
   "https://aero.wd5.myworkdayjobs.com/en-us/external/job/el-segundo-ca/xmlname-2027-network-systems-grad-intern_r016836": {
     "title": "2027 Network Systems Grad Intern",
@@ -38211,7 +38210,7 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/applications-development-engineering-intern---bbp_2641507-1": {
     "title": "Applications Development Engineering Intern - BBP",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Applications-Development-Engineering-Intern---BBP_2641507-1",
     "sig": "kla|applications development engineering intern bbp"
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/product-development-applications-engineer-intern---broadband-plasma-division-_2641396": {
@@ -40165,7 +40164,7 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/ann-arbor-mi/ai-ml-software-engineer---intern_2641701-1": {
     "title": "AI/ML Software Engineer - Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/AI-ML-Software-Engineer---Intern_2641701-1",
     "sig": "kla|ai ml software engineer intern"
   },
   "https://tencent.wd1.myworkdayjobs.com/en-us/tencent_careers/job/united-kingdom-london/llm---agent-research-intern_r108173": {
@@ -40414,7 +40413,7 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/algorithm-engineering-intern--gpu-cuda-_2642044": {
     "title": "Algorithm Engineering Intern (GPU/CUDA)",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Algorithm-Engineering-Intern--GPU-CUDA-_2642044",
     "sig": "kla|algorithm engineering intern gpu cuda"
   },
   "https://micron.wd1.myworkdayjobs.com/en-us/external/job/jalisco-mexico/dram-ip-development-layout--internship-_jr108219": {
@@ -40863,12 +40862,12 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/ann-arbor-mi/software-engineering-intern_2641821": {
     "title": "Software Engineering Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/Software-Engineering-Intern_2641821",
     "sig": "kla|software engineering intern"
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/ann-arbor-mi/software-engineer-intern---ai_2641817": {
     "title": "Software Engineer Intern - AI",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/Software-Engineer-Intern---AI_2641817",
     "sig": "kla|software engineer intern ai"
   },
   "https://fmr.wd1.myworkdayjobs.com/en-us/fidelitycareers/job/dublin-ireland/cybersecurity-internship_2136904": {
@@ -40963,7 +40962,7 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/ann-arbor-mi/research-scientist-intern---coating-characterization_2642033-2": {
     "title": "Research Scientist Intern - Plasma Light Source Characterization",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/Research-Scientist-Intern---Coating-Characterization_2642033-2",
     "sig": "kla|research scientist intern plasma light source characterization"
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/ann-arbor-mi/product-development-intern---electron-beam-instrumentation_2642032": {
@@ -41533,7 +41532,7 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/computer-vision-machine-learning-intern_2641921-1": {
     "title": "Computer Vision/Machine Learning Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1",
     "sig": "kla|computer vision machine learning intern"
   },
   "https://blueorigin.wd5.myworkdayjobs.com/en-us/blueorigin/job/greater-seattle-area/summer-2027-fluid-systems---propulsion-engineering-internship---graduate_r71439": {
@@ -44133,7 +44132,7 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/ann-arbor-mi/tax---data-analytics-intern_2642280-2": {
     "title": "Tax & Data Analytics Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-2",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Ann-Arbor-MI/Tax---Data-Analytics-Intern_2642280-2",
     "sig": "kla|tax data analytics intern"
   },
   "https://jj.wd5.myworkdayjobs.com/en-us/jj/job/cincinnati-ohio-united-states-of-america/quality-data-science-co-op---summer-2027_r-103629": {
@@ -45722,8 +45721,8 @@
     "sig": "toyota|data science intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/systems-software-intern--aerial-phy--summer-2027_jr2026530": {
-    "title": "Systems Software Intern - Aerial PHY- Summer 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
+    "title": "Systems Software Intern, Aerial PHY- Summer 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Intern--Aerial-PHY--Summer-2027_JR2026530",
     "sig": "nvidia|systems software intern aerial phy"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/applied-research-intern--integrated-sensing-and-communications--isac--nvidia-aerial---summer-2027_jr2028027": {
@@ -47634,7 +47633,7 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/software-engineering-intern---ai-ml-for-diagnostics---calibration_2642129-1": {
     "title": "Software Engineering Intern – AI/ML for Diagnostics & Calibration",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern---AI-ML-for-Diagnostics---Calibration_2642129-1",
     "sig": "kla|software engineering intern ai ml for diagnostics calibration"
   },
   "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/el-paso-tx/xmlname-2027-intern---community--engagement---development--el-paso-_r-0000033567": {
@@ -54325,7 +54324,7 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/software-engineer-intern_2642721-1": {
     "title": "Software Engineer Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1",
     "sig": "kla|software engineer intern"
   },
   "https://altera.wd1.myworkdayjobs.com/en-us/altera/job/marlow-buckinghamshire-united-kingdom/internship---fpga-software-design-engineer_r02749": {
@@ -54465,7 +54464,7 @@
   },
   "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/software-intern_2642700-1": {
     "title": "Software Intern",
-    "url": "https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Software-Intern_2642700-1",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Intern_2642700-1",
     "sig": "kla|software intern"
   },
   "https://jci.wd5.myworkdayjobs.com/en-us/jci/job/columbia-south-carolina-united-states-of-america/controls-tech-intern_wd30283265-1": {
@@ -54875,7 +54874,7 @@
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-wa-redmond/compiler-software-engineering-intern---summer-2027_jr2028607": {
     "title": "Compiler Software Engineering Intern - Summer 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
     "sig": "nvidia|compiler software engineering intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/vlsi-cad-timing-intern--applied-ai---summer-2027_jr2026799": {
@@ -55881,5 +55880,189 @@
     "title": "Software Engineer Intern",
     "url": "https://dowjones.wd1.myworkdayjobs.com/en-US/Dow_Jones_Career/job/NYC---1211-Ave-of-the-Americas/Summer-2027-Internship-Program---Software-Engineering-Intern_Job_Req_55892",
     "sig": "dowjones|software engineer intern"
+  },
+  "closing::https://apply.workable.com/j/caf64e75bf": {
+    "title": "closing-soon alert sent",
+    "url": ""
+  },
+  "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-california-san-diego/xmlname-2027-intern-product-support---data-scientist_r10258679": {
+    "title": "2027 Intern Product Support – Data Scientist",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
+    "sig": "northropgrumman|intern product support data scientist"
+  },
+  "https://philips.wd3.myworkdayjobs.com/en-us/jobs-and-careers/job/new-kensington-pennsylvania-united-states/intern---systems-engineer---new-kensington--pa---summer-2027_592850": {
+    "title": "Intern - Systems Engineer – New Kensington, PA – Summer 2027",
+    "url": "https://philips.wd3.myworkdayjobs.com/en-US/jobs-and-careers/job/New-Kensington-Pennsylvania-United-States/Intern---Systems-Engineer---New-Kensington--PA---Summer-2027_592850",
+    "sig": "philips|intern systems engineer new kensington pa"
+  },
+  "https://job-boards.greenhouse.io/sesco/jobs/4284446009": {
+    "title": "Quantitative Research and Trading Intern",
+    "url": "https://job-boards.greenhouse.io/sesco/jobs/4284446009",
+    "sig": "sesco|quantitative research and trading intern"
+  },
+  "https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b": {
+    "title": "Strada Education Foundation Internship: Clear Outcomes and Data Science Intern",
+    "url": "https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b",
+    "sig": "stradaeducation|strada education foundation intern clear outcomes and data science intern"
+  },
+  "https://jobs.lever.co/stradaeducation/2b03de4a-699c-4f1c-aefb-3e57a3d27851": {
+    "title": "Strada Education Foundation Internship: Strategic Partnership & Corporate Development Intern",
+    "url": "https://jobs.lever.co/stradaeducation/2b03de4a-699c-4f1c-aefb-3e57a3d27851",
+    "sig": "stradaeducation|strada education foundation intern strategic partnership corporate development intern"
+  },
+  "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09": {
+    "title": "Data Engineer Intern",
+    "url": "https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09",
+    "sig": "fireworkhq|data engineer intern"
+  },
+  "https://umiami.wd1.myworkdayjobs.com/en-us/umcareerstaff/job/miami-fl/data-science---ai-intern_r100102549": {
+    "title": "Data Science & AI Intern",
+    "url": "https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Data-Science---AI-Intern_R100102549",
+    "sig": "umiami|data science ai intern"
+  },
+  "https://umiami.wd1.myworkdayjobs.com/en-us/umcareerstaff/job/miami-fl/research-assistant-intern--petrucelli-lab_r100097333": {
+    "title": "Research Assistant Intern- Petrucelli Lab",
+    "url": "https://umiami.wd1.myworkdayjobs.com/en-US/UMCareerStaff/job/Miami-FL/Research-Assistant-Intern--Petrucelli-Lab_R100097333",
+    "sig": "umiami|research assistant intern petrucelli lab"
+  },
+  "https://go.vansh.nyc/11g": {
+    "title": "Software Test Engineer Intern",
+    "url": "https://go.vansh.nyc/11g",
+    "sig": "bostonscientific|software test engineer intern"
+  },
+  "https://go.vansh.nyc/11t": {
+    "title": "Data Science & AI Intern",
+    "url": "https://go.vansh.nyc/11t",
+    "sig": "universityofmiami|data science ai intern"
+  },
+  "https://go.vansh.nyc/11v": {
+    "title": "Camera Systems Intern",
+    "url": "https://go.vansh.nyc/11v",
+    "sig": "qualcomm|camera systems intern"
+  },
+  "https://go.vansh.nyc/11z": {
+    "title": "Camera HW ASIC Verification Intern",
+    "url": "https://go.vansh.nyc/11z",
+    "sig": "qualcomm|camera hw asic verification intern"
+  },
+  "https://go.vansh.nyc/11i": {
+    "title": "Data Engineer Intern",
+    "url": "https://go.vansh.nyc/11I",
+    "sig": "firework|data engineer intern"
+  },
+  "https://go.vansh.nyc/11j": {
+    "title": "Data Analytics Internship (Remote) –(Undergraduate)",
+    "url": "https://go.vansh.nyc/11J",
+    "sig": "molinahealthcare|data analytics intern remote undergraduate"
+  },
+  "https://go.vansh.nyc/11k": {
+    "title": "Cybersecurity Internship (Remote) –(Undergraduate)",
+    "url": "https://go.vansh.nyc/11K",
+    "sig": "molinahealthcare|cybersecurity intern remote undergraduate"
+  },
+  "https://go.vansh.nyc/11m": {
+    "title": "AI Automation Intern, WMS & DC Systems",
+    "url": "https://go.vansh.nyc/11M",
+    "sig": "sephora|ai automation intern wms dc systems"
+  },
+  "https://go.vansh.nyc/11n": {
+    "title": "AI Platform Infrastructure Intern, Technology",
+    "url": "https://go.vansh.nyc/11N",
+    "sig": "sephora|ai platform infrastructure intern technology"
+  },
+  "https://go.vansh.nyc/11o": {
+    "title": "Firmware Engineer Intern",
+    "url": "https://go.vansh.nyc/11O",
+    "sig": "toshibainternational|firmware engineer intern"
+  },
+  "https://go.vansh.nyc/11p": {
+    "title": "AI & Distribution Analytics Intern",
+    "url": "https://go.vansh.nyc/11P",
+    "sig": "sephoracom|ai distribution analytics intern"
+  },
+  "https://go.vansh.nyc/11q": {
+    "title": "AI & Distribution Analytics Intern",
+    "url": "https://go.vansh.nyc/11Q",
+    "sig": "sephora|ai distribution analytics intern"
+  },
+  "https://go.vansh.nyc/11r": {
+    "title": "Data Engineer Intern",
+    "url": "https://go.vansh.nyc/11R",
+    "sig": "paccar|data engineer intern"
+  },
+  "https://go.vansh.nyc/11s": {
+    "title": "AI Associate Intern, Equity Long/Short",
+    "url": "https://go.vansh.nyc/11S",
+    "sig": "verition|ai associate intern equity long short"
+  },
+  "https://go.vansh.nyc/11u": {
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/11U",
+    "sig": "beli|data science intern"
+  },
+  "https://go.vansh.nyc/11w": {
+    "title": "Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/11W",
+    "sig": "mativ|cybersecurity intern"
+  },
+  "https://go.vansh.nyc/121": {
+    "title": "Software Engineer Intern, Graphics",
+    "url": "https://go.vansh.nyc/121",
+    "sig": "nintendo|software engineer intern graphics"
+  },
+  "https://go.vansh.nyc/122": {
+    "title": "Embedded Software Intern, Communications",
+    "url": "https://go.vansh.nyc/122",
+    "sig": "ottoengineering|embedded software intern communications"
+  },
+  "https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040143": {
+    "title": "Healthcare Quality & Analytics Intern",
+    "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040143",
+    "sig": "molinahealthcare|healthcare quality analytics intern"
+  },
+  "https://careers.withwaymo.com/jobs?gh_jid=8337719": {
+    "title": "Research Scientist Intern",
+    "url": "https://careers.withwaymo.com/jobs?gh_jid=8337719",
+    "sig": "waymo|research scientist intern"
+  },
+  "https://hckd.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/2040169": {
+    "title": "Customer Experience & Analytics Intern - Undergraduate",
+    "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040169",
+    "sig": "molinahealthcare|customer experience analytics intern undergraduate"
+  },
+  "https://jobs.bytedance.com/en/position/7702155940239264005/detail": {
+    "title": "Research Scientist Intern - Video and Edge - Multimedia Lab",
+    "url": "https://jobs.bytedance.com/en/position/7702155940239264005/detail",
+    "sig": "bytedance|research scientist intern video and edge multimedia lab"
+  },
+  "https://stripe.com/jobs/search?gh_jid=8328662": {
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8328662",
+    "sig": "stripe|machine learning engineer intern"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-ca/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---vehicle-health-management_jr-202622258": {
+    "title": "Research and Development Intern - Vehicle Health Management",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Health-Management_JR-202622258",
+    "sig": "generalmotors|research and development intern vehicle health management"
+  },
+  "https://stripe.com/jobs/search?gh_jid=8333122": {
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://stripe.com/jobs/search?gh_jid=8333122",
+    "sig": "stripe|machine learning engineer intern"
+  },
+  "https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply": {
+    "title": "Clear Outcomes and Data Science Intern",
+    "url": "https://jobs.lever.co/stradaeducation/d8109e92-5156-48e2-879f-c9ea299e971b/apply",
+    "sig": "stradaeducationfoundation|clear outcomes and data science intern"
+  },
+  "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/remote-us/internship--ai---agentic---machine-learning-development_r-10072": {
+    "title": "AI, Agentic & Machine Learning Development Intern - AI, Agentic & Machine Learning Development",
+    "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072",
+    "sig": "vspvision|ai agentic machine learning development intern ai agentic machine learning development"
+  },
+  "https://a16z.com/about/jobs/?gh_jid=8046730003": {
+    "title": "Research Intern - Frontier",
+    "url": "https://a16z.com/about/jobs/?gh_jid=8046730003",
+    "sig": "andreessenhorowitz|research intern frontier"
   }
 }
