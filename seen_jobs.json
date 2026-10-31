@@ -32311,7 +32311,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-31",
-        "n": 812,
+        "n": 810,
         "nz": "2026-10-31"
       },
       "Anthropic": {
@@ -32421,7 +32421,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-31",
-        "n": 110688,
+        "n": 111593,
         "nz": "2026-10-31"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32448,7 +32448,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-31",
-        "n": 1283,
+        "n": 1287,
         "nz": "2026-10-31"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
@@ -33474,9 +33474,7 @@
         "token": "kpler",
         "ok": "2026-10-31",
         "n": 103,
-        "nz": "2026-10-31",
-        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
-        "ef": "2026-10-31"
+        "nz": "2026-10-31"
       },
       "Quant: Onyx Capital Group": {
         "since": "2026-10-01",
@@ -33774,7 +33772,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-31"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
@@ -33795,7 +33795,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-31"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33912,7 +33914,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-31"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34322,7 +34326,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "404 Client Error: Not Found for url: https://jobs.kaiko.ai/",
+        "ef": "2026-10-31"
       },
       "Quant SPA: Exegy": {
         "since": "2026-10-01",
@@ -34453,7 +34459,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-10-31"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
@@ -34591,7 +34599,7 @@
         "ats": "ashby",
         "token": "baseten",
         "ok": "2026-10-31",
-        "n": 104,
+        "n": 105,
         "nz": "2026-10-31"
       },
       "Startup: Cerebras": {
@@ -45629,7 +45637,7 @@
     "sig": "paconsulting|intern digital digital trust cyber security london"
   },
   "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3": {
-    "title": "Embedded Software Engineer - 2027 Internship",
+    "title": "Embedded Software Engineer, 2027 Internship",
     "url": "https://jobs.lever.co/humble-robotics/8d1fb5d7-9b07-4fac-8c39-e395dca7f2b3",
     "sig": "humblerobotics|embedded software engineer intern"
   },
@@ -54231,9 +54239,9 @@
     "sig": "akunacapitaloci|quantitative research intern massachusetts institute of technology"
   },
   "https://job-boards.greenhouse.io/hpsinterns/jobs/4739868005": {
-    "title": "Intern - Risk & Quant Strats (NY)",
+    "title": "Risk & Quant Strats Intern",
     "url": "https://job-boards.greenhouse.io/hpsinterns/jobs/4739868005",
-    "sig": "hpsinterns|intern risk quant strats ny"
+    "sig": "hpsinvestmentpartners|risk quant strats intern"
   },
   "https://job-boards.greenhouse.io/hpsinterns/jobs/4739903005": {
     "title": "Intern - Technology (IT Data & Analytics - NY)",
@@ -56302,5 +56310,60 @@
     "title": "Software Engineer Intern, DevOps",
     "url": "https://careers.nintendo.com/?gh_jid=4472002009",
     "sig": "nintendo|software engineer intern devops"
+  },
+  "https://go.vansh.nyc/12k": {
+    "title": "Software Engineer Intern, CPU Debugger",
+    "url": "https://go.vansh.nyc/12k",
+    "sig": "nintendo|software engineer intern cpu debugger"
+  },
+  "https://go.vansh.nyc/12l": {
+    "title": "Software Engineer Intern, CPU Profiler",
+    "url": "https://go.vansh.nyc/12l",
+    "sig": "nintendo|software engineer intern cpu profiler"
+  },
+  "https://go.vansh.nyc/12m": {
+    "title": "Software Engineer Intern, DevOps",
+    "url": "https://go.vansh.nyc/12m",
+    "sig": "nintendo|software engineer intern devops"
+  },
+  "https://go.vansh.nyc/12n": {
+    "title": "Software Engineer Intern, Audio",
+    "url": "https://go.vansh.nyc/12n",
+    "sig": "nintendo|software engineer intern audio"
+  },
+  "https://go.vansh.nyc/12o": {
+    "title": "Software Engineer Intern, Platform Security",
+    "url": "https://go.vansh.nyc/12o",
+    "sig": "nintendo|software engineer intern platform security"
+  },
+  "https://go.vansh.nyc/12p": {
+    "title": "Software Engineer Intern, Connectivity",
+    "url": "https://go.vansh.nyc/12p",
+    "sig": "nintendo|software engineer intern connectivity"
+  },
+  "https://go.vansh.nyc/12q": {
+    "title": "Software Engineer Intern, Performance Tools",
+    "url": "https://go.vansh.nyc/12q",
+    "sig": "nintendo|software engineer intern performance tools"
+  },
+  "https://go.vansh.nyc/12r": {
+    "title": "Research Intern, Applied AI & Software Development",
+    "url": "https://go.vansh.nyc/12r",
+    "sig": "virginiatechappliedresearch|research intern applied ai software development"
+  },
+  "https://go.vansh.nyc/12s": {
+    "title": "Vroom Power Software Engineering Intern",
+    "url": "https://go.vansh.nyc/12s",
+    "sig": "studentsplusstartups|vroom power software engineering intern"
+  },
+  "https://go.vansh.nyc/12t": {
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/12t",
+    "sig": "gtienergy|data science intern"
+  },
+  "https://go.vansh.nyc/12u": {
+    "title": "AI & Business Systems Automation Intern",
+    "url": "https://go.vansh.nyc/12u",
+    "sig": "economypolymerschemicals|ai business systems automation intern"
   }
 }
