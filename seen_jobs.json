@@ -18271,7 +18271,8 @@
   },
   "https://barclays.wd3.myworkdayjobs.com/external_career_site_barclays/job/glasgow-campus/xmlname-2027-customer-and-digital---data-and-analytics-summer-internship-programme-glasgow_jr-0000129278": {
     "title": "Customer and Digital Data and Analytics Intern",
-    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278"
+    "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Glasgow-Campus/XMLNAME-2027-Customer-and-Digital---Data-and-Analytics-Summer-Internship-Programme-Glasgow_JR-0000129278",
+    "sig": "barclays|customer and digital data and analytics intern"
   },
   "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/houston-tx/software-engineering-intern_jr102384": {
     "title": "Software Engineer Intern",
@@ -32310,7 +32311,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-10-31",
-        "n": 813,
+        "n": 812,
         "nz": "2026-10-31"
       },
       "Anthropic": {
@@ -32358,7 +32359,9 @@
         "token": "shieldai",
         "ok": "2026-10-31",
         "n": 655,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
+        "ef": "2026-10-31"
       },
       "Page: Lockheed Martin (search)": {
         "since": "2026-10-01",
@@ -32420,7 +32423,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-10-31",
-        "n": 111592,
+        "n": 111423,
         "nz": "2026-10-31"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32447,14 +32450,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-31",
-        "n": 1273,
+        "n": 1276,
         "nz": "2026-10-31"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-10-31",
-        "n": 2187,
+        "n": 2209,
         "nz": "2026-10-31"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32677,7 +32680,7 @@
         "ats": "greenhouse",
         "token": "quberesearchandtechnologies",
         "ok": "2026-10-31",
-        "n": 197,
+        "n": 198,
         "nz": "2026-10-31"
       },
       "Quant: Schonfeld": {
@@ -32815,7 +32818,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "HTTPSConnectionPool(host='group1.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(ho",
+        "ef": "2026-10-31"
       },
       "Quant SPA: Wolverine Trading": {
         "since": "2026-10-01",
@@ -33558,7 +33563,7 @@
         "ats": "greenhouse",
         "token": "memx",
         "ok": "2026-10-31",
-        "n": 7,
+        "n": 6,
         "nz": "2026-10-31"
       },
       "Quant: DriveWealth": {
@@ -33673,14 +33678,18 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "403 Client Error: Forbidden for url: https://volanttrading.com/",
+        "ef": "2026-10-31"
       },
       "Quant SPA: Archelon": {
         "since": "2026-10-01",
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "403 Client Error: Forbidden for url: https://www.archelon-group.com/",
+        "ef": "2026-10-31"
       },
       "Quant SPA: Bluefin Capital Management": {
         "since": "2026-10-01",
@@ -33743,7 +33752,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "403 Client Error: Forbidden for url: https://www.fulcrumasset.com/",
+        "ef": "2026-10-31"
       },
       "Quant SPA: Flowdesk": {
         "since": "2026-10-01",
@@ -33996,7 +34007,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "HTTPSConnectionPool(host='www.bostonenergygroup.com', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HT",
+        "ef": "2026-10-31"
       },
       "Quant SPA: Statar Capital": {
         "since": "2026-10-01",
@@ -34374,7 +34387,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "403 Client Error: Forbidden for url: https://weareadaptive.com/careers/",
+        "ef": "2026-10-31"
       },
       "Quant SPA: Beacon Platform": {
         "since": "2026-10-01",
@@ -34485,7 +34500,9 @@
         "ats": "pagewatch",
         "ok": "2026-10-31",
         "n": 1,
-        "nz": "2026-10-31"
+        "nz": "2026-10-31",
+        "err": "403 Client Error: Forbidden for url: https://www.genevatrading.com/careers-open-positions/",
+        "ef": "2026-10-31"
       },
       "Cyber: Cloudflare": {
         "since": "2026-10-01",
@@ -34572,7 +34589,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-10-31",
-        "n": 145,
+        "n": 144,
         "nz": "2026-10-31"
       },
       "Startup: Harvey": {
@@ -34625,7 +34642,7 @@
         "ats": "ashby",
         "token": "supabase",
         "ok": "2026-10-31",
-        "n": 65,
+        "n": 68,
         "nz": "2026-10-31"
       },
       "Startup: Clerk": {
@@ -56227,5 +56244,20 @@
     "title": "Software Developer Intern",
     "url": "https://peraton.jibeapply.com/jobs/172061?icims=1",
     "sig": "peraton|software developer intern"
+  },
+  "https://go.vansh.nyc/12h": {
+    "title": "Autonomous Vehicles and Robotics Intern",
+    "url": "https://go.vansh.nyc/12h",
+    "sig": "nvidia|autonomous vehicles and robotics intern"
+  },
+  "https://go.vansh.nyc/12j": {
+    "title": "Deep Learning Intern",
+    "url": "https://go.vansh.nyc/12j",
+    "sig": "nvidia|deep learning intern"
+  },
+  "https://careers.axa.com/jobs/25498?icims=1": {
+    "title": "Underwriting Data & Analytics Intern",
+    "url": "https://careers.axa.com/jobs/25498?icims=1",
+    "sig": "axa|underwriting data analytics intern"
   }
 }
