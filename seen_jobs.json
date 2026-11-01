@@ -32421,7 +32421,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-01",
-        "n": 111518,
+        "n": 111085,
         "nz": "2026-11-01"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32448,14 +32448,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-01",
-        "n": 1352,
+        "n": 1447,
         "nz": "2026-11-01"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-01",
-        "n": 2207,
+        "n": 2182,
         "nz": "2026-11-01"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -56551,5 +56551,390 @@
   "health::2026-W44": {
     "title": "health report checked",
     "url": ""
+  },
+  "https://kla.wd1.myworkdayjobs.com/en-us/ur/job/milpitas-ca/software-intern_2642700": {
+    "title": "Software Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Intern_2642700",
+    "sig": "kla|software intern"
+  },
+  "https://kla.wd1.myworkdayjobs.com/en-us/ur/job/milpitas-ca/software-engineer-intern_2642721": {
+    "title": "Software Engineer Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/UR/job/Milpitas-CA/Software-Engineer-Intern_2642721",
+    "sig": "kla|software engineer intern"
+  },
+  "https://go.vansh.nyc/140": {
+    "title": "Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure",
+    "url": "https://go.vansh.nyc/140",
+    "sig": "bytedance|student researcher intern seed model ai foundation model infrastructure"
+  },
+  "https://go.vansh.nyc/141": {
+    "title": "Student Researcher Intern, Seed Model - Speech",
+    "url": "https://go.vansh.nyc/141",
+    "sig": "bytedance|student researcher intern seed model speech"
+  },
+  "https://go.vansh.nyc/142": {
+    "title": "Student Researcher Intern, Seed Model - LLM",
+    "url": "https://go.vansh.nyc/142",
+    "sig": "bytedance|student researcher intern seed model llm"
+  },
+  "https://go.vansh.nyc/143": {
+    "title": "Software Engineer Intern, Global Traffic Architecture",
+    "url": "https://go.vansh.nyc/143",
+    "sig": "bytedance|software engineer intern global traffic architecture"
+  },
+  "https://go.vansh.nyc/144": {
+    "title": "Machine Learning Engineer Intern, AML-Engine-Orchestration",
+    "url": "https://go.vansh.nyc/144",
+    "sig": "bytedance|machine learning engineer intern aml engine orchestration"
+  },
+  "https://go.vansh.nyc/145": {
+    "title": "Site Reliability Engineer Intern, Data Infra",
+    "url": "https://go.vansh.nyc/145",
+    "sig": "bytedance|site reliability engineer intern data infra"
+  },
+  "https://go.vansh.nyc/146": {
+    "title": "Software Engineer Intern, Traffic Infrastructure",
+    "url": "https://go.vansh.nyc/146",
+    "sig": "bytedance|software engineer intern traffic infrastructure"
+  },
+  "https://go.vansh.nyc/147": {
+    "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US",
+    "url": "https://go.vansh.nyc/147",
+    "sig": "bytedance|visual generation multimodal evaluation machine learning engineer intern aml ark us"
+  },
+  "https://go.vansh.nyc/148": {
+    "title": "Student Researcher Intern, Seed Model - Infra - Compiler",
+    "url": "https://go.vansh.nyc/148",
+    "sig": "bytedance|student researcher intern seed model infra compiler"
+  },
+  "https://go.vansh.nyc/149": {
+    "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US",
+    "url": "https://go.vansh.nyc/149",
+    "sig": "bytedance|agent evaluation evolution machine learning engineer intern aml ark us"
+  },
+  "https://go.vansh.nyc/14a": {
+    "title": "Software Engineer Project Intern, Developer Infrastructure",
+    "url": "https://go.vansh.nyc/14a",
+    "sig": "bytedance|software engineer project intern developer infrastructure"
+  },
+  "https://go.vansh.nyc/14c": {
+    "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
+    "url": "https://go.vansh.nyc/14c",
+    "sig": "bytedance|data lake infrastructure data analytics research engineer intern aml ark us"
+  },
+  "https://go.vansh.nyc/14d": {
+    "title": "Software Engineer Intern, Relational Database",
+    "url": "https://go.vansh.nyc/14d",
+    "sig": "bytedance|software engineer intern relational database"
+  },
+  "https://go.vansh.nyc/14e": {
+    "title": "Production System Engineer Project Intern, Server DevOps",
+    "url": "https://go.vansh.nyc/14e",
+    "sig": "bytedance|production system engineer project intern server devops"
+  },
+  "https://go.vansh.nyc/14f": {
+    "title": "Agent Evaluation & Evolution Machine Learning Engineer Intern, AML-Ark-US",
+    "url": "https://go.vansh.nyc/14f",
+    "sig": "bytedance|agent evaluation evolution machine learning engineer intern aml ark us"
+  },
+  "https://go.vansh.nyc/14g": {
+    "title": "Software Engineer Intern, AML-Engine-Orchestration",
+    "url": "https://go.vansh.nyc/14g",
+    "sig": "bytedance|software engineer intern aml engine orchestration"
+  },
+  "https://go.vansh.nyc/14h": {
+    "title": "Data Lake Infrastructure & Data Analytics Research Engineer Intern, AML-Ark-US",
+    "url": "https://go.vansh.nyc/14h",
+    "sig": "bytedance|data lake infrastructure data analytics research engineer intern aml ark us"
+  },
+  "https://go.vansh.nyc/14i": {
+    "title": "Software Engineer Intern, AML-Engine-Orchestration",
+    "url": "https://go.vansh.nyc/14i",
+    "sig": "bytedance|software engineer intern aml engine orchestration"
+  },
+  "https://go.vansh.nyc/14j": {
+    "title": "Production System Engineer Project Intern, Server DevOps",
+    "url": "https://go.vansh.nyc/14j",
+    "sig": "bytedance|production system engineer project intern server devops"
+  },
+  "https://go.vansh.nyc/14k": {
+    "title": "Software Engineer Intern, Global Payment - Risk & Compliance",
+    "url": "https://go.vansh.nyc/14k",
+    "sig": "bytedance|software engineer intern global payment risk compliance"
+  },
+  "https://go.vansh.nyc/14m": {
+    "title": "Visual Generation & Multimodal Evaluation Machine Learning Engineer Intern, AML-Ark-US",
+    "url": "https://go.vansh.nyc/14m",
+    "sig": "bytedance|visual generation multimodal evaluation machine learning engineer intern aml ark us"
+  },
+  "https://go.vansh.nyc/14n": {
+    "title": "Software Engineer Intern, Global Payment",
+    "url": "https://go.vansh.nyc/14n",
+    "sig": "bytedance|software engineer intern global payment"
+  },
+  "https://go.vansh.nyc/14o": {
+    "title": "AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling",
+    "url": "https://go.vansh.nyc/14o",
+    "sig": "bytedance|ai infrastructure engineer intern compute efficiency scheduling"
+  },
+  "https://go.vansh.nyc/14q": {
+    "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform",
+    "url": "https://go.vansh.nyc/14q",
+    "sig": "bytedance|multi cloud cdn scheduling platform engineer intern cdn platform"
+  },
+  "https://go.vansh.nyc/14r": {
+    "title": "AI Infrastructure Engineer Intern, Compute Efficiency & Scheduling",
+    "url": "https://go.vansh.nyc/14r",
+    "sig": "bytedance|ai infrastructure engineer intern compute efficiency scheduling"
+  },
+  "https://go.vansh.nyc/14s": {
+    "title": "Student Researcher Intern, Seed Model - AI Foundation Model Infrastructure",
+    "url": "https://go.vansh.nyc/14s",
+    "sig": "bytedance|student researcher intern seed model ai foundation model infrastructure"
+  },
+  "https://go.vansh.nyc/14t": {
+    "title": "Site Reliability Engineer Intern, Data Infra",
+    "url": "https://go.vansh.nyc/14t",
+    "sig": "bytedance|site reliability engineer intern data infra"
+  },
+  "https://go.vansh.nyc/14u": {
+    "title": "ASIC Design Engineer Intern, Video Silicon IP",
+    "url": "https://go.vansh.nyc/14u",
+    "sig": "bytedance|asic design engineer intern video silicon ip"
+  },
+  "https://go.vansh.nyc/14w": {
+    "title": "Self-Built Engineer Intern, CDN Platform",
+    "url": "https://go.vansh.nyc/14w",
+    "sig": "bytedance|self built engineer intern cdn platform"
+  },
+  "https://go.vansh.nyc/14x": {
+    "title": "Network Software Development Engineer Intern, Network Observation",
+    "url": "https://go.vansh.nyc/14x",
+    "sig": "bytedance|network software development engineer intern network observation"
+  },
+  "https://go.vansh.nyc/14y": {
+    "title": "Network Software Development Engineer Intern, Network Switch",
+    "url": "https://go.vansh.nyc/14y",
+    "sig": "bytedance|network software development engineer intern network switch"
+  },
+  "https://go.vansh.nyc/14z": {
+    "title": "Software Engineer Intern, Global Payment Infra and SRE",
+    "url": "https://go.vansh.nyc/14z",
+    "sig": "bytedance|software engineer intern global payment infra and sre"
+  },
+  "https://go.vansh.nyc/14b": {
+    "title": "Security Software Engineer Project Intern, Network Security",
+    "url": "https://go.vansh.nyc/14B",
+    "sig": "bytedance|security software engineer project intern network security"
+  },
+  "https://go.vansh.nyc/15g": {
+    "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern, CDN Platform",
+    "url": "https://go.vansh.nyc/15G",
+    "sig": "bytedance|multi cloud cdn scheduling platform engineer intern cdn platform"
+  },
+  "https://go.vansh.nyc/15h": {
+    "title": "Security Assurance Intern",
+    "url": "https://go.vansh.nyc/15H",
+    "sig": "microsoft|security assurance intern"
+  },
+  "https://go.vansh.nyc/15j": {
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/15J",
+    "sig": "l3harris|software engineering intern"
+  },
+  "https://go.vansh.nyc/17s": {
+    "title": "Quantitative Research Analyst Intern",
+    "url": "https://go.vansh.nyc/17s",
+    "sig": "scm|quantitative research analyst intern"
+  },
+  "https://go.vansh.nyc/17w": {
+    "title": "Forward Deployed Engineer Intern",
+    "url": "https://go.vansh.nyc/17w",
+    "sig": "powertown|forward deployed engineer intern"
+  },
+  "https://go.vansh.nyc/17g": {
+    "title": "Systems Software Engineering Intern",
+    "url": "https://go.vansh.nyc/17G",
+    "sig": "samsungsemiconductor|systems software engineering intern"
+  },
+  "https://go.vansh.nyc/17h": {
+    "title": "Software Engineering Intern, Full Stack",
+    "url": "https://go.vansh.nyc/17H",
+    "sig": "intuit|software engineering intern full stack"
+  },
+  "https://go.vansh.nyc/17j": {
+    "title": "Student Researcher Intern, Seed Model: Multimodal Interaction & World Model",
+    "url": "https://go.vansh.nyc/17J",
+    "sig": "bytedance|student researcher intern seed model multimodal interaction world model"
+  },
+  "https://go.vansh.nyc/17k": {
+    "title": "Machine Learning Engineer Intern, AML-Engine-Orchestration",
+    "url": "https://go.vansh.nyc/17K",
+    "sig": "bytedance|machine learning engineer intern aml engine orchestration"
+  },
+  "https://go.vansh.nyc/17l": {
+    "title": "Backend Development Engineer Intern, Infrastructure Platform Delivery",
+    "url": "https://go.vansh.nyc/17L",
+    "sig": "bytedance|backend development engineer intern infrastructure platform delivery"
+  },
+  "https://go.vansh.nyc/17m": {
+    "title": "Software Development Engineer Intern, Network Automation",
+    "url": "https://go.vansh.nyc/17M",
+    "sig": "bytedance|software development engineer intern network automation"
+  },
+  "https://go.vansh.nyc/17n": {
+    "title": "Machine Learning Engineer Intern, Brand Ads",
+    "url": "https://go.vansh.nyc/17N",
+    "sig": "tiktok|machine learning engineer intern brand ads"
+  },
+  "https://go.vansh.nyc/17o": {
+    "title": "Data Science Intern, TikTok LIVE",
+    "url": "https://go.vansh.nyc/17O",
+    "sig": "tiktok|data science intern tiktok live"
+  },
+  "https://go.vansh.nyc/17p": {
+    "title": "AI Engineer Intern, TikTok-Client Arch",
+    "url": "https://go.vansh.nyc/17P",
+    "sig": "tiktok|ai engineer intern tiktok client arch"
+  },
+  "https://go.vansh.nyc/17q": {
+    "title": "Machine Learning Engineer Intern, Ads Signal & Measurement",
+    "url": "https://go.vansh.nyc/17Q",
+    "sig": "tiktok|machine learning engineer intern ads signal measurement"
+  },
+  "https://go.vansh.nyc/17r": {
+    "title": "Data Science Intern, TikTok Integrity and Safety",
+    "url": "https://go.vansh.nyc/17R",
+    "sig": "tiktok|data science intern tiktok integrity and safety"
+  },
+  "https://go.vansh.nyc/17u": {
+    "title": "Research Engineer Intern, Agentic Systems & AI Infrastructure - TikTok-Generalized Arch",
+    "url": "https://go.vansh.nyc/17U",
+    "sig": "tiktok|research engineer intern agentic systems ai infrastructure tiktok generalized arch"
+  },
+  "https://go.vansh.nyc/17v": {
+    "title": "ML Infra Engineer Intern, Ads Infra",
+    "url": "https://go.vansh.nyc/17V",
+    "sig": "tiktok|ml infra engineer intern ads infra"
+  },
+  "https://go.vansh.nyc/17x": {
+    "title": "Machine Learning Engineer Intern, App Ads and Gaming",
+    "url": "https://go.vansh.nyc/17X",
+    "sig": "tiktok|machine learning engineer intern app ads and gaming"
+  },
+  "https://go.vansh.nyc/17y": {
+    "title": "Data Science Intern, TikTok Product",
+    "url": "https://go.vansh.nyc/17Y",
+    "sig": "tiktok|data science intern tiktok product"
+  },
+  "https://go.vansh.nyc/17z": {
+    "title": "Machine Learning Engineer Intern, Commerce Ads",
+    "url": "https://go.vansh.nyc/17Z",
+    "sig": "tiktok|machine learning engineer intern commerce ads"
+  },
+  "https://go.vansh.nyc/180": {
+    "title": "Machine Learning Engineer Intern, Search Ads",
+    "url": "https://go.vansh.nyc/180",
+    "sig": "tiktok|machine learning engineer intern search ads"
+  },
+  "https://go.vansh.nyc/181": {
+    "title": "Machine Learning Engineer Intern, Performance Monetization",
+    "url": "https://go.vansh.nyc/181",
+    "sig": "tiktok|machine learning engineer intern performance monetization"
+  },
+  "https://go.vansh.nyc/182": {
+    "title": "Machine Learning Engineer Intern, Lead Ads",
+    "url": "https://go.vansh.nyc/182",
+    "sig": "tiktok|machine learning engineer intern lead ads"
+  },
+  "https://go.vansh.nyc/185": {
+    "title": "Research Scientist Intern, Monetization Technology - Business Integrity",
+    "url": "https://go.vansh.nyc/185",
+    "sig": "tiktok|research scientist intern monetization technology business integrity"
+  },
+  "https://go.vansh.nyc/186": {
+    "title": "Data Engineering Project Intern, Ads Targeting",
+    "url": "https://go.vansh.nyc/186",
+    "sig": "tiktok|data engineering project intern ads targeting"
+  },
+  "https://go.vansh.nyc/187": {
+    "title": "Research Engineer Intern, Monetization Technology - Business Integrity",
+    "url": "https://go.vansh.nyc/187",
+    "sig": "tiktok|research engineer intern monetization technology business integrity"
+  },
+  "https://go.vansh.nyc/189": {
+    "title": "Machine Learning Engineer Intern, TikTok-Data-Search-Local Service",
+    "url": "https://go.vansh.nyc/189",
+    "sig": "tiktok|machine learning engineer intern tiktok data search local service"
+  },
+  "https://go.vansh.nyc/18a": {
+    "title": "Data Engineer Intern, Data Platform TikTok BP",
+    "url": "https://go.vansh.nyc/18a",
+    "sig": "tiktok|data engineer intern data platform tiktok bp"
+  },
+  "https://go.vansh.nyc/18b": {
+    "title": "Data Scientist Project Intern, TikTok Integrity and Safety",
+    "url": "https://go.vansh.nyc/18b",
+    "sig": "tiktok|data scientist project intern tiktok integrity and safety"
+  },
+  "https://go.vansh.nyc/18c": {
+    "title": "Machine Learning Engineer Intern, TikTok-Data-Search-Basic Ranking",
+    "url": "https://go.vansh.nyc/18c",
+    "sig": "tiktok|machine learning engineer intern tiktok data search basic ranking"
+  },
+  "https://go.vansh.nyc/18d": {
+    "title": "Data Engineer Intern, Data Platform Global Live",
+    "url": "https://go.vansh.nyc/18d",
+    "sig": "tiktok|data engineer intern data platform global live"
+  },
+  "https://go.vansh.nyc/18f": {
+    "title": "Data Engineer Intern, Monetization Data",
+    "url": "https://go.vansh.nyc/18f",
+    "sig": "tiktok|data engineer intern monetization data"
+  },
+  "https://go.vansh.nyc/18h": {
+    "title": "Recommendation Architecture AI/ML Infrastructure Engineer Intern, Data-Arch-TikTok Live",
+    "url": "https://go.vansh.nyc/18h",
+    "sig": "tiktok|recommendation architecture ai ml infrastructure engineer intern data arch tiktok live"
+  },
+  "https://go.vansh.nyc/18j": {
+    "title": "Machine Learning Engineer Intern, Visual Search",
+    "url": "https://go.vansh.nyc/18j",
+    "sig": "tiktok|machine learning engineer intern visual search"
+  },
+  "https://go.vansh.nyc/18k": {
+    "title": "Data Science Project Intern, Advertisement",
+    "url": "https://go.vansh.nyc/18k",
+    "sig": "tiktok|data science project intern advertisement"
+  },
+  "https://go.vansh.nyc/18l": {
+    "title": "Machine Learning Engineer Intern, Recommendation Global E-Commerce",
+    "url": "https://go.vansh.nyc/18l",
+    "sig": "tiktok|machine learning engineer intern recommendation global e commerce"
+  },
+  "https://go.vansh.nyc/18p": {
+    "title": "Machine Learning Engineer Intern, Search Quality",
+    "url": "https://go.vansh.nyc/18p",
+    "sig": "tiktok|machine learning engineer intern search quality"
+  },
+  "https://go.vansh.nyc/18r": {
+    "title": "Machine Learning Engineer Intern, Global E-Commerce Search",
+    "url": "https://go.vansh.nyc/18r",
+    "sig": "tiktok|machine learning engineer intern global e commerce search"
+  },
+  "https://go.vansh.nyc/18t": {
+    "title": "AI Software Engineer Project Intern, Transaction Platform",
+    "url": "https://go.vansh.nyc/18t",
+    "sig": "tiktok|ai software engineer project intern transaction platform"
+  },
+  "https://go.vansh.nyc/18w": {
+    "title": "Data Scientist Intern, VOD Data",
+    "url": "https://go.vansh.nyc/18w",
+    "sig": "tiktok|data scientist intern vod data"
+  },
+  "https://go.vansh.nyc/18g": {
+    "title": "Software Engineer Project Intern, Content AI Infrastructure",
+    "url": "https://go.vansh.nyc/18G",
+    "sig": "tiktok|software engineer project intern content ai infrastructure"
   }
 }
