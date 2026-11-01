@@ -32311,7 +32311,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-11-01",
-        "n": 810,
+        "n": 809,
         "nz": "2026-11-01"
       },
       "Anthropic": {
@@ -32319,7 +32319,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-11-01",
-        "n": 675,
+        "n": 672,
         "nz": "2026-11-01"
       },
       "Databricks": {
@@ -32406,7 +32406,7 @@
         "ats": "greenhouse",
         "token": "flowtraders",
         "ok": "2026-11-01",
-        "n": 48,
+        "n": 47,
         "nz": "2026-11-01"
       },
       "IMC Trading": {
@@ -32414,14 +32414,14 @@
         "ats": "greenhouse",
         "token": "imc",
         "ok": "2026-11-01",
-        "n": 168,
+        "n": 167,
         "nz": "2026-11-01"
       },
       "AUTO-DISCOVER (all boards found in trackers)": {
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-01",
-        "n": 111356,
+        "n": 110467,
         "nz": "2026-11-01"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32448,14 +32448,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-01",
-        "n": 1462,
+        "n": 1464,
         "nz": "2026-11-01"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-01",
-        "n": 2187,
+        "n": 2184,
         "nz": "2026-11-01"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -34525,7 +34525,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-11-01",
-        "n": 746,
+        "n": 745,
         "nz": "2026-11-01"
       },
       "Startup: Mercury": {
@@ -34573,7 +34573,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-11-01",
-        "n": 139,
+        "n": 142,
         "nz": "2026-11-01"
       },
       "Startup: Harvey": {
@@ -34581,7 +34581,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-11-01",
-        "n": 381,
+        "n": 378,
         "nz": "2026-11-01"
       },
       "Startup: Glean": {
@@ -34597,7 +34597,7 @@
         "ats": "ashby",
         "token": "baseten",
         "ok": "2026-11-01",
-        "n": 105,
+        "n": 104,
         "nz": "2026-11-01"
       },
       "Startup: Cerebras": {
@@ -57056,5 +57056,25 @@
   "rss::6b6bfa1a320da7d1": {
     "title": "Offer put on hold at a multi-manager hedge fund after clearing interviews. What's next?",
     "url": "https://www.reddit.com/r/quant/comments/1xhumst/offer_put_on_hold_at_a_multimanager_hedge_fund/"
+  },
+  "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/minneapolis-mn/undergraduate-intern---research-focus_r-0000033978-1": {
+    "title": "Undergraduate Intern – Research Focus",
+    "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Minneapolis-MN/Undergraduate-Intern---Research-Focus_R-0000033978-1",
+    "sig": "rb|undergraduate intern research focus"
+  },
+  "https://go.vansh.nyc/18y": {
+    "title": "Student Researcher Intern, Seed Model - Vision",
+    "url": "https://go.vansh.nyc/18Y",
+    "sig": "bytedance|student researcher intern seed model vision"
+  },
+  "https://go.vansh.nyc/191": {
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/191",
+    "sig": "knowbe4|software engineer intern"
+  },
+  "https://go.vansh.nyc/192": {
+    "title": "Information Security Intern",
+    "url": "https://go.vansh.nyc/192",
+    "sig": "1stsource|information security intern"
   }
 }
