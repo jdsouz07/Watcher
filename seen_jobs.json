@@ -59435,5 +59435,69 @@
     "title": "AI Engineering Intern",
     "url": "https://www.weareroku.com/jobs/8345947?gh_jid=8345947",
     "sig": "roku|ai engineering intern"
+  },
+  "pw::https://www.csaw.io/::#36a561b0cdc73a03": {
+    "title": "Page changed - check Competition: CSAW CTF (NYU) (may mean applications opened)",
+    "url": "https://www.csaw.io/"
+  },
+  "pw::https://www.treehacks.com/::#49fc193ffb43572c": {
+    "title": "Page changed - check Hackathon: TreeHacks (Stanford) (may mean applications opened)",
+    "url": "https://www.treehacks.com/"
+  },
+  "pw::https://www.hertzfoundation.org/the-fellowship/::#448ca60c78983788": {
+    "title": "Page changed - check Fellowship: Hertz (senior year) (may mean applications opened)",
+    "url": "https://www.hertzfoundation.org/the-fellowship/"
+  },
+  "pw::https://atcoder.jp/contests/::#45955b14bb8e95e8": {
+    "title": "Page changed - check Competition: AtCoder (may mean applications opened)",
+    "url": "https://atcoder.jp/contests/"
+  },
+  "pw::https://www.usenix.org/conferences/student-grants::#093655ab3e6f834a": {
+    "title": "Page changed - check Grant: USENIX student grants (may mean applications opened)",
+    "url": "https://www.usenix.org/conferences/student-grants"
+  },
+  "pw::https://traders.mit.edu/competition::#1edc29447504067f": {
+    "title": "Page changed - check Event: Traders@MIT competition (may mean applications opened)",
+    "url": "https://traders.mit.edu/competition"
+  },
+  "pw::https://quantchallenges.com/::#10759322e055d864": {
+    "title": "Page changed - check Event: QuantChallenges.com (aggregator) (may mean applications opened)",
+    "url": "https://quantchallenges.com/"
+  },
+  "rss::349620a711b0204e": {
+    "title": "CU Students Win Exclusive Trading Challenge | Leeds School of Business - University of Colorado Boulder",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZ2Qza2lQSWpvV2RuVzRHcDR1WTZjVmtabzZOcG8zcFczWDUxMUIxaTNaWEtfRU5nNHJrakt3YUcySC1kTms2aEx0RW5NZXB6YUFnZWl1bXNzWjN4SGlMNEEtbnRscktDUV92QkxyN1RzOG0xMEc0LUtLVVVYNEZFQjJ2TTB3UEhoa2s0R3JzSTZlclNMdWc3Yw?oc=5"
+  },
+  "rss::2bfd0304135ef436": {
+    "title": "AAAS Mass Media Science & Engineering Fellowship - American Association for the Advancement of Science (AAAS)",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9nNmR2Ulh5XzVJcUI3bFVDSzNTYUwtLUttUnI0a0ZfdVg5TWMteWRpRUhRWEtEN3VYQmRHOFFmWUVWQXhKUExNb1RqWHdRcGd2R2l6Rl9xLXl5LXQ3Z2hYWA?oc=5"
+  },
+  "rss::d17841ea3f2effa4": {
+    "title": "Fellowships and Education at the Schomburg Center - The New York Public Library",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE94bWJnQmJTX2h5a3NFQVpPV1F0WUQ5MjRObXY3U2lURnduOHFObHFBNFhFTTJIdjJSd2tGRGR3d1Jidmh3bmV1UHdmWG5lSkRYY3V2ZXJJUzFoS2lhVEdTcGRmRnB5VlNHcHc?oc=5"
+  },
+  "rss::63d7291d7ebddfeb": {
+    "title": "Using Quant for short term trades",
+    "url": "https://www.reddit.com/r/quant/comments/1xnxzfr/using_quant_for_short_term_trades/"
+  },
+  "rss::ff568c72b6360b10": {
+    "title": "Dealing with non-quant PMs",
+    "url": "https://www.reddit.com/r/quant/comments/1xlzkxn/dealing_with_nonquant_pms/"
+  },
+  "rss::45a40c48d5907263": {
+    "title": "non-competes practice in UK",
+    "url": "https://www.reddit.com/r/quant/comments/1xlutzu/noncompetes_practice_in_uk/"
+  },
+  "rss::fa60ff6477040f66": {
+    "title": "Weekly Megathread: Education, Early Career and Hiring/Interview Advice",
+    "url": "https://www.reddit.com/r/quant/comments/1xlqfl7/weekly_megathread_education_early_career_and/"
+  },
+  "rss::f6adcd4e0bc84907": {
+    "title": "Transitioning as a \"Bank Office Quant\" to Front Office Quant Analyst? Experience hire advice needed!",
+    "url": "https://www.reddit.com/r/quant/comments/1xlhien/transitioning_as_a_bank_office_quant_to_front/"
+  },
+  "rss::d9a455f7c0841f19": {
+    "title": "C++ low-latency engineering in MFT vs HFT firms how different is the work?",
+    "url": "https://www.reddit.com/r/quant/comments/1xkkewm/c_lowlatency_engineering_in_mft_vs_hft_firms_how/"
   }
 }
