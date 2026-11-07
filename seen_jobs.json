@@ -32364,7 +32364,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-11-07",
-        "n": 677,
+        "n": 675,
         "nz": "2026-11-07"
       },
       "Databricks": {
@@ -32387,7 +32387,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-11-07",
-        "n": 2604,
+        "n": 2603,
         "nz": "2026-11-07"
       },
       "Palantir": {
@@ -32404,7 +32404,9 @@
         "token": "shieldai",
         "ok": "2026-11-07",
         "n": 661,
-        "nz": "2026-11-07"
+        "nz": "2026-11-07",
+        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
+        "ef": "2026-11-07"
       },
       "Page: Lockheed Martin (search)": {
         "since": "2026-10-01",
@@ -32466,7 +32468,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-07",
-        "n": 110740,
+        "n": 110638,
         "nz": "2026-11-07"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32493,14 +32495,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-07",
-        "n": 1761,
+        "n": 1758,
         "nz": "2026-11-07"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-07",
-        "n": 2316,
+        "n": 2289,
         "nz": "2026-11-07"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -33011,7 +33013,7 @@
         "ats": "ashby",
         "token": "ramp",
         "ok": "2026-11-07",
-        "n": 170,
+        "n": 171,
         "nz": "2026-11-07"
       },
       "Quant/Tech: Modal Labs": {
@@ -33604,7 +33606,7 @@
         "ats": "greenhouse",
         "token": "memx",
         "ok": "2026-11-07",
-        "n": 7,
+        "n": 6,
         "nz": "2026-11-07"
       },
       "Quant: DriveWealth": {
@@ -34546,7 +34548,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-11-07",
-        "n": 399,
+        "n": 400,
         "nz": "2026-11-07"
       },
       "Startup: Figma": {
@@ -34626,7 +34628,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-11-07",
-        "n": 369,
+        "n": 371,
         "nz": "2026-11-07"
       },
       "Startup: Glean": {
@@ -34642,7 +34644,7 @@
         "ats": "ashby",
         "token": "baseten",
         "ok": "2026-11-07",
-        "n": 101,
+        "n": 102,
         "nz": "2026-11-07"
       },
       "Startup: Cerebras": {
@@ -34763,7 +34765,7 @@
         "ats": "greenhouse",
         "token": "flyzipline",
         "ok": "2026-11-07",
-        "n": 348,
+        "n": 347,
         "nz": "2026-11-07"
       },
       "Startup: Physical Intelligence": {
@@ -35020,12 +35022,12 @@
   "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15": {
     "title": "Software Engineer Intern",
     "url": "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15",
-    "sig": "shopback2|software engineer intern"
+    "sig": "shopback|software engineer intern"
   },
   "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98": {
     "title": "Software Engineer Intern",
     "url": "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98",
-    "sig": "shopback2|software engineer intern"
+    "sig": "shopback|software engineer intern"
   },
   "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718/application?embed=true": {
     "title": "Software Engineer Intern",
@@ -59127,8 +59129,8 @@
     "sig": "highmarkhealth|ai services and platforms software engineer intern"
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-maryland-sykesville/xmlname-2027-s-w-embedded-engineering-intern---sykesville-md_r10258553": {
-    "title": "2027 S/W Embedded Engineering Intern – Sykesville MD",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553",
+    "title": "2027 S/W Embedded Engineering Intern - Sykesville MD",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553",
     "sig": "northropgrumman|s w embedded engineering intern sykesville md"
   },
   "https://jobs.smartrecruiters.com/boschgroup/744000159548369": {
@@ -59691,8 +59693,8 @@
     "sig": "zebra|intern us systems engineer"
   },
   "https://zebra.wd501.myworkdayjobs.com/en-us/zebra_careers/job/kennesaw-georgia/xmlname-2027-summer-internship--us----software-engineer--ai-features---product-convergence--zebra-task-manager_jr103636": {
-    "title": "2027 Summer Internship (US) - Software Engineer, AI Features & Product Convergence, Zebra Task Manager",
-    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636",
+    "title": "2027 Summer Internship - US - Software Engineer - AI Features & Product Convergence - Zebra Task Manager",
+    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Kennesaw-Georgia/XMLNAME-2027-Summer-Internship--US----Software-Engineer--AI-Features---Product-Convergence--Zebra-Task-Manager_JR103636",
     "sig": "zebra|intern us software engineer ai features product convergence zebra task manager"
   },
   "https://jobs.smartrecruiters.com/sia/744000159668932": {
@@ -60096,14 +60098,14 @@
     "sig": "plusgrade|applied ai test engineer intern"
   },
   "https://go.vansh.nyc/1gw": {
-    "title": "Systems Engineer Intern",
-    "url": "https://go.vansh.nyc/1gw",
-    "sig": "zebra|systems engineer intern"
+    "title": "Enterprise Security Intern, Detection & Response",
+    "url": "https://go.vansh.nyc/1gW",
+    "sig": "tcenergy|enterprise security intern detection response"
   },
   "https://go.vansh.nyc/1gx": {
-    "title": "Software Engineer Intern, AI Features & Product Convergence",
-    "url": "https://go.vansh.nyc/1gx",
-    "sig": "zebra|software engineer intern ai features product convergence"
+    "title": "CDS Intern, OT/IoT Security Engineering",
+    "url": "https://go.vansh.nyc/1gX",
+    "sig": "costco|cds intern ot iot security engineering"
   },
   "https://go.vansh.nyc/1gy": {
     "title": "Software Engineering Intern",
@@ -62176,5 +62178,40 @@
     "title": "Data Science Intern - Real Estate",
     "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091",
     "sig": "invesco|data science intern real estate"
+  },
+  "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1": {
+    "title": "AI Workflows & Safety Decision Making Intern [2027]",
+    "url": "https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
+    "sig": "zoox|ai workflows safety decision making intern"
+  },
+  "https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753": {
+    "title": "2027 Summer Intern - Supplier Development Engineer - 6463",
+    "url": "https://jobs.lever.co/shieldai/a2bb6f71-abcf-4938-a3a2-803b5d7c0753",
+    "sig": "shieldai|intern supplier development engineer"
+  },
+  "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/463966b6-fd51-47ef-b9b1-cb53c47cc275": {
+    "title": "2027 Summer Intern - Supplier Development Engineer - 6463",
+    "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/463966b6-fd51-47ef-b9b1-cb53c47cc275",
+    "sig": "f7d8749a72d6407cbf98292ea630c73a|intern supplier development engineer"
+  },
+  "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/data-engineer-intern_jr105120": {
+    "title": "Data Engineer Intern",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120",
+    "sig": "jmfamily|data engineer intern"
+  },
+  "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/alabama---mobile/intern--college-ne_jr105133": {
+    "title": "Power Platform & Analytics Intern",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Alabama---Mobile/Intern--College-NE_JR105133",
+    "sig": "jmfamily|power platform analytics intern"
+  },
+  "https://zebra.wd501.myworkdayjobs.com/zebra_careers/job/holtsville-new-york/xmlname-2027-summer-internship--us----software-engineer_jr103657": {
+    "title": "Software Engineer Intern",
+    "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657",
+    "sig": "zebra|software engineer intern"
+  },
+  "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply": {
+    "title": "Data Scientist Intern",
+    "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply",
+    "sig": "zoox|data scientist intern"
   }
 }
