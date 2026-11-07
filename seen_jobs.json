@@ -2079,9 +2079,9 @@
     "sig": "flir|nhrc software engineering intern"
   },
   "https://flir.wd1.myworkdayjobs.com/en-us/flircareers/job/us---huntsville-al/eadsim-software-engineering-intern--summer-2027-_req36667": {
-    "title": "EADSIM Software Engineering Intern (Summer 2027)",
+    "title": "EADSIM Software Engineering Intern - Summer 2027",
     "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667",
-    "sig": "flir|eadsim software engineering intern"
+    "sig": "teledyne|eadsim software engineering intern"
   },
   "https://www.tower-research.com/open-positions/?gh_jid=8143756": {
     "title": "Intern - AI/ML",
@@ -19503,8 +19503,8 @@
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125"
   },
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-us/careers/job/plantation-fl/dsp--digital-signal-processing--software-engineering-intern---summer-2027_r68734": {
-    "title": "DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027",
-    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
+    "title": "DSP - Digital Signal Processing Software Engineering Intern - Summer 2027",
+    "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
     "sig": "motorolasolutions|dsp digital signal processing software engineering intern"
   },
   "https://intactfc.wd3.myworkdayjobs.com/en-us/intactfc/job/hong-kong-science-park-hk/ai-developer-i--hk---winter-2027_r155622-1": {
@@ -22058,7 +22058,7 @@
   },
   "https://analogdevices.wd1.myworkdayjobs.com/en-us/external/job/us-ma-wilmington/embedded-software-engineer-intern_r266132": {
     "title": "Embedded Software Engineer Intern",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132",
     "sig": "analogdevices|embedded software engineer intern"
   },
   "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008": {
@@ -32342,7 +32342,9 @@
         "ats": "workday",
         "ok": "2026-11-07",
         "n": 500,
-        "nz": "2026-11-07"
+        "nz": "2026-11-07",
+        "err": "HTTPSConnectionPool(host='ngc.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ngc/Northrop_Grumman_External_Site",
+        "ef": "2026-11-07"
       },
       "Amazon (AWS / Robotics / all)": {
         "since": "2026-10-01",
@@ -32372,7 +32374,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-11-07",
-        "n": 923,
+        "n": 924,
         "nz": "2026-11-07"
       },
       "Page: Microsoft Careers": {
@@ -32387,7 +32389,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-11-07",
-        "n": 2603,
+        "n": 2602,
         "nz": "2026-11-07"
       },
       "Palantir": {
@@ -32404,9 +32406,7 @@
         "token": "shieldai",
         "ok": "2026-11-07",
         "n": 661,
-        "nz": "2026-11-07",
-        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
-        "ef": "2026-11-07"
+        "nz": "2026-11-07"
       },
       "Page: Lockheed Martin (search)": {
         "since": "2026-10-01",
@@ -32468,7 +32468,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-07",
-        "n": 110638,
+        "n": 109940,
         "nz": "2026-11-07"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32495,14 +32495,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-07",
-        "n": 1758,
+        "n": 1759,
         "nz": "2026-11-07"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-07",
-        "n": 2289,
+        "n": 2300,
         "nz": "2026-11-07"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -33448,7 +33448,7 @@
         "ats": "ashby",
         "token": "voleon",
         "ok": "2026-11-07",
-        "n": 65,
+        "n": 64,
         "nz": "2026-11-07"
       },
       "Quant: Engelhart (incl. Trailstone)": {
@@ -33817,11 +33817,9 @@
       "Quant SPA: swissQuant Group": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-11-05",
+        "ok": "2026-11-07",
         "n": 1,
-        "nz": "2026-11-05",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-11-05"
+        "nz": "2026-11-07"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
@@ -33840,11 +33838,9 @@
       "Quant SPA: Deep Blue Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-11-05",
+        "ok": "2026-11-07",
         "n": 1,
-        "nz": "2026-11-05",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-11-05"
+        "nz": "2026-11-07"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33959,11 +33955,9 @@
       "Quant SPA: Qube Research & Technologies": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-11-05",
+        "ok": "2026-11-07",
         "n": 1,
-        "nz": "2026-11-05",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-11-05"
+        "nz": "2026-11-07"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34422,7 +34416,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-07",
         "n": 1,
-        "nz": "2026-11-07"
+        "nz": "2026-11-07",
+        "err": "HTTPSConnectionPool(host='weareadaptive.com', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConne",
+        "ef": "2026-11-07"
       },
       "Quant SPA: Beacon Platform": {
         "since": "2026-10-01",
@@ -34502,11 +34498,9 @@
       "Quant SPA: TS Imagine": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-11-05",
+        "ok": "2026-11-07",
         "n": 1,
-        "nz": "2026-11-05",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-11-05"
+        "nz": "2026-11-07"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
@@ -34556,7 +34550,7 @@
         "ats": "greenhouse",
         "token": "figma",
         "ok": "2026-11-07",
-        "n": 144,
+        "n": 145,
         "nz": "2026-11-07"
       },
       "Startup: Discord": {
@@ -35022,12 +35016,12 @@
   "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15": {
     "title": "Software Engineer Intern",
     "url": "https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15",
-    "sig": "shopback|software engineer intern"
+    "sig": "shopback2|software engineer intern"
   },
   "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98": {
     "title": "Software Engineer Intern",
     "url": "https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98",
-    "sig": "shopback|software engineer intern"
+    "sig": "shopback2|software engineer intern"
   },
   "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718/application?embed=true": {
     "title": "Software Engineer Intern",
@@ -36701,7 +36695,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "sig": "cybercloudflare|software engineer intern"
+    "sig": "cloudflare|software engineer intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
     "title": "UX Design Research Intern",
@@ -36841,7 +36835,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sig": "cloudflare|software engineer intern"
+    "sig": "cybercloudflare|software engineer intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--data-center-compute-software-tools--rdss-intern-_jr2025645": {
     "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
@@ -50288,7 +50282,7 @@
   },
   "https://analogdevices.wd1.myworkdayjobs.com/en-us/external/job/us-ma-boston/embedded-systems-co-op_r267689": {
     "title": "Embedded Systems Co-Op",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689",
     "sig": "analogdevices|embedded systems coop"
   },
   "https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb": {
@@ -53502,7 +53496,7 @@
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/overland-park-kansas/summer-2027-assoc-ai-engineer-internship_req380492": {
     "title": "Summer 2027 Assoc AI Engineer Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380492",
     "sig": "tmobile|assoc ai engineer intern"
   },
   "https://bcbsri.wd1.myworkdayjobs.com/en-us/bcbsricareers/job/providence-ri/intern---business-systems-analyst_jr100477": {
@@ -57261,12 +57255,12 @@
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/new-york-new-york/summer-2027-software-engineering-internship_req380886": {
     "title": "Summer 2027 Software Engineering Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886",
     "sig": "tmobile|software engineering intern"
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/philadelphia-pennsylvania/summer-2027-software-engineering-internship_req380882": {
     "title": "Summer 2027 Software Engineering Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882",
     "sig": "tmobile|software engineering intern"
   },
   "https://gdit.wd5.myworkdayjobs.com/en-us/gdit_earlytalent/job/usa-la-bossier-city/intern---technical-writer---data-analytics-analyst_rq231236": {
@@ -58630,12 +58624,12 @@
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/philadelphia-pennsylvania/summer-2027-t-ads-software-engineering-internship_req381234": {
     "title": "Summer 2027 T-Ads Software Engineering Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234",
     "sig": "tmobile|t ads software engineering intern"
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/atlanta-georgia/summer-2027-software-engineering-internship_req380652": {
     "title": "Summer 2027 Software Engineering Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652",
     "sig": "tmobile|software engineering intern"
   },
   "https://hp.wd5.myworkdayjobs.com/en-us/exteu-ac-careersite/job/san-francisco-california-united-states-of-america/software-quality-assurance-intern_uni4803": {
@@ -59285,17 +59279,17 @@
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-software-test-engineering-intern---roy-ut_r10259179": {
     "title": "2027 Software Test Engineering Intern - Roy UT",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern---Roy-UT_R10259179",
     "sig": "northropgrumman|software test engineering intern roy ut"
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-utah-roy/xmlname-2027-devops-software-engineering-intern---roy-ut_r10259178": {
     "title": "2027 DevOps Software Engineering Intern - Roy UT",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Roy/XMLNAME-2027-DevOps-Software-Engineering-Intern---Roy-UT_R10259178",
     "sig": "northropgrumman|devops software engineering intern roy ut"
   },
   "https://ngc.wd1.myworkdayjobs.com/en-us/northrop_grumman_external_site/job/united-states-utah-clearfield/xmlname-2027-cybersecurity-software-engineering-intern---roy-ut_r10259177": {
     "title": "2027 Cybersecurity Software Engineering Intern - Roy UT",
-    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177",
+    "url": "https://ngc.wd1.myworkdayjobs.com/en-US/northrop_grumman_external_site/job/United-States-Utah-Clearfield/XMLNAME-2027-Cybersecurity-Software-Engineering-Intern---Roy-UT_R10259177",
     "sig": "northropgrumman|cybersecurity software engineering intern roy ut"
   },
   "https://www.amazon.jobs/en/jobs/10596307/program-manager-intern-aws-cloud-logistics": {
@@ -59419,14 +59413,14 @@
     "sig": "northropgrumman|devops software engineering intern"
   },
   "https://go.vansh.nyc/1gl": {
-    "title": "Cybersecurity Software Engineering Intern",
-    "url": "https://go.vansh.nyc/1gl",
-    "sig": "northropgrumman|cybersecurity software engineering intern"
+    "title": "Software Engineering & AI Intern",
+    "url": "https://go.vansh.nyc/1gL",
+    "sig": "kududynamics|software engineering ai intern"
   },
   "https://go.vansh.nyc/1gn": {
-    "title": "Software Engineering Intern",
-    "url": "https://go.vansh.nyc/1gn",
-    "sig": "northropgrumman|software engineering intern"
+    "title": "Data Science Intern, AI Center of Excellence",
+    "url": "https://go.vansh.nyc/1gN",
+    "sig": "smithnephew|data science intern ai center of excellence"
   },
   "https://tmobile.wd1.myworkdayjobs.com/external/job/new-york-new-york/summer-2027-software-engineering-internship_req380886": {
     "title": "Software Engineer Intern",
@@ -61536,32 +61530,32 @@
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/overland-park-kansas/summer-2027-software-engineering-internship_req380734": {
     "title": "Summer 2027 Software Engineering Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734",
     "sig": "tmobile|software engineering intern"
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/bellevue-washington/summer-2027-ai-engineering-internship_req380765": {
     "title": "Summer 2027 AI Engineering Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765",
     "sig": "tmobile|ai engineering intern"
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/frisco-texas/summer-2027-data-engineering-internship_req380754": {
     "title": "Summer 2027 Data Engineering Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Data-Engineering-Internship_REQ380754",
     "sig": "tmobile|data engineering intern"
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/bellevue-washington/summer-2027-software-engineering-internship_req380757": {
     "title": "Summer 2027 Software Engineering Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757",
     "sig": "tmobile|software engineering intern"
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/bellevue-washington/summer-2027-software-engineer-hr-data-products-internship_req380766": {
     "title": "Summer 2027 Software Engineer HR Data Products Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766",
     "sig": "tmobile|software engineer hr data products intern"
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/bellevue-washington/summer-2027-ai-strategist-internship_req381279": {
     "title": "Summer 2027 AI Strategist Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279",
     "sig": "tmobile|ai strategist intern"
   },
   "https://rb.wd5.myworkdayjobs.com/en-us/frs/job/atlanta-ga/xmlname-2027-summer-internship-program---statistics-intern_r-0000033876": {
@@ -62213,5 +62207,45 @@
     "title": "Data Scientist Intern",
     "url": "https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply",
     "sig": "zoox|data scientist intern"
+  },
+  "https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075": {
+    "title": "Research Intern, Summer 2027",
+    "url": "https://jobs.ashbyhq.com/category-labs/248a6400-c18e-4627-9c8c-1b1054869075",
+    "sig": "categorylabs|research intern"
+  },
+  "https://swbc.wd1.myworkdayjobs.com/en-us/collegeinternships/job/san-antonio-tx/software-engineering-intern_r0015482-1": {
+    "title": "Software Engineering Intern",
+    "url": "https://swbc.wd1.myworkdayjobs.com/en-US/collegeinternships/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-1",
+    "sig": "swbc|software engineering intern"
+  },
+  "https://go.vansh.nyc/1m1": {
+    "title": "Service Platform Engineering Intern",
+    "url": "https://go.vansh.nyc/1m1",
+    "sig": "idemia|service platform engineering intern"
+  },
+  "https://go.vansh.nyc/1m2": {
+    "title": "Junior Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1m2",
+    "sig": "aechelon|junior software engineer intern"
+  },
+  "https://go.vansh.nyc/1m3": {
+    "title": "Junior Software Engineer Intern, RTK",
+    "url": "https://go.vansh.nyc/1m3",
+    "sig": "aechelon|junior software engineer intern rtk"
+  },
+  "https://go.vansh.nyc/1m4": {
+    "title": "Applied Scientist Intern",
+    "url": "https://go.vansh.nyc/1m4",
+    "sig": "upstart|applied scientist intern"
+  },
+  "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/florida---deerfield-beach/data-engineering-intern_jr105086": {
+    "title": "Data Engineer Intern",
+    "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineering-Intern_JR105086",
+    "sig": "jmfamily|data engineer intern"
+  },
+  "https://www.tesla.com/careers/search/job/289241": {
+    "title": "Software Engineer Intern - SI Reinforcement Learning",
+    "url": "https://www.tesla.com/careers/search/job/289241",
+    "sig": "tesla|software engineer intern si reinforcement learning"
   }
 }
