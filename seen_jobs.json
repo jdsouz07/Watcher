@@ -2079,9 +2079,9 @@
     "sig": "flir|nhrc software engineering intern"
   },
   "https://flir.wd1.myworkdayjobs.com/en-us/flircareers/job/us---huntsville-al/eadsim-software-engineering-intern--summer-2027-_req36667": {
-    "title": "EADSIM Software Engineering Intern - Summer 2027",
+    "title": "EADSIM Software Engineering Intern (Summer 2027)",
     "url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667",
-    "sig": "teledyne|eadsim software engineering intern"
+    "sig": "flir|eadsim software engineering intern"
   },
   "https://www.tower-research.com/open-positions/?gh_jid=8143756": {
     "title": "Intern - AI/ML",
@@ -15400,9 +15400,9 @@
     "sig": "tiktok|data engineer intern data platform global live"
   },
   "https://nxp.wd3.myworkdayjobs.com/en-us/careers/job/glasgow/intern-ai-and-software-engineer---automotive-mpus_r-10065882-1": {
-    "title": "Intern AI and Software Engineer - Automotive MPUs",
+    "title": "AI and Software Engineer Intern - Automotive MPUs",
     "url": "https://nxp.wd3.myworkdayjobs.com/en-US/careers/job/Glasgow/Intern-AI-and-Software-Engineer---Automotive-MPUs_R-10065882-1",
-    "sig": "nxp|intern ai and software engineer automotive mpus"
+    "sig": "nxpsemiconductors|ai and software engineer intern automotive mpus"
   },
   "https://egug.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1/job/26011796": {
     "title": "AI Engineer Intern - Enterprise Technology Services",
@@ -22058,7 +22058,7 @@
   },
   "https://analogdevices.wd1.myworkdayjobs.com/en-us/external/job/us-ma-wilmington/embedded-software-engineer-intern_r266132": {
     "title": "Embedded Software Engineer Intern",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Wilmington/Embedded-Software-Engineer-Intern_R266132",
     "sig": "analogdevices|embedded software engineer intern"
   },
   "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008": {
@@ -32342,9 +32342,7 @@
         "ats": "workday",
         "ok": "2026-11-07",
         "n": 500,
-        "nz": "2026-11-07",
-        "err": "HTTPSConnectionPool(host='ngc.wd1.myworkdayjobs.com', port=443): Max retries exceeded with url: /wday/cxs/ngc/Northrop_Grumman_External_Site",
-        "ef": "2026-11-07"
+        "nz": "2026-11-07"
       },
       "Amazon (AWS / Robotics / all)": {
         "since": "2026-10-01",
@@ -32358,7 +32356,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-11-07",
-        "n": 820,
+        "n": 819,
         "nz": "2026-11-07"
       },
       "Anthropic": {
@@ -32389,7 +32387,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-11-07",
-        "n": 2602,
+        "n": 2600,
         "nz": "2026-11-07"
       },
       "Palantir": {
@@ -32405,7 +32403,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-11-07",
-        "n": 661,
+        "n": 660,
         "nz": "2026-11-07"
       },
       "Page: Lockheed Martin (search)": {
@@ -32468,7 +32466,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-07",
-        "n": 109940,
+        "n": 110598,
         "nz": "2026-11-07"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32495,14 +32493,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-07",
-        "n": 1759,
+        "n": 1768,
         "nz": "2026-11-07"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-07",
-        "n": 2300,
+        "n": 2284,
         "nz": "2026-11-07"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -33299,7 +33297,9 @@
         "token": "wintermute-trading",
         "ok": "2026-11-07",
         "n": 19,
-        "nz": "2026-11-07"
+        "nz": "2026-11-07",
+        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
+        "ef": "2026-11-07"
       },
       "Quant: GSR": {
         "since": "2026-10-01",
@@ -33819,7 +33819,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-07",
         "n": 1,
-        "nz": "2026-11-07"
+        "nz": "2026-11-07",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-11-07"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
@@ -33840,7 +33842,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-07",
         "n": 1,
-        "nz": "2026-11-07"
+        "nz": "2026-11-07",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-11-07"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33957,7 +33961,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-07",
         "n": 1,
-        "nz": "2026-11-07"
+        "nz": "2026-11-07",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-11-07"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34416,9 +34422,7 @@
         "ats": "pagewatch",
         "ok": "2026-11-07",
         "n": 1,
-        "nz": "2026-11-07",
-        "err": "HTTPSConnectionPool(host='weareadaptive.com', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConne",
-        "ef": "2026-11-07"
+        "nz": "2026-11-07"
       },
       "Quant SPA: Beacon Platform": {
         "since": "2026-10-01",
@@ -34500,7 +34504,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-07",
         "n": 1,
-        "nz": "2026-11-07"
+        "nz": "2026-11-07",
+        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "ef": "2026-11-07"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
@@ -34566,7 +34572,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-11-07",
-        "n": 765,
+        "n": 766,
         "nz": "2026-11-07"
       },
       "Startup: Mercury": {
@@ -34574,7 +34580,7 @@
         "ats": "greenhouse",
         "token": "mercury",
         "ok": "2026-11-07",
-        "n": 79,
+        "n": 78,
         "nz": "2026-11-07"
       },
       "Startup: Linear": {
@@ -34744,7 +34750,7 @@
         "ats": "ashby",
         "token": "decagon",
         "ok": "2026-11-07",
-        "n": 132,
+        "n": 131,
         "nz": "2026-11-07"
       },
       "Startup: Applied Intuition": {
@@ -36695,7 +36701,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "sig": "cloudflare|software engineer intern"
+    "sig": "cybercloudflare|software engineer intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
     "title": "UX Design Research Intern",
@@ -36835,7 +36841,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sig": "cybercloudflare|software engineer intern"
+    "sig": "cloudflare|software engineer intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--data-center-compute-software-tools--rdss-intern-_jr2025645": {
     "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
@@ -50282,7 +50288,7 @@
   },
   "https://analogdevices.wd1.myworkdayjobs.com/en-us/external/job/us-ma-boston/embedded-systems-co-op_r267689": {
     "title": "Embedded Systems Co-Op",
-    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/external/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689",
+    "url": "https://analogdevices.wd1.myworkdayjobs.com/en-US/External/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689",
     "sig": "analogdevices|embedded systems coop"
   },
   "https://jobs.ashbyhq.com/skydio/ec82eb16-a5b4-46e7-827a-326b33d7d2cb": {
@@ -62247,5 +62253,45 @@
     "title": "Software Engineer Intern - SI Reinforcement Learning",
     "url": "https://www.tesla.com/careers/search/job/289241",
     "sig": "tesla|software engineer intern si reinforcement learning"
+  },
+  "https://hp.wd5.myworkdayjobs.com/en-us/externalcareersite/job/san-francisco-california-united-states-of-america/software-quality-assurance-intern_uni4803-1": {
+    "title": "Software Engineering Intern - Product & Developer Productivity - HP IQ",
+    "url": "https://hp.wd5.myworkdayjobs.com/en-US/externalcareersite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1",
+    "sig": "hp|software engineering intern product developer productivity hp iq"
+  },
+  "https://go.vansh.nyc/10j": {
+    "title": "AI Labs Intern, Emerging Talent",
+    "url": "https://go.vansh.nyc/10J",
+    "sig": "salesforce|ai labs intern emerging talent"
+  },
+  "https://go.vansh.nyc/1m5": {
+    "title": "Software Intern",
+    "url": "https://go.vansh.nyc/1m5",
+    "sig": "stokespace|software intern"
+  },
+  "https://go.vansh.nyc/1m6": {
+    "title": "AI and Software Innovation Intern",
+    "url": "https://go.vansh.nyc/1m6",
+    "sig": "framatome|ai and software innovation intern"
+  },
+  "https://go.vansh.nyc/1me": {
+    "title": "Textile Engineering Analytics & Software Intern",
+    "url": "https://go.vansh.nyc/1me",
+    "sig": "springswindowfashions|textile engineering analytics software intern"
+  },
+  "https://go.vansh.nyc/1mf": {
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1mf",
+    "sig": "springswindowfashions|software engineering intern"
+  },
+  "https://go.vansh.nyc/1mg": {
+    "title": "Software Engineering Intern",
+    "url": "https://go.vansh.nyc/1mg",
+    "sig": "empirical|software engineering intern"
+  },
+  "https://go.vansh.nyc/1mh": {
+    "title": "Formal Methods Research Intern",
+    "url": "https://go.vansh.nyc/1mh",
+    "sig": "riversideresearch|formal methods research intern"
   }
 }
