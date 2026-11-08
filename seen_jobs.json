@@ -32357,7 +32357,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-11-08",
-        "n": 818,
+        "n": 816,
         "nz": "2026-11-08"
       },
       "Anthropic": {
@@ -32467,7 +32467,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-08",
-        "n": 110354,
+        "n": 110285,
         "nz": "2026-11-08"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32494,14 +32494,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-08",
-        "n": 1789,
+        "n": 1792,
         "nz": "2026-11-08"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-08",
-        "n": 2301,
+        "n": 2276,
         "nz": "2026-11-08"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32724,7 +32724,7 @@
         "ats": "greenhouse",
         "token": "quberesearchandtechnologies",
         "ok": "2026-11-08",
-        "n": 211,
+        "n": 210,
         "nz": "2026-11-08"
       },
       "Quant: Schonfeld": {
@@ -33755,9 +33755,7 @@
         "ats": "pagewatch",
         "ok": "2026-11-08",
         "n": 1,
-        "nz": "2026-11-08",
-        "err": "500 Server Error: Internal Server Error for url: https://www.gresearch.com/vacancies/",
-        "ef": "2026-11-08"
+        "nz": "2026-11-08"
       },
       "Quant SPA: Aspect Capital": {
         "since": "2026-10-01",
@@ -34374,7 +34372,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-08",
         "n": 1,
-        "nz": "2026-11-08"
+        "nz": "2026-11-08",
+        "err": "404 Client Error: Not Found for url: https://jobs.kaiko.ai/",
+        "ef": "2026-11-08"
       },
       "Quant SPA: Exegy": {
         "since": "2026-10-01",
@@ -34743,7 +34743,7 @@
         "ats": "ashby",
         "token": "cognition",
         "ok": "2026-11-08",
-        "n": 108,
+        "n": 110,
         "nz": "2026-11-08"
       },
       "Startup: Decagon": {
@@ -36702,7 +36702,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "sig": "cybercloudflare|software engineer intern"
+    "sig": "cloudflare|software engineer intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
     "title": "UX Design Research Intern",
@@ -36842,7 +36842,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sig": "cloudflare|software engineer intern"
+    "sig": "cybercloudflare|software engineer intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--data-center-compute-software-tools--rdss-intern-_jr2025645": {
     "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
@@ -54422,7 +54422,7 @@
   "https://jobs.smartrecruiters.com/syngentagroup/744000158494415": {
     "title": "Data Scientist Intern",
     "url": "https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415",
-    "sig": "syngentagroup|data scientist intern"
+    "sig": "syngenta|data scientist intern"
   },
   "https://job-boards.greenhouse.io/scmaea/jobs/998317": {
     "title": "Quantitative Research Analyst Internship",
