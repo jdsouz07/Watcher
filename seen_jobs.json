@@ -19030,8 +19030,9 @@
     "sig": "nvidia|system software engineering intern gpu"
   },
   "https://pwc.wd3.myworkdayjobs.com/en-us/us_entry_level_careers/job/il-rosemont/tax---japanese-business-network---intern---summer-2027_756404wd": {
-    "title": "Tax - Japanese Business Network - Intern - Summer 2027",
-    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax---Japanese-Business-Network---Intern---Summer-2027_756404WD"
+    "title": "Tax - Japanese Business Network (JBN) - Intern - Summer 2027",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Tax---Japanese-Business-Network---Intern---Summer-2027_756404WD",
+    "sig": "pwc|tax japanese business network jbn intern"
   },
   "https://boeing.wd1.myworkdayjobs.com/en-us/external_careers/job/gbr---prestwick-uk/research-and-technology-intern--summer-2027_jr2026520512": {
     "title": "Research and Technology Intern- Summer 2027",
@@ -32466,7 +32467,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-08",
-        "n": 110001,
+        "n": 110354,
         "nz": "2026-11-08"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32493,7 +32494,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-08",
-        "n": 1785,
+        "n": 1789,
         "nz": "2026-11-08"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
@@ -33660,7 +33661,7 @@
         "ats": "workable",
         "token": "bestex-research",
         "ok": "2026-11-08",
-        "n": 15,
+        "n": 16,
         "nz": "2026-11-08"
       },
       "Quant SPA: XR Trading": {
@@ -33754,7 +33755,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-08",
         "n": 1,
-        "nz": "2026-11-08"
+        "nz": "2026-11-08",
+        "err": "500 Server Error: Internal Server Error for url: https://www.gresearch.com/vacancies/",
+        "ef": "2026-11-08"
       },
       "Quant SPA: Aspect Capital": {
         "since": "2026-10-01",
@@ -34618,7 +34621,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-11-08",
-        "n": 139,
+        "n": 137,
         "nz": "2026-11-08"
       },
       "Startup: Harvey": {
@@ -34626,7 +34629,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-11-08",
-        "n": 370,
+        "n": 373,
         "nz": "2026-11-08"
       },
       "Startup: Glean": {
@@ -36699,7 +36702,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "sig": "cloudflare|software engineer intern"
+    "sig": "cybercloudflare|software engineer intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
     "title": "UX Design Research Intern",
@@ -36839,7 +36842,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sig": "cybercloudflare|software engineer intern"
+    "sig": "cloudflare|software engineer intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--data-center-compute-software-tools--rdss-intern-_jr2025645": {
     "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
@@ -62360,5 +62363,30 @@
   "health::2026-W45": {
     "title": "health report checked",
     "url": ""
+  },
+  "https://pwc.wd3.myworkdayjobs.com/en-us/us_entry_level_careers/job/il-rosemont/audit---korean-business-network---intern---summer-2027_757088wd": {
+    "title": "Audit - Korean Business Network (KBN) - Intern - Summer 2027",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Audit---Korean-Business-Network---Intern---Summer-2027_757088WD",
+    "sig": "pwc|audit korean business network kbn intern"
+  },
+  "https://pwc.wd3.myworkdayjobs.com/en-us/us_entry_level_careers/job/il-rosemont/transfer-pricing---japanese-business-network---intern---summer-2027_756415wd": {
+    "title": "Transfer Pricing - Japanese Business Network (JBN) - Intern - Summer 2027",
+    "url": "https://pwc.wd3.myworkdayjobs.com/en-US/US_Entry_Level_Careers/job/IL-Rosemont/Transfer-Pricing---Japanese-Business-Network---Intern---Summer-2027_756415WD",
+    "sig": "pwc|transfer pricing japanese business network jbn intern"
+  },
+  "https://go.vansh.nyc/1mj": {
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1mJ",
+    "sig": "tmobile|software engineer intern"
+  },
+  "https://go.vansh.nyc/1mk": {
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1mK",
+    "sig": "klaviyo|software engineer intern"
+  },
+  "https://go.vansh.nyc/1mm": {
+    "title": "Meter Services Data Analytics Intern",
+    "url": "https://go.vansh.nyc/1mM",
+    "sig": "citizensenergy|meter services data analytics intern"
   }
 }
