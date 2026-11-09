@@ -32275,7 +32275,7 @@
         "ats": "greenhouse",
         "token": "optiverus",
         "ok": "2026-11-09",
-        "n": 155,
+        "n": 154,
         "nz": "2026-11-09"
       },
       "Optiver (Campus)": {
@@ -32351,7 +32351,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-11-09",
-        "n": 474,
+        "n": 473,
         "nz": "2026-11-09"
       },
       "OpenAI": {
@@ -32359,7 +32359,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-11-09",
-        "n": 816,
+        "n": 813,
         "nz": "2026-11-09"
       },
       "Anthropic": {
@@ -32367,7 +32367,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-11-09",
-        "n": 675,
+        "n": 677,
         "nz": "2026-11-09"
       },
       "Databricks": {
@@ -32375,7 +32375,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-11-09",
-        "n": 922,
+        "n": 921,
         "nz": "2026-11-09"
       },
       "Page: Microsoft Careers": {
@@ -32406,7 +32406,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-11-09",
-        "n": 665,
+        "n": 664,
         "nz": "2026-11-09"
       },
       "Page: Lockheed Martin (search)": {
@@ -32469,7 +32469,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-09",
-        "n": 109868,
+        "n": 110021,
         "nz": "2026-11-09"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32496,14 +32496,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-09",
-        "n": 1806,
+        "n": 1818,
         "nz": "2026-11-09"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-09",
-        "n": 2296,
+        "n": 2278,
         "nz": "2026-11-09"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32679,7 +32679,7 @@
         "ats": "greenhouse",
         "token": "mangroup",
         "ok": "2026-11-09",
-        "n": 72,
+        "n": 71,
         "nz": "2026-11-09"
       },
       "Quant: Marshall Wace": {
@@ -32718,7 +32718,7 @@
         "ats": "greenhouse",
         "token": "point72",
         "ok": "2026-11-09",
-        "n": 201,
+        "n": 200,
         "nz": "2026-11-09"
       },
       "Quant: Qube RT": {
@@ -32726,7 +32726,7 @@
         "ats": "greenhouse",
         "token": "quberesearchandtechnologies",
         "ok": "2026-11-09",
-        "n": 210,
+        "n": 205,
         "nz": "2026-11-09"
       },
       "Quant: Schonfeld": {
@@ -32982,7 +32982,7 @@
         "ats": "greenhouse",
         "token": "galaxydigitalservices",
         "ok": "2026-11-09",
-        "n": 55,
+        "n": 56,
         "nz": "2026-11-09"
       },
       "Quant/Tech: B2C2": {
@@ -33387,7 +33387,9 @@
         "token": "gauntlet",
         "ok": "2026-11-09",
         "n": 6,
-        "nz": "2026-11-09"
+        "nz": "2026-11-09",
+        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
+        "ef": "2026-11-09"
       },
       "Quant: Grayscale Investments": {
         "since": "2026-10-01",
@@ -34506,7 +34508,7 @@
         "ok": "2026-11-07",
         "n": 1,
         "nz": "2026-11-07",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+        "err": "HTTPSConnectionPool(host='tsimagine.com', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HTTPSConnectio",
         "ef": "2026-11-07"
       },
       "Quant SPA: FlexTrade Systems": {
@@ -34557,7 +34559,7 @@
         "ats": "greenhouse",
         "token": "figma",
         "ok": "2026-11-09",
-        "n": 145,
+        "n": 144,
         "nz": "2026-11-09"
       },
       "Startup: Discord": {
@@ -34573,7 +34575,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-11-09",
-        "n": 766,
+        "n": 768,
         "nz": "2026-11-09"
       },
       "Startup: Mercury": {
@@ -34621,7 +34623,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-11-09",
-        "n": 137,
+        "n": 136,
         "nz": "2026-11-09"
       },
       "Startup: Harvey": {
@@ -36702,7 +36704,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211",
-    "sig": "cloudflare|software engineer intern"
+    "sig": "cybercloudflare|software engineer intern"
   },
   "https://axos.wd5.myworkdayjobs.com/en-us/axos/job/hq---san-diego-ca/ux-design-research-intern_jr5666": {
     "title": "UX Design Research Intern",
@@ -36842,7 +36844,7 @@
   "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197": {
     "title": "Software Engineer Intern (2027)",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197",
-    "sig": "cybercloudflare|software engineer intern"
+    "sig": "cloudflare|software engineer intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/taiwan-taipei/software-engineer--data-center-compute-software-tools--rdss-intern-_jr2025645": {
     "title": "Software Engineer, Data Center Compute Software Tools (RDSS Intern)",
@@ -59684,8 +59686,8 @@
     "sig": "cbrands|intern ai automation engineering"
   },
   "https://zebra.wd501.myworkdayjobs.com/en-us/zebra_careers/job/holtsville-new-york/xmlname-2027-summer-internship--us----software-engineer_jr103657": {
-    "title": "2027 Summer Internship (US) - Software Engineer",
-    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657",
+    "title": "2027 Summer Internship - US - Software Engineer",
+    "url": "https://zebra.wd501.myworkdayjobs.com/en-US/zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657",
     "sig": "zebra|intern us software engineer"
   },
   "https://zebra.wd501.myworkdayjobs.com/en-us/zebra_careers/job/germantown-maryland/xmlname-2027-summer-internship--us----systems-engineer_jr103659": {
@@ -60903,17 +60905,17 @@
     "sig": "zoox|hardware engineer intern vehicle systems"
   },
   "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877": {
-    "title": "Software Engineer Intern - Autonomy Software - Summer 2027",
+    "title": "Software Engineer Intern, Autonomy Software [Summer 2027]",
     "url": "https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877",
     "sig": "zoox|software engineer intern autonomy software"
   },
   "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520": {
-    "title": "Software Engineer Intern - Software Platforms & Product - Summer 2027",
+    "title": "Software Engineer Intern, Software Platforms & Product [Summer 2027]",
     "url": "https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520",
     "sig": "zoox|software engineer intern software platforms product"
   },
   "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20": {
-    "title": "Software Engineer Intern - Software Systems - Summer 2027",
+    "title": "Software Engineer Intern, Software Systems [Summer 2027]",
     "url": "https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20",
     "sig": "zoox|software engineer intern software systems"
   },
@@ -61457,9 +61459,9 @@
     "sig": "alaskaairlines|software engineer intern"
   },
   "https://go.vansh.nyc/1kd": {
-    "title": "Cybersecurity Threat Defense Intern",
-    "url": "https://go.vansh.nyc/1kd",
-    "sig": "alaskaairlines|cybersecurity threat defense intern"
+    "title": "Software Engineer Intern, HR Data Products",
+    "url": "https://go.vansh.nyc/1kD",
+    "sig": "tmobile|software engineer intern hr data products"
   },
   "https://go.vansh.nyc/1ke": {
     "title": "Software Delivery Platform Intern",
@@ -62539,5 +62541,100 @@
     "title": "Software Engineer Intern",
     "url": "https://go.vansh.nyc/1n8",
     "sig": "intercontinentalexchange|software engineer intern"
+  },
+  "https://amat.wd1.myworkdayjobs.com/en-us/external/job/singaporesgp/college-intern--hardware-_r2627094": {
+    "title": "College Intern (Hardware)",
+    "url": "https://amat.wd1.myworkdayjobs.com/en-US/External/job/SingaporeSGP/College-Intern--Hardware-_R2627094",
+    "sig": "amat|college intern hardware"
+  },
+  "https://ag.wd3.myworkdayjobs.com/en-us/airbus/job/gdansk/site-reliability-intern_jr10456730": {
+    "title": "Site Reliability Intern",
+    "url": "https://ag.wd3.myworkdayjobs.com/en-US/Airbus/job/Gdansk/Site-Reliability-Intern_JR10456730",
+    "sig": "ag|site reliability intern"
+  },
+  "https://jobs.smartrecruiters.com/renesaselectronics/744000160530279": {
+    "title": "Robotic AI Intern",
+    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000160530279",
+    "sig": "renesaselectronics|robotic ai intern"
+  },
+  "https://jobs.smartrecruiters.com/renesaselectronics/744000160529969": {
+    "title": "Robotic AI Intern",
+    "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000160529969",
+    "sig": "renesaselectronics|robotic ai intern"
+  },
+  "https://nyp.wd1.myworkdayjobs.com/en-us/nypcareers/job/nypqueens/summer-2027-undergraduate-research-internship---newyork-presbyterian-queens_00890454": {
+    "title": "Summer 2027 Undergraduate Research Internship | NewYork-Presbyterian/Queens",
+    "url": "https://nyp.wd1.myworkdayjobs.com/en-US/nypcareers/job/NYPQueens/Summer-2027-Undergraduate-Research-Internship---NewYork-Presbyterian-Queens_00890454",
+    "sig": "nyp|undergraduate research intern newyork presbyterian queens"
+  },
+  "https://go.vansh.nyc/1nc": {
+    "title": "ASIC Digital Verification Engineer Intern",
+    "url": "https://go.vansh.nyc/1nc",
+    "sig": "sitime|asic digital verification engineer intern"
+  },
+  "https://go.vansh.nyc/1ne": {
+    "title": "Data Engineering & Analytics Tools Intern",
+    "url": "https://go.vansh.nyc/1ne",
+    "sig": "systemsplanningandanalysis|data engineering analytics tools intern"
+  },
+  "https://go.vansh.nyc/1nf": {
+    "title": "Process Automation Intern, Data and Analytics",
+    "url": "https://go.vansh.nyc/1nf",
+    "sig": "johndeere|process automation intern data and analytics"
+  },
+  "https://go.vansh.nyc/1ng": {
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1ng",
+    "sig": "integrate|software engineer intern"
+  },
+  "https://go.vansh.nyc/1ni": {
+    "title": "Data Scientist Intern",
+    "url": "https://go.vansh.nyc/1ni",
+    "sig": "nationalinterstateinsurance|data scientist intern"
+  },
+  "https://go.vansh.nyc/1nn": {
+    "title": "Data Scientist Intern",
+    "url": "https://go.vansh.nyc/1nn",
+    "sig": "garmin|data scientist intern"
+  },
+  "https://go.vansh.nyc/1np": {
+    "title": "Systems Intern, Multiple Teams",
+    "url": "https://go.vansh.nyc/1np",
+    "sig": "tenstorrent|systems intern multiple teams"
+  },
+  "https://go.vansh.nyc/1nq": {
+    "title": "Applications Software Developer Intern",
+    "url": "https://go.vansh.nyc/1nq",
+    "sig": "indie|applications software developer intern"
+  },
+  "https://go.vansh.nyc/1nr": {
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1nr",
+    "sig": "garmin|software engineer intern"
+  },
+  "https://go.vansh.nyc/1nt": {
+    "title": "Autonomous Driving Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1nt",
+    "sig": "generalmotors|autonomous driving software engineer intern"
+  },
+  "https://go.vansh.nyc/1nu": {
+    "title": "AI Software Intern",
+    "url": "https://go.vansh.nyc/1nu",
+    "sig": "tenstorrent|ai software intern"
+  },
+  "https://go.vansh.nyc/1nx": {
+    "title": "Software Development Intern",
+    "url": "https://go.vansh.nyc/1nx",
+    "sig": "peraton|software development intern"
+  },
+  "https://go.vansh.nyc/1ny": {
+    "title": "Compiler Intern, Compiler Team",
+    "url": "https://go.vansh.nyc/1ny",
+    "sig": "aptiv|compiler intern compiler team"
+  },
+  "https://go.vansh.nyc/1na": {
+    "title": "Hardware Engineer Intern",
+    "url": "https://go.vansh.nyc/1nA",
+    "sig": "hewlettpackardenterprise|hardware engineer intern"
   }
 }
