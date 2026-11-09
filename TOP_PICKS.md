@@ -1,6 +1,6 @@
 # Top picks (auto-generated)
 
-_3461 role(s) worth a look, out of 5143 tracked items. Rebuilt every sweep: 2026-11-08 21:07 UTC. 25 role(s) you already applied to or skipped are hidden._
+_3471 role(s) worth a look, out of 5148 tracked items. Rebuilt every sweep: 2026-11-09 00:53 UTC. 25 role(s) you already applied to or skipped are hidden._
 
 Grouped by lane in the order set by `filters.lane_order` in config.json: ai → cyber → quant → startup → swe → other. Within a lane, best **fit** first (0–4, from the title; same scale as SHORTLIST.md), then preferred locations.
 
@@ -9,11 +9,11 @@ Grouped by lane in the order set by `filters.lane_order` in config.json: ai → 
 
 _Only postings that state an apply-by date. Most never do._
 
-- **closes 2026-11-10 (2d)** — [metamorphic — Research and Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a) — Palo Alto
-- **closes 2026-11-10 (2d)** — [vikingglobalinvestors — Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) — New York, NY
-- **closes 2026-11-14 (6d)** — [javelin-global-commodities — Summer Intern: Software Engineering](https://apply.workable.com/j/CAF64E75BF) — London, England, United Kingdom
-- **closes 2026-11-15 (7d)** — [thealleninstitute — Research Internship, AI for Science](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615) — Seattle, WA
-- **closes 2026-11-20 (12d)** — [wikimedia — Software Engineering Internship Program (2027)](https://job-boards.greenhouse.io/wikimedia/jobs/8268853) — Remote
+- **closes 2026-11-10 (1d)** — [metamorphic — Research and Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/metamorphic/cf518648-4e65-4f7d-aa05-f01066d8bd8a) — Palo Alto
+- **closes 2026-11-10 (1d)** — [vikingglobalinvestors — Data Science Intern - Summer 2027](https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004) — New York, NY
+- **closes 2026-11-14 (5d)** — [javelin-global-commodities — Summer Intern: Software Engineering](https://apply.workable.com/j/CAF64E75BF) — London, England, United Kingdom
+- **closes 2026-11-15 (6d)** — [thealleninstitute — Research Internship, AI for Science](https://job-boards.greenhouse.io/thealleninstitute/jobs/8293615) — Seattle, WA
+- **closes 2026-11-20 (11d)** — [wikimedia — Software Engineering Internship Program (2027)](https://job-boards.greenhouse.io/wikimedia/jobs/8268853) — Remote
 
 ## 🧠 AI / ML
 
@@ -283,6 +283,7 @@ _Only postings that state an apply-by date. Most never do._
 - `3.5` [generalmotors — 2027 Summer Intern - Research and Development - AI/Machine Learning](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Mountain-View-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---AI-Machine-Learning_JR-202621620) — Mountain View, California, United States of America
 - `3.5` [generalmotors — 2027 Summer Intern,  Data Scaling, Embodied AI](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132) — Sunnyvale, California, United States of America
 - `3.5` [genmd — Member of Technical Staff Intern, Applied AI](https://jobs.ashbyhq.com/genmd/47c4fc76-f21f-402b-9d5c-45bafe30aa2c) — Palo Alto
+- `3.5` [Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171535?type=students) — NYC
 - `3.5` [graymatter-robotics — AI Research Intern: Foundation Models - IMMEDIATE START](https://jobs.ashbyhq.com/graymatter-robotics/dea0f08d-ebf5-4e55-b9cb-e6302014f429) 🇺🇸 — Los Angeles - HQ
 - `3.5` [gresearch — Data Science Internship](https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/job/London-UK/Data-Science-Internship_R3679) — London, UK
 - `3.5` [gresearch — Machine Learning Engineer Internship](https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/job/London-UK/Machine-Learning-Engineer-Intern_R3773) — London, UK
@@ -549,6 +550,7 @@ _Only postings that state an apply-by date. Most never do._
 - `3.5` [XPENG Motors — AI Infrastructure Onboard Performance Intern](https://job-boards.greenhouse.io/xpengmotors/jobs/8581353002) — Santa Clara, CA
 - `3.5` [zillow — Applied Scientist (Economics) Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Applied-Scientist--Economics--Intern_P751642-1) — Seattle-WA-2nd Ave
 - `3.5` [zillow — Data Science Intern](https://zillow.wd5.myworkdayjobs.com/en-US/Zillow_Group_External/job/Seattle-WA-2nd-Ave/Data-Science-Intern_P751677-1) — Seattle-WA-2nd Ave
+- `3.5` [Zoox — Data Science Intern](https://go.vansh.nyc/1lQ) — Foster City, CA, Boston, MA
 - `3.5` [Zoox — Data Scientist Intern](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97/apply) — Boston, MA, Foster City, CA
 - `3.5` [Point72 — Data Scientist Intern](https://boards.greenhouse.io/point72/jobs/8885299002) ⚡elite — NYC
 - `3.5` [albemarle — Ketjen Summer 2027 Data Science Internship](https://albemarle.wd5.myworkdayjobs.com/en-US/ketjenexternal/job/Houston-Texas-United-States-of-America/Ketjen-Summer-2027-Data-Science-Internship_REQ-31411) — Houston, Texas, United States of America
@@ -1016,8 +1018,6 @@ _Only postings that state an apply-by date. Most never do._
 - `3.5` [zoetis — Chemistry Data Science Intern - Digital CMC Workflows](https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Downtown-Portage-Street/Chemistry-Data-Science-Intern---Digital-CMC-Workflows_JR00021822-2) — Kalamazoo - Downtown Portage Street
 - `3.5` [zoetis — Summer Intern – Pharmacogenomics Data Science & Genomic Prediction (VMRD)](https://zoetis.wd5.myworkdayjobs.com/en-US/zoetis/job/Kalamazoo---Downtown-Portage-Street/Summer-Intern---Pharmacogenomics-Data-Science---Genomic-Prediction--VMRD-_JR00021759-2) — Kalamazoo - Downtown Portage Street
 - `3.5` [Zoetis Services — Chemistry Data Science Intern - Digital CMC Workflows](https://zoetis.wd5.myworkdayjobs.com/zoetis/job/Kalamazoo---Downtown-Portage-Street/Chemistry-Data-Science-Intern---Digital-CMC-Workflows_JR00021822-2) — Kalamazoo, MI
-- `3.5` [zoox — AI Workflows & Safety Decision Making Intern (2027)](https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1) — Foster City, CA
-- `3.5` [zoox — Data Science Intern (Summer 2027)](https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97) — Foster City, CA
 - `3.5` [accenture — AI Engineering Internship](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Amsterdam/AI-Engineering-Internship_R00367336)
 - `3.5` [accenture — Data & AI Intern - Accenture Internship Program -Athens](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Athens-Arcadias/Global-S-C-Networks-Internship-Program---Athens_R00284676)
 - `3.5` [alliancewd — (Internship) AI & Software Automation for Automotive Engineering (F/M)](https://alliancewd.wd3.myworkdayjobs.com/en-US/renault-group-careers/job/Bucuresti/XMLNAME--Internship--AI---Software-Automation-for-Automotive-Engineering--F-M-_JOBREQ_50285647)
@@ -1053,7 +1053,7 @@ _Only postings that state an apply-by date. Most never do._
 - `3.0` [Smith+Nephew — Robotics Software Engineer Intern](https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482) — Pittsburgh, PA
 - `3.0` [Smith+Nephew — Robotics Software Engineering Intern](https://go.vansh.nyc/1gO) — Pittsburgh, PA
 - `3.0` [smithnephew — Intern Robotics Software Engineering](https://smithnephew.wd5.myworkdayjobs.com/en-US/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482) — US - Pittsburgh, PA
-- `3.0` [zoox — Software Engineer Intern, Autonomy Software (Summer 2027)](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877) — Foster City, CA
+- `3.0` [Zoox — Software Engineer Intern - Autonomy Software - Summer 2027](https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877) — Foster City, CA
 - `2.8` [NVIDIA — Product Management MBA Intern, Gaming, Content Creation, and PC AI - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-MBA-Intern--Gaming--Content-Creation--and-PC-AI---Summer-2027_JR2026962) — US, CA, Santa Clara
 - `2.8` [NVIDIA — Product Manager MBA Intern, Enterprise AI - Summer 2027](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Manager-MBA-Intern--Enterprise-AI---Summer-2027_JR2026707) — US, CA, Santa Clara
 - `2.7` [Pacific Northwest National Laboratory — NSIP Undergraduate Intern - Artificial Intelligence & Data Analytics - SWE Conference](https://careers.pnnl.gov/jobs/12897?icims=1) — Seattle, WA, Richland, WA
@@ -1300,9 +1300,9 @@ _Only postings that state an apply-by date. Most never do._
 - `3.5` [Procter & Gamble (P&G) — IT Security Intern](https://go.vansh.nyc/OT) — Cincinnati, OH
 - `3.5` [quberesearchandtechnologies — 2027 - Internship, Security Engineer ](https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8749942002) — Hong Kong
 - `3.5` [Regeneron Pharmaceuticals — IT, Digital Enablement & Information Security Intern](https://go.vansh.nyc/Zk) — Tarrytown, NY, Sleepy Hollow, NY
+- `3.5` [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986874003) 🇺🇸 — Albuquerque, NM
 - `3.5` [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986961003) 🇺🇸 — Wallops Island, VA
 - `3.5` [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986963003) 🇺🇸 — Middle River, MD
-- `3.5` [rocketlab — Security Analyst Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7986874003) 🇺🇸 — Albuquerque, NM
 - `3.5` [RTX — Systems Security Engineer Intern](https://go.vansh.nyc/1iL) 🇺🇸 — Tewksbury, MA
 - `3.5` [RTX (Raytheon) — Internship – Raytheon Systems Security Engineer -Onsite](https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-MA-TEWKSBURY-TB1--50-Apple-Hill-Dr--ASSABET-BLDG/Internship---Raytheon-Systems-Security-Engineer--Onsite_01874702) — US-MA-TEWKSBURY-TB1 ~ 50 Apple Hill Dr ~ ASSABET BLDG
 - `3.5` [saabusa — Co-Op, Information Security (Spring - Summer 2027)](https://saabusa.wd1.myworkdayjobs.com/en-US/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Information-Security--Spring---Summer-2027-_R-03409-1) — East Syracuse, NY (Collamer)
@@ -1491,6 +1491,15 @@ _Only postings that state an apply-by date. Most never do._
 - `3.5` [G-Research — Quantitative Research Internship](https://gresearch.wd103.myworkdayjobs.com/G-Research/job/London-UK/Quant-Research-Internship_R3691) — London, UK
 - `3.5` [gelbergroup — Discretionary Trading Internship - Summer 2027](https://job-boards.greenhouse.io/gelbergroup/jobs/4716779006) — Chicago, IL
 - `3.5` [globalfoundries — APL Quantum Intern (Summer 2027)](https://globalfoundries.wd1.myworkdayjobs.com/en-US/External/job/USA---New-York---Malta/APL-Quantum-Intern--Summer-2027-_JR-2604434) — USA - New York - Malta
+- `3.5` [Goldman Sachs — Quantitative Strategist Associate Intern - Asset and Wealth Management](https://higher.gs.com/roles/175423?type=students) — London, UK
+- `3.5` [Goldman Sachs — Quantitative Strategist Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175427?type=students) — London, UK
+- `3.5` [Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171533?type=students) — NYC
+- `3.5` [Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats](https://higher.gs.com/roles/175421?type=students) — London, UK
+- `3.5` [Goldman Sachs — Quantitative Strategist Intern - Investment Banking](https://higher.gs.com/roles/175428?type=students) — London, UK
+- `3.5` [Goldman Sachs — Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/175424?type=students) — London, UK
+- `3.5` [Goldman Sachs — Quantitative Strategist Intern - Multiple Teams](https://higher.gs.com/roles/171563?type=students) — NYC
+- `3.5` [Goldman Sachs — Summer Analyst Intern - Americas - Investment Banking Quantitative Strats](https://higher.gs.com/roles/171547?type=students) — NYC
+- `3.5` [Goldman Sachs — Summer Analyst Intern - The Core Quantitative Strats](https://higher.gs.com/roles/175426?type=students) — London, UK
 - `3.5` [Graviton — Quantitative Researcher Intern](https://go.vansh.nyc/bc) — London, UK, Amsterdam, Netherlands, NYC, Singapore
 - `3.5` [gravitonresearchcapital — Quantitative Researcher - 2027 Summer Internship ](https://job-boards.greenhouse.io/gravitonresearchcapital/jobs/8899673002) — Amsterdam, North Holland, Netherlands; London, England, United Kingdom; New York; Singapore
 - `3.5` [gresearch — Quant Research Internship](https://gresearch.wd103.myworkdayjobs.com/en-US/G-Research/job/London-UK/Quant-Research-Internship_R3691) — London, UK
@@ -1571,6 +1580,10 @@ _Only postings that state an apply-by date. Most never do._
 - `3.5` [BlackRock — Quantitative Master’s Internship - Technology - Analytics & Modeling](https://blackrock.wd1.myworkdayjobs.com/en-US/BlackRock_Professional/job/San-Francisco-CA/XMLNAME-2027-Quantitative-Masters-Internship-Program---Technology---Analytics---Modeling---San-Francisco_R266476) — SF
 - `3.5` [chevron — 2026-2027 Supply & Trading Intern](https://chevron.wd5.myworkdayjobs.com/en-US/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Supply---Trading-Intern_R000073904) — Houston, Texas, United States of America
 - `3.5` [chevron — 2026-2027 Supply & Trading TAMU TRIP Program Intern](https://chevron.wd5.myworkdayjobs.com/en-US/University/job/Houston-1400-Smith-Street/XMLNAME-2026-2027-Supply---Trading-TAMU-TRIP-Program-Intern_R000072485) — Houston 1400 Smith Street
+- `3.5` [Goldman Sachs — Associate Intern - The Core Quantitative Strats](https://higher.gs.com/roles/171546?type=students) — Dallas, TX
+- `3.5` [Goldman Sachs — Quantitative Strategist Intern - Americas](https://higher.gs.com/roles/171532?type=students) — Dallas, TX
+- `3.5` [Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171534?type=students) — Dallas, TX
+- `3.5` [Goldman Sachs — Quantitative Strats Analyst Intern - Americas - Investment Banking](https://higher.gs.com/roles/171548?type=students) — Dallas, TX
 - `3.5` [scm — Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scm/jobs/721895) — Radnor, PA
 - `3.5` [scmaea — Quantitative Research Analyst Internship](https://job-boards.greenhouse.io/scmaea/jobs/998317) — Radnor, PA
 - `3.5` [Stevens Capital Management — Quantitative Research Analyst Internship](https://go.vansh.nyc/4V) — Radnor, PA
@@ -1599,9 +1612,10 @@ _Only postings that state an apply-by date. Most never do._
 - `3.5` [dvtrading — Quantitative Trading Intern (DV QES)](https://job-boards.greenhouse.io/dvtrading/jobs/4691295005) — Hong Kong
 - `3.5` [Energy Transfer Partners — Commodity Trading Analyst Intern](https://energytransfer.taleo.net/careersection/etp_ext/jobdetail.ftl?job=2610003520) — Overland Park, KS
 - `3.5` [engineersgate — Quantitative Research Intern](https://job-boards.greenhouse.io/engineersgate/jobs/7946542) — Hong Kong
-- `3.5` [Fanatics — Collectibles Intern - Product - Physical Trading Cards](https://fa-exki-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27190) — Coppell, TX
 - `3.5` [First Citizens BancShares — Quantitative Modeling Intern](https://firstcitizens.jibeapply.com/jobs/36317?icims=1) — Raleigh, NC
 - `3.5` [gardacp — Trading Assistant Intern](https://job-boards.greenhouse.io/gardacp/jobs/4308947004) — Wayzata, Minnesota, United States
+- `3.5` [Goldman Sachs — Quantitative Strategist Intern - Americas - The Core Quantitative Strats](https://higher.gs.com/roles/171551?type=students) — Salt Lake City, UT
+- `3.5` [Goldman Sachs — Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats](https://higher.gs.com/roles/171549?type=students) — Salt Lake City, UT
 - `3.5` [hrhub — Borsa Italiana - Regulation and Post Trading internship](https://hrhub.wd3.myworkdayjobs.com/en-US/Euronext_Career_Page/job/Milan/Borsa-Italiana---Regulation-and-Post-Trading-internship_R27753-1) — Milan
 - `3.5` [jainglobal — Risk Quant Modeller - Intern](https://jainglobal.wd5.myworkdayjobs.com/en-US/ExternalSite/job/Hong-Kong-Office/Risk-Quant-Modeller---Intern_JR100472-1) — Hong Kong Office
 - `3.5` [keyrock — DeFi Quant Research Intern (Digital Assets Market Making) - Brussels  ](https://jobs.ashbyhq.com/Keyrock/4cae20e0-f315-4ccb-aa8e-df0e87969313) — Brussels
@@ -1678,7 +1692,7 @@ _Only postings that state an apply-by date. Most never do._
 - `3.0` [Chicago Trading Company — Software Engineer Intern](https://go.vansh.nyc/5b) — Chicago, IL
 - `3.0` [ctccampusboard — Software Engineering Internship - Summer 2027](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) — Chicago, Illinois, United States
 - `3.0` [Intercontinental Exchange — Software Development Engineer in Test Intern](https://go.vansh.nyc/135) — Atlanta, GA
-- `3.0` [Intercontinental Exchange — Software Engineer Intern](https://ice.jibeapply.com/jobs/14105?icims=1) — NYC
+- `3.0` [Intercontinental Exchange — Software Engineer Intern](https://go.vansh.nyc/1n6) — New York, NY
 - `3.0` [Intercontinental Exchange — Software Engineering Intern](https://go.vansh.nyc/130) — New York, NY
 - `3.0` [TransMarket Group — DevOps/SRE Intern](https://job-boards.greenhouse.io/transmarketgroup/jobs/5151577007?gh_jid=5151577007) — Chicago, Illinois, United States
 - `3.0` [virtu — 2027 Internship - Software Engineer](https://job-boards.greenhouse.io/virtu/jobs/8551566002) — Dublin, Ireland
@@ -1702,8 +1716,8 @@ _Only postings that state an apply-by date. Most never do._
 - `3.0` [Point72 — Software Engineer Intern](https://go.vansh.nyc/9m) ⚡elite — New York, NY
 - `3.0` [Choice Solutions — DevOps Intern](https://recruiting.paylocity.com/Recruiting/Jobs/Details/4484980) — Overland Park, KS
 - `3.0` [Intercontinental Exchange — Software Developer Intern](https://go.vansh.nyc/133) — Jacksonville, FL
-- `3.0` [Intercontinental Exchange — Software Engineer Intern](https://ice.jibeapply.com/jobs/14077?icims=1) — Jacksonville, FL
-- `3.0` [Intercontinental Exchange — Software Engineer Intern - Java](https://ice.jibeapply.com/jobs/14078?icims=1) — Jacksonville, FL
+- `3.0` [Intercontinental Exchange — Software Engineer Intern](https://go.vansh.nyc/1n8) — Jacksonville, FL
+- `3.0` [Intercontinental Exchange — Software Engineer Intern, Java](https://go.vansh.nyc/1n7) — Jacksonville, FL
 - `3.0` [Intercontinental Exchange — Software Engineering Intern](https://go.vansh.nyc/132) — Jacksonville, FL
 - `3.0` [Intercontinental Exchange — Software Engineering Intern, Java](https://go.vansh.nyc/131) — Jacksonville, FL
 - `3.0` [Intercontinental Exchange, Inc. — Infrastructure Observability Intern](https://go.vansh.nyc/1k5) — Jacksonville, FL
@@ -1795,8 +1809,8 @@ _Only postings that state an apply-by date. Most never do._
 - `3.3` [Startup: Stripe — Software Engineer, Intern](https://stripe.com/jobs/search?gh_jid=8031833) — Bengaluru
 - `3.3` [Startup: Stripe — Software Engineer, Intern ](https://stripe.com/jobs/search?gh_jid=8130807) — Bucharest
 - `3.0` [affirm — Software Engineer Intern (Summer 2027)](https://job-boards.greenhouse.io/affirm/jobs/8011590003) — San Francisco, California, United States
-- `3.0` [Anduril — 2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007) 🇺🇸 — London, England, United Kingdom
 - `3.0` [Anduril — 2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007) 🇺🇸 — Atlanta, Georgia, United States; Boston, Massachusetts, United States; Broomfield, Colorado, United States; Colorado Springs, Colorado, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States
+- `3.0` [Anduril — 2027 Software Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5255902007?gh_jid=5255902007) 🇺🇸 — London, England, United Kingdom
 - `3.0` [Anduril — 2027 Systems Engineer Intern](https://boards.greenhouse.io/andurilindustries/jobs/5257690007?gh_jid=5257690007) 🇺🇸 — Boston, Massachusetts, United States; Costa Mesa, California, United States; Fort Collins, Colorado, United States; Reston, Virginia, United States; Seattle, Washington, United States
 - `3.0` [astranis — Software Engineer - Enterprise Systems Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705610006) 🇺🇸 — San Francisco, CA
 - `3.0` [astranis — Software Engineer Backend Intern (Summer 2027)](https://job-boards.greenhouse.io/astranis/jobs/4705214006) 🇺🇸 — San Francisco, CA
@@ -2356,7 +2370,6 @@ _Only postings that state an apply-by date. Most never do._
 - `3.0` [integrate — Software Engineering Intern (Summer 2027)](https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3) 🇺🇸 — Seattle, WA
 - `3.0` [Intel — Software Engineer Intern](https://intel.wd1.myworkdayjobs.com/en-us/external/job/US-Oregon-Hillsboro/Software-Engineering---Intern--Graduate_JR0286836) — Austin, TX, Santa Clara, CA, Hillsboro, OR, Folsom, CA, Phoenix, AZ
 - `3.0` [internrecruiting — Software Engineer Co-op](https://job-boards.greenhouse.io/internrecruiting/jobs/8204511) 🇺🇸 — Boston, MA
-- `3.0` [Iridium Communications — Software Engineering Intern](https://go.vansh.nyc/137) 🇺🇸 — McLean, VA, Tempe, AZ, Leesburg, VA, Chandler, AZ
 - `3.0` [Javelin Global Commodities — Software Engineering Intern](https://apply.workable.com/javelin-global-commodities/j/CAF64E75BF/apply) — London, UK
 - `3.0` [javelin-global-commodities — Summer Intern: Software Engineering](https://apply.workable.com/j/CAF64E75BF) — London, England, United Kingdom
 - `3.0` [k2spacecorporation — Simulation Software Engineering Intern - Summer 2027](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008) 🇺🇸 — Los Angeles, CA
@@ -2486,7 +2499,6 @@ _Only postings that state an apply-by date. Most never do._
 - `3.0` [Ricoh — Software Engineer Intern, Graphic Communications](https://go.vansh.nyc/Vl) — Boulder, CO
 - `3.0` [Ricoh — Software Engineer Intern, Microservice Developer](https://go.vansh.nyc/Vj) — Boulder, CO
 - `3.0` [Riot Games — Software Engineering Intern - Summer 2027 - Remote](https://www.riotgames.com/en/work-with-us/job/8222014?gh_jid=8222014) — Los Angeles, CA
-- `3.0` [Riverlane — Software Engineering Intern](https://www.riverlane.com/jobs?gh_jid=5000786101#vacancies) — Cambridge, UK
 - `3.0` [Rivian — Software Engineering Intern](https://go.vansh.nyc/Hi) — Palo Alto, CA
 - `3.0` [Rivian and Volkswagen Group Technologies — Software Engineering Intern, Applications](https://go.vansh.nyc/gw) — Palo Alto, CA
 - `3.0` [Rivian and Volkswagen Group Technologies — Software Engineering Intern, Connected Systems](https://go.vansh.nyc/fG) — Palo Alto, CA, Irvine, CA
@@ -2496,8 +2508,8 @@ _Only postings that state an apply-by date. Most never do._
 - `3.0` [rivianvw.tech — Software Engineering Intern - Embedded Platforms (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/30c3af69-2dfc-4224-9abc-b2d9c0c41048) 🇺🇸 — Palo Alto, California
 - `3.0` [rivianvw.tech — Software Engineering Intern - Vehicle Controls (January - August 2027)](https://jobs.ashbyhq.com/rivianvw.tech/f5aa59d9-4fdc-42d5-931d-efd9e6d96f2f) — Irvine, California
 - `3.0` [rivianvw.tech — Software Engineering Intern - Vehicle Controls (Summer 2027)](https://jobs.ashbyhq.com/rivianvw.tech/cb3559f0-2514-45f1-8d36-a11fa1dded0c) — Palo Alto, California
-- `3.0` [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) — Pasadena, CA
 - `3.0` [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7987046003) — Long Beach, CA
+- `3.0` [rocketlab — Systems Engineering Intern Summer 2027](https://job-boards.greenhouse.io/rocketlab/jobs/7990138003) — Pasadena, CA
 - `3.0` [Roku — Software Engineer Intern](https://www.weareroku.com/jobs/8345963?gh_jid=8345963) — Cambridge, UK
 - `3.0` [rosaiclabs — Software Engineering - Intern](https://jobs.lever.co/rosaiclabs/740b53d3-dd36-41fb-b49c-ab7f97505aa8) — Santa Clara, CA
 - `3.0` [rothesaygraduates — 2027 Summer Internship Programme - Software Engineering](https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002) — London
@@ -2651,6 +2663,7 @@ _Only postings that state an apply-by date. Most never do._
 - `3.0` [chevron — 2026-2027 Information Technology - Software Engineer - Intern](https://chevron.wd5.myworkdayjobs.com/en-US/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) — Houston, Texas, United States of America
 - `3.0` [Circleback — Software Engineer Intern](https://jobs.ashbyhq.com/circleback/2bb6be67-d1a8-42f7-bb1b-64ee36bf613f/application?embed=true) — SF
 - `3.0` [copart — Site Reliability Engineer Intern](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631) — Dallas, TX - Headquarters
+- `3.0` [Copart — Software Engineer Intern](https://go.vansh.nyc/1n1) — Dallas, TX
 - `3.0` [copart — Software Engineering Intern](https://copart.wd12.myworkdayjobs.com/en-US/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689) — Dallas, TX - Headquarters
 - `3.0` [Corgan — Software Development Intern](https://campus-us-corgan.icims.com/jobs/4109/job?mobile=true&needsRedirect=false) — Dallas, TX
 - `3.0` [CTGT — Software Engineer Intern](https://jobs.ashbyhq.com/ctgt/f657c2f5-125e-42b6-a68a-646bbea3d155/application) — SF
@@ -2864,7 +2877,6 @@ _Only postings that state an apply-by date. Most never do._
 - `3.0` [chathamfinancial — 2027 Software Engineering Intern](https://chathamfinancial.wd501.myworkdayjobs.com/en-US/chathamfinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348) — Kennett Square
 - `3.0` [chrobinson — Software Engineering Internship 2027](https://chrobinson.wd5.myworkdayjobs.com/en-US/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323) — Eden Prairie, MN United States of America
 - `3.0` [ciena — Stagiaire en développement logiciel - Software developer Intern/Co-op](https://ciena.wd5.myworkdayjobs.com/en-US/Careers/job/Quebec/Stagiaire-en-dveloppement-logiciel---Software-developer-Intern-Co-op_R032046) — 2 Locations
-- `3.0` [cisco — Software Developer Embedded Systems II (Co-op) – Canada](https://cisco.wd5.myworkdayjobs.com/en-US/cisco_careers/job/Kanata-Ontario-Canada/Software-Developer-Embedded-Systems-II--Co-op----Canada_2024136) — 7 Locations
 - `3.0` [Citco — Software Engineer Intern](https://go.vansh.nyc/ca) — Toronto, ON, Canada
 - `3.0` [Citizens Financial Group — Software Engineer Intern](https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49286) — Plano, TX, Johnston, RI, Phoenix, AZ
 - `3.0` [clarityinnovates — Junior Software Engineer Internship](https://job-boards.greenhouse.io/clarityinnovates/jobs/5155449007) 🇺🇸 — Herndon, VA
@@ -2992,7 +3004,6 @@ _Only postings that state an apply-by date. Most never do._
 - `3.0` [guardianlife — 2027 Guardian Summer Intern, Digital & Technology, Cloud & DevOps](https://guardianlife.wd5.myworkdayjobs.com/en-US/guardian-life-careers/job/Bethlehem/XMLNAME-2027-Guardian-Summer-Intern--Digital---Technology--Cloud---DevOps_R000110210) — 2 Locations
 - `3.0` [H&CO — Software Development Intern](https://go.vansh.nyc/1K) — Coral Gables, FL
 - `3.0` [hackerrank — Software Development Engineer Intern](https://job-boards.greenhouse.io/hackerrank/jobs/8229735) — Onsite in Bangalore
-- `3.0` [hcmportal — 2027 Buildings and Systems Engineering Summer Intern](https://hcmportal.wd5.myworkdayjobs.com/en-US/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Buildings-and-Systems-Engineering-Summer-Intern_R26030715) — US - UPS CORPORATE OFFICES (GACOR)
 - `3.0` [hcsc — Early Careers - Infrastructure Engineer Intern](https://hcsc.wd1.myworkdayjobs.com/en-US/HCSC_External/job/IL---Chicago/Early-Careers---Infrastructure-Engineer-Intern_R0059506) — 2 Locations
 - `3.0` [Hearst — Software Engineer Intern](https://go.vansh.nyc/1iE) — Carmel, IN
 - `3.0` [hearst — Software Engineering Intern](https://job-boards.greenhouse.io/hearst/jobs/4466334009) — Carmel, IN, United States
@@ -3425,8 +3436,8 @@ _Only postings that state an apply-by date. Most never do._
 - `3.0` [York Space Systems — Flight Software Engineering Intern](https://jobs.dayforcehcm.com/en-US/yss/candidateportal/jobs/3805) — Greenwood Village, CO
 - `3.0` [Zebra Technologies — Software Engineer Intern](https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657) — Holtsville, NY
 - `3.0` [Zions Bank — Software Engineer Intern](https://zionsbancorp.taleo.net/careersection/joinexternalmobile/jobdetail.ftl?job=071639) — United States
-- `3.0` [zoox — Software Engineer Intern, Software Platforms & Product (Summer 2027)](https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520) — Foster City, CA
-- `3.0` [zoox — Software Engineer Intern, Software Systems (Summer 2027)](https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20) — Foster City, CA
+- `3.0` [Zoox — Software Engineer Intern - Software Platforms & Product - Summer 2027](https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520) — Foster City, CA
+- `3.0` [Zoox — Software Engineer Intern - Software Systems - Summer 2027](https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20) — Foster City, CA
 - `3.0` [zyngacareers — Software Engineer Intern - Two Dots](https://job-boards.greenhouse.io/zyngacareers/jobs/6217991004) — Barcelona, Spain
 - `3.0` [accenture — Software Engineer Intern](https://accenture.wd103.myworkdayjobs.com/en-US/AccentureCareers/job/Belen/Software-Engineer-Intern_R00369515)
 - `3.0` [modernatx — Co-Op, Platform Biology Integration](https://modernatx.wd1.myworkdayjobs.com/en-US/M_tx/job/Cambridge-Massachusetts/Co-Op--Platform-Biology-Integration_R19890)
@@ -3474,7 +3485,6 @@ _Only postings that state an apply-by date. Most never do._
 - `2.0` [vanderlande — Internship: IT Infrastructure & systems](https://vanderlande.wd3.myworkdayjobs.com/en-US/careers/job/Veghel-Netherlands/Internship--IT-Infrastructure---systems_JR38223) — Veghel, Netherlands
 - `2.0` [vermeer — IT Software Engineer Internship Summer 2027](https://vermeer.wd5.myworkdayjobs.com/en-US/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178) — Pella, Iowa, USA - Corporate Office
 - `2.0` [Vermeer — Software Engineer Intern - IT](https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178) — Pella, IA
-- `2.0` [zoox — Program Manager, Infrastructure Operations Intern (Summer 2027)](https://jobs.lever.co/zoox/affbfa7d-30c5-4639-aa56-2ba138200bd8) — Foster City, CA
 - `1.3` [NVIDIA — Software Engineer – DFT CAD Tools (RDSS Intern)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Software-Engineer---DFT-CAD-Tools--RDSS-Intern-_JR2026878-1) — Taiwan, Taipei
 - `1.2` [Solidigm — 2027 Undergraduate Software Development & Firmware Engineering Internships – US](https://jobs.smartrecruiters.com/Solidigm/744000147613629) — Rancho Cordova, CA, us
 - `1.0` [Fab2 — Rust Software Engineer Intern - Chip Design Tools - Multiple Teams](https://jobs.ashbyhq.com/fab2/2b0ab443-c7d8-4547-9766-111747f0b361/application?embed=true) — SF, Austin, TX
