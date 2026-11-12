@@ -22932,7 +22932,8 @@
   },
   "https://geaerospace.wd5.myworkdayjobs.com/en-us/ge_externalsite/job/bengaluru/data-science-intern_r5040035-1": {
     "title": "Data Science Intern",
-    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1"
+    "url": "https://geaerospace.wd5.myworkdayjobs.com/en-US/ge_externalsite/job/Bengaluru/Data-Science-Intern_R5040035-1",
+    "sig": "geaerospace|data science intern"
   },
   "https://pfizer.wd1.myworkdayjobs.com/en-us/pfizercareers/job/india---mumbai/intern---data-science---ai_4963079": {
     "title": "Intern - Data Science & AI",
@@ -28087,9 +28088,9 @@
     "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Bangalore/AI-Intern_2603878"
   },
   "https://marvell.wd1.myworkdayjobs.com/en-us/marvellcareers2/job/hyderabad/intern--software-engineer_2603879": {
-    "title": "Intern, Software Engineer",
+    "title": "Intern, Software Engineer - Bachelor's Degree",
     "url": "https://marvell.wd1.myworkdayjobs.com/en-US/MarvellCareers2/job/Hyderabad/Intern--Software-Engineer_2603879",
-    "sig": "marvell|intern software engineer"
+    "sig": "marvell|intern software engineer bachelor s degree"
   },
   "https://glencorecorp.wd3.myworkdayjobs.com/en-us/external/job/singapore/data-analytics-intern_r200001786": {
     "title": "Data Analytics Intern (H1 2027)",
@@ -32365,7 +32366,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-11-12",
-        "n": 475,
+        "n": 474,
         "nz": "2026-11-12"
       },
       "OpenAI": {
@@ -32373,7 +32374,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-11-12",
-        "n": 820,
+        "n": 822,
         "nz": "2026-11-12"
       },
       "Anthropic": {
@@ -32389,7 +32390,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-11-12",
-        "n": 913,
+        "n": 912,
         "nz": "2026-11-12"
       },
       "Page: Microsoft Careers": {
@@ -32404,7 +32405,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-11-12",
-        "n": 2588,
+        "n": 2586,
         "nz": "2026-11-12"
       },
       "Palantir": {
@@ -32420,7 +32421,7 @@
         "ats": "lever",
         "token": "shieldai",
         "ok": "2026-11-12",
-        "n": 667,
+        "n": 665,
         "nz": "2026-11-12"
       },
       "Page: Lockheed Martin (search)": {
@@ -32468,7 +32469,7 @@
         "ats": "greenhouse",
         "token": "flowtraders",
         "ok": "2026-11-12",
-        "n": 43,
+        "n": 44,
         "nz": "2026-11-12"
       },
       "IMC Trading": {
@@ -32483,7 +32484,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-12",
-        "n": 111096,
+        "n": 110554,
         "nz": "2026-11-12"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32510,14 +32511,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-12",
-        "n": 1953,
+        "n": 1949,
         "nz": "2026-11-12"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-12",
-        "n": 2268,
+        "n": 2263,
         "nz": "2026-11-12"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -33068,7 +33069,7 @@
         "ats": "greenhouse",
         "token": "brex",
         "ok": "2026-11-12",
-        "n": 280,
+        "n": 284,
         "nz": "2026-11-12"
       },
       "Quant/Tech: Cohere": {
@@ -34557,7 +34558,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-11-12",
-        "n": 482,
+        "n": 483,
         "nz": "2026-11-12"
       },
       "Cyber: Datadog": {
@@ -34565,7 +34566,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-11-12",
-        "n": 392,
+        "n": 391,
         "nz": "2026-11-12"
       },
       "Startup: Figma": {
@@ -34573,7 +34574,7 @@
         "ats": "greenhouse",
         "token": "figma",
         "ok": "2026-11-12",
-        "n": 142,
+        "n": 141,
         "nz": "2026-11-12"
       },
       "Startup: Discord": {
@@ -34589,7 +34590,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-11-12",
-        "n": 785,
+        "n": 787,
         "nz": "2026-11-12"
       },
       "Startup: Mercury": {
@@ -34629,7 +34630,7 @@
         "ats": "ashby",
         "token": "perplexity",
         "ok": "2026-11-12",
-        "n": 135,
+        "n": 136,
         "nz": "2026-11-12"
       },
       "Startup: ElevenLabs": {
@@ -34645,7 +34646,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-11-12",
-        "n": 379,
+        "n": 380,
         "nz": "2026-11-12"
       },
       "Startup: Glean": {
@@ -34690,7 +34691,7 @@
         "ats": "ashby",
         "token": "supabase",
         "ok": "2026-11-12",
-        "n": 75,
+        "n": 77,
         "nz": "2026-11-12"
       },
       "Startup: Clerk": {
@@ -45319,9 +45320,9 @@
     "sig": "impulsespace|enterprise software engineering intern"
   },
   "https://careers.nintendo.com/?gh_jid=4421632009": {
-    "title": "Intern - IT Software Engineer",
+    "title": "IT Software Engineer Intern",
     "url": "https://careers.nintendo.com/?gh_jid=4421632009",
-    "sig": "nintendo|intern it software engineer"
+    "sig": "nintendo|it software engineer intern"
   },
   "https://job-boards.greenhouse.io/bracebridgecapital/jobs/4745001005": {
     "title": "Northeastern University Software Engineer - Application Development Co-op",
@@ -54781,9 +54782,9 @@
     "sig": "nintendo|software engineer intern cpu profiler"
   },
   "https://careers.nintendo.com/?gh_jid=4471972009": {
-    "title": "Software Engineer Intern, CPU Debugger",
+    "title": "Software Engineer Intern - CPU Debugger - NTD",
     "url": "https://careers.nintendo.com/?gh_jid=4471972009",
-    "sig": "nintendo|software engineer intern cpu debugger"
+    "sig": "nintendo|software engineer intern cpu debugger ntd"
   },
   "https://dtna.wd5.myworkdayjobs.com/en-us/dtna_external/job/portland-or-us/software-release-management-intern_dt-20432": {
     "title": "Software Release Management Intern",
@@ -57587,9 +57588,9 @@
     "sig": "federalreservesystem|supervision regulation intern cybersecurity"
   },
   "https://go.vansh.nyc/19j": {
-    "title": "AI Intern",
-    "url": "https://go.vansh.nyc/19j",
-    "sig": "jmfamilyenterprises|ai intern"
+    "title": "ML Intern",
+    "url": "https://go.vansh.nyc/19J",
+    "sig": "flagshippioneering|ml intern"
   },
   "https://go.vansh.nyc/19p": {
     "title": "Software/AI Engineer Intern, Handheld Mobile Computers",
@@ -57867,9 +57868,9 @@
     "sig": "constellationbrands|full stack engineer intern"
   },
   "https://go.vansh.nyc/1bt": {
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/1bt",
-    "sig": "jmfamilyenterprises|software engineer intern"
+    "title": "Software Development Intern",
+    "url": "https://go.vansh.nyc/1bT",
+    "sig": "axosbank|software development intern"
   },
   "https://go.vansh.nyc/1bv": {
     "title": "Cyber Security Intern",
@@ -61388,9 +61389,9 @@
     "sig": "tri|robotics intern world action models for robot policy"
   },
   "https://motorolasolutions.wd5.myworkdayjobs.com/en-us/careers/job/krakow-poland/intern-software-developer--c-c---_r70024": {
-    "title": "Intern Software Developer (C/C++)",
+    "title": "Intern Software Developer",
     "url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Krakow-Poland/Intern-Software-Developer--C-C---_R70024",
-    "sig": "motorolasolutions|intern software developer c c++"
+    "sig": "motorolasolutions|intern software developer"
   },
   "https://hpe.wd5.myworkdayjobs.com/en-us/acjobsite/job/las-rozas-madrid-spain/ai-and-data-intern_1218829": {
     "title": "AI and Data Intern",
@@ -65623,5 +65624,125 @@
     "title": "Machine Learning Engineer Intern",
     "url": "https://www.riotgames.com/en/work-with-us/job/8356771?gh_jid=8356771",
     "sig": "riotgames|machine learning engineer intern"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/en-us/rec_rtx_ext_gateway/job/us-ia-cedar-rapids-137--855-35th-st-ne--bldg-137/systems-engineering-intern--2027---tac-comm--onsite-_01888309": {
+    "title": "Systems Engineering Intern (2027)- Tac Comm (Onsite)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/REC_RTX_Ext_Gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Systems-Engineering-Intern--2027---Tac-Comm--Onsite-_01888309",
+    "sig": "rtx|systems engineering intern tac comm onsite"
+  },
+  "https://globalhr.wd5.myworkdayjobs.com/en-us/private_posting_no_tmp/job/us-ut-west-valley-city-338--1127--1128-w-2400-s--bldg-338/software-engineering-intern--summer-2027-_01886446-1": {
+    "title": "Software Engineering Intern (Summer 2027)",
+    "url": "https://globalhr.wd5.myworkdayjobs.com/en-US/Private_Posting_No_TMP/job/US-UT-WEST-VALLEY-CITY-338--1127--1128-w-2400-S--BLDG-338/Software-Engineering-Intern--Summer-2027-_01886446-1",
+    "sig": "globalhr|software engineering intern"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---energy-and-propulsion-systems-architecture_jr-202622231": {
+    "title": "2027 Summer Intern - Research and Development - Energy and Propulsion Systems Architecture",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Energy-and-Propulsion-Systems-Architecture_JR-202622231",
+    "sig": "generalmotors|intern research and development energy and propulsion systems architecture"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---vehicle-aerodynamics-and-machine-learning_jr-202622746": {
+    "title": "2027 Summer Intern – Research and Development – Vehicle Aerodynamics and Machine Learning",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Vehicle-Aerodynamics-and-Machine-Learning_JR-202622746",
+    "sig": "generalmotors|intern research and development vehicle aerodynamics and machine learning"
+  },
+  "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/pontiac-michigan-united-states-of-america/xmlname-2027-summer-intern---research-and-development---power-electronics---energy-conversion-systems_jr-202623048": {
+    "title": "2027 Summer Intern – Research and Development - Power Electronics & Energy Conversion Systems",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Pontiac-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Research-and-Development---Power-Electronics---Energy-Conversion-Systems_JR-202623048",
+    "sig": "generalmotors|intern research and development power electronics energy conversion systems"
+  },
+  "https://dxctechnology.wd1.myworkdayjobs.com/en-us/dxcjobs/job/sgp---singapore/servicenow-developer-intern_51594421": {
+    "title": "ServiceNow Developer Intern",
+    "url": "https://dxctechnology.wd1.myworkdayjobs.com/en-US/dxcjobs/job/SGP---SINGAPORE/ServiceNow-Developer-Intern_51594421",
+    "sig": "dxctechnology|servicenow developer intern"
+  },
+  "https://prysmiangroup.wd3.myworkdayjobs.com/en-us/careers/job/milan-it/europe-reporting--analytics-and-esg---intern_r-38413-1": {
+    "title": "Europe Reporting, Analytics and ESG - Intern",
+    "url": "https://prysmiangroup.wd3.myworkdayjobs.com/en-US/careers/job/Milan-IT/Europe-Reporting--Analytics-and-ESG---Intern_R-38413-1",
+    "sig": "prysmiangroup|europe reporting analytics and esg intern"
+  },
+  "https://hpe.wd5.myworkdayjobs.com/en-us/acjobsite/job/bengaluru-karntaka-india/research-phd_1191423-1": {
+    "title": "Ph D/Research Intern - AI Research Lab",
+    "url": "https://hpe.wd5.myworkdayjobs.com/en-US/acjobsite/job/Bengaluru-Karntaka-India/Research-PhD_1191423-1",
+    "sig": "hpe|ph d research intern ai research lab"
+  },
+  "https://thales.wd3.myworkdayjobs.com/en-us/careers/job/singapore/qml-research-intern_r0347859": {
+    "title": "QML Research Intern",
+    "url": "https://thales.wd3.myworkdayjobs.com/en-US/Careers/job/Singapore/QML-Research-Intern_R0347859",
+    "sig": "thales|qml research intern"
+  },
+  "https://jobs.smartrecruiters.com/servicenow/744000161210069": {
+    "title": "Assoc Detection Engineering Intern ",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161210069",
+    "sig": "servicenow|assoc detection engineering intern"
+  },
+  "https://jobs.smartrecruiters.com/servicenow/744000161209810": {
+    "title": "Assoc Security Engineering & Automation Intern ",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161209810",
+    "sig": "servicenow|assoc security engineering automation intern"
+  },
+  "https://jobs.smartrecruiters.com/servicenow/744000161209600": {
+    "title": "Assoc AI Engineering (Cloud Security Automation) Intern",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161209600",
+    "sig": "servicenow|assoc ai engineering cloud security automation intern"
+  },
+  "https://jobs.smartrecruiters.com/servicenow/744000161204235": {
+    "title": "Assoc Information Security Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/ServiceNow/744000161204235",
+    "sig": "servicenow|assoc information security engineer intern"
+  },
+  "https://asml.wd3.myworkdayjobs.com/en-us/asmlext1/job/veldhoven-netherlands/internship-for-electronics-development-wafer-stage_j-00356259": {
+    "title": "Internship for Electronics development Wafer Stage",
+    "url": "https://asml.wd3.myworkdayjobs.com/en-US/asmlext1/job/Veldhoven-Netherlands/Internship-for-Electronics-development-Wafer-Stage_J-00356259",
+    "sig": "asml|intern for electronics development wafer stage"
+  },
+  "https://apply.workable.com/j/9c2964c7cd": {
+    "title": "Frontend Engineering Intern",
+    "url": "https://apply.workable.com/j/9C2964C7CD",
+    "sig": "baskhealth1|frontend engineering intern"
+  },
+  "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/bellevue-washington/summer-2027-software-engineer-hr-data-products-internship_req380916": {
+    "title": "Summer 2027 Software Engineer HR Data Products Internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916",
+    "sig": "tmobile|software engineer hr data products intern"
+  },
+  "https://go.vansh.nyc/1ih": {
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1iH",
+    "sig": "jmfamilyenterprises|software engineer intern"
+  },
+  "https://go.vansh.nyc/1w0": {
+    "title": "Associate Detection Engineering Intern",
+    "url": "https://go.vansh.nyc/1w0",
+    "sig": "servicenow|associate detection engineering intern"
+  },
+  "https://go.vansh.nyc/1w1": {
+    "title": "Research Associate Intern, Systems Architecture Lab",
+    "url": "https://go.vansh.nyc/1w1",
+    "sig": "hewlettpackardenterprise|research associate intern systems architecture lab"
+  },
+  "https://go.vansh.nyc/1w9": {
+    "title": "Frontend Engineer Intern, Frontend Engineering",
+    "url": "https://go.vansh.nyc/1w9",
+    "sig": "baskhealth|frontend engineer intern frontend engineering"
+  },
+  "https://go.vansh.nyc/1wc": {
+    "title": "Frontend Engineering Intern",
+    "url": "https://go.vansh.nyc/1wc",
+    "sig": "bask|frontend engineering intern"
+  },
+  "https://tmobile.wd1.myworkdayjobs.com/external/job/bellevue-washington/summer-2027-ai-engineering-internship_req380765": {
+    "title": "AI Engineering Intern",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765",
+    "sig": "tmobile|ai engineering intern"
+  },
+  "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/san-jose-california/rmcc-systems-engineering-intern_jr-25363": {
+    "title": "Remote Monitoring Control Center Systems Engineer Intern",
+    "url": "https://bloomenergy.wd1.myworkdayjobs.com/bloomenergycareers/job/San-Jose-California/RMCC-Systems-Engineering-Intern_JR-25363",
+    "sig": "bloomenergy|remote monitoring control center systems engineer intern"
+  },
+  "https://lifeattiktok.com/search/7704696088079010053": {
+    "title": "Software Engineer Intern - TikTok Search",
+    "url": "https://lifeattiktok.com/search/7704696088079010053",
+    "sig": "tiktok|software engineer intern tiktok search"
   }
 }
