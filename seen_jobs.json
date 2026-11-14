@@ -267,7 +267,7 @@
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--systems-software-engineering_jr2023492": {
     "title": "NVIDIA 2027 Internships: Systems Software Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Systems-Software-Engineering_JR2023492",
     "sig": "nvidia|nvidia intern systems software engineering"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--autonomous-vehicles-and-robotics_jr2023496": {
@@ -282,7 +282,7 @@
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--software-engineering_jr2023495": {
     "title": "NVIDIA 2027 Internships: Software Engineering",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Internships--Software-Engineering_JR2023495",
     "sig": "nvidia|nvidia intern software engineering"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/nvidia-2027-internships--deep-learning_jr2023497-1": {
@@ -32352,20 +32352,16 @@
       "NVIDIA": {
         "since": "2026-10-01",
         "ats": "workday",
-        "ok": "2026-11-13",
+        "ok": "2026-11-14",
         "n": 500,
-        "nz": "2026-11-13",
-        "err": "Expecting value: line 1 column 1 (char 0)",
-        "ef": "2026-11-13"
+        "nz": "2026-11-14"
       },
       "RTX (Raytheon)": {
         "since": "2026-10-01",
         "ats": "workday",
-        "ok": "2026-11-13",
+        "ok": "2026-11-14",
         "n": 500,
-        "nz": "2026-11-13",
-        "err": "Expecting value: line 1 column 1 (char 0)",
-        "ef": "2026-11-14"
+        "nz": "2026-11-14"
       },
       "Northrop Grumman": {
         "since": "2026-10-01",
@@ -32386,7 +32382,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-11-14",
-        "n": 838,
+        "n": 839,
         "nz": "2026-11-14"
       },
       "Anthropic": {
@@ -32394,7 +32390,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-11-14",
-        "n": 669,
+        "n": 670,
         "nz": "2026-11-14"
       },
       "Databricks": {
@@ -32496,7 +32492,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-14",
-        "n": 107414,
+        "n": 110584,
         "nz": "2026-11-14"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32516,21 +32512,21 @@
         "since": "2026-10-01",
         "ats": "github_md",
         "ok": "2026-11-14",
-        "n": 852,
+        "n": 853,
         "nz": "2026-11-14"
       },
       "Tracker: vanshb03 Summer2027": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-14",
-        "n": 1979,
+        "n": 1974,
         "nz": "2026-11-14"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-14",
-        "n": 2227,
+        "n": 2214,
         "nz": "2026-11-14"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -34658,7 +34654,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-11-14",
-        "n": 387,
+        "n": 388,
         "nz": "2026-11-14"
       },
       "Startup: Glean": {
@@ -34803,7 +34799,7 @@
         "ats": "ashby",
         "token": "physicalintelligence",
         "ok": "2026-11-14",
-        "n": 45,
+        "n": 47,
         "nz": "2026-11-14"
       },
       "Startup: Figure AI": {
@@ -36430,8 +36426,8 @@
     "sig": "generalmotors|intern ai ml engineer mapping"
   },
   "https://generalmotors.wd5.myworkdayjobs.com/en-us/careers_gm/job/warren-michigan-united-states-of-america/xmlname-2027-summer-intern--adas-software-engineer--adpt_jr-202621820": {
-    "title": "2027 Summer Intern- ADAS Software Engineer - ADPT",
-    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/careers_gm/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
+    "title": "2027 Summer Intern- ADAS Software Engineer, ADPT",
+    "url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--ADAS-Software-Engineer--ADPT_JR-202621820",
     "sig": "generalmotors|intern adas software engineer adpt"
   },
   "https://globalfoundries.wd1.myworkdayjobs.com/en-us/external/job/usa---texas---austin/finance-project-management-analyst-intern--summer-2027-_jr-2604486": {
@@ -54950,7 +54946,7 @@
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-wa-redmond/compiler-software-engineering-intern---summer-2027_jr2028607": {
     "title": "Compiler Software Engineering Intern - Summer 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607",
     "sig": "nvidia|compiler software engineering intern"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/vlsi-cad-timing-intern--applied-ai---summer-2027_jr2026799": {
@@ -63445,7 +63441,7 @@
     "sig": "tonicai|forward deployed engineer data de identification coop"
   },
   "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4": {
-    "title": "Internship - Software Engineering - Summer 2027",
+    "title": "Internship, Software Engineering (Summer 2027)",
     "url": "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4",
     "sig": "pivotal|intern software engineering"
   },
@@ -63740,8 +63736,8 @@
     "sig": "nvidia|developer technology engineering intern compute performance"
   },
   "https://nvidia.wd5.myworkdayjobs.com/en-us/nvidiaexternalcareersite/job/us-ca-santa-clara/ai-operations-intern--ai-clouds---summer-2027_jr2029119-1": {
-    "title": "AI Operations Intern - AI Clouds - Summer 2027",
-    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/nvidiaexternalcareersite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
+    "title": "AI Operations Intern, AI Clouds - Summer 2027",
+    "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/AI-Operations-Intern--AI-Clouds---Summer-2027_JR2029119-1",
     "sig": "nvidia|ai operations intern ai clouds"
   },
   "https://www.amazon.jobs/en/jobs/10489527/software-dev-intern": {
@@ -63796,7 +63792,7 @@
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/frisco-texas/summer-2027-site-reliability-engineering-internship_req381393": {
     "title": "Summer 2027 Site Reliability Engineering Internship",
-    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Frisco-Texas/Summer-2027-Site-Reliability-Engineering-Internship_REQ381393",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/External/job/Frisco-Texas/Summer-2027-Site-Reliability-Engineering-Internship_REQ381393",
     "sig": "tmobile|site reliability engineering intern"
   },
   "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/philadelphia-pennsylvania/summer-2027-t-ads-software-engineering-internship_req381225": {
@@ -66568,9 +66564,9 @@
     "sig": "zoox|systems safety engineering intern"
   },
   "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef": {
-    "title": "Software Engineer Intern, Vehicle Platforms",
+    "title": "Software Engineer Intern - Vehicle Platforms",
     "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef",
-    "sig": "auroraoperations|software engineer intern vehicle platforms"
+    "sig": "aurorainnovation|software engineer intern vehicle platforms"
   },
   "https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8202902003": {
     "title": "Intern, Compiler Engineer",
@@ -67448,9 +67444,9 @@
     "sig": "rtx|software engineering intern"
   },
   "https://go.vansh.nyc/1zb": {
-    "title": "Software Engineering Co-op",
-    "url": "https://go.vansh.nyc/1zb",
-    "sig": "rtx|software engineering coop"
+    "title": "AI Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1zB",
+    "sig": "ericsson|ai software engineer intern"
   },
   "https://go.vansh.nyc/1zd": {
     "title": "Software Engineering Intern, Enrollment and Credentialing Services",
@@ -67641,5 +67637,70 @@
     "title": "Software Developer Intern - Go/Golang Experience",
     "url": "https://careers-sas.icims.com/jobs/42797/job?mobile=true&needsRedirect=false",
     "sig": "sas|software developer intern go golang experience"
+  },
+  "https://job-boards.greenhouse.io/raft/jobs/6239800004": {
+    "title": "Data Engineering Intern - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/raft/jobs/6239800004",
+    "sig": "raft|data engineering intern"
+  },
+  "https://job-boards.greenhouse.io/raft/jobs/6239819004": {
+    "title": "DevOps Engineering Intern - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/raft/jobs/6239819004",
+    "sig": "raft|devops engineering intern"
+  },
+  "https://job-boards.greenhouse.io/raft/jobs/6240549004": {
+    "title": "Full Stack Engineering Intern - Summer 2027",
+    "url": "https://job-boards.greenhouse.io/raft/jobs/6240549004",
+    "sig": "raft|full stack engineering intern"
+  },
+  "https://jobs.ashbyhq.com/bitstack/a4608666-34f1-4aa2-b7a5-7f209a01762b": {
+    "title": "DevOps / Infrastructure Engineer - Internship",
+    "url": "https://jobs.ashbyhq.com/bitstack/a4608666-34f1-4aa2-b7a5-7f209a01762b",
+    "sig": "bitstack|devops infrastructure engineer intern"
+  },
+  "https://careers-epeconsulting.icims.com/jobs/2448/software-power-systems-engineering-intern/job": {
+    "title": "Software Power Systems Engineering Intern",
+    "url": "https://careers-epeconsulting.icims.com/jobs/2448/software-power-systems-engineering-intern/job",
+    "sig": "electricpowerengineers|software power systems engineering intern"
+  },
+  "https://hiebing.applytojob.com/apply/yihdpewv4f/ai-agent-developer-intern": {
+    "title": "AI Agent Developer Intern",
+    "url": "https://hiebing.applytojob.com/apply/yIhDpeWv4F/AI-Agent-Developer-Intern",
+    "sig": "hiebing|ai agent developer intern"
+  },
+  "https://careers-gdms.icims.com/jobs/75808/software-systems-engineering-intern-%28summer-2027%29/job": {
+    "title": "Software/Systems Engineering Intern - Summer 2027",
+    "url": "https://careers-gdms.icims.com/jobs/75808/software-systems-engineering-intern-%28summer-2027%29/job",
+    "sig": "generaldynamicsmissionsystems|software systems engineering intern"
+  },
+  "https://jobs.smartrecruiters.com/nbcuniversal3/744000161179529-software-engineering-internships-summer-2027?oga=true": {
+    "title": "Software Engineering Internships - Summer 2027",
+    "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000161179529-software-engineering-internships-summer-2027?oga=true",
+    "sig": "nbcuniversal|software engineering intern"
+  },
+  "https://tmobile.wd1.myworkdayjobs.com/en-us/external/job/overland-park-kansas/summer-2027-software-engineering-internship_req380739": {
+    "title": "Summer 2027 Software Engineering Internship",
+    "url": "https://tmobile.wd1.myworkdayjobs.com/en-US/external/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739",
+    "sig": "tmobile|software engineering intern"
+  },
+  "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b156e713-5801-4c36-bb62-a62f3bc9844f&jobid=548468": {
+    "title": "Software Developer Co-op/Intern",
+    "url": "https://workforcenow.adp.com/mascsr/default/mdf/recruitment/recruitment.html?cid=b156e713-5801-4c36-bb62-a62f3bc9844f&jobId=548468",
+    "sig": "londoncomputersystems|software developer coop intern"
+  },
+  "https://go.vansh.nyc/x7": {
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/X7",
+    "sig": "shieldai|software engineer intern"
+  },
+  "https://go.vansh.nyc/1zc": {
+    "title": "Software Developer Intern, Go/Golang",
+    "url": "https://go.vansh.nyc/1zC",
+    "sig": "sas|software developer intern go golang"
+  },
+  "https://ryan.wd1.myworkdayjobs.com/ryancareers/job/plano/summer-2027-intern--application-development_r0020820-1": {
+    "title": "Application Development Intern",
+    "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Application-Development_R0020820-1",
+    "sig": "ryan|application development intern"
   }
 }
