@@ -32492,7 +32492,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-15",
-        "n": 110908,
+        "n": 111377,
         "nz": "2026-11-15"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32519,14 +32519,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-15",
-        "n": 1972,
+        "n": 1971,
         "nz": "2026-11-15"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-15",
-        "n": 2214,
+        "n": 2217,
         "nz": "2026-11-15"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -33686,7 +33686,7 @@
         "ats": "workable",
         "token": "bestex-research",
         "ok": "2026-11-15",
-        "n": 11,
+        "n": 13,
         "nz": "2026-11-15"
       },
       "Quant SPA: XR Trading": {
@@ -34307,7 +34307,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-15",
         "n": 1,
-        "nz": "2026-11-15"
+        "nz": "2026-11-15",
+        "err": "403 Client Error: Forbidden for url: https://researchaffiliates.com",
+        "ef": "2026-11-15"
       },
       "Quant SPA: Los Angeles Capital Management": {
         "since": "2026-10-01",
@@ -34646,7 +34648,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-11-15",
-        "n": 128,
+        "n": 127,
         "nz": "2026-11-15"
       },
       "Startup: Harvey": {
@@ -67761,5 +67763,30 @@
     "title": "Firmware Intern",
     "url": "https://go.vansh.nyc/1zP",
     "sig": "eightsleep|firmware intern"
+  },
+  "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507816009": {
+    "title": "Summer 2027 Internship - Game Design Intern",
+    "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507816009",
+    "sig": "fanaticscollectibles|intern game design intern"
+  },
+  "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507793009": {
+    "title": "Summer 2027 Internship - Manufacturing Automation & Controls Intern",
+    "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507793009",
+    "sig": "fanaticscollectibles|intern manufacturing automation controls intern"
+  },
+  "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507789009": {
+    "title": "Summer 2027 Internship - Manufacturing Planning & Analytics Intern",
+    "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507789009",
+    "sig": "fanaticscollectibles|intern manufacturing planning analytics intern"
+  },
+  "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/dundee-gbr/ai-engineering-internship_r1155212-2": {
+    "title": "AI Engineer Intern",
+    "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/AI-Engineering-Internship_R1155212-2",
+    "sig": "ncratleos|ai engineer intern"
+  },
+  "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/dundee-gbr/hardware-engineer-internship_r1155210": {
+    "title": "Data Analytics Intern - Media Handling",
+    "url": "https://ncratleos.wd1.myworkdayjobs.com/ext_non_usalteos/job/DUNDEE-GBR/Hardware-Engineer-Internship_R1155210",
+    "sig": "ncratleos|data analytics intern media handling"
   }
 }
