@@ -32382,7 +32382,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-11-15",
-        "n": 839,
+        "n": 840,
         "nz": "2026-11-15"
       },
       "Anthropic": {
@@ -32390,7 +32390,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-11-15",
-        "n": 670,
+        "n": 668,
         "nz": "2026-11-15"
       },
       "Databricks": {
@@ -32398,7 +32398,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-11-15",
-        "n": 896,
+        "n": 895,
         "nz": "2026-11-15"
       },
       "Page: Microsoft Careers": {
@@ -32492,7 +32492,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-15",
-        "n": 111194,
+        "n": 110908,
         "nz": "2026-11-15"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32519,7 +32519,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-15",
-        "n": 1976,
+        "n": 1972,
         "nz": "2026-11-15"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
@@ -33101,7 +33101,7 @@
         "ats": "ashby",
         "token": "notion",
         "ok": "2026-11-15",
-        "n": 166,
+        "n": 165,
         "nz": "2026-11-15"
       },
       "Startup: Vercel": {
@@ -33686,7 +33686,7 @@
         "ats": "workable",
         "token": "bestex-research",
         "ok": "2026-11-15",
-        "n": 10,
+        "n": 11,
         "nz": "2026-11-15"
       },
       "Quant SPA: XR Trading": {
@@ -34598,7 +34598,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-11-15",
-        "n": 786,
+        "n": 785,
         "nz": "2026-11-15"
       },
       "Startup: Mercury": {
@@ -60844,9 +60844,9 @@
     "sig": "littlecaesarsenterprises|cyber it intern"
   },
   "https://go.vansh.nyc/1iw": {
-    "title": "Analytics Intern",
-    "url": "https://go.vansh.nyc/1iw",
-    "sig": "jmfamilyenterprises|analytics intern"
+    "title": "Software Engineer Co-op",
+    "url": "https://go.vansh.nyc/1iW",
+    "sig": "shield|software engineer coop"
   },
   "https://go.vansh.nyc/1ix": {
     "title": "Software Development Intern",
@@ -67756,5 +67756,10 @@
   "health::2026-W46": {
     "title": "health report checked",
     "url": ""
+  },
+  "https://go.vansh.nyc/1zp": {
+    "title": "Firmware Intern",
+    "url": "https://go.vansh.nyc/1zP",
+    "sig": "eightsleep|firmware intern"
   }
 }
