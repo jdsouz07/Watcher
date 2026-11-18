@@ -69075,5 +69075,57 @@
   "pw::https://www.goldmansachs.com/careers/students/programs/::#5fecf29568bc90fe": {
     "title": "Page changed - check Firm SPA: Goldman Sachs (may mean applications opened)",
     "url": "https://www.goldmansachs.com/careers/students/programs/"
+  },
+  "pw::https://mlh.io/seasons/2027/events::#2f90158e37445104": {
+    "title": "Page changed - check Hackathons: MLH 2027 season (may mean applications opened)",
+    "url": "https://mlh.io/seasons/2027/events"
+  },
+  "pw::https://neo.substack.com/archive::#e3b0c44298fc1c14": {
+    "title": "Page changed - check Fellowship: Neo Scholars (via Substack archive) (may mean applications opened)",
+    "url": "https://neo.substack.com/archive"
+  },
+  "pw::https://nsa-codebreaker.org/::#cbdc2229196aed5e": {
+    "title": "Page changed - check NatSec: NSA Codebreaker (fall launch) (may mean applications opened)",
+    "url": "https://nsa-codebreaker.org/"
+  },
+  "pw::https://www.math.vt.edu/::#505adb8ed8979236": {
+    "title": "Page changed - check Competition: Virginia Tech Regional Math Contest (may mean applications opened)",
+    "url": "https://www.math.vt.edu/"
+  },
+  "pw::https://www.treehacks.com/::#f6bf4e97eebcf546": {
+    "title": "Page changed - check Hackathon: TreeHacks (Stanford) (may mean applications opened)",
+    "url": "https://www.treehacks.com/"
+  },
+  "pw::https://www.rhodeshouse.ox.ac.uk/scholarships/::#3c5329521dd3dc52": {
+    "title": "Page changed - check Fellowship: Rhodes Scholarship (may mean applications opened)",
+    "url": "https://www.rhodeshouse.ox.ac.uk/scholarships/"
+  },
+  "pw::https://cohere.com/careers::#e3b0c44298fc1c14": {
+    "title": "Page changed - check Program: Cohere careers (may mean applications opened)",
+    "url": "https://cohere.com/careers"
+  },
+  "pw::https://atcoder.jp/contests/::#a4c479f8f370b0db": {
+    "title": "Page changed - check Competition: AtCoder (may mean applications opened)",
+    "url": "https://atcoder.jp/contests/"
+  },
+  "rss::7caddefeeda4e0d1": {
+    "title": "Six Italian students win the Rotman International Trading Competition - panorama.it",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNOXR4UE5wa2E1SEE4a2ZLZGd1cFUyTWpKR3NhMklFRjQ1MDJUNG45bWlwamt4My11VmNLai1IT2ZCYS1FeHpzcUNoazV2ZGV2dFN6ZjFHMFQ3b1B3WHB0d1BibE5oU0kwQnNzN0MtR2ZZRXJhdzNYRS1DSkdxUXJta2hUQTdkeHVXMEY0TDcwUGplRGc2eUZfQ0IzMkpVbEhXYlg4YnFB?oc=5"
+  },
+  "rss::032873951a04b768": {
+    "title": "SDSCD launches Datathon 2027 to drive data-led solutions - Sharjah24",
+    "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5TUFBmVzNGdEliMHBxb3VDc243LVN4QWVENnhNOC1NTldlWWlKR0VfN2t5SVBMRHFzUWJmTXYyUXQzR3YyUnRIb0RJdFgtQklSV3hPMnliZXNlZ1l5SEE?oc=5"
+  },
+  "rss::1b6767071c6863e7": {
+    "title": "5th Cryptocurrency Datathon accepting applications from university students across Brazil - Fundação Getulio Vargas",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNVGg3dzJUQlhsVk81YUx3dE1KRDlWeHVVQTMxTGg0SFIyM2lxU0pmejdCRzVhbW14VDdLenFaOFVaZjdVU3RnT2M0aUkybmVubVduZS1URjVnNGNobGhCR0MzU0NWc2hTZUYxUkxPaFhhRVpqd3BNLVFXVWNRRmZDS0xkS25JX01aeDFnSEN1VWczRUo3YzBuWEtxeWxweDZuUWxnNm00bXdxcU5JYWFMTjRlRU8?oc=5"
+  },
+  "rss::06f2d90e56952f64": {
+    "title": "Datathon 2027 to drive data-led solutions in Sharjah - Big News Network.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeDJIM25OQ2IxS3p5THFaMzFhdnliNWRCa3FtRzBqZy1WOHVMcFZaeFlONVZQRWRhSjVOb1dqUzhSOEpvYkFxZVFqWmJ2c1BWd2thMXl0RDJjajBYYlMxN3llUXJnYTFQQzUwRExMSmlnZ2VNLTZLZURnelRPaFNOdVhRbmRkMlJnOXBDMS1NYkxuaUJ0Yjk5R1BEWnd3dWs?oc=5"
+  },
+  "rss::ed7e5229ef3e93f4": {
+    "title": "Undergraduate Fellowship on Native American Health Research applications open - UNM Newsroom",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaFZwWFRjMlNCSjE5RE91bnlYNmVESHY2Y2FTaThFZGhJSjg5cWFPWGJpeHRmc3JTVGpCVGlVZUJLUkFkMXFjOGZaaFBsR1lEOFZKaXU0UFZ3QVo3XzVpbVFNMzR3SzBXU1NyN29LMFpIWHFvdWNMNkNuNVpCRzROcFJpZXlvTGpFMUJ1clNMZktlUHJSNFlDU0VGZGxQZG5jQWgtbEV3?oc=5"
   }
 }
