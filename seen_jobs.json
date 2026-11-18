@@ -3697,8 +3697,8 @@
     "sig": "morsecorpcoop|security compliance coop"
   },
   "https://ancestry.wd501.myworkdayjobs.com/en-us/careers/job/draper-utah/software-engineer---observability--co-op_r003434": {
-    "title": "Software Engineer – Observability, Co-op",
-    "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
+    "title": "Software Engineer - Observability - Co-op",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "sig": "ancestry|software engineer observability coop"
   },
   "https://ancestry.wd501.myworkdayjobs.com/en-us/careers/job/remote/applied-ai-science-co-op---embedding-models-and-personalization_r003442": {
@@ -32392,7 +32392,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-11-18",
-        "n": 836,
+        "n": 837,
         "nz": "2026-11-18"
       },
       "Anthropic": {
@@ -32408,7 +32408,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-11-18",
-        "n": 901,
+        "n": 897,
         "nz": "2026-11-18"
       },
       "Page: Microsoft Careers": {
@@ -32423,7 +32423,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-11-18",
-        "n": 2612,
+        "n": 2613,
         "nz": "2026-11-18"
       },
       "Palantir": {
@@ -32487,7 +32487,7 @@
         "ats": "greenhouse",
         "token": "flowtraders",
         "ok": "2026-11-18",
-        "n": 44,
+        "n": 43,
         "nz": "2026-11-18"
       },
       "IMC Trading": {
@@ -32502,7 +32502,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-18",
-        "n": 69249,
+        "n": 69515,
         "nz": "2026-11-18"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32529,14 +32529,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-18",
-        "n": 1971,
+        "n": 1975,
         "nz": "2026-11-18"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-18",
-        "n": 2165,
+        "n": 2157,
         "nz": "2026-11-18"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32632,7 +32632,7 @@
         "ats": "greenhouse",
         "token": "drweng",
         "ok": "2026-11-18",
-        "n": 156,
+        "n": 157,
         "nz": "2026-11-18"
       },
       "Quant: DV Trading": {
@@ -32696,7 +32696,7 @@
         "ats": "greenhouse",
         "token": "jumptrading",
         "ok": "2026-11-18",
-        "n": 88,
+        "n": 87,
         "nz": "2026-11-18"
       },
       "Quant: Mako Trading": {
@@ -32751,7 +32751,7 @@
         "ats": "greenhouse",
         "token": "point72",
         "ok": "2026-11-18",
-        "n": 199,
+        "n": 201,
         "nz": "2026-11-18"
       },
       "Quant: Qube RT": {
@@ -32897,7 +32897,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-18",
         "n": 1,
-        "nz": "2026-11-18"
+        "nz": "2026-11-18",
+        "err": "HTTPSConnectionPool(host='group1.com', port=443): Max retries exceeded with url: /careers (Caused by ConnectTimeoutError(<HTTPSConnection(ho",
+        "ef": "2026-11-18"
       },
       "Quant SPA: Wolverine Trading": {
         "since": "2026-10-01",
@@ -33041,7 +33043,7 @@
         "ats": "ashby",
         "token": "kraken.com",
         "ok": "2026-11-18",
-        "n": 92,
+        "n": 93,
         "nz": "2026-11-18"
       },
       "Startup: Ramp": {
@@ -33065,7 +33067,7 @@
         "ats": "greenhouse",
         "token": "robinhood",
         "ok": "2026-11-18",
-        "n": 165,
+        "n": 166,
         "nz": "2026-11-18"
       },
       "Quant/Tech: Scale AI": {
@@ -33757,14 +33759,18 @@
         "ats": "pagewatch",
         "ok": "2026-11-18",
         "n": 1,
-        "nz": "2026-11-18"
+        "nz": "2026-11-18",
+        "err": "HTTPSConnectionPool(host='volanttrading.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(ho",
+        "ef": "2026-11-18"
       },
       "Quant SPA: Archelon": {
         "since": "2026-10-01",
         "ats": "pagewatch",
         "ok": "2026-11-18",
         "n": 1,
-        "nz": "2026-11-18"
+        "nz": "2026-11-18",
+        "err": "HTTPSConnectionPool(host='www.archelon-group.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnecti",
+        "ef": "2026-11-18"
       },
       "Quant SPA: Bluefin Capital Management": {
         "since": "2026-10-01",
@@ -33827,7 +33833,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-18",
         "n": 1,
-        "nz": "2026-11-18"
+        "nz": "2026-11-18",
+        "err": "403 Client Error: Forbidden for url: https://www.fulcrumasset.com/",
+        "ef": "2026-11-18"
       },
       "Quant SPA: Flowdesk": {
         "since": "2026-10-01",
@@ -33853,11 +33861,9 @@
       "Quant SPA: swissQuant Group": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-11-17",
+        "ok": "2026-11-18",
         "n": 1,
-        "nz": "2026-11-17",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-11-17"
+        "nz": "2026-11-18"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
@@ -33876,11 +33882,9 @@
       "Quant SPA: Deep Blue Capital": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-11-17",
+        "ok": "2026-11-18",
         "n": 1,
-        "nz": "2026-11-17",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-11-17"
+        "nz": "2026-11-18"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -33995,11 +33999,9 @@
       "Quant SPA: Qube Research & Technologies": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-11-17",
+        "ok": "2026-11-18",
         "n": 1,
-        "nz": "2026-11-17",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-11-17"
+        "nz": "2026-11-18"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34080,7 +34082,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-18",
         "n": 1,
-        "nz": "2026-11-18"
+        "nz": "2026-11-18",
+        "err": "HTTPSConnectionPool(host='www.bostonenergygroup.com', port=443): Max retries exceeded with url: /careers/ (Caused by ConnectTimeoutError(<HT",
+        "ef": "2026-11-18"
       },
       "Quant SPA: Statar Capital": {
         "since": "2026-10-01",
@@ -34460,14 +34464,18 @@
         "ats": "pagewatch",
         "ok": "2026-11-18",
         "n": 1,
-        "nz": "2026-11-18"
+        "nz": "2026-11-18",
+        "err": "403 Client Error: Forbidden for url: https://weareadaptive.com/careers/",
+        "ef": "2026-11-18"
       },
       "Quant SPA: Beacon Platform": {
         "since": "2026-10-01",
         "ats": "pagewatch",
         "ok": "2026-11-18",
         "n": 1,
-        "nz": "2026-11-18"
+        "nz": "2026-11-18",
+        "err": "403 Client Error: Forbidden for url: https://cwan.com/careers",
+        "ef": "2026-11-18"
       },
       "Quant SPA: Trading Technologies": {
         "since": "2026-10-01",
@@ -34540,11 +34548,9 @@
       "Quant SPA: TS Imagine": {
         "since": "2026-10-01",
         "ats": "pagewatch",
-        "ok": "2026-11-17",
+        "ok": "2026-11-18",
         "n": 1,
-        "nz": "2026-11-17",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-11-17"
+        "nz": "2026-11-18"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
@@ -34571,14 +34577,16 @@
         "ats": "pagewatch",
         "ok": "2026-11-18",
         "n": 1,
-        "nz": "2026-11-18"
+        "nz": "2026-11-18",
+        "err": "403 Client Error: Forbidden for url: https://www.genevatrading.com/careers-open-positions/",
+        "ef": "2026-11-18"
       },
       "Cyber: Cloudflare": {
         "since": "2026-10-01",
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-11-18",
-        "n": 482,
+        "n": 487,
         "nz": "2026-11-18"
       },
       "Cyber: Datadog": {
@@ -34586,7 +34594,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-11-18",
-        "n": 382,
+        "n": 381,
         "nz": "2026-11-18"
       },
       "Startup: Figma": {
@@ -34594,7 +34602,7 @@
         "ats": "greenhouse",
         "token": "figma",
         "ok": "2026-11-18",
-        "n": 140,
+        "n": 144,
         "nz": "2026-11-18"
       },
       "Startup: Discord": {
@@ -34610,7 +34618,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-11-18",
-        "n": 789,
+        "n": 787,
         "nz": "2026-11-18"
       },
       "Startup: Mercury": {
@@ -34658,7 +34666,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-11-18",
-        "n": 128,
+        "n": 127,
         "nz": "2026-11-18"
       },
       "Startup: Harvey": {
@@ -34780,7 +34788,7 @@
         "ats": "ashby",
         "token": "cognition",
         "ok": "2026-11-18",
-        "n": 111,
+        "n": 110,
         "nz": "2026-11-18"
       },
       "Startup: Decagon": {
@@ -34788,7 +34796,7 @@
         "ats": "ashby",
         "token": "decagon",
         "ok": "2026-11-18",
-        "n": 112,
+        "n": 111,
         "nz": "2026-11-18"
       },
       "Startup: Applied Intuition": {
@@ -34803,7 +34811,7 @@
         "ats": "greenhouse",
         "token": "flyzipline",
         "ok": "2026-11-18",
-        "n": 326,
+        "n": 329,
         "nz": "2026-11-18"
       },
       "Startup: Physical Intelligence": {
@@ -42933,7 +42941,7 @@
   "https://swib.wd12.myworkdayjobs.com/en-us/ext/job/madison-wisconsin/liquidity-optimization-intern_r-001346": {
     "title": "Liquidity Optimization Intern",
     "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Liquidity-Optimization-Intern_R-001346",
-    "sig": "stateofwisconsininvestmentboard|liquidity optimization intern"
+    "sig": "swib|liquidity optimization intern"
   },
   "https://ardian.wd103.myworkdayjobs.com/en-us/ardiancareers/job/new-york/data-scientist-intern---february-2027---nyc_jr1002271": {
     "title": "Data Scientist Intern - February 2027 | NYC",
@@ -44585,9 +44593,9 @@
     "sig": "nisc|intern application analyst financials software"
   },
   "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002": {
-    "title": "2027 Summer Internship Programme - Software Engineering",
+    "title": "Software Engineer Intern",
     "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811551002",
-    "sig": "rothesaygraduates|intern programme software engineering"
+    "sig": "rothesay|software engineer intern"
   },
   "https://jobs.ashbyhq.com/happyrobot.ai/875c5335-97a5-4408-a9ae-9fdefdd3b768": {
     "title": "Product Engineer Intern",
@@ -58708,8 +58716,8 @@
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/software-dsp-research-engineer-co-op_r29369": {
     "title": "Software/DSP Research Engineer Co-op",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
-    "sig": "bose|software dsp research engineer coop"
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
+    "sig": "boseallaboutme|software dsp research engineer coop"
   },
   "https://job-boards.greenhouse.io/schonfeld/jobs/8350719": {
     "title": "2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern",
@@ -64949,8 +64957,8 @@
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/digital-signal-processing-ml-software-development-co-op_r29372": {
     "title": "Digital Signal Processing ML Software Development Co-op",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
-    "sig": "bose|digital signal processing ml software development coop"
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
+    "sig": "boseallaboutme|digital signal processing ml software development coop"
   },
   "https://thermofisher.wd5.myworkdayjobs.com/en-us/thermofishercareers/job/brno-czechia/intern---business-intelligence---analytics_r-01374051": {
     "title": "Intern - Business Intelligence & Analytics",
@@ -68425,9 +68433,9 @@
     "sig": "boschgroup|extracurricular intern ai software engineer f m div"
   },
   "https://jobs.smartrecruiters.com/boschgroup/744000162076254": {
-    "title": "AI Application Intern (8 months/40 hours per week) ",
+    "title": "AI Application Intern",
     "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162076254",
-    "sig": "boschgroup|ai application intern 8 months 40 hours per week"
+    "sig": "robertboschventurecapital|ai application intern"
   },
   "https://apply.workable.com/j/39d8efdc19": {
     "title": "Summer 2027 Laser Systems and Technology Internship",
@@ -68698,5 +68706,60 @@
     "title": "Software Engineer Intern",
     "url": "https://invitationhomes.wd503.myworkdayjobs.com/INVH/job/Dallas-TX--HQ/Intern-Software-Engineering_R5984",
     "sig": "invitationhomes|software engineer intern"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000162282030": {
+    "title": "Internship in Software Engineering",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162282030",
+    "sig": "boschgroup|intern in software engineering"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000162263579": {
+    "title": "[Internship] AI & Automatization Intern",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162263579",
+    "sig": "boschgroup|intern ai automatization intern"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000162244270": {
+    "title": "Extracurricular Internship: AI Software Engineer (f/m/div.)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162244270",
+    "sig": "boschgroup|extracurricular intern ai software engineer f m div"
+  },
+  "https://job-boards.greenhouse.io/globalizationpartners/jobs/8207500003": {
+    "title": "Product Management Intern – AI & Analytics",
+    "url": "https://job-boards.greenhouse.io/globalizationpartners/jobs/8207500003",
+    "sig": "globalizationpartners|product management intern ai analytics"
+  },
+  "https://swib.wd12.myworkdayjobs.com/en-us/ext/job/madison-wisconsin/information-security-intern_r-001332": {
+    "title": "Information Security Intern",
+    "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Information-Security-Intern_R-001332",
+    "sig": "swib|information security intern"
+  },
+  "https://apply.workable.com/j/17f965fbbb": {
+    "title": "Intern, AI (Jan - Jun 2027)",
+    "url": "https://apply.workable.com/j/17F965FBBB",
+    "sig": "qcp|intern ai jan jun"
+  },
+  "https://croesus.wd10.myworkdayjobs.com/en-us/ext/job/laval/internship---technological-innovation-developer--ai-profile_jr100016-1": {
+    "title": "Internship - Technological Innovation Developer, AI profile",
+    "url": "https://croesus.wd10.myworkdayjobs.com/en-US/ext/job/Laval/Internship---Technological-Innovation-Developer--AI-profile_JR100016-1",
+    "sig": "croesus|intern technological innovation developer ai profile"
+  },
+  "https://go.vansh.nyc/1c7": {
+    "title": "Machine Learning Engineer Intern",
+    "url": "https://go.vansh.nyc/1C7",
+    "sig": "spglobal|machine learning engineer intern"
+  },
+  "https://go.vansh.nyc/1c8": {
+    "title": "Vulnerability Researcher Intern",
+    "url": "https://go.vansh.nyc/1C8",
+    "sig": "nightwing|vulnerability researcher intern"
+  },
+  "https://careers.airbnb.com/positions/8360478?gh_jid=8360478": {
+    "title": "Software Engineer Intern",
+    "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+    "sig": "airbnb|software engineer intern"
+  },
+  "https://www.google.com/about/careers/applications/jobs/results/81809776362562246": {
+    "title": "People Analytics Intern",
+    "url": "https://www.google.com/about/careers/applications/jobs/results/81809776362562246",
+    "sig": "google|people analytics intern"
   }
 }
