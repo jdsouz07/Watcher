@@ -3090,7 +3090,7 @@
     "sig": "plexus|intern software development"
   },
   "https://plexus.wd504.myworkdayjobs.com/en-us/plexus_careers/job/raleigh-nc/intern---software-engineer--summer-2027-_r040424": {
-    "title": "Intern - Software Engineer - Summer 2027",
+    "title": "Intern - Software Engineer (Summer 2027)",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Raleigh-NC/Intern---Software-Engineer--Summer-2027-_R040424",
     "sig": "plexus|intern software engineer"
   },
@@ -3698,8 +3698,8 @@
     "sig": "morsecorpcoop|security compliance coop"
   },
   "https://ancestry.wd501.myworkdayjobs.com/en-us/careers/job/draper-utah/software-engineer---observability--co-op_r003434": {
-    "title": "Software Engineer - Observability - Co-op",
-    "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
+    "title": "Software Engineer – Observability, Co-op",
+    "url": "https://ancestry.wd501.myworkdayjobs.com/en-US/Careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
     "sig": "ancestry|software engineer observability coop"
   },
   "https://ancestry.wd501.myworkdayjobs.com/en-us/careers/job/remote/applied-ai-science-co-op---embedding-models-and-personalization_r003442": {
@@ -19096,7 +19096,7 @@
   },
   "https://walmart.wd504.myworkdayjobs.com/en-us/walmartexternal/job/usa-isd-office---dgtc-ar-bentonville-home-office/summer-2027-intern---software-engineer-ii_r-2630029-1": {
     "title": "Summer 2027 Intern:: Software Engineer II",
-    "url": "https://walmart.wd504.myworkdayjobs.com/en-US/walmartexternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1",
+    "url": "https://walmart.wd504.myworkdayjobs.com/en-US/WalmartExternal/job/USA-ISD-Office---DGTC-AR-BENTONVILLE-Home-Office/Summer-2027-Intern---Software-Engineer-II_R-2630029-1",
     "sig": "walmart|intern software engineer ii"
   },
   "https://jobs.ashbyhq.com/swarmaero/7b82c290-036e-4444-8407-e7f6ce583c52": {
@@ -25351,12 +25351,12 @@
     "url": "https://jobs.smartrecruiters.com/RRSGroup/744000150509779"
   },
   "https://priceline.wd1.myworkdayjobs.com/en-us/priceline-collegehiring/job/new-york/software-engineering---full-stack--northeastern-co-op-_r5822": {
-    "title": "Software Engineering - Full Stack - Northeastern Co-op",
+    "title": "Software Engineering - Full Stack (Northeastern Co-op)",
     "url": "https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Full-Stack--Northeastern-Co-op-_R5822",
     "sig": "priceline|software engineering full stack northeastern coop"
   },
   "https://priceline.wd1.myworkdayjobs.com/en-us/priceline-collegehiring/job/new-york/software-engineering---web-javascript--northeastern-co-op-_r5818": {
-    "title": "Software Engineering - Web/Javascript - Northeastern Co-op",
+    "title": "Software Engineering - Web/Javascript (Northeastern Co-op)",
     "url": "https://priceline.wd1.myworkdayjobs.com/en-US/priceline-collegehiring/job/New-York/Software-Engineering---Web-Javascript--Northeastern-Co-op-_R5818",
     "sig": "priceline|software engineering web javascript northeastern coop"
   },
@@ -32262,7 +32262,7 @@
         "ats": "greenhouse",
         "token": "aquaticcapitalmanagement",
         "ok": "2026-11-19",
-        "n": 13,
+        "n": 12,
         "nz": "2026-11-19"
       },
       "Tudor Investment Group": {
@@ -32286,7 +32286,7 @@
         "ats": "greenhouse",
         "token": "akunacapital",
         "ok": "2026-11-19",
-        "n": 32,
+        "n": 34,
         "nz": "2026-11-19"
       },
       "Hudson River Trading": {
@@ -32294,7 +32294,7 @@
         "ats": "greenhouse",
         "token": "wehrtyou",
         "ok": "2026-11-19",
-        "n": 85,
+        "n": 87,
         "nz": "2026-11-19"
       },
       "Optiver (US)": {
@@ -32351,7 +32351,9 @@
         "ats": "workday",
         "ok": "2026-11-19",
         "n": 6,
-        "nz": "2026-11-19"
+        "nz": "2026-11-19",
+        "err": "429 Client Error: Too Many Requests for url: https://arrowstreetcapital.wd5.myworkdayjobs.com/wday/cxs/arrowstreetcapital/Campus_Careers/job",
+        "ef": "2026-11-19"
       },
       "NVIDIA": {
         "since": "2026-10-01",
@@ -32384,7 +32386,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-11-19",
-        "n": 478,
+        "n": 479,
         "nz": "2026-11-19"
       },
       "OpenAI": {
@@ -32392,7 +32394,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-11-19",
-        "n": 833,
+        "n": 841,
         "nz": "2026-11-19"
       },
       "Anthropic": {
@@ -32408,7 +32410,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-11-19",
-        "n": 906,
+        "n": 902,
         "nz": "2026-11-19"
       },
       "Page: Microsoft Careers": {
@@ -32431,7 +32433,7 @@
         "ats": "lever",
         "token": "palantir",
         "ok": "2026-11-19",
-        "n": 306,
+        "n": 307,
         "nz": "2026-11-19"
       },
       "Shield AI": {
@@ -32487,7 +32489,7 @@
         "ats": "greenhouse",
         "token": "flowtraders",
         "ok": "2026-11-19",
-        "n": 42,
+        "n": 41,
         "nz": "2026-11-19"
       },
       "IMC Trading": {
@@ -32495,14 +32497,14 @@
         "ats": "greenhouse",
         "token": "imc",
         "ok": "2026-11-19",
-        "n": 154,
+        "n": 152,
         "nz": "2026-11-19"
       },
       "AUTO-DISCOVER (all boards found in trackers)": {
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-19",
-        "n": 69529,
+        "n": 69954,
         "nz": "2026-11-19"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32529,21 +32531,21 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-19",
-        "n": 1958,
+        "n": 1953,
         "nz": "2026-11-19"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-19",
-        "n": 2107,
+        "n": 2084,
         "nz": "2026-11-19"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
         "since": "2026-10-01",
         "ats": "nuft",
         "ok": "2026-11-19",
-        "n": 121,
+        "n": 120,
         "nz": "2026-11-19"
       },
       "Startup: YC events": {
@@ -32608,7 +32610,7 @@
         "ats": "greenhouse",
         "token": "aqr",
         "ok": "2026-11-19",
-        "n": 42,
+        "n": 40,
         "nz": "2026-11-19"
       },
       "Quant: Belvedere Trading": {
@@ -32632,7 +32634,7 @@
         "ats": "greenhouse",
         "token": "drweng",
         "ok": "2026-11-19",
-        "n": 152,
+        "n": 153,
         "nz": "2026-11-19"
       },
       "Quant: DV Trading": {
@@ -32640,7 +32642,7 @@
         "ats": "greenhouse",
         "token": "dvtrading",
         "ok": "2026-11-19",
-        "n": 69,
+        "n": 70,
         "nz": "2026-11-19"
       },
       "Quant: ExodusPoint": {
@@ -32728,7 +32730,7 @@
         "ats": "ashby",
         "token": "old-mission-capital",
         "ok": "2026-11-19",
-        "n": 43,
+        "n": 40,
         "nz": "2026-11-19"
       },
       "Quant: Optiver": {
@@ -32767,7 +32769,7 @@
         "ats": "greenhouse",
         "token": "schonfeld",
         "ok": "2026-11-19",
-        "n": 70,
+        "n": 72,
         "nz": "2026-11-19"
       },
       "Quant: Squarepoint": {
@@ -32791,7 +32793,7 @@
         "ats": "greenhouse",
         "token": "vaticlabs",
         "ok": "2026-11-19",
-        "n": 7,
+        "n": 6,
         "nz": "2026-11-19"
       },
       "Quant: Virtu": {
@@ -33017,7 +33019,7 @@
         "ats": "greenhouse",
         "token": "galaxydigitalservices",
         "ok": "2026-11-19",
-        "n": 54,
+        "n": 55,
         "nz": "2026-11-19"
       },
       "Quant/Tech: B2C2": {
@@ -33041,7 +33043,7 @@
         "ats": "ashby",
         "token": "kraken.com",
         "ok": "2026-11-19",
-        "n": 93,
+        "n": 95,
         "nz": "2026-11-19"
       },
       "Startup: Ramp": {
@@ -33049,7 +33051,7 @@
         "ats": "ashby",
         "token": "ramp",
         "ok": "2026-11-19",
-        "n": 182,
+        "n": 184,
         "nz": "2026-11-19"
       },
       "Quant/Tech: Modal Labs": {
@@ -33065,7 +33067,7 @@
         "ats": "greenhouse",
         "token": "robinhood",
         "ok": "2026-11-19",
-        "n": 164,
+        "n": 167,
         "nz": "2026-11-19"
       },
       "Quant/Tech: Scale AI": {
@@ -33073,7 +33075,7 @@
         "ats": "greenhouse",
         "token": "scaleai",
         "ok": "2026-11-19",
-        "n": 167,
+        "n": 168,
         "nz": "2026-11-19"
       },
       "Quant/Tech: Anyscale": {
@@ -33089,7 +33091,7 @@
         "ats": "greenhouse",
         "token": "brex",
         "ok": "2026-11-19",
-        "n": 260,
+        "n": 261,
         "nz": "2026-11-19"
       },
       "Quant/Tech: Cohere": {
@@ -33113,7 +33115,7 @@
         "ats": "ashby",
         "token": "notion",
         "ok": "2026-11-19",
-        "n": 168,
+        "n": 169,
         "nz": "2026-11-19"
       },
       "Startup: Vercel": {
@@ -33121,7 +33123,7 @@
         "ats": "greenhouse",
         "token": "vercel",
         "ok": "2026-11-19",
-        "n": 86,
+        "n": 87,
         "nz": "2026-11-19"
       },
       "Firm SPA: Goldman Sachs": {
@@ -33269,7 +33271,7 @@
         "ats": "greenhouse",
         "token": "tastytrade",
         "ok": "2026-11-19",
-        "n": 9,
+        "n": 8,
         "nz": "2026-11-19"
       },
       "Quant: Gelber Group (Handshake board)": {
@@ -33326,7 +33328,7 @@
         "ats": "ashby",
         "token": "smarkets",
         "ok": "2026-11-19",
-        "n": 6,
+        "n": 7,
         "nz": "2026-11-19"
       },
       "Quant: Wintermute": {
@@ -33477,9 +33479,7 @@
         "ats": "lever",
         "token": "tgsmc",
         "ok": "2026-11-19",
-        "n": 0,
-        "err": "HTTPSConnectionPool(host='api.lever.co', port=443): Read timed out. (read timeout=15)",
-        "ef": "2026-11-19"
+        "n": 0
       },
       "Quant: Voleon Group": {
         "since": "2026-10-01",
@@ -33526,7 +33526,7 @@
         "ats": "workable",
         "token": "habitat-energy",
         "ok": "2026-11-19",
-        "n": 6,
+        "n": 7,
         "nz": "2026-11-19"
       },
       "Quant: Modo Energy": {
@@ -33558,7 +33558,7 @@
         "ats": "lever",
         "token": "kpler",
         "ok": "2026-11-19",
-        "n": 110,
+        "n": 111,
         "nz": "2026-11-19"
       },
       "Quant: Onyx Capital Group": {
@@ -33636,7 +33636,7 @@
         "ats": "greenhouse",
         "token": "iex",
         "ok": "2026-11-19",
-        "n": 7,
+        "n": 9,
         "nz": "2026-11-19"
       },
       "Quant: MEMX": {
@@ -33684,7 +33684,7 @@
         "ats": "greenhouse",
         "token": "picoquantitativetrading",
         "ok": "2026-11-19",
-        "n": 46,
+        "n": 47,
         "nz": "2026-11-19"
       },
       "Quant: OneChronos": {
@@ -34580,7 +34580,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-11-19",
-        "n": 496,
+        "n": 498,
         "nz": "2026-11-19"
       },
       "Cyber: Datadog": {
@@ -34588,7 +34588,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-11-19",
-        "n": 379,
+        "n": 378,
         "nz": "2026-11-19"
       },
       "Startup: Figma": {
@@ -34596,7 +34596,7 @@
         "ats": "greenhouse",
         "token": "figma",
         "ok": "2026-11-19",
-        "n": 143,
+        "n": 145,
         "nz": "2026-11-19"
       },
       "Startup: Discord": {
@@ -34612,7 +34612,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-11-19",
-        "n": 780,
+        "n": 771,
         "nz": "2026-11-19"
       },
       "Startup: Mercury": {
@@ -34620,7 +34620,7 @@
         "ats": "greenhouse",
         "token": "mercury",
         "ok": "2026-11-19",
-        "n": 72,
+        "n": 71,
         "nz": "2026-11-19"
       },
       "Startup: Linear": {
@@ -34636,7 +34636,7 @@
         "ats": "ashby",
         "token": "vanta",
         "ok": "2026-11-19",
-        "n": 73,
+        "n": 71,
         "nz": "2026-11-19"
       },
       "Startup: Replit": {
@@ -34644,7 +34644,7 @@
         "ats": "ashby",
         "token": "replit",
         "ok": "2026-11-19",
-        "n": 36,
+        "n": 37,
         "nz": "2026-11-19"
       },
       "Startup: Perplexity": {
@@ -34652,7 +34652,7 @@
         "ats": "ashby",
         "token": "perplexity",
         "ok": "2026-11-19",
-        "n": 147,
+        "n": 148,
         "nz": "2026-11-19"
       },
       "Startup: ElevenLabs": {
@@ -34668,7 +34668,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-11-19",
-        "n": 392,
+        "n": 390,
         "nz": "2026-11-19"
       },
       "Startup: Glean": {
@@ -34676,7 +34676,7 @@
         "ats": "greenhouse",
         "token": "gleanwork",
         "ok": "2026-11-19",
-        "n": 122,
+        "n": 128,
         "nz": "2026-11-19"
       },
       "Startup: Baseten": {
@@ -34684,7 +34684,7 @@
         "ats": "ashby",
         "token": "baseten",
         "ok": "2026-11-19",
-        "n": 103,
+        "n": 106,
         "nz": "2026-11-19"
       },
       "Startup: Cerebras": {
@@ -34713,7 +34713,7 @@
         "ats": "ashby",
         "token": "supabase",
         "ok": "2026-11-19",
-        "n": 76,
+        "n": 78,
         "nz": "2026-11-19"
       },
       "Startup: Clerk": {
@@ -34774,7 +34774,7 @@
         "ats": "ashby",
         "token": "kalshi",
         "ok": "2026-11-19",
-        "n": 42,
+        "n": 41,
         "nz": "2026-11-19"
       },
       "Startup: Cognition": {
@@ -34790,7 +34790,7 @@
         "ats": "ashby",
         "token": "decagon",
         "ok": "2026-11-19",
-        "n": 111,
+        "n": 110,
         "nz": "2026-11-19"
       },
       "Startup: Applied Intuition": {
@@ -34805,7 +34805,7 @@
         "ats": "greenhouse",
         "token": "flyzipline",
         "ok": "2026-11-19",
-        "n": 327,
+        "n": 325,
         "nz": "2026-11-19"
       },
       "Startup: Physical Intelligence": {
@@ -34822,6 +34822,212 @@
         "token": "figureai",
         "ok": "2026-11-19",
         "n": 104,
+        "nz": "2026-11-19"
+      },
+      "Program: OpenAI residency": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "err": "403 Client Error: Forbidden for url: https://openai.com/residency/",
+        "ef": "2026-11-19"
+      },
+      "Program: Anthropic careers": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Program: MATS (AI alignment research)": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: Redwood Research": {
+        "since": "2026-11-19",
+        "ats": "ashby",
+        "token": "redwoodresearch",
+        "ok": "2026-11-19",
+        "n": 5,
+        "nz": "2026-11-19"
+      },
+      "Safety: FAR.AI": {
+        "since": "2026-11-19",
+        "ats": "ashby",
+        "token": "far.ai",
+        "ok": "2026-11-19",
+        "n": 22,
+        "nz": "2026-11-19"
+      },
+      "Safety: Irregular": {
+        "since": "2026-11-19",
+        "ats": "ashby",
+        "token": "irregular",
+        "ok": "2026-11-19",
+        "n": 11,
+        "nz": "2026-11-19"
+      },
+      "Safety: Pivotal Research (jobs)": {
+        "since": "2026-11-19",
+        "ats": "ashby",
+        "token": "pivotal",
+        "ok": "2026-11-19",
+        "n": 8,
+        "nz": "2026-11-19"
+      },
+      "Safety: BlueDot Impact (jobs)": {
+        "since": "2026-11-19",
+        "ats": "ashby",
+        "token": "bluedot",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: Goodfire": {
+        "since": "2026-11-19",
+        "ats": "greenhouse",
+        "token": "goodfire",
+        "ok": "2026-11-19",
+        "n": 28,
+        "nz": "2026-11-19"
+      },
+      "Safety: Haize Labs": {
+        "since": "2026-11-19",
+        "ats": "greenhouse",
+        "token": "haizelabs",
+        "ok": "2026-11-19",
+        "n": 6,
+        "nz": "2026-11-19"
+      },
+      "Safety: UK AI Security Institute": {
+        "since": "2026-11-19",
+        "ats": "greenhouse",
+        "token": "aisi",
+        "ok": "2026-11-19",
+        "n": 9,
+        "nz": "2026-11-19"
+      },
+      "Safety: Center for AI Safety": {
+        "since": "2026-11-19",
+        "ats": "greenhouse",
+        "token": "centerforartificialintelligencesafetyinc",
+        "ok": "2026-11-19",
+        "n": 8,
+        "nz": "2026-11-19"
+      },
+      "Safety: METR": {
+        "since": "2026-11-19",
+        "ats": "lever",
+        "token": "metr",
+        "ok": "2026-11-19",
+        "n": 4,
+        "nz": "2026-11-19"
+      },
+      "Safety: Apollo Research": {
+        "since": "2026-11-19",
+        "ats": "lever",
+        "token": "apolloresearch",
+        "ok": "2026-11-19",
+        "n": 9,
+        "nz": "2026-11-19"
+      },
+      "Safety: SPAR": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: ERA Fellowship": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: PIBBSS Fellowship": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: LASR Labs": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: Pivotal Research Fellowship": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: CBAI programs": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: GovAI fellowships": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: Astra Fellowship (Constellation)": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: ARENA": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: BlueDot courses": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: AI Safety Camp": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: Apart Research sprints": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: IAPS AI Policy Fellowship": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
+        "nz": "2026-11-19"
+      },
+      "Safety: CLR opportunities": {
+        "since": "2026-11-19",
+        "ats": "pagewatch",
+        "ok": "2026-11-19",
+        "n": 1,
         "nz": "2026-11-19"
       }
     }
@@ -38661,7 +38867,7 @@
   },
   "https://modmed.wd501.myworkdayjobs.com/en-us/modmed12/job/boca-raton-fl/software-engineering-intern_r5148": {
     "title": "Software Engineering Intern",
-    "url": "https://modmed.wd501.myworkdayjobs.com/en-US/modmed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148",
+    "url": "https://modmed.wd501.myworkdayjobs.com/en-US/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148",
     "sig": "modmed|software engineering intern"
   },
   "https://jobs.lever.co/genbio/7d0b5764-48ce-4d06-93d2-431742d35604": {
@@ -38930,7 +39136,7 @@
     "sig": "viget|product web designer intern"
   },
   "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2": {
-    "title": "Software Developer Intern (2027)",
+    "title": "Software Developer Intern - 2027",
     "url": "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2",
     "sig": "viget|software developer intern"
   },
@@ -51417,9 +51623,9 @@
     "sig": "lyft|software engineer intern fullstack"
   },
   "https://go.vansh.nyc/qr": {
-    "title": "Arbitrage Research Analyst Intern, Arbitrage",
-    "url": "https://go.vansh.nyc/Qr",
-    "sig": "aqrcapitalmanagement|arbitrage research analyst intern arbitrage"
+    "title": "Platform Engineer Intern",
+    "url": "https://go.vansh.nyc/QR",
+    "sig": "lplfinancial|platform engineer intern"
   },
   "https://go.vansh.nyc/qs": {
     "title": "Games Systems Engineer Intern",
@@ -52821,9 +53027,9 @@
     "sig": "eqt|ai intern"
   },
   "https://go.vansh.nyc/vh": {
-    "title": "Data Science Intern",
-    "url": "https://go.vansh.nyc/Vh",
-    "sig": "quantco|data science intern"
+    "title": "AI Intern",
+    "url": "https://go.vansh.nyc/VH",
+    "sig": "nissan|ai intern"
   },
   "https://go.vansh.nyc/vn": {
     "title": "Cybersecurity Intern",
@@ -57565,7 +57771,7 @@
     "sig": "tecsys|intern developer"
   },
   "https://plexus.wd504.myworkdayjobs.com/en-us/plexus_careers/job/neenah-wi/intern---software-engineer--fall-2026-_r035782": {
-    "title": "Intern - Software Engineer - Summer 2027",
+    "title": "Intern - Software Engineer (Summer 2027)",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2026-_R035782",
     "sig": "plexus|intern software engineer"
   },
@@ -58255,9 +58461,9 @@
     "sig": "drivetime|software engineering intern"
   },
   "https://go.vansh.nyc/1cs": {
-    "title": "Database Engineering Intern",
-    "url": "https://go.vansh.nyc/1cs",
-    "sig": "drivetime|database engineering intern"
+    "title": "Software Security Intern",
+    "url": "https://go.vansh.nyc/1CS",
+    "sig": "rtx|software security intern"
   },
   "https://go.vansh.nyc/1ct": {
     "title": "Data Science Intern",
@@ -58315,9 +58521,9 @@
     "sig": "inmarintelligence|data analytics ai intern"
   },
   "https://go.vansh.nyc/1d2": {
-    "title": "Software Engineering Intern",
-    "url": "https://go.vansh.nyc/1d2",
-    "sig": "inmarintelligence|software engineering intern"
+    "title": "Product Data Science Intern",
+    "url": "https://go.vansh.nyc/1D2",
+    "sig": "docusign|product data science intern"
   },
   "https://go.vansh.nyc/1d3": {
     "title": "Data Center SSD Firmware Intern",
@@ -58710,8 +58916,8 @@
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/software-dsp-research-engineer-co-op_r29369": {
     "title": "Software/DSP Research Engineer Co-op",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
-    "sig": "boseallaboutme|software dsp research engineer coop"
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
+    "sig": "bose|software dsp research engineer coop"
   },
   "https://job-boards.greenhouse.io/schonfeld/jobs/8350719": {
     "title": "2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern",
@@ -61366,7 +61572,7 @@
     "sig": "point72|mi data research ai intern apac"
   },
   "https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002": {
-    "title": "2027 Trader Summer Intern (12-week program)",
+    "title": "2027 Trader Intern (12-week program)",
     "url": "https://boards.greenhouse.io/point72/jobs/8932943002?gh_jid=8932943002",
     "sig": "point72|trader intern 12 week program"
   },
@@ -61388,7 +61594,7 @@
   "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004": {
     "title": "2027 Digital Infrastructure Intern - NYC",
     "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004",
-    "sig": "galaxydigitalservices|digital infrastructure intern nyc"
+    "sig": "quanttechgalaxy|digital infrastructure intern nyc"
   },
   "https://thermofisher.wd5.myworkdayjobs.com/en-us/thermofishercareers/job/eindhoven-netherlands/intern---autonomous-lab-concept-development-for-an-electron-microscope_r-01374130": {
     "title": "Intern - Autonomous Lab Concept Development for an Electron Microscope",
@@ -64951,8 +65157,8 @@
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/digital-signal-processing-ml-software-development-co-op_r29372": {
     "title": "Digital Signal Processing ML Software Development Co-op",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
-    "sig": "boseallaboutme|digital signal processing ml software development coop"
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
+    "sig": "bose|digital signal processing ml software development coop"
   },
   "https://thermofisher.wd5.myworkdayjobs.com/en-us/thermofishercareers/job/brno-czechia/intern---business-intelligence---analytics_r-01374051": {
     "title": "Intern - Business Intelligence & Analytics",
@@ -68469,7 +68675,7 @@
   "https://jasperholdings.wd504.myworkdayjobs.com/en-us/jet_careers/job/jasper-in/it-full-stack-developer-internship--summer-2027_r-100857": {
     "title": "IT Full Stack Developer Internship: Summer 2027",
     "url": "https://jasperholdings.wd504.myworkdayjobs.com/en-US/jet_careers/job/Jasper-IN/IT-Full-Stack-Developer-Internship--Summer-2027_R-100857",
-    "sig": "jasperenginestransmissions|it full stack developer intern"
+    "sig": "jasperholdings|it full stack developer intern"
   },
   "https://jobs.lever.co/clovirtualfashion/f5646a27-cca4-4205-88e9-8a563af5a0ff": {
     "title": "Software Engineer Intern",
@@ -69206,5 +69412,374 @@
     "title": "Robotics Intern - Generalist Robot Learning",
     "url": "https://jobs.lever.co/tri/4cac9569-cc90-4dcd-96b8-d9777c35c943/apply",
     "sig": "toyotaresearchinstitute|robotics intern generalist robot learning"
+  },
+  "closing::https://job-boards.greenhouse.io/anthropic/jobs/5438311008": {
+    "title": "closing-soon alert sent",
+    "url": ""
+  },
+  "closing::https://job-boards.greenhouse.io/anthropic/jobs/5439169008": {
+    "title": "closing-soon alert sent",
+    "url": ""
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5183044008": {
+    "title": "Anthropic Fellows Program, AI Safety & Security",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183044008",
+    "sig": "anthropic|anthropic fellows program ai safety security"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5183051008": {
+    "title": "Anthropic Fellows Program, ML Systems & Reinforcement Learning",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183051008",
+    "sig": "anthropic|anthropic fellows program ml systems reinforcement learning"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5183053008": {
+    "title": "Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5183053008",
+    "sig": "anthropic|anthropic fellows program the anthropic institute economics policy"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5438311008": {
+    "title": "Anthropic Research Resident",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5438311008",
+    "sig": "anthropic|anthropic research resident"
+  },
+  "https://job-boards.greenhouse.io/anthropic/jobs/5439169008": {
+    "title": "Anthropic Research Resident",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5439169008",
+    "sig": "anthropic|anthropic research resident"
+  },
+  "https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007": {
+    "title": "2027 Engineering Systems Intern",
+    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5302147007?gh_jid=5302147007",
+    "sig": "anduril|engineering systems intern"
+  },
+  "https://jobs.smartrecruiters.com/veoliaenvironnementsa/744000162593839": {
+    "title": "Manufacturing Software Engineer Intern",
+    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162593839",
+    "sig": "veoliaenvironnementsa|manufacturing software engineer intern"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000162572110": {
+    "title": "Extracurricular Internship: Lab Engineer within Heat Pump Development - Automation (f/m/div.)",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162572110",
+    "sig": "boschgroup|extracurricular intern lab engineer within heat pump development automation f m div"
+  },
+  "https://jobs.smartrecruiters.com/boschgroup/744000162521499": {
+    "title": "Mandatory Internship Vehicle State Estimation for Active Suspension Systems",
+    "url": "https://jobs.smartrecruiters.com/BoschGroup/744000162521499",
+    "sig": "boschgroup|mandatory intern vehicle state estimation for active suspension systems"
+  },
+  "https://boards.greenhouse.io/lightmatter/jobs/5473539008?gh_jid=5473539008": {
+    "title": "IT and Security Intern – Summer 2027",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5473539008?gh_jid=5473539008",
+    "sig": "lightmatter|it and security intern"
+  },
+  "https://job-boards.greenhouse.io/fgsglobal/jobs/5302039007": {
+    "title": "Intern, Research & Insights",
+    "url": "https://job-boards.greenhouse.io/fgsglobal/jobs/5302039007",
+    "sig": "fgsglobal|intern research insights"
+  },
+  "https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067": {
+    "title": "Internship, Autonomy - Path Planning (Summer 2027)",
+    "url": "https://jobs.lever.co/pivotal/092eb283-16ac-4f68-a6e9-b6a0a9564067",
+    "sig": "pivotal|intern autonomy path planning"
+  },
+  "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003": {
+    "title": "Quantitative Strategist Intern",
+    "url": "https://job-boards.greenhouse.io/familyoffice/jobs/8202834003",
+    "sig": "familyoffice|quantitative strategist intern"
+  },
+  "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008": {
+    "title": "Computer Vision (AI/ML) Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
+    "sig": "scoutspace|computer vision ai ml engineering intern"
+  },
+  "https://job-boards.greenhouse.io/scoutspace/jobs/5489232008": {
+    "title": "Embedded Firmware Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489232008",
+    "sig": "scoutspace|embedded firmware engineering intern"
+  },
+  "https://job-boards.greenhouse.io/scoutspace/jobs/5489235008": {
+    "title": "Systems Engineering Intern",
+    "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489235008",
+    "sig": "scoutspace|systems engineering intern"
+  },
+  "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/columbus-oh/intern---software-engineering_r1013421": {
+    "title": "Software Engineer Intern",
+    "url": "https://alliancedata.wd5.myworkdayjobs.com/breadfinancial_us/job/Columbus-OH/Intern---Software-Engineering_R1013421",
+    "sig": "breadfinancial|software engineer intern"
+  },
+  "https://erqh.fa.us2.oraclecloud.com/hcmui/candidateexperience/en/sites/cx_1001/job/34551": {
+    "title": "Pharmacy Intern - Data Analytics",
+    "url": "https://erqh.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/34551",
+    "sig": "atlantichealthsystem|pharmacy intern data analytics"
+  },
+  "pw::https://www.welton.com/::#fbb5a0ea91357379": {
+    "title": "Page changed - check Quant SPA: Welton Investment Partners (may mean applications opened)",
+    "url": "https://www.welton.com/"
+  },
+  "https://job-boards.greenhouse.io/goodfire/jobs/4499053008": {
+    "title": "Research Fellow",
+    "url": "https://job-boards.greenhouse.io/goodfire/jobs/4499053008",
+    "sig": "safetygoodfire|research fellow"
+  },
+  "https://job-boards.greenhouse.io/haizelabs/jobs/4070377008": {
+    "title": "Research Intern",
+    "url": "https://job-boards.greenhouse.io/haizelabs/jobs/4070377008",
+    "sig": "safetyhaizelabs|research intern"
+  },
+  "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4308524009": {
+    "title": "Research Engineer Intern",
+    "url": "https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4308524009",
+    "sig": "safetycenterforaisafety|research engineer intern"
+  },
+  "pw::https://sparai.org/::#aaac084603b9bb6c": {
+    "title": "Page changed - check Safety: SPAR (may mean applications opened)",
+    "url": "https://sparai.org/"
+  },
+  "pw::https://erafellowship.org/::#d6511274da9e44e9": {
+    "title": "Page changed - check Safety: ERA Fellowship (may mean applications opened)",
+    "url": "https://erafellowship.org/"
+  },
+  "pw::https://princint.ai/::#e3b0c44298fc1c14": {
+    "title": "Page changed - check Safety: PIBBSS Fellowship (may mean applications opened)",
+    "url": "https://princint.ai/"
+  },
+  "pw::https://www.lasrlabs.org/::#5313e5bf17148de8": {
+    "title": "Page changed - check Safety: LASR Labs (may mean applications opened)",
+    "url": "https://www.lasrlabs.org/"
+  },
+  "pw::https://www.pivotal-research.org/::#64cf8b8f32c831b4": {
+    "title": "Page changed - check Safety: Pivotal Research Fellowship (may mean applications opened)",
+    "url": "https://www.pivotal-research.org/"
+  },
+  "pw::https://www.cbai.ai/programs::#e3b0c44298fc1c14": {
+    "title": "Page changed - check Safety: CBAI programs (may mean applications opened)",
+    "url": "https://www.cbai.ai/programs"
+  },
+  "pw::https://www.governance.ai/opportunities::#1d6e0ed6e96c7e9e": {
+    "title": "Page changed - check Safety: GovAI fellowships (may mean applications opened)",
+    "url": "https://www.governance.ai/opportunities"
+  },
+  "pw::https://www.constellation.org/programs/astra::#8a2faa7f4b932a47": {
+    "title": "Page changed - check Safety: Astra Fellowship (Constellation) (may mean applications opened)",
+    "url": "https://www.constellation.org/programs/astra"
+  },
+  "pw::https://www.arena.education/::#00c0fd928976e0b9": {
+    "title": "Page changed - check Safety: ARENA (may mean applications opened)",
+    "url": "https://www.arena.education/"
+  },
+  "pw::https://bluedot.org/courses::#d45b100f6a1eab72": {
+    "title": "Page changed - check Safety: BlueDot courses (may mean applications opened)",
+    "url": "https://bluedot.org/courses"
+  },
+  "pw::https://www.aisafety.camp/::#1d6e0ed6e96c7e9e": {
+    "title": "Page changed - check Safety: AI Safety Camp (may mean applications opened)",
+    "url": "https://www.aisafety.camp/"
+  },
+  "pw::https://apartresearch.com/sprints::#dfc8aeb39828e31c": {
+    "title": "Page changed - check Safety: Apart Research sprints (may mean applications opened)",
+    "url": "https://apartresearch.com/sprints"
+  },
+  "pw::https://www.iaps.ai/fellowship::#00c0fd928976e0b9": {
+    "title": "Page changed - check Safety: IAPS AI Policy Fellowship (may mean applications opened)",
+    "url": "https://www.iaps.ai/fellowship"
+  },
+  "pw::https://longtermrisk.org/opportunities/::#64cf8b8f32c831b4": {
+    "title": "Page changed - check Safety: CLR opportunities (may mean applications opened)",
+    "url": "https://longtermrisk.org/opportunities/"
+  },
+  "srcbaseline::Safety: GovAI fellowships": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "srcbaseline::Safety: PIBBSS Fellowship": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "srcbaseline::Safety: IAPS AI Policy Fellowship": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "srcbaseline::Safety: CBAI programs": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "srcbaseline::Safety: Astra Fellowship (Constellation)": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "srcbaseline::Safety: ARENA": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "srcbaseline::Safety: AI Safety Camp": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "srcbaseline::Safety: Apart Research sprints": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "srcbaseline::Safety: Pivotal Research Fellowship": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "srcbaseline::Safety: SPAR": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "srcbaseline::Safety: LASR Labs": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "srcbaseline::Safety: CLR opportunities": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "srcbaseline::Safety: BlueDot courses": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "srcbaseline::Safety: ERA Fellowship": {
+    "title": "silent baseline marker",
+    "url": ""
+  },
+  "safety::https://job-boards.greenhouse.io/anthropic/jobs/5183044008": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::https://job-boards.greenhouse.io/anthropic/jobs/5183051008": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::https://job-boards.greenhouse.io/anthropic/jobs/5183053008": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::https://job-boards.greenhouse.io/anthropic/jobs/5438311008": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::https://job-boards.greenhouse.io/anthropic/jobs/5439169008": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::https://www.ycombinator.com/companies/ctgt/jobs/b3htkk4-software-engineering-intern-summer-2027": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::https://go.vansh.nyc/97": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::https://jobs.bytedance.com/en/position/7645070235035044101/detail": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/bellevue/ge-vernova---agi---ai-post-training-and-model-alignment-intern---summer-2027_r5054822-1": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://www.anthropic.com/careers::#a645b001b2afb6f3": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://www.matsprogram.org/::#addaa03ce0a363b2": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::https://job-boards.greenhouse.io/goodfire/jobs/4499053008": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::https://job-boards.greenhouse.io/haizelabs/jobs/4070377008": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4308524009": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://sparai.org/::#aaac084603b9bb6c": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://erafellowship.org/::#d6511274da9e44e9": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://princint.ai/::#e3b0c44298fc1c14": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://www.lasrlabs.org/::#5313e5bf17148de8": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://www.pivotal-research.org/::#64cf8b8f32c831b4": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://www.cbai.ai/programs::#e3b0c44298fc1c14": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://www.governance.ai/opportunities::#1d6e0ed6e96c7e9e": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://www.constellation.org/programs/astra::#8a2faa7f4b932a47": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://www.arena.education/::#00c0fd928976e0b9": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://bluedot.org/courses::#d45b100f6a1eab72": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://www.aisafety.camp/::#1d6e0ed6e96c7e9e": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://apartresearch.com/sprints::#dfc8aeb39828e31c": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://www.iaps.ai/fellowship::#00c0fd928976e0b9": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
+  },
+  "safety::pw::https://longtermrisk.org/opportunities/::#64cf8b8f32c831b4": {
+    "title": "safety first-seen",
+    "url": "",
+    "first": "2026-11-19"
   }
 }
