@@ -375,6 +375,68 @@ def _pw_url(key):
     return key[len(PW_PREFIX):].rsplit(PW_SEP, 1)[0]
 
 
+# ------------------------- AI safety tracking (2026-11-19) ------------------ #
+# John wants every AI safety opportunity, not only internships: fellowships,
+# residencies, research programs, camps, sprints. Sources marked `"safety": true`
+# in config.json skip the normal intern/domain/year gates and instead keep any
+# title that looks open to an undergrad (intern, fellow, resident, scholar,
+# program...) and drop senior/staff/manager/PhD-only roles. Their pagewatch
+# pages run in the HOURLY sweep (not the twice-weekly digest). Everything safety
+# also lands in SAFETY.md, which the scheduled auto-apply task reads.
+SAFETY_FILE = "SAFETY.md"
+SAFETY_OK_RE = re.compile(
+    r"\b(intern|internship|fellow|fellows|fellowship|resident|residency|scholar|scholars|"
+    r"scholarship|summer|student|undergrad|undergraduate|apprentice|apprenticeship|trainee|"
+    r"program|programme|camp|sprint|bootcamp|course|cohort|visiting|early[- ]career|junior)\b", re.I)
+SAFETY_BAD_RE = re.compile(
+    r"\b(senior|sr\.?|staff|principal|lead|manager|director|head|chief|vp|vice president|"
+    r"phd|ph\.d|postdoc|post-doc|professor|accountant|counsel|recruiter|executive|"
+    r"operations|people|finance|legal|security engineer)\b", re.I)
+SAFETY_TOPIC_RE = re.compile(
+    r"\b(ai safety|alignment|interpretab\w*|evals?|model evaluation|red[- ]team\w*|"
+    r"scalable oversight|ai control|ai governance|ai policy|safeguards|frontier risk)\b", re.I)
+
+
+def _safety_title_ok(title, filters):
+    t = title or ""
+    if not SAFETY_OK_RE.search(t) or SAFETY_BAD_RE.search(t):
+        return False
+    low = t.lower()
+    return not any(p.lower() in low for p in filters.get("reject_cycle_phrases", []))
+
+
+def write_safety(current, seen, new_seen):
+    """SAFETY.md: every AI safety item open right now (roles from safety sources,
+    AI-safety titles from any source, and safety program pages), newest first.
+    `key` is stable per item; a changed program page gets a NEW key."""
+    today = _datetime.date.today().isoformat()
+    rows = []
+    for gkey, rec in current.items():
+        j = rec["job"]
+        if not (j.get("safety") or SAFETY_TOPIC_RE.search(j.get("title") or "")):
+            continue
+        fk = "safety::" + gkey
+        first = (seen.get(fk) or {}).get("first") or today
+        new_seen[fk] = {"title": "safety first-seen", "url": "", "first": first}
+        key = _hashlib.sha256(gkey.encode("utf-8")).hexdigest()[:12]
+        kind = "program page changed" if j.get("pagewatch") else "role"
+        co = (j.get("company") or rec["src"]).replace("Safety: ", "")
+        title = ("check for new applications" if j.get("pagewatch") else (j.get("title") or "")).replace("]", ")")
+        rows.append((first, kind, co, title, j.get("url") or "", j.get("location") or "", key))
+    rows.sort(key=lambda r: (r[0], r[2]), reverse=True)
+    lines = ["# AI safety opportunities (auto-generated)", "",
+             f"_{len(rows)} open item(s). Rebuilt every sweep: "
+             f"{_datetime.datetime.utcnow().strftime('%Y-%m-%d %H:%M')} UTC. "
+             "Includes fellowships, residencies and programs, not just internships. "
+             "Program pages are listed with the date their application text last changed._", ""]
+    for first, kind, co, title, url, loc, key in rows:
+        lines.append(f"- {first} · [{kind}] [{co} — {title}]({url})"
+                     + (f" — {loc}" if loc else "") + f" · key:{key}")
+    with open(SAFETY_FILE, "w", encoding="utf-8") as fh:
+        fh.write("\n".join(lines) + "\n")
+    print(f"Wrote {SAFETY_FILE}: {len(rows)} AI safety item(s).")
+
+
 def fetch_rss(firm):
     """
     Generic RSS/Atom reader for DISCOVERY feeds (Google News queries, Reddit,
@@ -2358,6 +2420,14 @@ def main():
             for j in jobs:
                 j.setdefault("lane", lane)
 
+        if firm.get("safety"):
+            # AI safety source: its own gate instead of the internship filters.
+            for j in jobs:
+                j["safety"] = True
+                j.setdefault("lane", "ai")
+                if not j.get("pagewatch") and _safety_title_ok(j.get("title", ""), filters):
+                    j["bypass_filters"] = True
+            jobs = [j for j in jobs if j.get("bypass_filters") or is_relevant(j, filters)]
         relevant = [j for j in jobs if j.get("bypass_filters") or is_relevant(j, filters)]
         # US-only gate: OFF for John (filters.us_only false) -- he wants US and
         # international postings. When on, drops clearly-non-US roles from the
@@ -2504,6 +2574,10 @@ def main():
     if sweep_complete:
         write_open_roles(current)
         write_top_picks(current, filters)
+        try:
+            write_safety(current, seen, new_seen)
+        except Exception as e:  # never let the safety file break a sweep
+            print(f"SAFETY.md not written: {e}")
     else:
         print(f"{OPEN_ROLES_FILE} not rewritten (partial sweep).")
 

@@ -975,6 +975,7 @@
     },
     {
       "name": "OpenAI",
+      "safety": true,
       "ats": "ashby",
       "token": "openai",
       "verified": true,
@@ -982,6 +983,7 @@
     },
     {
       "name": "Anthropic",
+      "safety": true,
       "ats": "greenhouse",
       "token": "anthropic",
       "verified": true,
@@ -4765,9 +4767,10 @@
     },
     {
       "name": "Program: OpenAI residency",
+      "safety": true,
       "ats": "pagewatch",
       "url": "https://openai.com/residency/",
-      "digest": true,
+      "digest": false,
       "watch_keywords": [
         "apply",
         "application",
@@ -4791,9 +4794,10 @@
     },
     {
       "name": "Program: Anthropic careers",
+      "safety": true,
       "ats": "pagewatch",
       "url": "https://www.anthropic.com/careers",
-      "digest": true,
+      "digest": false,
       "watch_keywords": [
         "intern",
         "fellow",
@@ -4855,9 +4859,10 @@
     },
     {
       "name": "Program: MATS (AI alignment research)",
+      "safety": true,
       "ats": "pagewatch",
       "url": "https://www.matsprogram.org/",
-      "digest": true,
+      "digest": false,
       "watch_keywords": [
         "apply",
         "cohort",
@@ -6012,6 +6017,31 @@
       ],
       "digest": true,
       "note": "Monthly HN 'Who is hiring' comments mentioning interns -- almost all startups. Unverified feed; promote good ones to opportunities.json or apply directly."
-    }
+    },
+    {"name": "Safety: Redwood Research", "ats": "ashby", "token": "redwoodresearch", "verified": true, "lane": "ai", "safety": true},
+    {"name": "Safety: FAR.AI", "ats": "ashby", "token": "far.ai", "verified": true, "lane": "ai", "safety": true},
+    {"name": "Safety: Irregular", "ats": "ashby", "token": "irregular", "verified": true, "lane": "ai", "safety": true},
+    {"name": "Safety: Pivotal Research (jobs)", "ats": "ashby", "token": "pivotal", "verified": true, "lane": "ai", "safety": true},
+    {"name": "Safety: BlueDot Impact (jobs)", "ats": "ashby", "token": "bluedot", "verified": true, "lane": "ai", "safety": true},
+    {"name": "Safety: Goodfire", "ats": "greenhouse", "token": "goodfire", "verified": true, "lane": "ai", "safety": true},
+    {"name": "Safety: Haize Labs", "ats": "greenhouse", "token": "haizelabs", "verified": true, "lane": "ai", "safety": true},
+    {"name": "Safety: UK AI Security Institute", "ats": "greenhouse", "token": "aisi", "verified": true, "lane": "ai", "safety": true},
+    {"name": "Safety: Center for AI Safety", "ats": "greenhouse", "token": "centerforartificialintelligencesafetyinc", "verified": true, "lane": "ai", "safety": true},
+    {"name": "Safety: METR", "ats": "lever", "token": "metr", "verified": true, "lane": "ai", "safety": true},
+    {"name": "Safety: Apollo Research", "ats": "lever", "token": "apolloresearch", "verified": true, "lane": "ai", "safety": true},
+    {"name": "Safety: SPAR", "ats": "pagewatch", "url": "https://sparai.org/", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true},
+    {"name": "Safety: ERA Fellowship", "ats": "pagewatch", "url": "https://erafellowship.org/", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true},
+    {"name": "Safety: PIBBSS Fellowship", "ats": "pagewatch", "url": "https://princint.ai/", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true},
+    {"name": "Safety: LASR Labs", "ats": "pagewatch", "url": "https://www.lasrlabs.org/", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true},
+    {"name": "Safety: Pivotal Research Fellowship", "ats": "pagewatch", "url": "https://www.pivotal-research.org/", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true},
+    {"name": "Safety: CBAI programs", "ats": "pagewatch", "url": "https://www.cbai.ai/programs", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true},
+    {"name": "Safety: GovAI fellowships", "ats": "pagewatch", "url": "https://www.governance.ai/opportunities", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true},
+    {"name": "Safety: Astra Fellowship (Constellation)", "ats": "pagewatch", "url": "https://www.constellation.org/programs/astra", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true},
+    {"name": "Safety: ARENA", "ats": "pagewatch", "url": "https://www.arena.education/", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true},
+    {"name": "Safety: BlueDot courses", "ats": "pagewatch", "url": "https://bluedot.org/courses", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true},
+    {"name": "Safety: AI Safety Camp", "ats": "pagewatch", "url": "https://www.aisafety.camp/", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true},
+    {"name": "Safety: Apart Research sprints", "ats": "pagewatch", "url": "https://apartresearch.com/sprints", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true},
+    {"name": "Safety: IAPS AI Policy Fellowship", "ats": "pagewatch", "url": "https://www.iaps.ai/fellowship", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true},
+    {"name": "Safety: CLR opportunities", "ats": "pagewatch", "url": "https://longtermrisk.org/opportunities/", "watch_keywords": ["applications open", "applications are open", "apply now", "apply by", "now accepting", "applications close", "applications closed", "deadline", "2027", "summer 2027", "winter 2027", "spring 2027", "fall 2027"], "digest": false, "safety": true, "silent_baseline": true}
   ]
 }
