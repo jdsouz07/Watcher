@@ -1,6 +1,6 @@
 # AI safety opportunities (auto-generated)
 
-_29 open item(s). Rebuilt every sweep: 2026-11-20 11:11 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
+_28 open item(s). Rebuilt every sweep: 2026-11-20 19:54 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
 
 - 2026-11-20 · [role] [UK AI Security Institute — Research Residency – Red Team ](https://job-boards.eu.greenhouse.io/aisi/jobs/5043106101) — London, UK · key:5beea3febc99
 - 2026-11-19 · [program page changed] [SPAR — check for new applications](https://sparai.org/) · key:822794800fb9
@@ -8,7 +8,6 @@ _29 open item(s). Rebuilt every sweep: 2026-11-20 11:11 UTC. Includes fellowship
 - 2026-11-19 · [program page changed] [Program: Anthropic careers — check for new applications](https://www.anthropic.com/careers) · key:c44e1b14f439
 - 2026-11-19 · [program page changed] [Pivotal Research Fellowship — check for new applications](https://www.pivotal-research.org/) · key:d9664060972a
 - 2026-11-19 · [program page changed] [PIBBSS Fellowship — check for new applications](https://princint.ai/) · key:608d4c7efaa6
-- 2026-11-19 · [program page changed] [LASR Labs — check for new applications](https://www.lasrlabs.org/) · key:17e060ef0fa6
 - 2026-11-19 · [program page changed] [IAPS AI Policy Fellowship — check for new applications](https://www.iaps.ai/fellowship) · key:158032c7022c
 - 2026-11-19 · [role] [Haize Labs — Research Intern](https://job-boards.greenhouse.io/haizelabs/jobs/4070377008) — New York, NY · key:414fe9ea55b5
 - 2026-11-19 · [program page changed] [GovAI fellowships — check for new applications](https://www.governance.ai/opportunities) · key:693fbdbf8fa0
@@ -27,7 +26,7 @@ _29 open item(s). Rebuilt every sweep: 2026-11-20 11:11 UTC. Includes fellowship
 - 2026-11-19 · [role] [Anthropic — Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) — London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA · key:b5fc3e97bb60
 - 2026-11-19 · [role] [Anthropic — Anthropic Fellows Program, ML Systems & Reinforcement Learning](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) — London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA · key:05c482cd728d
 - 2026-11-19 · [role] [Anthropic — Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) — London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA · key:49442b764f47
-- 2026-11-19 · [role] [Anthropic — Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) — San Francisco, CA | New York City, NY · key:6b9d65389885
 - 2026-11-19 · [role] [Anthropic — Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5439169008) — London, UK · key:7ae00c29f766
+- 2026-11-19 · [role] [Anthropic — Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) — San Francisco, CA | New York City, NY · key:6b9d65389885
 - 2026-11-19 · [program page changed] [ARENA — check for new applications](https://www.arena.education/) · key:473c3ad7b840
 - 2026-11-19 · [program page changed] [AI Safety Camp — check for new applications](https://www.aisafety.camp/) · key:57a739ddd836
