@@ -3090,7 +3090,7 @@
     "sig": "plexus|intern software development"
   },
   "https://plexus.wd504.myworkdayjobs.com/en-us/plexus_careers/job/raleigh-nc/intern---software-engineer--summer-2027-_r040424": {
-    "title": "Intern - Software Engineer (Summer 2027)",
+    "title": "Intern - Software Engineer - Summer 2027",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Raleigh-NC/Intern---Software-Engineer--Summer-2027-_R040424",
     "sig": "plexus|intern software engineer"
   },
@@ -32353,7 +32353,9 @@
         "ats": "workday",
         "ok": "2026-11-21",
         "n": 6,
-        "nz": "2026-11-21"
+        "nz": "2026-11-21",
+        "err": "429 Client Error: Too Many Requests for url: https://arrowstreetcapital.wd5.myworkdayjobs.com/wday/cxs/arrowstreetcapital/Campus_Careers/job",
+        "ef": "2026-11-21"
       },
       "NVIDIA": {
         "since": "2026-10-01",
@@ -32410,7 +32412,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-11-21",
-        "n": 896,
+        "n": 895,
         "nz": "2026-11-21"
       },
       "Page: Microsoft Careers": {
@@ -32425,7 +32427,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-11-21",
-        "n": 2632,
+        "n": 2633,
         "nz": "2026-11-21"
       },
       "Palantir": {
@@ -32504,7 +32506,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-21",
-        "n": 71214,
+        "n": 70723,
         "nz": "2026-11-21"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32524,28 +32526,28 @@
         "since": "2026-10-01",
         "ats": "github_md",
         "ok": "2026-11-21",
-        "n": 851,
+        "n": 849,
         "nz": "2026-11-21"
       },
       "Tracker: vanshb03 Summer2027": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-21",
-        "n": 2021,
+        "n": 2025,
         "nz": "2026-11-21"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-21",
-        "n": 2093,
+        "n": 2090,
         "nz": "2026-11-21"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
         "since": "2026-10-01",
         "ats": "nuft",
         "ok": "2026-11-21",
-        "n": 119,
+        "n": 123,
         "nz": "2026-11-21"
       },
       "Startup: YC events": {
@@ -32642,7 +32644,7 @@
         "ats": "greenhouse",
         "token": "dvtrading",
         "ok": "2026-11-21",
-        "n": 69,
+        "n": 70,
         "nz": "2026-11-21"
       },
       "Quant: ExodusPoint": {
@@ -32951,7 +32953,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-21",
         "n": 1,
-        "nz": "2026-11-21"
+        "nz": "2026-11-21",
+        "err": "429 Client Error: Too Many Requests for url: https://cboe.wd1.myworkdayjobs.com/External",
+        "ef": "2026-11-21"
       },
       "Quant SPA: Radix Trading": {
         "since": "2026-10-01",
@@ -33073,7 +33077,7 @@
         "ats": "greenhouse",
         "token": "scaleai",
         "ok": "2026-11-21",
-        "n": 169,
+        "n": 166,
         "nz": "2026-11-21"
       },
       "Quant/Tech: Anyscale": {
@@ -34102,7 +34106,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-21",
         "n": 1,
-        "nz": "2026-11-21"
+        "nz": "2026-11-21",
+        "err": "502 Server Error: Bad Gateway for url: https://saracenenergy.com/careers.html",
+        "ef": "2026-11-21"
       },
       "Quant SPA: Twin Eagle Resource Management": {
         "since": "2026-10-01",
@@ -34582,7 +34588,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-11-21",
-        "n": 503,
+        "n": 504,
         "nz": "2026-11-21"
       },
       "Cyber: Datadog": {
@@ -34670,7 +34676,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-11-21",
-        "n": 388,
+        "n": 390,
         "nz": "2026-11-21"
       },
       "Startup: Glean": {
@@ -44848,9 +44854,9 @@
     "sig": "wise|data science intern"
   },
   "https://manh.wd5.myworkdayjobs.com/en-us/campus/job/us---home-office/ai-developer-co-op--boston--ma-_17046": {
-    "title": "A.I. Developer Co-Op - Boston - MA",
+    "title": "A.I. Developer Co-Op (Boston, MA)",
     "url": "https://manh.wd5.myworkdayjobs.com/en-US/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046",
-    "sig": "manhattanassociates|a i developer coop boston ma"
+    "sig": "manh|a i developer coop boston ma"
   },
   "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/santa-clara-ca/ai-data-science-intern--ms---summer-2027_2603846": {
     "title": "AI Data Science Intern",
@@ -57776,7 +57782,7 @@
     "sig": "tecsys|intern developer"
   },
   "https://plexus.wd504.myworkdayjobs.com/en-us/plexus_careers/job/neenah-wi/intern---software-engineer--fall-2026-_r035782": {
-    "title": "Intern - Software Engineer (Summer 2027)",
+    "title": "Intern - Software Engineer - Summer 2027",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2026-_R035782",
     "sig": "plexus|intern software engineer"
   },
@@ -59660,14 +59666,14 @@
     "sig": "canadiansolar|data engineering intern"
   },
   "https://go.vansh.nyc/1gj": {
-    "title": "Software Test Engineering Intern",
-    "url": "https://go.vansh.nyc/1gj",
-    "sig": "northropgrumman|software test engineering intern"
+    "title": "AI Intern",
+    "url": "https://go.vansh.nyc/1Gj",
+    "sig": "worthingtonenterprises|ai intern"
   },
   "https://go.vansh.nyc/1gk": {
-    "title": "DevOps Software Engineering Intern",
-    "url": "https://go.vansh.nyc/1gk",
-    "sig": "northropgrumman|devops software engineering intern"
+    "title": "DevOps, IT & Cybersecurity Intern",
+    "url": "https://go.vansh.nyc/1Gk",
+    "sig": "fabri|devops it cybersecurity intern"
   },
   "https://go.vansh.nyc/1gl": {
     "title": "Software Engineering & AI Intern",
@@ -67614,9 +67620,9 @@
     "sig": "cai|gis software developer intern"
   },
   "https://go.vansh.nyc/1dk": {
-    "title": "Data Engineering Intern",
-    "url": "https://go.vansh.nyc/1Dk",
-    "sig": "lutron|data engineering intern"
+    "title": "Software Engineer Intern",
+    "url": "https://go.vansh.nyc/1dK",
+    "sig": "arrowstreetcapital|software engineer intern"
   },
   "https://go.vansh.nyc/1e9": {
     "title": "Technology Intern, Software Engineering",
@@ -68680,7 +68686,7 @@
   "https://jasperholdings.wd504.myworkdayjobs.com/en-us/jet_careers/job/jasper-in/it-full-stack-developer-internship--summer-2027_r-100857": {
     "title": "IT Full Stack Developer Internship: Summer 2027",
     "url": "https://jasperholdings.wd504.myworkdayjobs.com/en-US/jet_careers/job/Jasper-IN/IT-Full-Stack-Developer-Internship--Summer-2027_R-100857",
-    "sig": "jasperholdings|it full stack developer intern"
+    "sig": "jasperenginestransmissions|it full stack developer intern"
   },
   "https://jobs.lever.co/clovirtualfashion/f5646a27-cca4-4205-88e9-8a563af5a0ff": {
     "title": "Software Engineer Intern",
@@ -69934,7 +69940,7 @@
   },
   "https://sierraspace.wd1.myworkdayjobs.com/en-us/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---software-engineering_r26560-1": {
     "title": "2027 Summer Internship - Software Engineering",
-    "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/sierra_space_external_career_site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1",
+    "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Software-Engineering_R26560-1",
     "sig": "sierraspace|intern software engineering"
   },
   "https://statestreet.wd1.myworkdayjobs.com/en-us/global/job/boston-massachusetts/software-engineering-intern---full-time-internship--jan---june-2027-_r-801269-1": {
@@ -70605,5 +70611,55 @@
     "title": "Data Platform Engineering Intern - Data Platform Engineering",
     "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358",
     "sig": "blizzardentertainment|data platform engineering intern data platform engineering"
+  },
+  "https://aaaie.wd1.myworkdayjobs.com/en-us/csaacareers2/job/arizona---home-teleworkers/ps-d-innovation-intern_r8004": {
+    "title": "Product Strategy & Development Intern",
+    "url": "https://aaaie.wd1.myworkdayjobs.com/en-US/CSAACareers2/job/Arizona---Home-Teleworkers/PS-D-Innovation-Intern_R8004",
+    "sig": "aaaie|product strategy development intern"
+  },
+  "https://sierraspace.wd1.myworkdayjobs.com/en-us/sierra_space_external_career_site/job/centennial-co/xmlname-2027-summer-internship---systems-engineering_r26566-1": {
+    "title": "2027 Summer Internship - Systems Engineering",
+    "url": "https://sierraspace.wd1.myworkdayjobs.com/en-US/Sierra_Space_External_Career_Site/job/Centennial-CO/XMLNAME-2027-Summer-Internship---Systems-Engineering_R26566-1",
+    "sig": "sierraspace|intern systems engineering"
+  },
+  "https://lennar.wd1.myworkdayjobs.com/en-us/early_careers/job/miami-fl-job-posting-location/intern---data-engineering_r26_0000004248": {
+    "title": "Intern - Data Engineering",
+    "url": "https://lennar.wd1.myworkdayjobs.com/en-US/early_careers/job/Miami-FL-Job-Posting-Location/Intern---Data-Engineering_R26_0000004248",
+    "sig": "lennar|intern data engineering"
+  },
+  "https://lennar.wd1.myworkdayjobs.com/en-us/early_careers/job/irving-tx-greenway/intern---ai-engineering_r26_0000004288": {
+    "title": "Intern - AI Engineering",
+    "url": "https://lennar.wd1.myworkdayjobs.com/en-US/early_careers/job/Irving-TX-Greenway/Intern---AI-Engineering_R26_0000004288",
+    "sig": "lennar|intern ai engineering"
+  },
+  "https://lennar.wd1.myworkdayjobs.com/en-us/early_careers/job/irving-tx-job-posting-location/intern---security-engineer_r26_0000004446": {
+    "title": "Intern - Security Engineer",
+    "url": "https://lennar.wd1.myworkdayjobs.com/en-US/early_careers/job/Irving-TX-Job-Posting-Location/Intern---Security-Engineer_R26_0000004446",
+    "sig": "lennar|intern security engineer"
+  },
+  "https://lennar.wd1.myworkdayjobs.com/en-us/early_careers/job/us-national/land-development-intern_r26_0000003979": {
+    "title": "Land Development Intern",
+    "url": "https://lennar.wd1.myworkdayjobs.com/en-US/early_careers/job/US-National/Land-Development-Intern_R26_0000003979",
+    "sig": "lennar|land development intern"
+  },
+  "https://materialise.wd103.myworkdayjobs.com/en-us/materialise_jobs/job/kuala-lumpur/software-test-engineer_jr104716": {
+    "title": "Software Test Engineer (internship)",
+    "url": "https://materialise.wd103.myworkdayjobs.com/en-US/materialise_jobs/job/Kuala-Lumpur/Software-Test-Engineer_JR104716",
+    "sig": "materialise|software test engineer intern"
+  },
+  "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/software-applications-engineering-intern_2642337-1": {
+    "title": "Software Applications Engineering Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Applications-Engineering-Intern_2642337-1",
+    "sig": "kla|software applications engineering intern"
+  },
+  "https://go.vansh.nyc/1gg": {
+    "title": "Information Security Intern",
+    "url": "https://go.vansh.nyc/1Gg",
+    "sig": "firstpremierbank|information security intern"
+  },
+  "https://go.vansh.nyc/1gi": {
+    "title": "Data Science Intern",
+    "url": "https://go.vansh.nyc/1Gi",
+    "sig": "advanceautoparts|data science intern"
   }
 }

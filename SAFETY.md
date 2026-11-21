@@ -1,6 +1,6 @@
 # AI safety opportunities (auto-generated)
 
-_27 open item(s). Rebuilt every sweep: 2026-11-21 17:17 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
+_27 open item(s). Rebuilt every sweep: 2026-11-21 22:59 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
 
 - 2026-11-21 · [program page changed] [Program: OpenAI residency — check for new applications](https://openai.com/residency/) · key:013939c2e1d7
 - 2026-11-20 · [role] [UK AI Security Institute — Research Residency – Red Team ](https://job-boards.eu.greenhouse.io/aisi/jobs/5043106101) — London, UK · key:5beea3febc99
