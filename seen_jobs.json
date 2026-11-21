@@ -32351,11 +32351,9 @@
       "Arrowstreet Capital": {
         "since": "2026-10-01",
         "ats": "workday",
-        "ok": "2026-11-19",
+        "ok": "2026-11-21",
         "n": 6,
-        "nz": "2026-11-19",
-        "err": "429 Client Error: Too Many Requests for url: https://arrowstreetcapital.wd5.myworkdayjobs.com/wday/cxs/arrowstreetcapital/Campus_Careers/job",
-        "ef": "2026-11-19"
+        "nz": "2026-11-21"
       },
       "NVIDIA": {
         "since": "2026-10-01",
@@ -32404,7 +32402,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-11-21",
-        "n": 633,
+        "n": 635,
         "nz": "2026-11-21"
       },
       "Databricks": {
@@ -32412,7 +32410,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-11-21",
-        "n": 897,
+        "n": 896,
         "nz": "2026-11-21"
       },
       "Page: Microsoft Careers": {
@@ -32427,7 +32425,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-11-21",
-        "n": 2631,
+        "n": 2632,
         "nz": "2026-11-21"
       },
       "Palantir": {
@@ -32491,7 +32489,7 @@
         "ats": "greenhouse",
         "token": "flowtraders",
         "ok": "2026-11-21",
-        "n": 42,
+        "n": 41,
         "nz": "2026-11-21"
       },
       "IMC Trading": {
@@ -32506,7 +32504,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-21",
-        "n": 71048,
+        "n": 71214,
         "nz": "2026-11-21"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32533,14 +32531,14 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-21",
-        "n": 2020,
+        "n": 2021,
         "nz": "2026-11-21"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-21",
-        "n": 2097,
+        "n": 2093,
         "nz": "2026-11-21"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32612,7 +32610,7 @@
         "ats": "greenhouse",
         "token": "aqr",
         "ok": "2026-11-21",
-        "n": 40,
+        "n": 41,
         "nz": "2026-11-21"
       },
       "Quant: Belvedere Trading": {
@@ -34664,7 +34662,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-11-21",
-        "n": 122,
+        "n": 121,
         "nz": "2026-11-21"
       },
       "Startup: Harvey": {
@@ -43148,7 +43146,7 @@
   "https://swib.wd12.myworkdayjobs.com/en-us/ext/job/madison-wisconsin/liquidity-optimization-intern_r-001346": {
     "title": "Liquidity Optimization Intern",
     "url": "https://swib.wd12.myworkdayjobs.com/en-US/ext/job/Madison-Wisconsin/Liquidity-Optimization-Intern_R-001346",
-    "sig": "swib|liquidity optimization intern"
+    "sig": "stateofwisconsininvestmentboard|liquidity optimization intern"
   },
   "https://ardian.wd103.myworkdayjobs.com/en-us/ardiancareers/job/new-york/data-scientist-intern---february-2027---nyc_jr1002271": {
     "title": "Data Scientist Intern - February 2027 | NYC",
@@ -67616,9 +67614,9 @@
     "sig": "cai|gis software developer intern"
   },
   "https://go.vansh.nyc/1dk": {
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/1dK",
-    "sig": "arrowstreetcapital|software engineer intern"
+    "title": "Data Engineering Intern",
+    "url": "https://go.vansh.nyc/1Dk",
+    "sig": "lutron|data engineering intern"
   },
   "https://go.vansh.nyc/1e9": {
     "title": "Technology Intern, Software Engineering",
@@ -70587,5 +70585,25 @@
     "title": "Data and Analytics Intern",
     "url": "https://koch.avature.net/en_US/careers/JobDetail/198151",
     "sig": "kochindustries|data and analytics intern"
+  },
+  "https://go.vansh.nyc/1ge": {
+    "title": "Data Platform Engineering Intern",
+    "url": "https://go.vansh.nyc/1Ge",
+    "sig": "activisionblizzard|data platform engineering intern"
+  },
+  "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/usa---global-ministry-center/xmlname-2027-summer-internship---data-and-software-engineering_r8840": {
+    "title": "Summer Intern - Data and Software Engineering",
+    "url": "https://compassion.wd5.myworkdayjobs.com/compassioncareers/job/USA---Global-Ministry-Center/XMLNAME-2027-Summer-Internship---Data-and-Software-Engineering_R8840",
+    "sig": "compassioninternational|intern data and software engineering"
+  },
+  "https://woodward.wd5.myworkdayjobs.com/woodward/job/fort-collins---lincoln-campus-hq/ai-summer-2027-internship_jr114291": {
+    "title": "AI Intern",
+    "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Fort-Collins---Lincoln-Campus-HQ/AI-Summer-2027-Internship_JR114291",
+    "sig": "woodwardgovernor|ai intern"
+  },
+  "https://xboxgaming.wd1.myworkdayjobs.com/blizzard_external_careers/job/irvine---blizzard---blizzard-way/blizzard-2027-summer-internships---data-platform-engineering_r028358": {
+    "title": "Data Platform Engineering Intern - Data Platform Engineering",
+    "url": "https://xboxgaming.wd1.myworkdayjobs.com/Blizzard_External_Careers/job/Irvine---Blizzard---Blizzard-Way/Blizzard-2027-Summer-Internships---Data-Platform-Engineering_R028358",
+    "sig": "blizzardentertainment|data platform engineering intern data platform engineering"
   }
 }
