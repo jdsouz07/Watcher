@@ -1,7 +1,8 @@
 # AI safety opportunities (auto-generated)
 
-_28 open item(s). Rebuilt every sweep: 2026-11-20 19:54 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
+_28 open item(s). Rebuilt every sweep: 2026-11-21 01:18 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
 
+- 2026-11-21 · [program page changed] [Program: OpenAI residency — check for new applications](https://openai.com/residency/) · key:013939c2e1d7
 - 2026-11-20 · [role] [UK AI Security Institute — Research Residency – Red Team ](https://job-boards.eu.greenhouse.io/aisi/jobs/5043106101) — London, UK · key:5beea3febc99
 - 2026-11-19 · [program page changed] [SPAR — check for new applications](https://sparai.org/) · key:822794800fb9
 - 2026-11-19 · [program page changed] [Program: MATS (AI alignment research) — check for new applications](https://www.matsprogram.org/) · key:32dc9a1f37df
@@ -12,7 +13,6 @@ _28 open item(s). Rebuilt every sweep: 2026-11-20 19:54 UTC. Includes fellowship
 - 2026-11-19 · [role] [Haize Labs — Research Intern](https://job-boards.greenhouse.io/haizelabs/jobs/4070377008) — New York, NY · key:414fe9ea55b5
 - 2026-11-19 · [program page changed] [GovAI fellowships — check for new applications](https://www.governance.ai/opportunities) · key:693fbdbf8fa0
 - 2026-11-19 · [role] [Goodfire — Research Fellow](https://job-boards.greenhouse.io/goodfire/jobs/4499053008) — San Francisco, CA · key:4d67298d8f75
-- 2026-11-19 · [role] [GE Vernova — AI Post-Training and Model Alignment Intern, AGI](https://go.vansh.nyc/97) — Bellevue, WA · key:08730b35a31e
 - 2026-11-19 · [role] [GE Vernova — AI Post-Training and Model Alignment Intern](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova---AGI---AI-Post-Training-and-Model-Alignment-Intern---Summer-2027_R5054822-1) — Bellevue, WA · key:be57b4d7f5f7
 - 2026-11-19 · [program page changed] [ERA Fellowship — check for new applications](https://erafellowship.org/) · key:0f1b0836d083
 - 2026-11-19 · [role] [Center for AI Safety — Research Engineer Intern](https://job-boards.greenhouse.io/centerforartificialintelligencesafetyinc/jobs/4308524009) — San Francisco  · key:07d0ad92f608
