@@ -3090,7 +3090,7 @@
     "sig": "plexus|intern software development"
   },
   "https://plexus.wd504.myworkdayjobs.com/en-us/plexus_careers/job/raleigh-nc/intern---software-engineer--summer-2027-_r040424": {
-    "title": "Intern - Software Engineer (Summer 2027)",
+    "title": "Intern - Software Engineer - Summer 2027",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Raleigh-NC/Intern---Software-Engineer--Summer-2027-_R040424",
     "sig": "plexus|intern software engineer"
   },
@@ -26765,7 +26765,7 @@
   },
   "https://symbotic.wd504.myworkdayjobs.com/en-us/symbotic/job/usa-wilmington--ma---hq/software-engineer_r7963": {
     "title": "Intern- Software Engineer",
-    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963",
     "sig": "symbotic|intern software engineer"
   },
   "https://symbotic.wd504.myworkdayjobs.com/en-us/symbotic/job/usa-wilmington--ma---hq/data-engineer_r7967": {
@@ -27354,7 +27354,7 @@
   },
   "https://symbotic.wd504.myworkdayjobs.com/en-us/symbotic/job/usa-wilmington--ma---hq/co-op---software-engineer_r8111": {
     "title": "Co-op - Software Engineer",
-    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111",
     "sig": "symbotic|coop software engineer"
   },
   "https://ing.wd3.myworkdayjobs.com/en-us/icsgblcor/job/cdr-amsterdam---cedar/engineering-intern---agentic-ai-domain_req-10121542-2": {
@@ -32404,7 +32404,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-11-22",
-        "n": 635,
+        "n": 633,
         "nz": "2026-11-22"
       },
       "Databricks": {
@@ -32412,7 +32412,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-11-22",
-        "n": 895,
+        "n": 893,
         "nz": "2026-11-22"
       },
       "Page: Microsoft Careers": {
@@ -32506,7 +32506,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-22",
-        "n": 70664,
+        "n": 69999,
         "nz": "2026-11-22"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32533,7 +32533,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-22",
-        "n": 2024,
+        "n": 2022,
         "nz": "2026-11-22"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
@@ -33859,9 +33859,7 @@
         "ats": "pagewatch",
         "ok": "2026-11-22",
         "n": 1,
-        "nz": "2026-11-22",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-11-22"
+        "nz": "2026-11-22"
       },
       "Quant SPA: All Options": {
         "since": "2026-10-01",
@@ -33882,9 +33880,7 @@
         "ats": "pagewatch",
         "ok": "2026-11-22",
         "n": 1,
-        "nz": "2026-11-22",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-11-22"
+        "nz": "2026-11-22"
       },
       "Quant SPA: Nyenburgh": {
         "since": "2026-10-01",
@@ -34003,9 +33999,7 @@
         "ats": "pagewatch",
         "ok": "2026-11-22",
         "n": 1,
-        "nz": "2026-11-22",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-11-22"
+        "nz": "2026-11-22"
       },
       "Quant SPA: DC Energy": {
         "since": "2026-10-01",
@@ -34550,9 +34544,7 @@
         "ats": "pagewatch",
         "ok": "2026-11-22",
         "n": 1,
-        "nz": "2026-11-22",
-        "err": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-        "ef": "2026-11-22"
+        "nz": "2026-11-22"
       },
       "Quant SPA: FlexTrade Systems": {
         "since": "2026-10-01",
@@ -36680,7 +36672,7 @@
     "sig": "tensorwave|security engineer intern"
   },
   "https://expedia.wd108.myworkdayjobs.com/en-us/private/job/washington---seattle-campus/software-development-engineering-intern---2027---austin--san-jose--seattle_r-110311": {
-    "title": "Software Development Engineering Intern - 2027 - Austin, San Jose, Seattle",
+    "title": "Software Development Engineering Intern - 2027 - Austin - San Jose - Seattle",
     "url": "https://expedia.wd108.myworkdayjobs.com/en-US/private/job/Washington---Seattle-Campus/Software-Development-Engineering-Intern---2027---Austin--San-Jose--Seattle_R-110311",
     "sig": "expedia|software development engineering intern austin san jose seattle"
   },
@@ -44852,9 +44844,9 @@
     "sig": "wise|data science intern"
   },
   "https://manh.wd5.myworkdayjobs.com/en-us/campus/job/us---home-office/ai-developer-co-op--boston--ma-_17046": {
-    "title": "A.I. Developer Co-Op (Boston, MA)",
+    "title": "A.I. Developer Co-Op - Boston - MA",
     "url": "https://manh.wd5.myworkdayjobs.com/en-US/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046",
-    "sig": "manh|a i developer coop boston ma"
+    "sig": "manhattanassociates|a i developer coop boston ma"
   },
   "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/santa-clara-ca/ai-data-science-intern--ms---summer-2027_2603846": {
     "title": "AI Data Science Intern",
@@ -56573,8 +56565,8 @@
   },
   "https://cmu.wd115.myworkdayjobs.com/en-us/sei/job/pittsburgh-pa/full-stack-software-development-intern_2025287-2": {
     "title": "Full-Stack Software Development Intern",
-    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/SEI/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2",
-    "sig": "cmu|full stack software development intern"
+    "url": "https://cmu.wd115.myworkdayjobs.com/en-US/sei/job/Pittsburgh-PA/Full-Stack-Software-Development-Intern_2025287-2",
+    "sig": "carnegiemellonuniversity|full stack software development intern"
   },
   "https://hpe.wd5.myworkdayjobs.com/en-us/jobsathpe/job/sunnyvale-california-united-states-of-america/software-engineering-intern_1214146": {
     "title": "Software Engineering Intern",
@@ -57780,7 +57772,7 @@
     "sig": "tecsys|intern developer"
   },
   "https://plexus.wd504.myworkdayjobs.com/en-us/plexus_careers/job/neenah-wi/intern---software-engineer--fall-2026-_r035782": {
-    "title": "Intern - Software Engineer (Summer 2027)",
+    "title": "Intern - Software Engineer - Summer 2027",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2026-_R035782",
     "sig": "plexus|intern software engineer"
   },
@@ -58925,8 +58917,8 @@
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/software-dsp-research-engineer-co-op_r29369": {
     "title": "Software/DSP Research Engineer Co-op",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
-    "sig": "boseallaboutme|software dsp research engineer coop"
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
+    "sig": "bose|software dsp research engineer coop"
   },
   "https://job-boards.greenhouse.io/schonfeld/jobs/8350719": {
     "title": "2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern",
@@ -60398,9 +60390,9 @@
     "sig": "neros|firmware embedded software engineer intern"
   },
   "https://go.vansh.nyc/1gp": {
-    "title": "AI Engineer Intern, R&D",
-    "url": "https://go.vansh.nyc/1gP",
-    "sig": "smithnephew|ai engineer intern r d"
+    "title": "Embedded Systems Engineer Intern",
+    "url": "https://go.vansh.nyc/1Gp",
+    "sig": "neogen|embedded systems engineer intern"
   },
   "https://go.vansh.nyc/1h2": {
     "title": "AI & Automation Engineering Intern",
@@ -65166,8 +65158,8 @@
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/digital-signal-processing-ml-software-development-co-op_r29372": {
     "title": "Digital Signal Processing ML Software Development Co-op",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
-    "sig": "boseallaboutme|digital signal processing ml software development coop"
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
+    "sig": "bose|digital signal processing ml software development coop"
   },
   "https://thermofisher.wd5.myworkdayjobs.com/en-us/thermofishercareers/job/brno-czechia/intern---business-intelligence---analytics_r-01374051": {
     "title": "Intern - Business Intelligence & Analytics",
@@ -68684,7 +68676,7 @@
   "https://jasperholdings.wd504.myworkdayjobs.com/en-us/jet_careers/job/jasper-in/it-full-stack-developer-internship--summer-2027_r-100857": {
     "title": "IT Full Stack Developer Internship: Summer 2027",
     "url": "https://jasperholdings.wd504.myworkdayjobs.com/en-US/jet_careers/job/Jasper-IN/IT-Full-Stack-Developer-Internship--Summer-2027_R-100857",
-    "sig": "jasperholdings|it full stack developer intern"
+    "sig": "jasperenginestransmissions|it full stack developer intern"
   },
   "https://jobs.lever.co/clovirtualfashion/f5646a27-cca4-4205-88e9-8a563af5a0ff": {
     "title": "Software Engineer Intern",
@@ -68998,8 +68990,8 @@
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/software-engineer-co-op_r29387": {
     "title": "Software Engineer Co-op",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
-    "sig": "boseallaboutme|software engineer coop"
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
+    "sig": "bose|software engineer coop"
   },
   "https://job-boards.greenhouse.io/truveta/jobs/6249810004": {
     "title": "Winter Software Engineering Intern",
@@ -70758,5 +70750,15 @@
     "title": "Data Science Generative AI Intern",
     "url": "https://schnucks.wd5.myworkdayjobs.com/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971",
     "sig": "schnucks|data science generative ai intern"
+  },
+  "https://simonsfoundation.wd1.myworkdayjobs.com/en-us/simonsfoundationcareers/job/160-fifth-avenue-new-york-ny/editorial-intern--quanta-books_r0002194": {
+    "title": "Editorial Intern, Quanta Books",
+    "url": "https://simonsfoundation.wd1.myworkdayjobs.com/en-US/simonsfoundationcareers/job/160-Fifth-Avenue-New-York-NY/Editorial-Intern--Quanta-Books_R0002194",
+    "sig": "simonsfoundation|editorial intern quanta books"
+  },
+  "https://jobs.smartrecruiters.com/grab/744000163097779": {
+    "title": "Intern [GIP] - Research & Data Analytics",
+    "url": "https://jobs.smartrecruiters.com/Grab/744000163097779",
+    "sig": "grab|intern gip research data analytics"
   }
 }
