@@ -1,7 +1,8 @@
 # AI safety opportunities (auto-generated)
 
-_27 open item(s). Rebuilt every sweep: 2026-11-23 08:49 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
+_26 open item(s). Rebuilt every sweep: 2026-11-23 21:06 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
 
+- 2026-11-23 · [program page changed] [LASR Labs — check for new applications](https://www.lasrlabs.org/) · key:89c152486b91
 - 2026-11-21 · [program page changed] [Program: OpenAI residency — check for new applications](https://openai.com/residency/) · key:013939c2e1d7
 - 2026-11-20 · [role] [UK AI Security Institute — Research Residency – Red Team ](https://job-boards.eu.greenhouse.io/aisi/jobs/5043106101) — London, UK · key:5beea3febc99
 - 2026-11-19 · [program page changed] [SPAR — check for new applications](https://sparai.org/) · key:822794800fb9
@@ -25,7 +26,5 @@ _27 open item(s). Rebuilt every sweep: 2026-11-23 08:49 UTC. Includes fellowship
 - 2026-11-19 · [role] [Anthropic — Anthropic Fellows Program, AI Safety & Security](https://job-boards.greenhouse.io/anthropic/jobs/5183044008) — London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA · key:b5fc3e97bb60
 - 2026-11-19 · [role] [Anthropic — Anthropic Fellows Program, ML Systems & Reinforcement Learning](https://job-boards.greenhouse.io/anthropic/jobs/5183051008) — London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA · key:05c482cd728d
 - 2026-11-19 · [role] [Anthropic — Anthropic Fellows Program, The Anthropic Institute (Economics & Policy)](https://job-boards.greenhouse.io/anthropic/jobs/5183053008) — London, UK; Ontario, CAN; Remote-Friendly, United States; San Francisco, CA · key:49442b764f47
-- 2026-11-19 · [role] [Anthropic — Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5439169008) — London, UK · key:7ae00c29f766
-- 2026-11-19 · [role] [Anthropic — Anthropic Research Resident](https://job-boards.greenhouse.io/anthropic/jobs/5438311008) — San Francisco, CA | New York City, NY · key:6b9d65389885
 - 2026-11-19 · [program page changed] [ARENA — check for new applications](https://www.arena.education/) · key:473c3ad7b840
 - 2026-11-19 · [program page changed] [AI Safety Camp — check for new applications](https://www.aisafety.camp/) · key:57a739ddd836
