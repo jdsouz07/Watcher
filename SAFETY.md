@@ -1,6 +1,6 @@
 # AI safety opportunities (auto-generated)
 
-_26 open item(s). Rebuilt every sweep: 2026-11-23 21:06 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
+_26 open item(s). Rebuilt every sweep: 2026-11-24 05:20 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
 
 - 2026-11-23 · [program page changed] [LASR Labs — check for new applications](https://www.lasrlabs.org/) · key:89c152486b91
 - 2026-11-21 · [program page changed] [Program: OpenAI residency — check for new applications](https://openai.com/residency/) · key:013939c2e1d7
