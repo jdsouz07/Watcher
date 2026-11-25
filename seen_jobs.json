@@ -1014,12 +1014,12 @@
     "sig": "apex|software engineering intern embedded systems or"
   },
   "https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344": {
-    "title": "Software Engineering Internship - Test & Automation - Summer 2027",
+    "title": "Software Engineering Internship, Test & Automation (Summer 2027)",
     "url": "https://jobs.ashbyhq.com/apex-technology-inc/692bb497-59ba-44df-bacf-fffd2f7c6344",
     "sig": "apex|software engineering intern test automation"
   },
   "https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c": {
-    "title": "Ground Software Engineering Internship - Spring or Summer 2027",
+    "title": "Ground Software Engineering Internship (Spring or Summer 2027)",
     "url": "https://jobs.ashbyhq.com/apex-technology-inc/2d5ad921-241f-4e7a-b9ff-9d01763da88c",
     "sig": "apex|ground software engineering intern or"
   },
@@ -3090,7 +3090,7 @@
     "sig": "plexus|intern software development"
   },
   "https://plexus.wd504.myworkdayjobs.com/en-us/plexus_careers/job/raleigh-nc/intern---software-engineer--summer-2027-_r040424": {
-    "title": "Intern - Software Engineer - Summer 2027",
+    "title": "Intern - Software Engineer (Summer 2027)",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Raleigh-NC/Intern---Software-Engineer--Summer-2027-_R040424",
     "sig": "plexus|intern software engineer"
   },
@@ -32391,7 +32391,7 @@
         "since": "2026-10-01",
         "ats": "amazon",
         "ok": "2026-11-25",
-        "n": 477,
+        "n": 479,
         "nz": "2026-11-25"
       },
       "OpenAI": {
@@ -32399,7 +32399,7 @@
         "ats": "ashby",
         "token": "openai",
         "ok": "2026-11-25",
-        "n": 877,
+        "n": 876,
         "nz": "2026-11-25"
       },
       "Anthropic": {
@@ -32407,7 +32407,7 @@
         "ats": "greenhouse",
         "token": "anthropic",
         "ok": "2026-11-25",
-        "n": 636,
+        "n": 635,
         "nz": "2026-11-25"
       },
       "Databricks": {
@@ -32415,7 +32415,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-11-25",
-        "n": 876,
+        "n": 873,
         "nz": "2026-11-25"
       },
       "Page: Microsoft Careers": {
@@ -32430,7 +32430,7 @@
         "ats": "greenhouse",
         "token": "andurilindustries",
         "ok": "2026-11-25",
-        "n": 2605,
+        "n": 2602,
         "nz": "2026-11-25"
       },
       "Palantir": {
@@ -32502,14 +32502,14 @@
         "ats": "greenhouse",
         "token": "imc",
         "ok": "2026-11-25",
-        "n": 152,
+        "n": 151,
         "nz": "2026-11-25"
       },
       "AUTO-DISCOVER (all boards found in trackers)": {
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-25",
-        "n": 69470,
+        "n": 70597,
         "nz": "2026-11-25"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32536,21 +32536,21 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-25",
-        "n": 2029,
+        "n": 2034,
         "nz": "2026-11-25"
       },
       "Tracker: SimplifyJobs Summer2027 (Simplify + Pitt CSC)": {
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-25",
-        "n": 2088,
+        "n": 2082,
         "nz": "2026-11-25"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
         "since": "2026-10-01",
         "ats": "nuft",
         "ok": "2026-11-25",
-        "n": 119,
+        "n": 117,
         "nz": "2026-11-25"
       },
       "Startup: YC events": {
@@ -32639,7 +32639,7 @@
         "ats": "greenhouse",
         "token": "drweng",
         "ok": "2026-11-25",
-        "n": 148,
+        "n": 149,
         "nz": "2026-11-25"
       },
       "Quant: DV Trading": {
@@ -32695,7 +32695,7 @@
         "ats": "greenhouse",
         "token": "janestreet",
         "ok": "2026-11-25",
-        "n": 217,
+        "n": 219,
         "nz": "2026-11-25"
       },
       "Quant: Jump Trading": {
@@ -32703,7 +32703,7 @@
         "ats": "greenhouse",
         "token": "jumptrading",
         "ok": "2026-11-25",
-        "n": 86,
+        "n": 81,
         "nz": "2026-11-25"
       },
       "Quant: Mako Trading": {
@@ -32735,7 +32735,7 @@
         "ats": "ashby",
         "token": "old-mission-capital",
         "ok": "2026-11-25",
-        "n": 38,
+        "n": 37,
         "nz": "2026-11-25"
       },
       "Quant: Optiver": {
@@ -32758,7 +32758,7 @@
         "ats": "greenhouse",
         "token": "point72",
         "ok": "2026-11-25",
-        "n": 199,
+        "n": 200,
         "nz": "2026-11-25"
       },
       "Quant: Qube RT": {
@@ -32766,7 +32766,7 @@
         "ats": "greenhouse",
         "token": "quberesearchandtechnologies",
         "ok": "2026-11-25",
-        "n": 208,
+        "n": 209,
         "nz": "2026-11-25"
       },
       "Quant: Schonfeld": {
@@ -32774,7 +32774,7 @@
         "ats": "greenhouse",
         "token": "schonfeld",
         "ok": "2026-11-25",
-        "n": 65,
+        "n": 67,
         "nz": "2026-11-25"
       },
       "Quant: Squarepoint": {
@@ -32790,7 +32790,7 @@
         "ats": "greenhouse",
         "token": "towerresearchcapital",
         "ok": "2026-11-25",
-        "n": 92,
+        "n": 93,
         "nz": "2026-11-25"
       },
       "Quant: Vatic Labs": {
@@ -32806,7 +32806,7 @@
         "ats": "greenhouse",
         "token": "virtu",
         "ok": "2026-11-25",
-        "n": 42,
+        "n": 40,
         "nz": "2026-11-25"
       },
       "Quant: Voloridge": {
@@ -33008,7 +33008,7 @@
         "ats": "greenhouse",
         "token": "apolloio",
         "ok": "2026-11-25",
-        "n": 46,
+        "n": 45,
         "nz": "2026-11-25"
       },
       "Quant/Tech: Amber Group": {
@@ -33024,7 +33024,7 @@
         "ats": "greenhouse",
         "token": "galaxydigitalservices",
         "ok": "2026-11-25",
-        "n": 56,
+        "n": 54,
         "nz": "2026-11-25"
       },
       "Quant/Tech: B2C2": {
@@ -33056,7 +33056,7 @@
         "ats": "ashby",
         "token": "ramp",
         "ok": "2026-11-25",
-        "n": 182,
+        "n": 183,
         "nz": "2026-11-25"
       },
       "Quant/Tech: Modal Labs": {
@@ -33064,7 +33064,7 @@
         "ats": "ashby",
         "token": "modal",
         "ok": "2026-11-25",
-        "n": 52,
+        "n": 53,
         "nz": "2026-11-25"
       },
       "Startup: Robinhood": {
@@ -33072,7 +33072,7 @@
         "ats": "greenhouse",
         "token": "robinhood",
         "ok": "2026-11-25",
-        "n": 162,
+        "n": 161,
         "nz": "2026-11-25"
       },
       "Quant/Tech: Scale AI": {
@@ -33080,7 +33080,7 @@
         "ats": "greenhouse",
         "token": "scaleai",
         "ok": "2026-11-25",
-        "n": 157,
+        "n": 158,
         "nz": "2026-11-25"
       },
       "Quant/Tech: Anyscale": {
@@ -33096,7 +33096,7 @@
         "ats": "greenhouse",
         "token": "brex",
         "ok": "2026-11-25",
-        "n": 261,
+        "n": 269,
         "nz": "2026-11-25"
       },
       "Quant/Tech: Cohere": {
@@ -33104,7 +33104,7 @@
         "ats": "ashby",
         "token": "cohere",
         "ok": "2026-11-25",
-        "n": 123,
+        "n": 121,
         "nz": "2026-11-25"
       },
       "Startup: Sierra": {
@@ -33112,7 +33112,7 @@
         "ats": "ashby",
         "token": "sierra",
         "ok": "2026-11-25",
-        "n": 203,
+        "n": 204,
         "nz": "2026-11-25"
       },
       "Startup: Notion": {
@@ -33120,7 +33120,7 @@
         "ats": "ashby",
         "token": "notion",
         "ok": "2026-11-25",
-        "n": 173,
+        "n": 174,
         "nz": "2026-11-25"
       },
       "Startup: Vercel": {
@@ -33214,7 +33214,7 @@
         "ats": "greenhouse",
         "token": "mavensecuritiesholdingltd",
         "ok": "2026-11-25",
-        "n": 33,
+        "n": 32,
         "nz": "2026-11-25"
       },
       "Quant: Eagle Seven": {
@@ -33276,7 +33276,7 @@
         "ats": "greenhouse",
         "token": "tastytrade",
         "ok": "2026-11-25",
-        "n": 6,
+        "n": 5,
         "nz": "2026-11-25"
       },
       "Quant: Gelber Group (Handshake board)": {
@@ -33412,7 +33412,7 @@
         "ats": "greenhouse",
         "token": "gemini",
         "ok": "2026-11-25",
-        "n": 24,
+        "n": 22,
         "nz": "2026-11-25"
       },
       "Quant: Polymarket": {
@@ -33428,7 +33428,7 @@
         "ats": "lever",
         "token": "gauntlet",
         "ok": "2026-11-25",
-        "n": 5,
+        "n": 4,
         "nz": "2026-11-25"
       },
       "Quant: Grayscale Investments": {
@@ -33507,7 +33507,7 @@
         "ats": "greenhouse",
         "token": "gridmaticinc",
         "ok": "2026-11-25",
-        "n": 14,
+        "n": 13,
         "nz": "2026-11-25"
       },
       "Quant: Spearmint Energy": {
@@ -33594,7 +33594,7 @@
         "ats": "greenhouse",
         "token": "clearstreet",
         "ok": "2026-11-25",
-        "n": 33,
+        "n": 32,
         "nz": "2026-11-25"
       },
       "Quant: Chimera Securities": {
@@ -33649,7 +33649,7 @@
         "ats": "greenhouse",
         "token": "memx",
         "ok": "2026-11-25",
-        "n": 5,
+        "n": 6,
         "nz": "2026-11-25"
       },
       "Quant: DriveWealth": {
@@ -33657,7 +33657,7 @@
         "ats": "greenhouse",
         "token": "drivewealth",
         "ok": "2026-11-25",
-        "n": 25,
+        "n": 28,
         "nz": "2026-11-25"
       },
       "Quant: Alpaca": {
@@ -33665,7 +33665,7 @@
         "ats": "greenhouse",
         "token": "alpaca",
         "ok": "2026-11-25",
-        "n": 70,
+        "n": 69,
         "nz": "2026-11-25"
       },
       "Quant: Trumid": {
@@ -34589,7 +34589,7 @@
         "ats": "greenhouse",
         "token": "cloudflare",
         "ok": "2026-11-25",
-        "n": 513,
+        "n": 523,
         "nz": "2026-11-25"
       },
       "Cyber: Datadog": {
@@ -34597,7 +34597,7 @@
         "ats": "greenhouse",
         "token": "datadog",
         "ok": "2026-11-25",
-        "n": 388,
+        "n": 392,
         "nz": "2026-11-25"
       },
       "Startup: Figma": {
@@ -34605,7 +34605,7 @@
         "ats": "greenhouse",
         "token": "figma",
         "ok": "2026-11-25",
-        "n": 146,
+        "n": 142,
         "nz": "2026-11-25"
       },
       "Startup: Discord": {
@@ -34621,7 +34621,7 @@
         "ats": "greenhouse",
         "token": "stripe",
         "ok": "2026-11-25",
-        "n": 771,
+        "n": 772,
         "nz": "2026-11-25"
       },
       "Startup: Mercury": {
@@ -34629,7 +34629,7 @@
         "ats": "greenhouse",
         "token": "mercury",
         "ok": "2026-11-25",
-        "n": 70,
+        "n": 68,
         "nz": "2026-11-25"
       },
       "Startup: Linear": {
@@ -34653,7 +34653,7 @@
         "ats": "ashby",
         "token": "replit",
         "ok": "2026-11-25",
-        "n": 37,
+        "n": 38,
         "nz": "2026-11-25"
       },
       "Startup: Perplexity": {
@@ -34661,7 +34661,7 @@
         "ats": "ashby",
         "token": "perplexity",
         "ok": "2026-11-25",
-        "n": 151,
+        "n": 149,
         "nz": "2026-11-25"
       },
       "Startup: ElevenLabs": {
@@ -34669,7 +34669,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-11-25",
-        "n": 116,
+        "n": 117,
         "nz": "2026-11-25"
       },
       "Startup: Harvey": {
@@ -34677,7 +34677,7 @@
         "ats": "ashby",
         "token": "harvey",
         "ok": "2026-11-25",
-        "n": 391,
+        "n": 388,
         "nz": "2026-11-25"
       },
       "Startup: Glean": {
@@ -34722,7 +34722,7 @@
         "ats": "ashby",
         "token": "supabase",
         "ok": "2026-11-25",
-        "n": 81,
+        "n": 83,
         "nz": "2026-11-25"
       },
       "Startup: Clerk": {
@@ -34738,7 +34738,7 @@
         "ats": "ashby",
         "token": "posthog",
         "ok": "2026-11-25",
-        "n": 10,
+        "n": 9,
         "nz": "2026-11-25"
       },
       "Startup: Sentry": {
@@ -34783,7 +34783,7 @@
         "ats": "ashby",
         "token": "kalshi",
         "ok": "2026-11-25",
-        "n": 39,
+        "n": 42,
         "nz": "2026-11-25"
       },
       "Startup: Cognition": {
@@ -34814,7 +34814,7 @@
         "ats": "greenhouse",
         "token": "flyzipline",
         "ok": "2026-11-25",
-        "n": 313,
+        "n": 311,
         "nz": "2026-11-25"
       },
       "Startup: Physical Intelligence": {
@@ -34867,7 +34867,7 @@
         "ats": "ashby",
         "token": "far.ai",
         "ok": "2026-11-25",
-        "n": 22,
+        "n": 23,
         "nz": "2026-11-25"
       },
       "Safety: Irregular": {
@@ -44853,9 +44853,9 @@
     "sig": "wise|data science intern"
   },
   "https://manh.wd5.myworkdayjobs.com/en-us/campus/job/us---home-office/ai-developer-co-op--boston--ma-_17046": {
-    "title": "A.I. Developer Co-Op - Boston - MA",
+    "title": "A.I. Developer Co-Op (Boston, MA)",
     "url": "https://manh.wd5.myworkdayjobs.com/en-US/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_17046",
-    "sig": "manhattanassociates|a i developer coop boston ma"
+    "sig": "manh|a i developer coop boston ma"
   },
   "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/santa-clara-ca/ai-data-science-intern--ms---summer-2027_2603846": {
     "title": "AI Data Science Intern",
@@ -53978,12 +53978,12 @@
   },
   "https://chathamfinancial.wd501.myworkdayjobs.com/en-us/chathamfinancial/job/kennett-square/xmlname-2027-software-engineering-intern_r-100348": {
     "title": "2027 Software Engineering Intern",
-    "url": "https://chathamfinancial.wd501.myworkdayjobs.com/en-US/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348",
+    "url": "https://chathamfinancial.wd501.myworkdayjobs.com/en-US/chathamfinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348",
     "sig": "chathamfinancial|software engineering intern"
   },
   "https://chathamfinancial.wd501.myworkdayjobs.com/en-us/chathamfinancial/job/denver/xmlname-2027-software-engineering-intern_r-100349": {
     "title": "2027 Software Engineering Intern",
-    "url": "https://chathamfinancial.wd501.myworkdayjobs.com/en-US/ChathamFinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349",
+    "url": "https://chathamfinancial.wd501.myworkdayjobs.com/en-US/chathamfinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349",
     "sig": "chathamfinancial|software engineering intern"
   },
   "https://careers-gdms.icims.com/jobs/75626/software-engineer---intern/job": {
@@ -57781,7 +57781,7 @@
     "sig": "tecsys|intern developer"
   },
   "https://plexus.wd504.myworkdayjobs.com/en-us/plexus_careers/job/neenah-wi/intern---software-engineer--fall-2026-_r035782": {
-    "title": "Intern - Software Engineer - Summer 2027",
+    "title": "Intern - Software Engineer (Summer 2027)",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2026-_R035782",
     "sig": "plexus|intern software engineer"
   },
@@ -58571,9 +58571,9 @@
     "sig": "compassioninternational|data and software engineering intern"
   },
   "https://go.vansh.nyc/1db": {
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/1db",
-    "sig": "oshkosh|software engineer intern"
+    "title": "Artificial Intelligence Co-op",
+    "url": "https://go.vansh.nyc/1dB",
+    "sig": "mosaic|artificial intelligence coop"
   },
   "https://go.vansh.nyc/1dc": {
     "title": "Software Engineer Intern",
@@ -58926,8 +58926,8 @@
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/software-dsp-research-engineer-co-op_r29369": {
     "title": "Software/DSP Research Engineer Co-op",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
-    "sig": "bose|software dsp research engineer coop"
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
+    "sig": "boseallaboutme|software dsp research engineer coop"
   },
   "https://job-boards.greenhouse.io/schonfeld/jobs/8350719": {
     "title": "2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern",
@@ -59325,9 +59325,9 @@
     "sig": "simonproperty|data engineering intern"
   },
   "https://go.vansh.nyc/1fw": {
-    "title": "Software Engineer Intern, SDS e-Commerce Team",
-    "url": "https://go.vansh.nyc/1fw",
-    "sig": "staples|software engineer intern sds e commerce team"
+    "title": "Software Developer Intern, IT",
+    "url": "https://go.vansh.nyc/1Fw",
+    "sig": "mesirow|software developer intern it"
   },
   "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6/application?embed=true": {
     "title": "Software Engineer Intern",
@@ -61343,9 +61343,9 @@
     "sig": "starkeydemxicosadecv|software engineering intern"
   },
   "https://go.vansh.nyc/1jd": {
-    "title": "Data Engineering Intern",
-    "url": "https://go.vansh.nyc/1jd",
-    "sig": "jmfamilyenterprises|data engineering intern"
+    "title": "Data Engineer Intern, Enterprise Analytics",
+    "url": "https://go.vansh.nyc/1Jd",
+    "sig": "saputo|data engineer intern enterprise analytics"
   },
   "https://go.vansh.nyc/1je": {
     "title": "Cybersecurity Intern",
@@ -61358,14 +61358,14 @@
     "sig": "westernalliancebancorporation|platform engineering intern"
   },
   "https://go.vansh.nyc/1jk": {
-    "title": "Software Intern",
-    "url": "https://go.vansh.nyc/1jk",
-    "sig": "nordson|software intern"
+    "title": "Compiler Engineer Intern",
+    "url": "https://go.vansh.nyc/1Jk",
+    "sig": "sambanova|compiler engineer intern"
   },
   "https://go.vansh.nyc/1jm": {
-    "title": "Platform Engineering Intern",
-    "url": "https://go.vansh.nyc/1jm",
-    "sig": "westernalliancebancorporation|platform engineering intern"
+    "title": "Engineering Data Analytics Intern",
+    "url": "https://go.vansh.nyc/1Jm",
+    "sig": "celestica|engineering data analytics intern"
   },
   "https://go.vansh.nyc/1jn": {
     "title": "Data Engineer Intern",
@@ -61373,9 +61373,9 @@
     "sig": "tenethealthcare|data engineer intern"
   },
   "https://go.vansh.nyc/1jp": {
-    "title": "IT DevOps Administrator Intern",
-    "url": "https://go.vansh.nyc/1jp",
-    "sig": "garmin|it devops administrator intern"
+    "title": "ML Infrastructure Engineer Intern",
+    "url": "https://go.vansh.nyc/1Jp",
+    "sig": "sambanova|ml infrastructure engineer intern"
   },
   "https://go.vansh.nyc/1jr": {
     "title": "Telemetry Firmware, Driver and Tools Developer Intern",
@@ -65167,8 +65167,8 @@
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/digital-signal-processing-ml-software-development-co-op_r29372": {
     "title": "Digital Signal Processing ML Software Development Co-op",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
-    "sig": "bose|digital signal processing ml software development coop"
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
+    "sig": "boseallaboutme|digital signal processing ml software development coop"
   },
   "https://thermofisher.wd5.myworkdayjobs.com/en-us/thermofishercareers/job/brno-czechia/intern---business-intelligence---analytics_r-01374051": {
     "title": "Intern - Business Intelligence & Analytics",
@@ -67619,9 +67619,9 @@
     "sig": "cai|gis software developer intern"
   },
   "https://go.vansh.nyc/1dk": {
-    "title": "Software Engineer Intern",
-    "url": "https://go.vansh.nyc/1dK",
-    "sig": "arrowstreetcapital|software engineer intern"
+    "title": "Data Engineering Intern",
+    "url": "https://go.vansh.nyc/1Dk",
+    "sig": "lutron|data engineering intern"
   },
   "https://go.vansh.nyc/1e9": {
     "title": "Technology Intern, Software Engineering",
@@ -67634,9 +67634,9 @@
     "sig": "sharkninja|firmware engineering intern advanced development"
   },
   "https://go.vansh.nyc/1hm": {
-    "title": "Data Science Intern",
-    "url": "https://go.vansh.nyc/1hM",
-    "sig": "ncratleos|data science intern"
+    "title": "Content IDE Software Development Intern",
+    "url": "https://go.vansh.nyc/1Hm",
+    "sig": "rockwellautomation|content ide software development intern"
   },
   "https://go.vansh.nyc/1p3": {
     "title": "FPGA Design Verification Intern",
@@ -68999,8 +68999,8 @@
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/software-engineer-co-op_r29387": {
     "title": "Software Engineer Co-op",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
-    "sig": "bose|software engineer coop"
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
+    "sig": "boseallaboutme|software engineer coop"
   },
   "https://job-boards.greenhouse.io/truveta/jobs/6249810004": {
     "title": "Winter Software Engineering Intern",
@@ -71835,5 +71835,125 @@
     "title": "AI Builder Intern",
     "url": "https://go.vansh.nyc/1J4",
     "sig": "artefact|ai builder intern"
+  },
+  "https://jobs.lever.co/bestegg/553c146f-2954-40aa-aabe-c8c8befe90d0": {
+    "title": "Controls Summer Internship",
+    "url": "https://jobs.lever.co/BestEgg/553c146f-2954-40aa-aabe-c8c8befe90d0",
+    "sig": "bestegg|controls intern"
+  },
+  "https://jobs.lever.co/bestegg/c29a9c21-d939-4a5a-82fd-4b1440d71392": {
+    "title": "Software Engineering Summer Intern",
+    "url": "https://jobs.lever.co/BestEgg/c29a9c21-d939-4a5a-82fd-4b1440d71392",
+    "sig": "bestegg|software engineering intern"
+  },
+  "https://vrtx.wd501.myworkdayjobs.com/en-us/vertex_careers/job/boston-ma/summer-intern-2027--digital-pathology-and-ai-validation_req-31421-1": {
+    "title": "Summer Intern 2027, Digital Pathology and AI Validation",
+    "url": "https://vrtx.wd501.myworkdayjobs.com/en-US/vertex_careers/job/Boston-MA/Summer-Intern-2027--Digital-Pathology-and-AI-Validation_REQ-31421-1",
+    "sig": "vrtx|intern digital pathology and ai validation"
+  },
+  "https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008": {
+    "title": "Firmware Intern – Summer 2027",
+    "url": "https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008",
+    "sig": "lightmatter|firmware intern"
+  },
+  "https://jobs.smartrecruiters.com/nielseniq/744000163715760": {
+    "title": "Intern - Data Science",
+    "url": "https://jobs.smartrecruiters.com/NielsenIQ/744000163715760",
+    "sig": "nielseniq|intern data science"
+  },
+  "https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3": {
+    "title": "Flight Software Engineering Internship (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/744ea544-2601-4e58-8fac-94ea300653e3",
+    "sig": "apex|flight software engineering intern"
+  },
+  "https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915": {
+    "title": "Software Engineering, Operating Systems Internship (Summer 2027)",
+    "url": "https://jobs.ashbyhq.com/apex-technology-inc/3ce65300-2818-4601-9ee4-34a3c012d915",
+    "sig": "apex|software engineering operating systems intern"
+  },
+  "https://job-boards.greenhouse.io/pacificfusion/jobs/4522155009": {
+    "title": "Summer 2027 Positioning Systems Internship",
+    "url": "https://job-boards.greenhouse.io/pacificfusion/jobs/4522155009",
+    "sig": "pacificfusion|positioning systems intern"
+  },
+  "https://firstpremier.wd503.myworkdayjobs.com/en-us/premier_careers/job/sioux-falls-sd/premier-financial-modeling---analysis-internship_r-517-1": {
+    "title": "PREMIER Financial Modeling & Analysis Internship",
+    "url": "https://firstpremier.wd503.myworkdayjobs.com/en-US/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Financial-Modeling---Analysis-Internship_R-517-1",
+    "sig": "firstpremier|premier financial modeling analysis intern"
+  },
+  "https://firstpremier.wd503.myworkdayjobs.com/en-us/premier_careers/job/sioux-falls-sd/premier-it-network-operation-center-internship_r-550-1": {
+    "title": "PREMIER IT Network Operation Center Internship",
+    "url": "https://firstpremier.wd503.myworkdayjobs.com/en-US/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-IT-Network-Operation-Center-Internship_R-550-1",
+    "sig": "firstpremier|premier it network operation center intern"
+  },
+  "https://firstpremier.wd503.myworkdayjobs.com/en-us/premier_careers/job/sioux-falls-sd/premier-collections-analytics-internship_r-565": {
+    "title": "PREMIER Collections Analytics Internship",
+    "url": "https://firstpremier.wd503.myworkdayjobs.com/en-US/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Collections-Analytics-Internship_R-565",
+    "sig": "firstpremier|premier collections analytics intern"
+  },
+  "https://schnucks.wd5.myworkdayjobs.com/en-us/schnuckscareers/job/schnucks-store-support-center-corporate-office/xmlname-2027-data-science---generative-ai-internship_r-0043971": {
+    "title": "2027 Data Science - Generative AI Internship",
+    "url": "https://schnucks.wd5.myworkdayjobs.com/en-US/SchnucksCareers/job/Schnucks-Store-Support-Center-Corporate-Office/XMLNAME-2027-Data-Science---Generative-AI-Internship_R-0043971",
+    "sig": "schnucks|data science generative ai intern"
+  },
+  "https://nxp.wd116.myworkdayjobs.com/en-us/careers/job/eindhoven/software--electrical--industrial-or-computer-engineering-ai-internship_r-10067974": {
+    "title": "Software, Electrical, Industrial or Computer Engineering AI Internship",
+    "url": "https://nxp.wd116.myworkdayjobs.com/en-US/careers/job/Eindhoven/Software--Electrical--Industrial-or-Computer-Engineering-AI-Internship_R-10067974",
+    "sig": "nxp|software electrical industrial or computer engineering ai intern"
+  },
+  "https://nxp.wd116.myworkdayjobs.com/en-us/careers/job/gratkorn/internship--software-engineer--m-f-d----java---python-tools-development-for-trust-provisioning_r-10066936-1": {
+    "title": "Internship: Software Engineer (m/f/d) - Java & Python Tools Development for Trust Provisioning",
+    "url": "https://nxp.wd116.myworkdayjobs.com/en-US/careers/job/Gratkorn/Internship--Software-Engineer--m-f-d----Java---Python-Tools-Development-for-Trust-Provisioning_R-10066936-1",
+    "sig": "nxp|intern software engineer m f d java python tools development for trust provisioning"
+  },
+  "https://nxp.wd116.myworkdayjobs.com/en-us/careers/job/milan/internship---electromagnetic-modelling-and-analog-rf-circuit-design-for-galvanically-isolated-communication_r-10067714": {
+    "title": "Internship - Electromagnetic Modelling and Analog/RF Circuit Design for Galvanically Isolated Communication",
+    "url": "https://nxp.wd116.myworkdayjobs.com/en-US/careers/job/Milan/Internship---Electromagnetic-Modelling-and-Analog-RF-Circuit-Design-for-Galvanically-Isolated-Communication_R-10067714",
+    "sig": "nxp|intern electromagnetic modelling and analog rf circuit design for galvanically isolated communication"
+  },
+  "https://kla.wd1.myworkdayjobs.com/en-us/search/job/milpitas-ca/software-engineering-intern_2642953-1": {
+    "title": "Software Engineering Intern",
+    "url": "https://kla.wd1.myworkdayjobs.com/en-US/search/job/Milpitas-CA/Software-Engineering-Intern_2642953-1",
+    "sig": "kla|software engineering intern"
+  },
+  "https://go.vansh.nyc/1j8": {
+    "title": "Embedded Software Engineering Undergrad Intern",
+    "url": "https://go.vansh.nyc/1J8",
+    "sig": "aerospace|embedded software engineering undergrad intern"
+  },
+  "https://go.vansh.nyc/1j9": {
+    "title": "Simulation Engineering Intern",
+    "url": "https://go.vansh.nyc/1J9",
+    "sig": "draper|simulation engineering intern"
+  },
+  "https://go.vansh.nyc/1jc": {
+    "title": "Data Analytics Intern",
+    "url": "https://go.vansh.nyc/1Jc",
+    "sig": "genworth|data analytics intern"
+  },
+  "https://go.vansh.nyc/1jf": {
+    "title": "Software Engineering Intern, Operating Systems",
+    "url": "https://go.vansh.nyc/1Jf",
+    "sig": "apex|software engineering intern operating systems"
+  },
+  "https://go.vansh.nyc/1jl": {
+    "title": "Data Engineering Intern",
+    "url": "https://go.vansh.nyc/1Jl",
+    "sig": "nasdaq|data engineering intern"
+  },
+  "https://go.vansh.nyc/1jo": {
+    "title": "Data Scientist Intern",
+    "url": "https://go.vansh.nyc/1Jo",
+    "sig": "jabil|data scientist intern"
+  },
+  "https://go.vansh.nyc/1jq": {
+    "title": "Cloud Platform Engineer Intern",
+    "url": "https://go.vansh.nyc/1Jq",
+    "sig": "sambanova|cloud platform engineer intern"
+  },
+  "https://go.vansh.nyc/1jw": {
+    "title": "Technology Intern, Development",
+    "url": "https://go.vansh.nyc/1Jw",
+    "sig": "cantorfitzgerald|technology intern development"
   }
 }
