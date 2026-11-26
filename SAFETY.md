@@ -1,15 +1,15 @@
 # AI safety opportunities (auto-generated)
 
-_27 open item(s). Rebuilt every sweep: 2026-11-26 14:55 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
+_27 open item(s). Rebuilt every sweep: 2026-11-26 23:40 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
 
 - 2026-11-26 · [role] [Waymo — Summer Intern - Driver Understanding and Evaluation - Large Model Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8415223) — Mountain View, CA · key:7ada5b2280df
+- 2026-11-26 · [program page changed] [Pivotal Research Fellowship — check for new applications](https://www.pivotal-research.org/) · key:4c841e90285e
 - 2026-11-23 · [program page changed] [LASR Labs — check for new applications](https://www.lasrlabs.org/) · key:89c152486b91
 - 2026-11-21 · [program page changed] [Program: OpenAI residency — check for new applications](https://openai.com/residency/) · key:013939c2e1d7
 - 2026-11-20 · [role] [UK AI Security Institute — Research Residency – Red Team ](https://job-boards.eu.greenhouse.io/aisi/jobs/5043106101) — London, UK · key:5beea3febc99
 - 2026-11-19 · [program page changed] [SPAR — check for new applications](https://sparai.org/) · key:822794800fb9
 - 2026-11-19 · [program page changed] [Program: MATS (AI alignment research) — check for new applications](https://www.matsprogram.org/) · key:32dc9a1f37df
 - 2026-11-19 · [program page changed] [Program: Anthropic careers — check for new applications](https://www.anthropic.com/careers) · key:c44e1b14f439
-- 2026-11-19 · [program page changed] [Pivotal Research Fellowship — check for new applications](https://www.pivotal-research.org/) · key:d9664060972a
 - 2026-11-19 · [program page changed] [PIBBSS Fellowship — check for new applications](https://princint.ai/) · key:608d4c7efaa6
 - 2026-11-19 · [program page changed] [IAPS AI Policy Fellowship — check for new applications](https://www.iaps.ai/fellowship) · key:158032c7022c
 - 2026-11-19 · [role] [Haize Labs — Research Intern](https://job-boards.greenhouse.io/haizelabs/jobs/4070377008) — New York, NY · key:414fe9ea55b5
