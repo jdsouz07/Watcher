@@ -1,7 +1,8 @@
 # AI safety opportunities (auto-generated)
 
-_26 open item(s). Rebuilt every sweep: 2026-11-25 22:19 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
+_27 open item(s). Rebuilt every sweep: 2026-11-26 04:52 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
 
+- 2026-11-26 · [role] [Waymo — Summer Intern - Driver Understanding and Evaluation - Large Model Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8415223) — Mountain View, CA · key:7ada5b2280df
 - 2026-11-23 · [program page changed] [LASR Labs — check for new applications](https://www.lasrlabs.org/) · key:89c152486b91
 - 2026-11-21 · [program page changed] [Program: OpenAI residency — check for new applications](https://openai.com/residency/) · key:013939c2e1d7
 - 2026-11-20 · [role] [UK AI Security Institute — Research Residency – Red Team ](https://job-boards.eu.greenhouse.io/aisi/jobs/5043106101) — London, UK · key:5beea3febc99
