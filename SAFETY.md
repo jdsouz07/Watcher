@@ -1,6 +1,6 @@
 # AI safety opportunities (auto-generated)
 
-_27 open item(s). Rebuilt every sweep: 2026-11-27 07:41 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
+_27 open item(s). Rebuilt every sweep: 2026-11-27 18:02 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
 
 - 2026-11-26 · [role] [Waymo — Summer Intern - Driver Understanding and Evaluation - Large Model Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8415223) — Mountain View, CA · key:7ada5b2280df
 - 2026-11-26 · [program page changed] [Pivotal Research Fellowship — check for new applications](https://www.pivotal-research.org/) · key:4c841e90285e
