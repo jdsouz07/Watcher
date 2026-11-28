@@ -3090,7 +3090,7 @@
     "sig": "plexus|intern software development"
   },
   "https://plexus.wd504.myworkdayjobs.com/en-us/plexus_careers/job/raleigh-nc/intern---software-engineer--summer-2027-_r040424": {
-    "title": "Intern - Software Engineer - Summer 2027",
+    "title": "Intern - Software Engineer (Summer 2027)",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Raleigh-NC/Intern---Software-Engineer--Summer-2027-_R040424",
     "sig": "plexus|intern software engineer"
   },
@@ -24608,7 +24608,7 @@
     "url": "https://fis.wd5.myworkdayjobs.com/en-US/searchjobs/job/US-FL-JAX-347/Intern--Risk-and-Cybersecurity--FIS-University-Program_JR0309680"
   },
   "https://churchdwight.wd1.myworkdayjobs.com/en-us/chdcareers/job/usa-ewing-nj/ai-developer-co-op---graduate-program--9-months-_r2026-15686": {
-    "title": "AI Developer Co-op - Graduate Program (9 Months)",
+    "title": "AI Developer Co-op - Graduate Program - 9 Months",
     "url": "https://churchdwight.wd1.myworkdayjobs.com/en-US/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686",
     "sig": "churchdwight|ai developer coop graduate program 9 months"
   },
@@ -26769,7 +26769,7 @@
   },
   "https://symbotic.wd504.myworkdayjobs.com/en-us/symbotic/job/usa-wilmington--ma---hq/software-engineer_r7963": {
     "title": "Intern- Software Engineer",
-    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Software-Engineer_R7963",
     "sig": "symbotic|intern software engineer"
   },
   "https://symbotic.wd504.myworkdayjobs.com/en-us/symbotic/job/usa-wilmington--ma---hq/data-engineer_r7967": {
@@ -27358,7 +27358,7 @@
   },
   "https://symbotic.wd504.myworkdayjobs.com/en-us/symbotic/job/usa-wilmington--ma---hq/co-op---software-engineer_r8111": {
     "title": "Co-op - Software Engineer",
-    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Wilmington--MA---HQ/Co-op---Software-Engineer_R8111",
     "sig": "symbotic|coop software engineer"
   },
   "https://ing.wd3.myworkdayjobs.com/en-us/icsgblcor/job/cdr-amsterdam---cedar/engineering-intern---agentic-ai-domain_req-10121542-2": {
@@ -32418,7 +32418,7 @@
         "ats": "greenhouse",
         "token": "databricks",
         "ok": "2026-11-28",
-        "n": 889,
+        "n": 888,
         "nz": "2026-11-28"
       },
       "Page: Microsoft Careers": {
@@ -32512,7 +32512,7 @@
         "since": "2026-10-01",
         "ats": "autodiscover",
         "ok": "2026-11-28",
-        "n": 68749,
+        "n": 68997,
         "nz": "2026-11-28"
       },
       "USAJOBS (NASA / DOE labs / NSA / federal research)": {
@@ -32546,7 +32546,7 @@
         "since": "2026-10-01",
         "ats": "github_json",
         "ok": "2026-11-28",
-        "n": 2191,
+        "n": 2189,
         "nz": "2026-11-28"
       },
       "Tracker: NUFT Quant (auto-discovers open boards)": {
@@ -32769,7 +32769,7 @@
         "ats": "greenhouse",
         "token": "quberesearchandtechnologies",
         "ok": "2026-11-28",
-        "n": 207,
+        "n": 208,
         "nz": "2026-11-28"
       },
       "Quant: Schonfeld": {
@@ -33027,7 +33027,7 @@
         "ats": "greenhouse",
         "token": "galaxydigitalservices",
         "ok": "2026-11-28",
-        "n": 53,
+        "n": 52,
         "nz": "2026-11-28"
       },
       "Quant/Tech: B2C2": {
@@ -33767,14 +33767,18 @@
         "ats": "pagewatch",
         "ok": "2026-11-28",
         "n": 1,
-        "nz": "2026-11-28"
+        "nz": "2026-11-28",
+        "err": "403 Client Error: Forbidden for url: https://volanttrading.com/",
+        "ef": "2026-11-28"
       },
       "Quant SPA: Archelon": {
         "since": "2026-10-01",
         "ats": "pagewatch",
         "ok": "2026-11-28",
         "n": 1,
-        "nz": "2026-11-28"
+        "nz": "2026-11-28",
+        "err": "403 Client Error: Forbidden for url: https://www.archelon-group.com/",
+        "ef": "2026-11-28"
       },
       "Quant SPA: Bluefin Capital Management": {
         "since": "2026-10-01",
@@ -33837,7 +33841,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-28",
         "n": 1,
-        "nz": "2026-11-28"
+        "nz": "2026-11-28",
+        "err": "403 Client Error: Forbidden for url: https://www.fulcrumasset.com/",
+        "ef": "2026-11-28"
       },
       "Quant SPA: Flowdesk": {
         "since": "2026-10-01",
@@ -34474,7 +34480,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-28",
         "n": 1,
-        "nz": "2026-11-28"
+        "nz": "2026-11-28",
+        "err": "403 Client Error: Forbidden for url: https://weareadaptive.com/careers/",
+        "ef": "2026-11-28"
       },
       "Quant SPA: Beacon Platform": {
         "since": "2026-10-01",
@@ -34585,7 +34593,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-28",
         "n": 1,
-        "nz": "2026-11-28"
+        "nz": "2026-11-28",
+        "err": "403 Client Error: Forbidden for url: https://www.genevatrading.com/careers-open-positions/",
+        "ef": "2026-11-28"
       },
       "Cyber: Cloudflare": {
         "since": "2026-10-01",
@@ -34672,7 +34682,7 @@
         "ats": "ashby",
         "token": "elevenlabs",
         "ok": "2026-11-28",
-        "n": 108,
+        "n": 109,
         "nz": "2026-11-28"
       },
       "Startup: Harvey": {
@@ -34964,7 +34974,9 @@
         "ats": "pagewatch",
         "ok": "2026-11-28",
         "n": 1,
-        "nz": "2026-11-28"
+        "nz": "2026-11-28",
+        "err": "403 Client Error: Forbidden for url: https://princint.ai/",
+        "ef": "2026-11-28"
       },
       "Safety: LASR Labs": {
         "since": "2026-11-19",
@@ -53981,12 +53993,12 @@
   },
   "https://chathamfinancial.wd501.myworkdayjobs.com/en-us/chathamfinancial/job/kennett-square/xmlname-2027-software-engineering-intern_r-100348": {
     "title": "2027 Software Engineering Intern",
-    "url": "https://chathamfinancial.wd501.myworkdayjobs.com/en-US/ChathamFinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348",
+    "url": "https://chathamfinancial.wd501.myworkdayjobs.com/en-US/chathamfinancial/job/Kennett-Square/XMLNAME-2027-Software-Engineering-Intern_R-100348",
     "sig": "chathamfinancial|software engineering intern"
   },
   "https://chathamfinancial.wd501.myworkdayjobs.com/en-us/chathamfinancial/job/denver/xmlname-2027-software-engineering-intern_r-100349": {
     "title": "2027 Software Engineering Intern",
-    "url": "https://chathamfinancial.wd501.myworkdayjobs.com/en-US/ChathamFinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349",
+    "url": "https://chathamfinancial.wd501.myworkdayjobs.com/en-US/chathamfinancial/job/Denver/XMLNAME-2027-Software-Engineering-Intern_R-100349",
     "sig": "chathamfinancial|software engineering intern"
   },
   "https://careers-gdms.icims.com/jobs/75626/software-engineer---intern/job": {
@@ -57784,7 +57796,7 @@
     "sig": "tecsys|intern developer"
   },
   "https://plexus.wd504.myworkdayjobs.com/en-us/plexus_careers/job/neenah-wi/intern---software-engineer--fall-2026-_r035782": {
-    "title": "Intern - Software Engineer - Summer 2027",
+    "title": "Intern - Software Engineer (Summer 2027)",
     "url": "https://plexus.wd504.myworkdayjobs.com/en-US/plexus_careers/job/Neenah-WI/Intern---Software-Engineer--Fall-2026-_R035782",
     "sig": "plexus|intern software engineer"
   },
@@ -58929,8 +58941,8 @@
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/software-dsp-research-engineer-co-op_r29369": {
     "title": "Software/DSP Research Engineer Co-op",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
-    "sig": "bose|software dsp research engineer coop"
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-DSP-Research-Engineer-Co-op_R29369",
+    "sig": "boseallaboutme|software dsp research engineer coop"
   },
   "https://job-boards.greenhouse.io/schonfeld/jobs/8350719": {
     "title": "2027 Emerging Markets and Delta One Quantitative Researcher/Strat Intern",
@@ -65170,8 +65182,8 @@
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/digital-signal-processing-ml-software-development-co-op_r29372": {
     "title": "Digital Signal Processing ML Software Development Co-op",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
-    "sig": "bose|digital signal processing ml software development coop"
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Digital-Signal-Processing-ML-Software-Development-Co-op_R29372",
+    "sig": "boseallaboutme|digital signal processing ml software development coop"
   },
   "https://thermofisher.wd5.myworkdayjobs.com/en-us/thermofishercareers/job/brno-czechia/intern---business-intelligence---analytics_r-01374051": {
     "title": "Intern - Business Intelligence & Analytics",
@@ -69002,8 +69014,8 @@
   },
   "https://boseallaboutme.wd503.myworkdayjobs.com/en-us/bose_careers/job/us-ma---framingham/software-engineer-co-op_r29387": {
     "title": "Software Engineer Co-op",
-    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/bose_careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
-    "sig": "bose|software engineer coop"
+    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/en-US/Bose_Careers/job/US-MA---Framingham/Software-Engineer-Co-op_R29387",
+    "sig": "boseallaboutme|software engineer coop"
   },
   "https://job-boards.greenhouse.io/truveta/jobs/6249810004": {
     "title": "Winter Software Engineering Intern",
@@ -70191,8 +70203,8 @@
     "sig": "lucidmotors|intern ai ml vehicle infotainment"
   },
   "https://symbotic.wd504.myworkdayjobs.com/en-us/symbotic/job/usa-austin-tx/intern--software-engineer--front-end_r8567-1": {
-    "title": "Intern- Software Engineer - Front-End",
-    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1",
+    "title": "Intern- Software Engineer, Front-End",
+    "url": "https://symbotic.wd504.myworkdayjobs.com/en-US/Symbotic/job/USA-Austin-TX/Intern--Software-Engineer--Front-End_R8567-1",
     "sig": "symbotic|intern software engineer front end"
   },
   "https://job-boards.greenhouse.io/thealleninstitute/jobs/8404052": {

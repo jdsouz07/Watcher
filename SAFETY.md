@@ -1,6 +1,6 @@
 # AI safety opportunities (auto-generated)
 
-_28 open item(s). Rebuilt every sweep: 2026-11-28 10:02 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
+_27 open item(s). Rebuilt every sweep: 2026-11-28 18:13 UTC. Includes fellowships, residencies and programs, not just internships. Program pages are listed with the date their application text last changed._
 
 - 2026-11-28 · [role] [Haize Labs — Software Engineer Intern](https://job-boards.greenhouse.io/haizelabs/jobs/4685944008) — NYC · key:f45a488c27f2
 - 2026-11-26 · [role] [Waymo — Summer Intern - Driver Understanding and Evaluation - Large Model Evaluation](https://careers.withwaymo.com/jobs?gh_jid=8415223) — Mountain View, CA · key:7ada5b2280df
@@ -11,7 +11,6 @@ _28 open item(s). Rebuilt every sweep: 2026-11-28 10:02 UTC. Includes fellowship
 - 2026-11-19 · [program page changed] [SPAR — check for new applications](https://sparai.org/) · key:822794800fb9
 - 2026-11-19 · [program page changed] [Program: MATS (AI alignment research) — check for new applications](https://www.matsprogram.org/) · key:32dc9a1f37df
 - 2026-11-19 · [program page changed] [Program: Anthropic careers — check for new applications](https://www.anthropic.com/careers) · key:c44e1b14f439
-- 2026-11-19 · [program page changed] [PIBBSS Fellowship — check for new applications](https://princint.ai/) · key:608d4c7efaa6
 - 2026-11-19 · [program page changed] [IAPS AI Policy Fellowship — check for new applications](https://www.iaps.ai/fellowship) · key:158032c7022c
 - 2026-11-19 · [role] [Haize Labs — Research Intern](https://job-boards.greenhouse.io/haizelabs/jobs/4070377008) — New York, NY · key:414fe9ea55b5
 - 2026-11-19 · [program page changed] [GovAI fellowships — check for new applications](https://www.governance.ai/opportunities) · key:693fbdbf8fa0
